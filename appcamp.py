@@ -18,10 +18,10 @@ ideaname=soup.find_all('div',{'class':'idea-name'})
 namelist=[]
 des_list=[]
 for item in ideaname:
-    namelist.append(str(item.text).replace('\n',''))
+    namelist.append(str(item.text).replace('\n','').replace('"',''))
 
 for item in idea_des:
-    des_list.append(str(item.text).replace('\n',''))
+    des_list.append(str(item.text).replace('\n','').replace('"',''))
 with open("ideas.csv","w") as file:
     for i in range(727):
         file.write('"'+ namelist[i]+'",'+'"'+ des_list[i]+ '"\n')
