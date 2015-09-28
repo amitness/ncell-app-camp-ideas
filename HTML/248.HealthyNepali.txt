@@ -1,0 +1,29 @@
+HealthyNepali
+
+Submitted on:  August 23, 2015 - 4:32pm 
+ 
+Idea:
+ This app will create an open platform for asking teenage problems and getting appropriate solution and tips from respective experts.
+ 
+Problem Solved:
+We know during the period of teenage we have physical and mental changes.Most of the teenager's sexual and physical health problems can not be bring out because we feel shy.So that millions of teenagers try to hide their problems. Due to this many teenagers get deppressed and even spoil thier studies. But after installing this app anyone can openly post their personal,physical and mental health problems and respective experts will give suggetion,tips and recommend how to tackle with those problems through this app.This app is also useful for any kinds of health queries who does not have time to visit hospitals.
+ 
+Functions:
+ Main functions are:
+1. Works like bridge between user and health adviser(doctor).
+2.Solve health problems and provide health tips.
+ 
+ 
+Targeted audience:
+ Target audience are mainly be all teenagers and can be used by anyone who wants to keep concern about healthy life and their health problems.
+ 
+Main Benefits:
+1.Feel free to post any kinds of teen health without feeling shy.
+2.No need to worry about time schedule and which hospital to visit.
+3.Teen health suggetion and tips will be beneficial for other user too.
+4.Users get health solution through this app.
+ 
+ 
+Platform: Android  
+
+

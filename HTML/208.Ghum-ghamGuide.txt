@@ -1,0 +1,27 @@
+Ghum-ghamGuide
+
+Submitted on:  September 17, 2015 - 11:06am 
+ 
+Idea:
+ App to guide for travelling historical places in  Nepal.
+ 
+Problem Solved:
+Nowadays, it has become difficult to find a guide who is well known about  most of the historical places. So,this app is to provide facility of pesonal guide for visiting different places.
+ 
+Functions:
+ 1.It provide the map to know about the routes of the visiting places.
+2.It is useful for knowing about the current weather condition before visiting the place.
+3.The main feature of this app will be getting detail information about the place just by clicking a single picture. After clicking the picture (eg.temple,monuments etc.) using this app, detail information of the place will appear on the mobile screen.
+ 
+Targeted audience:
+ Mainly targeted to national and international tourist who love travelling.
+It can be feasible for the every age of people.
+ 
+Main Benefits:
+1.Easy to know the route and recent weather of the place one wish/want to visit.
+2.To get the information about where and what kind of public transportation is available.
+3.Easy to get the details about the historical places ( temple,monuments,palace area etc.) by clicking the picture of the place.
+ 
+Platform: Android  
+
+

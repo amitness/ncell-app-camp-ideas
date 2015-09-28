@@ -1,0 +1,22 @@
+TVtube
+
+Submitted on:  September 20, 2015 - 9:56am 
+ 
+Idea:
+ TVtube will provide update on all the happenings and stories of daily soaps and other entertainment sources.
+ 
+Problem Solved:
+this application solves the problem of many people who miss to  watch the episodes.Users will be able to know the story.
+ 
+Functions:
+ update to story of indian as well as nepali daily soaps. updates on entertainment and dance shows. Hot happenings in youtube.
+ 
+Targeted audience:
+ Age group 14-65
+ 
+Main Benefits:
+update to story of indian as well as nepali daily soaps. updates on entertainment and dance shows. Hot happenings in youtube.
+ 
+Platform: Android, iOS  
+
+

@@ -1,0 +1,27 @@
+costofall
+
+Submitted on:  September 14, 2015 - 3:34pm 
+ 
+Idea:
+ it provide the cost of all most all thing such as cost of transportation, cost of the food around you etc as prescribed by the nepal goverment.
+ 
+Problem Solved:
+you can know about the standard data  and know whether they are cheating you or not and can claim the right price. 
+ 
+Functions:
+ it gives the transportation cost in the specified  route. 
+it also provide the price of the things as specified by the government
+ 
+Targeted audience:
+ all range of people who are facing the problem and are performing the transaction in the described field.
+ 
+Main Benefits:
+following are the main benifit of this app:
+1. you can know the transportation cost from one place to the another with the latest data updated/
+2. you can know the price of the food that is being sold around you. nowadays there is much more cheating in the market value due to the unkown price of it.
+3. user can be saved from the fake data shown by the different retailer.
+4. since it consist of the price list of the retailer with the specified amount of the profit so if they are taking much than that then complaint can be done against them.
+ 
+Platform: Android  
+
+

@@ -1,0 +1,25 @@
+Hisab.Kitab
+
+Submitted on:  September 18, 2015 - 9:42pm 
+ 
+Idea:
+ the expenditure of single day is to be inserted and the total amount of money spend on a month is calculated at the end of the month.
+ 
+ 
+Problem Solved:
+the misplacement of hardcopies is reduced.
+ 
+ 
+Functions:
+ the expenditure of a month can be calculated.
+ 
+Targeted audience:
+ specially modern house wifes who really cares about money. 
+ 
+Main Benefits:
+user can enter data any time any where in an easy way.
+ 
+ 
+Platform: Android, iOS  
+
+

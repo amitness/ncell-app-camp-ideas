@@ -1,0 +1,22 @@
+mLocate
+
+Submitted on:  September 20, 2015 - 9:12am 
+ 
+Idea:
+ This app helps you to locate your friends on map helping you to meet them instantly, also you can use it for IM and a recommendation for meeting place
+ 
+Problem Solved:
+In our country, there are names of several places within a very few distance which creates the controversy to exact call the name of that place. People often intends to meet each other in a location and always have a problem in choosing the destination as any one of them doesnot know all the streets name and places of Nepal. So, this app helps those people by tracking their friends and meeting them without any problem. Also for the new visitor, this app can be useful to reach their destination without any trouble. Also there is a previlage of Instant Messaging to your friends and a special feature to give the possibe destination according to your gps location for meet-up. Once selected, the notification is sent to your friends that the meet-up is in this certain location.
+ 
+Functions:
+ The main function of our application is to help people meet-up with their friends in a specified location without any trouble. Also there will be recommendation for places around you, you can search the appropraite location for meet-up with the Instant Messaging features for messaging your friends.
+ 
+Targeted audience:
+ As this app helps deciding you to choose the location and track your friends, every one can use this app for meeting with their friends, families or relatives.
+ 
+Main Benefits:
+Main benefit of the user is they can save their time asking people how to reach their destination. Also with this app, they can choose their location for meet-up and if any problem comes in finding the location or their friends, they can track easily which will save the time. Also for planning meet-up or get-together, this app will help people for their judgement in choosing locations
+ 
+Platform: Android  
+
+

@@ -1,0 +1,37 @@
+Vcard
+
+Submitted on:  September 19, 2015 - 6:41pm 
+ 
+Idea:
+ Offline exchange of digital visiting cards (Vcard) with features to store exchanged visiting cards in our Vcard-holder in categorical manner.
+ 
+Problem Solved:
+Some of the problems solved by the application:
+1. Users can exchange cards offline, fast, easy and free of charge.
+2. Users can change their personal information and they dont have to print and reprint if they have to change their personal information.
+3. Users need not have to carry their bulky cardholders, wallets and clutches with visiting cards they need.
+4. Users dont have to remind their customers, friends, partners or collegues if they alter their personal information from the visiting card.  
+5. Using Vcard app, users can categorically search the cards they need and at the same time they wont lose the cards they exchanged from their fellow card exchangers.
+6. Use of digital app reduces the use of papers and ink thus promotes green technology.
+ 
+Functions:
+Functions:
+ are:
+1. Offline exchange and storage of the digital Vcards.2. Customization of digital Vcards3. Categorical listing and storage of exchanged card in our Vcard holder  
+ 
+Targeted audience:
+ The major target audiences would be someone starting their own business or employees of the firms. Some of the target audiences are:
+1. Freelancers and Consultants2. Corporates3. Everyone in business4. Students
+ 
+Main Benefits:
+Listed benefits are:
+1. Easy to customise and free to use
+2. No issue of losing the visiting cards and searching the cards would be easy
+3. Printing and reprinting cost wont occur
+4. Changing the personal info would be in one tap and would be synced with those having his/her cards.
+5. No need to carry their own visiting cards to exchange with others
+ 
+ 
+Platform: Android  
+
+

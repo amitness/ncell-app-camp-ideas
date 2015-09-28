@@ -1,0 +1,28 @@
+SurviveKtmCity
+
+Submitted on:  September 20, 2015 - 7:37am 
+ 
+Idea:
+ "Survive Ktm City" is a unique single player mobile game application where player has to survive a motorbike ride in Kathmandu city.
+ 
+Problem Solved:
+This game is more of an entertainment than a problem solver. Nevertheless, it will definitely serve a good purpose in promoting Tourism industry.
+ 
+Functions:
+ 1) Game map will be designed from Kathmandu's street maps which will contain popular locations and landmarks of Kathmandu city.
+2) There will be different levels in the game like (a) surviving against the ignorant drivers of the city, (b) surviving a ride in Nepal bandha/Andolan, (c) surviving during Earthquake, (d) surviving in polluted areas etc.
+ 
+ 
+ 
+Targeted audience:
+ Most of the audience should be Nepalese as they will be more familiar with the streets of Kathmandu. However, users from around the world are expected.
+ 
+Main Benefits:
+1) Fun and entertainment.
+2) Get familiar with streets and popular landmarks of Kathmandu.
+3) Get educated about about some of the prevailing problems that exist in streets of Kathmandu valley.
+ 
+ 
+Platform: Android, Others(Unity, C#)  
+
+

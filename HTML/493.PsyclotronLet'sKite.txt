@@ -1,0 +1,31 @@
+PsyclotronLet'sKite
+
+Submitted on:  September 11, 2015 - 1:30pm 
+ 
+Idea:
+ MMO strategy game for mobile platform based on realtime kite-flying promoting kite flying culture.
+ 
+Problem Solved:
+Besides entertainment, it promotes the slowly fading kite flying culture by reanimating the interest in kite flying.
+ 
+Functions:
+ -  Photorealistic environment with realtime physics
+-  Head to Head and team matches
+-  Skill based level ups
+-  Upgradable game elements (kites, threads)
+-  Global rankings (weekly, monthly and overall)
+-  Shareable on social networking sites (facebook)
+ 
+Targeted audience:
+ Global audience, especially casual game lovers
+ 
+Main Benefits:
+-  Absolute entertainment
+-  Realtime 3D experience
+-  Online Multiplayer interaction
+-  Cross platform mobile gaming
+-  Global community
+ 
+Platform: Android, iOS, Windows phone  
+
+

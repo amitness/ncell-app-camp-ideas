@@ -1,0 +1,22 @@
+JanaChaso
+
+Submitted on:  August 24, 2015 - 2:20pm 
+ 
+Idea:
+ App that collects the voices of people what they wants on the country and send those voices to a place where goverment will listen.
+ 
+Problem Solved:
+Problems facing by citizens
+ 
+Functions:
+ To collect the voices of people via app and sms
+ 
+Targeted audience:
+ Nepalese citizens
+ 
+Main Benefits:
+They can send their voices what they want in country
+ 
+Platform: Android, SMS  
+
+

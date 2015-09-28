@@ -1,0 +1,37 @@
+Restro-Nepal
+
+Submitted on:  September 17, 2015 - 12:43pm 
+ 
+Idea:
+ Restro-Nepal app shares you the menus with prices to help you select the restaurant that suit your budget.
+ 
+Problem Solved:
+Its difficult for an individual to search restaurants according to his budget. We cannot decide which places are suitable for couples and which places are good for families.
+This is also a problem for both foreigners who visit Nepal and Nepalese living here. It is hard to find good eating places. The quality of food matters and they end up going to some low grade places, paying prices like star hotels.
+ 
+Functions:
+ The app give you menus with price tag of the restaurants that you want to visit. Help you to find the restaurants nearby you with their details and review. 
+ 
+Targeted audience:
+ This application is targeted for the people who have access to the internet or smartphone. Targeted age groups of people are 16-19 as teenagers, 20-30 as college student or employers and 31 above as employers or retired group of people
+.
+Users are both Nepali and foreigner.
+Therefore different marketing strategy will be made depending upon the age’s group.
+ 
+Main Benefits:
+In summary, the benefits are:
+
+
+Finding a good place to eat which suits our pocket with review and ratings.
+
+
+Maps and suitability of restaurants for family, friends and foreigner.
+
+
+Menus of the restaurants their events and offers.
+
+
+ 
+Platform: Android, Others(web)  
+
+

@@ -1,0 +1,22 @@
+What'sThat?
+
+Submitted on:  September 18, 2015 - 12:21pm 
+ 
+Idea:
+ Just point your phone to any natural and cultural heritages of Nepal to get all the necessary info about it. (Offline)
+ 
+Problem Solved:
+Imaging you want to visit Patan Durbar Square, every app can take you there. But among the plethora of cultural heritages in Patan Durbar square you recognize only few, may be, say, krishna mandir. What about the rest??? Or you see a mountain range but don't know what it is. Well, worry no longer, "Whats That", will let you just point your phone towards it and get every relevant information including how to reach there and businesses near the place.
+ 
+Functions:
+ Point and get Info about the natural and cultural heritages in front of you. Get information about how to reach there. List the restaurants and hotels near the site Get interesting facts associated with the site.
+ 
+Targeted audience:
+ Local and International tourists are the target audience. Since the app works offline, it must be usable in even the most remote places of the country.
+ 
+Main Benefits:
+Nepal has amazing Natural and Cultural Heritages such as Temples, Architectural Landmarks and Mountain ranges that attract hundreds of thousands of tourists annually. The user of this app can just point their phone to any of the said heritages and instantly get every detail about the site. The users can also know how to reach the place. Where to stay when they go there. Things to do when they are at the place. Interesting tidbits about the site. and many more.
+ 
+Platform: Android, iOS  
+
+

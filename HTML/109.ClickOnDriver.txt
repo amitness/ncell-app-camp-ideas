@@ -1,0 +1,23 @@
+ClickOnDriver
+
+Submitted on:  August 24, 2015 - 5:05pm 
+ 
+Idea:
+ This app track the location of the user (not in condition to drive) and sends professional driver to drop him/her home on their own vehicle.
+ 
+Problem Solved:
+Drinking and driving causes most of road accidents. Now if they are not in condition to drive then on one click professional driver will be there to help.
+ 
+Functions:
+ Now no need to worry of getting drunk at parties. There will always be professional drivers to pick the user from any location and drop them home safely.
+ 
+Targeted audience:
+ People attending parties and getting drunk and also being unable to drive home by themselves.
+ 
+Main Benefits:
+They can party as much as they want and won't need to be worried about driving being drunk or driving late at night.
+They will have comfort of their own vehicle. And also assistance of professional driver.
+ 
+Platform: Android  
+
+

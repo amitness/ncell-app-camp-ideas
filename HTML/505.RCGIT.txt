@@ -1,0 +1,22 @@
+RCGIT
+
+Submitted on:  August 21, 2015 - 1:35pm 
+ 
+Idea:
+ OCR (Optical Character Recognition)Recharge Facility
+ 
+Problem Solved:
+The Recharge Problem in any telecommunication media.
+ 
+Functions:
+ Its major function is to recharge the phone because everyone is facing the problem due to the recharge card pin number. so we wil use OCR and it will automatically read the number using camera and try repeatedly untill it get recharged. And furthermore we can elaborate our app to the online recharge system.
+ 
+Targeted audience:
+ Everyone who uses mobile, internet, or e-commerce.
+ 
+Main Benefits:
+They will be able to recharge their account without typing in the number. Just by just clicking a photo it will recharge itself.  
+ 
+Platform: Android, iOS, Windows phone  
+
+

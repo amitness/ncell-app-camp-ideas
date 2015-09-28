@@ -1,0 +1,25 @@
+PrasnaUttar
+
+Submitted on:  August 31, 2015 - 9:33pm 
+ 
+Idea:
+ App where user post their questions and other users provide answers, then the user select best answer and rate answers.
+ 
+Problem Solved:
+Nobody can know all answer of question so for those who has nobody to ask or can't get accurate answer this app will be very helpful.
+ 
+Functions:
+ User can answer the question by text, pictures and videos.This app provide some points for new user by using that point user can ask question. The best answer is rated by user who asked question, if their answer is rates good then they can get points. By incresing points user can get various gifts like recharge cards, movie ticket etc. If your point is finished you can buy the points or get points by answering others question.
+ 
+Targeted audience:
+ School and College students who can ask question and get accurate answer.
+ 
+Main Benefits:
+1. Easy to ask questions and get many answers
+2. If question is already asked by other user they can see the answers
+3. If users answer is rated as good then that user get points
+4. Not only using texts, user can also answer the question by pictures or videos 
+ 
+Platform: Android  
+
+

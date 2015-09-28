@@ -1,0 +1,61 @@
+Eventronix
+
+Submitted on:  August 13, 2015 - 3:25pm 
+ 
+Idea:
+ App to keep you notified about various events happening in the country
+ 
+Problem Solved:
+Most of us are unaware of events going around and with that we tend to lose many opportunities. This app will help the you discover events of your interest.
+ 
+Functions:
+ 
+
+Lists all the events happening in the country
+
+
+View event details, including maps and directions
+
+
+Categories them to different fields – music, business, fashion, arts, parties, sports, etc.
+
+
+Subscribe your area of interest and get notification on those particular events
+
+
+Share events you are attending
+
+
+Promote events
+
+Estimate number of attendees in a particular event
+
+ 
+Targeted audience:
+ 
+
+Business Professionals : seminars, business conferences, entrepreneurial talk events, investors gathering events, IPO events 
+
+
+Youths: parties, concerts, live music, street festivals
+
+
+Sport fanatic: sports & fitness events, gaming events
+
+
+Health & Fitness:   Fitness events. Nutrition Programmes, Yoga events, Blood Donation Programmes
+
+
+Entertainment:  Fashion shows, film screening, theatre shows, tattoo conventions
+
+Competitions: Dance competitions, singing/music competitions, software development competitions
+
+ 
+Main Benefits:
+- Discover events happening in/around you.
+- Be a part of the event of your interest and never miss the opportunity
+- Easily locate the place of event
+ 
+Platform: Android, iOS  
+
+

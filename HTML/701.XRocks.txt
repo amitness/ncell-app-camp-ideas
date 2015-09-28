@@ -1,0 +1,23 @@
+XRocks
+
+Submitted on:  August 17, 2015 - 5:41pm 
+ 
+Idea:
+ Emergency request for any group of blood to the facebook friends, contact number person(SMS), GPS system for nearby area(around 2 KM in radius).
+ 
+Problem Solved:
+It can solve death of person due to delay of blood group.
+ 
+Functions:
+ Provide blood on time
+Give detail about hospitals and blood banks.
+ 
+Targeted audience:
+ Patient who need emergency blood.
+ 
+Main Benefits:
+The user can simply contact to all friends, family, relatives and unknown person nearby for blood in short period of time.
+ 
+Platform: Android, SMS  
+
+

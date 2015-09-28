@@ -1,0 +1,22 @@
+ProDoct
+
+Submitted on:  September 18, 2015 - 3:13pm 
+ 
+Idea:
+ Application to solve the health problems of people by creating the combined community in the app for health staffs such as doctors, nurses and others.
+ 
+Problem Solved:
+This app will solve the problems of the doctor when there is need of advice and discussion with many doctors to solve the complicated health related problem in collaboration (such as discussing complex surgery). Before this app, doctors can only discuss with other doctors that they know, but this app opens the gate to discuss with all the doctors in the Nepal that will make the problem solving process more efficient. Similarly, for the other staffs such as nurse, lab technician, etc, they can also have a separate discussion forum where they can discuss their own problems openly so that they can implement in their working place to make the place more better for the patients (such as "What is the best way to inject the patient without making him/her in pain?"). Finally, the vacancy section in the app is a minor feature but this will solve all the other problems regarding the job requirement to the health staffs all over Nepal.
+ 
+Functions:
+ The app will let the user to create different registration type according to the profession such as a doctor, nurse or any other health staff which will be then verified by the admin of the app for security. The app will then let them to create their professional profiles. There will be mainly 3 sections doctor section, nurses and other section and vacancy section. Registered professional will have privilege to create a new discussion topic in related sections where other professionals can answer that question; also the topic creator can request other professional to join to that particular discussion topic so that they can get an efficient answers and advice quickly. The privilege to the user to the particular section will be provided according to the type of the user registered in the app. The normal user (not health staff) can only view others discussion topic which is open but couldn’t comment on any of them. But at the same time they can share their health problems openly in the open section or also can select the doctors or nurses or any other registered professionals to give the solution for their problems. Finally, the vacancy section is common for the entire health staffs where one can check for the job vacancy all over Nepal.
+ 
+Targeted audience:
+ The audiences are medical staffs: Mainly Doctors, Nurses, Lab technicians and other health staffs.
+ 
+Main Benefits:
+Creating the community in an application for medical staffs help them to solve the complex problem regarding the health, since the doctors, nurses and other staffs can have separate section in the app to discuss the problems and complications with all the other professionals from Nepal. Also the normal user who is not a health staff will have privilege to ask question regarding health problem in open room or closed group, which will be answer by any related professional doctors in open group or the professional he/she selects in closed group. There will be a quality discussion with each other. Plus last section which is a vacancy section will benefit all the health staffs to find the jobs all over the Nepal.
+ 
+Platform: Android  
+
+

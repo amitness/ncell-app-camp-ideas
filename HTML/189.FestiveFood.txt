@@ -1,0 +1,23 @@
+FestiveFood
+
+Submitted on:  September 20, 2015 - 10:55am 
+ 
+Idea:
+ App to know the festival special food and guides you to make those food, apparatus required.
+ 
+Problem Solved:
+Solve the tension of having problem in making food in festivals and any occassion.
+ 
+Functions:
+ 1)Menus that allows you to choose food and view process to make that food.
+2)Festival special food and algorithm to make those food.
+ 
+Targeted audience:
+ Every Nepalalese users and to those who wants to taste nepali food.
+ 
+Main Benefits:
+User can open the app and learn about the process of making food in their festivals and any occassion.
+ 
+Platform: Android  
+
+

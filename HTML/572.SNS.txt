@@ -1,0 +1,23 @@
+SNS
+
+Submitted on:  September 13, 2015 - 10:42am 
+ 
+Idea:
+ it will give all statical data of network like call time its cost ,data uses for a site and its cost,download and upload speed.
+ 
+Problem Solved:
+it will sove the dipute between service provider and network user in terms of cost. and it can also get network condition in that area..
+ 
+Functions:
+ to give detail idea of network used and cost depreciated for that individual site , download ,upload ,and call made
+ 
+Targeted audience:
+ all user of network.and mostly android user
+ 
+Main Benefits:
+clear accounting on data uses and call made and so user can optimize their balance. they can get statistics of background running apps too
+ 
+ 
+Platform: Android  
+
+

@@ -1,0 +1,22 @@
+Ascreation
+
+Submitted on:  September 16, 2015 - 6:46pm 
+ 
+Idea:
+ To create MULTI MUSIC PLAYER which can play music on two nor more smartphone simultaneously resulting large sound (due to resonance )
+ 
+Problem Solved:
+I tthink it will solve the problem of sound system during tour, party etc....
+ 
+Functions:
+ To play music on many smartphone simultaneously, and it will connect smartphone via multi wifi or bluetooth and wifi in sequence.
+ 
+Targeted audience:
+ everybody can use it.
+ 
+Main Benefits:
+They can use to create party sound.
+ 
+Platform: Android  
+
+

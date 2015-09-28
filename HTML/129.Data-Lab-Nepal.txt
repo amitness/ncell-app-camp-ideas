@@ -1,0 +1,22 @@
+Data-Lab-Nepal
+
+Submitted on:  August 21, 2015 - 1:36pm 
+ 
+Idea:
+ Citing the lack of digital data regarding Nepalese business, politics, film industries etc., we want to build a data lab inspiring people to use
+ 
+Problem Solved:
+Availability of data related to Nepal as much as we can find about other countries over the internet
+ 
+Functions:
+ Inspire people to use and contribute to the data repository.
+ 
+Targeted audience:
+ Business people all over the world, Entrepreneurs, local market
+ 
+Main Benefits:
+People all over the world and business people can find important data as easily and as much as possible.
+ 
+Platform: Android  
+
+

@@ -1,0 +1,22 @@
+Simplifiers
+
+Submitted on:  September 17, 2015 - 9:33pm 
+ 
+Idea:
+ I want to create a system with all records of places to visit in Nepal with their maps, attraction, transportation facility, accommodation..
+ 
+Problem Solved:
+I want to show people not just one but many reasons to visit Nepal..
+ 
+Functions:
+ The app lists down all the beautiful spots and services around them or to get there.
+ 
+Targeted audience:
+ Domestic and International Tourist.. 
+ 
+Main Benefits:
+They can choose and plan their vacations with a click easily..
+ 
+Platform: Android  
+
+

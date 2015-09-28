@@ -1,0 +1,24 @@
+RestaurantOrderBill
+
+Submitted on:  August 14, 2015 - 7:44pm 
+ 
+Idea:
+ App to take order, pass it to the Chef for preparing the dishes and preparing the  bill in a Restaurant.
+ 
+Problem Solved:
+Taking the orders of clients and passing it to the Chef through Wifi or Bluetooth for preparation and then calculating the bill amount, by using this app, the clients will be served in less time and bill amount can be calculated easily, the burden of waiters will decrease as they don't have to run between the clients and chef for placing orders.
+ 
+Functions:
+ The app takes orders (menu dishes will be listed) and passes it to chef through wifi or bluetooth and prepares the bill.
+ 
+Targeted audience:
+ Restaurant owners, operators and especially waiters whereby waiter's movement will be decreased between client and chef and operators can calculate bill amount without any hassle.
+ 
+Main Benefits:
+1. Time will be saved, servings will be made faster
+2. Bill amount calculation is easier
+3. Burden of waiters will decrease
+ 
+Platform: Android  
+
+

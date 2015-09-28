@@ -1,0 +1,48 @@
+innovatives
+
+Submitted on:  August 29, 2015 - 8:08am 
+ 
+Idea:
+  
+ 
+
+
+app linking med people about health problem, answer FAQ by public through forum,health news,disease info,ASAP contacts and 1st aid tips.
+
+ 
+ 
+Problem Solved:
+ 
+medical occupation in itself is a challenging and difficult one. moreover the problems faced by medical students and junior doctors is tiresome.our app thus helps linking doctors,nurses and students along with medical workers to answer their queries through discussion with seniors who have been through same phase at some period.
+this app also helps public to recieve common health problem infos and to measures to abstain from it. regarding their queries, most common of the queries  would be presented to the medical discussion and answer them by the result of discussion accordingly. first aid tips  in case of emergency situation like accidents,fire, frost bite etc will be an option to app users along with emergency numbers.
+ 
+ 
+ 
+Functions:
+  
+1.communication link between medical  students and personnals to discuss professional and acedemic problem
+2.provide number of emergency services such as ambulance, firestation nearby. (for users in nepal only)
+3.provide info on common disease and their preventive measures.
+4.provide with life saving  first aid scenarios in case of accidents and health hazards like drowning, burns,major cuts before getting to health post or hospital.
+ 
+ 
+ 
+Targeted audience:
+  
+1. medical students and personnals  facing most common problems in their field.
+2.person in need of first aid tips in case of emergency, wanting to get updated with recent health trend in nepal along with growing health concerns in nepal and people in need of emergency contacts.
+ 
+ 
+ 
+Main Benefits:
+1.save time for students for consultation of  health sector problems with seniors and doctors
+2.life saving emergency tips in case of accidents or trance.
+3. get info on asap needed contacts such as ambulance.
+4.get info on disease, health trends, new tech involved.
+ 
+ 
+ 
+ 
+Platform: Android  
+
+

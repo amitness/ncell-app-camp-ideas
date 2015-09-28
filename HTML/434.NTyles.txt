@@ -1,0 +1,41 @@
+NTyles
+
+Submitted on:  August 20, 2015 - 8:01pm 
+ 
+Idea:
+ All in one real time news app. 
+ 
+Problem Solved:
+Problem 1:
+No any app till now that will give user real time updates from the websites they visit everyday. For eg, most people visit certain site like ekantipur.com, goal.com, thehimalyantimes.com everyday.
+My app will give all the latest news from the user specified websites, at real time, about the favourite topics user wants to read. 
+For eg. Suppose a user reads Ronaldo news from Goal.com everyday. So, my app will give the user all the latest news from Goal.com about ronaldo at real time. How cool is that.
+Above all , the interesting fact is it can give news from any websites about any user tags.
+Problem 2:
+No app that will give user the real time news update about the topic they love to read the most everyday. Even though there is Flipboard and Newsstand, they are limited to only certain topic.
+For eg, what if one want to follow real time earthquake updates in Nepal. Flipboard and Newsstand cant give any update regarding that. My app will be able to do that. Any news, any topics all at real time.
+Problem 3:
+Real time, website content change notification. There is no such app that will give content change notifications of a website. My app will be able to give any content changes in a website at real time.
+ 
+Functions:
+ 1. Real time notification free news update from any website any corner of the world.
+2. News from everywhere.
+3. Flexible layout.
+4. Any website news scrapper.
+ 
+Targeted audience:
+ 1. Everybody
+ 
+Main Benefits:
+Benefits for the user:
+1. Saves time of user which they use to visit the websites everyday. In every office or workplace, people spent significant amount of time browsing their favourite websites. That time wil be completely saved.
+2. Latest football news, cricket news , world news all in one app. No need to use other apps.
+3. Flexible layout. Flipboard, newsstand and other such apps have boring single simple layout. For the first time in app history, users will be able to create their own flexible layout.
+4. Watcher for shopping items.For eg.What if users dont find the item on the ebay.com, amazon.com or hamrobazar.com they want to buy at the moment when user searches them. In above cases user will periodically browse those sites frequently until they find that item. So our app will give notification to the user when the item gets available in  the respective websties.
+5. Read news only about what they like.
+6. Get real time news update from anywhere from anybody.
+7. No more web browsers.
+ 
+Platform: Android  
+
+

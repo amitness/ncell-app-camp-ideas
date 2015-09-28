@@ -1,0 +1,28 @@
+HereIGo
+
+Submitted on:  August 30, 2015 - 11:51am 
+ 
+Idea:
+ This app contain already made packages(Static) of different travel agency and along with this user can also make their own package(Dynamic).
+ 
+Problem Solved:
+It helps user to see the all packages of different travel agency according to days and money at one place and compare them.
+It also help user to make their own package by choosing their own location and own number of days along with hotel available in those area and its cost.
+It also allow different travel agency to upload their packages.
+ 
+Functions:
+ It has two features static package and dynamic package.
+In static package user will see list of package already made by travel agency when they choose certain place whereas in dynamic package user will get platform and list of available resources in choosen area and money required so that user can make their own package there.
+User can make different package and compair them.
+User can also send dynamic package to their own choosen travel agency for further help of discussion.
+ 
+Targeted audience:
+ This app is used by tourist who want to make their own plan and see available package of different travel agency.
+It is also used by travel agency to upload their packages.
+ 
+Main Benefits:
+User doesnot have to waste their time my searching suitable package for them. They can make their own package.
+ 
+Platform: Android, iOS  
+
+

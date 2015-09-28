@@ -1,0 +1,23 @@
+Ma_Pa_SeSamadhan
+
+Submitted on:  August 23, 2015 - 1:17pm 
+ 
+Idea:
+ An app that track down the current location of yours and send it to the professional driver  to drop you home safely.
+ 
+Problem Solved:
+People going to parties are always worried to get back to home once they get drunk. But now on single click, they can call the driver to their location and get home safely.
+ 
+Functions:
+ Our app will show the list of drivers and user can select any one among them.
+ 
+Targeted audience:
+ people having their own vehicle and habbit of drinking at the parties.
+ 
+Main Benefits:
+People can enjoy the drink as they don't have to worry to get home.
+Road accident will probably reduce. 
+ 
+Platform: Android  
+
+

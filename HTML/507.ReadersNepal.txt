@@ -1,0 +1,32 @@
+ReadersNepal
+
+Submitted on:  September 20, 2015 - 11:45am 
+ 
+Idea:
+ A place for all book lovers to share thier experience with any book, trade and sell the book they own with other book enthusiast.
+ 
+Problem Solved:
+There are plenty of book lovers in Nepal but not enough place where they can share their experience with any particular book. This app will largely help book enthusiast to pick up their next read. This will save the time and money of readers as they don't have to dwell searching for book of their taste.
+Also books are quite expensive and not all books are found readily in the market.We hope to solve this problem by being a hub for readers where they can trade they books and even sell them to other avid readers.
+There is no such platform where information on Nepali books and writers are present. We hope to solve that problem by providing a place where Nepali writers and books are disscussed upon.
+ 
+ 
+Functions:
+ User can create their own profile where they can store their personal information and their preferences on reading.
+A forum like interface where any user can start discussion and other users and reply.
+A rating system for every book based on input by the users.
+Users can contact each other via personal messaging.
+ 
+ 
+Targeted audience:
+ Our target audience is everyone who loves reading book. Mainly, students who love to read more books but cannot afford to buy new book often will be greatly benifited my this app.
+Also people too busy to search for new books,such as business executive, can be greatly benifited.
+ 
+Main Benefits:
+Main benefit for users are:
+1. They must not spend lot of time searching for the book they would buy and not like as they can read their review on our app. This is mainly benifitial as local user provide review and review from local users are more helpful and contextual to users.
+2.User can cut off their spending on book as they can trade the book they already own and buy the books from other users in lower price.
+ 
+Platform: Android  
+
+

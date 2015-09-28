@@ -1,0 +1,23 @@
+DandiBiyo
+
+Submitted on:  September 13, 2015 - 12:43pm 
+ 
+Idea:
+ The main idea of the DandiBiyo game is to provide a mobile platform for the traditional Nepali game DandiBiyo.
+ 
+Problem Solved:
+This application will help to solve the knowledge gap between the users and their familiarity to the game as well promote it.
+ 
+Functions:
+ -It is 3D game with a single player mode.
+- It is physics based game.
+ 
+Targeted audience:
+ The targeted audience of the products are- Mostly people who don’t know about Dandi biyo- Any age group people seeking for games for fun.
+ 
+Main Benefits:
+The main benefit of the game would be to learn about the game and how is it played. Also being a game, the user must have fun.
+ 
+Platform: Android  
+
+

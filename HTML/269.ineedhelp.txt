@@ -1,0 +1,26 @@
+ineedhelp
+
+Submitted on:  September 18, 2015 - 10:45am 
+ 
+Idea:
+ app has a database of informations regarding their blood groups and stuffs so that during medical emergency people neednt browse over social media
+ 
+Problem Solved:
+the app provides platform for the people having medical emergency and people ready to offer help. Everyday we see many posts related to THIS BLOOD WANTEED HERE.  stuffs, so the app can save the time and tackle the medical hazards forthcoming
+ 
+Functions:
+ the app first invites people to submit their informations for a database.
+now that the database is created the app can now be used incase anyone needs blood to search for people registerd who are nearest to the location mentioned.
+the app also maintains privacy by not showing personal details such as contact numbers to everyone
+ 
+Targeted audience:
+ the target audience is general public. medical personnels can benefit as well
+ 
+Main Benefits:
+1.during medical emergency the user can simply search for people with required blood group nearest to him, this can save the patients life and saves a lot of time
+2. it creates a sense of social responsibility
+ 
+ 
+Platform: Android  
+
+

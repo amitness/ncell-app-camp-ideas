@@ -1,0 +1,32 @@
+Tango
+
+Submitted on:  September 2, 2015 - 9:53am 
+ 
+Idea:
+ Our app helps people to find out the details  fabout the futsal arena located at  ktm valley in one click at one place.
+ 
+Problem Solved:
+1. Easy to find the location.
+2. All the information in one place.
+3. Saves time for searching.
+ 
+ 
+Functions:
+ 1. Map location
+2. All the information and time table of futsal arena.
+3. Contact number.
+4. Reliable and authentic informaion.
+5. Easy and simple user interface
+ 
+Targeted audience:
+ All level people who play's futsal
+ 
+Main Benefits:
+1. Saves time
+2. Easy to use.
+3. One click info.
+4. Reliable and authentic information.
+ 
+Platform: Android  
+
+

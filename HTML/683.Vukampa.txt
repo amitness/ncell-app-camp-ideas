@@ -1,0 +1,30 @@
+Vukampa
+
+Submitted on:  September 20, 2015 - 11:25am 
+ 
+Idea:
+ A game where a character run for his life while having a major earthquake attack.
+ 
+Problem Solved:
+A entertainment app for everyone.
+ 
+Functions:
+ A game can provide entertainement.
+A game can provide various ideas to be safe.
+Instead of money and points, we will provide various equipments like helmet, shovel etc.. in a game
+ 
+ 
+Targeted audience:
+ kids
+teenagers
+adult
+ 
+ 
+Main Benefits:
+Entertainment for kids.
+Also provides different ideas and tools to be saved during EQ attack.
+ 
+ 
+Platform: Android  
+
+

@@ -1,0 +1,33 @@
+Newsify
+
+Submitted on:  September 17, 2015 - 10:22pm 
+ 
+Idea:
+ Newsify will allow users to read local and global newspapers all in one place, subscribing to preferred portals and get headlines.
+ 
+Problem Solved:
+•    Users can find the details of recent news and events from different news portals/papers simultaneously with a single touch, which saves time.•    Separate applications need not be installed, since news can be found all in one place.•    Readers can subscribe to their favorite news portals and get the headlines from selected ones.•    Real-time refresh will automatically load latest news which will make it convenient to use.•    Options will be displayed for detailed news, source and online search on the topic.
+ 
+Functions:
+ 
+Viewing daily local and global newspapers to stay in touch with the news and events. 
+Subscription facility to the favored news portals.
+Notifications from preferred news portals.
+
+ 
+ 
+Targeted audience:
+ People from both urban and rural areas, having a smartphone.
+ 
+Main Benefits:
+
+It can work as a common platform for keeping in touch with all the news and headlines.
+User will be saved from the necessity to install several applications for different newspapers and portals.
+For detailed news one can easily click options, go to the website and find more.
+ Latest happenings from the subscribed portal/paper can be displayed via notification.
+
+ 
+ 
+Platform: Android  
+
+

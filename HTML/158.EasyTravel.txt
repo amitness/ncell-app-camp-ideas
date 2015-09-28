@@ -1,0 +1,23 @@
+EasyTravel
+
+Submitted on:  September 7, 2015 - 10:15pm 
+ 
+Idea:
+ App to track the current vehicle position and estimate the arrival time to the selected destination
+ 
+Problem Solved:
+Finding the nearest vehicle in the track and estimating its arrival time to the selected destination
+ 
+Functions:
+ It tracks all the vehicles of a route . And it finds the nearest vehicle to the selected bus stop and estimates its arrival time.
+ 
+Targeted audience:
+ All those people who use public transportation
+ 
+Main Benefits:
+1.User doesn't have to wait public vehicles longer in a boring manner
+2. User can predetermine when the nearest vehicle will arrive to his bus stop
+ 
+Platform: Android  
+
+

@@ -1,0 +1,37 @@
+redragon
+
+Submitted on:  August 22, 2015 - 7:57pm 
+ 
+Idea:
+ App to record/ monitor health stats like blood sugar, pressure etc, give statistical analysis, diet suggestion and alert if it's out of track.
+ 
+Problem Solved:
+1) Solves the problem of keeping/ tracking lab record papers, now everything is in your pocket.
+2) No need to go to clinic/hospital to fetch hard copy of lab reports, all datas are uploaded to the server thus saving time and money.
+3) You can know if the stats are high or below normal value without consulting a medical personnel.
+4) Easy information representation and analysis, thus helping doctors to deduce to conclusion.
+ 
+ 
+Functions:
+ 1) forms that asks for user's personal information like name, age, gender, diseases, etc
+2) asks for users to enter lab report datas
+3) displays the data in tabular form or line graph etc
+4) sort data by category or by time like one week, month etc.
+ 
+ 
+Targeted audience:
+ 1) old aged people with long term diseases like diabetes, hypertension etc.
+2) adults aged 40 and above who want optimum health benefit in future.
+3) people with rare and long term diseases anaemia etc.
+4) Doctors can use it to see their patient's lab reports at one glance and give valuable suggestions to their patients.
+ 
+Main Benefits:
+1) User can be health conscious by knowing their present health status.
+2) User can get graphical view showing high, low and average.
+3) Users get alerts according to thier diseases if their reports are not normal. for eg. a patient of hypertension can be alerted if there's going to be probability of a heart stroke
+4) Users can know what to eat and when to eat according to their diseases/ condition.
+ 
+ 
+Platform: Android  
+
+

@@ -1,0 +1,32 @@
+Primo
+
+Submitted on:  September 8, 2015 - 12:22am 
+ 
+Idea:
+ A mathematical game to play with Prime numbers. 
+ 
+Problem Solved:
+While studying number system, we find prime numbers a bit strange and their pattern of occurence is also unpredictable. The concept of involving such number in a game app is "Primo". So that by playing this game, confusion with primes is cleared.
+Second, after doing some stuff, we need some break. Primo can be a better option at such breaks than just fooling around. Playing Primo not only proves 'Mathematics is not boring', but also refreshes mind.
+ 
+Functions:
+ The final objective of Primo is to make prime number as specified by the level. For example: the mission of Level 7 is finally to make 7. (There are no composite number levels. Levels like 4, 6 will be missing after level 5 directly comes 7 and then 11,13 and so on.)
+ 
+Primo will consist of varying sized square array of numbers (2x2,3x3 or 4x4) initially filled with basic starting numbers. By adding the numbers repeatedly, the targeted prime number of the level is to be obtained and level is upgraded to next prime number.
+ 
+However, if the user obtains any number in the boxes greater than the targeted prime, he/she fails and has to start from the beginning of the level. Scoring is also done siimultaneously. 
+ 
+Thus the game is fun playing with numbers and primes. This is what Primo is.
+ 
+Targeted audience:
+ The target audience of the game Primo includes: school and college students and math enthusiasts who like to play with numbers 
+ 
+Main Benefits:
+Primo is beneficial for users in following ways:
+-Mental exercise and refreshment.
+-Helps user to develop familiarity with prime and composite numbers.
+-Enhances mathematical skills and strategic mathematical thinking.
+ 
+Platform: Android, Windows phone  
+
+

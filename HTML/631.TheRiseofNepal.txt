@@ -1,0 +1,26 @@
+TheRiseofNepal
+
+Submitted on:  September 19, 2015 - 11:41am 
+ 
+Idea:
+ A action/platform and strategy-based game allowing palyer to play as late King Prithivi Narayan Shah through his journey for unification of Nepal.
+ 
+Problem Solved:
+Solves nothing,Just play and enjoy.
+ 
+Functions:
+ Story Modes:Player will go through various story modes each containing various levels,collecting coins and exp.
+Upgrade:With collected coins, Player can upgrade weapons and unlock many other things.
+Strategy Modes:Its like Boss mode of each story mode,where player have to send its troops to defeat certain village.
+ 
+ 
+Targeted audience:
+ Kids,adult,old ones but mainly 18+(contains blood and voilence)
+ 
+Main Benefits:
+-Provides entertainment !!!!
+-Provides brief knowledge of history of Nepal. 
+ 
+Platform: Android  
+
+

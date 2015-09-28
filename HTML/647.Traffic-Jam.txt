@@ -1,0 +1,22 @@
+Traffic-Jam
+
+Submitted on:  September 20, 2015 - 10:31am 
+ 
+Idea:
+ Gives information about Traffic-Jam.
+ 
+Problem Solved:
+Avoids getting into traffic jams or helps to take better route having less traffic.
+ 
+Functions:
+ gives prior information about traffic jams or when we are near the traffic jam.
+ 
+Targeted audience:
+ all aged people who travels.
+ 
+Main Benefits:
+it saves time and fuel.
+ 
+Platform: Android  
+
+

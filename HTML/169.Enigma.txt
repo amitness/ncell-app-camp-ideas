@@ -1,0 +1,27 @@
+Enigma
+
+Submitted on:  August 25, 2015 - 1:13pm 
+ 
+Idea:
+ An app that shows doctor's availability schedule in hospitals and clinics and allows users to make online appointments, online consult and payment
+ 
+Problem Solved:
+Knowing which specialist, doctor is available at which hospital or clinic, at which time and which day of the week and then making appointments is a problem faced by public. Our app helps to tackle this problem by allowing users to make online appointments, online consultations along with online payment system.
+ 
+Functions:
+ The app provides a search option where the user can input the type of medical service he/she requires (e.g: gynecology) along with his location. The app then lists all the nearby hospitals and clinics that provide that medical facility and the schedule when the corresponding doctor will be available.
+The user can make appointment and consultation through the app and also make online payment.
+ 
+ 
+Targeted audience:
+ General public : Anyone who is in need of medical service can use this app to their benefit.
+ 
+Main Benefits:
+1. Easy to know about the schedule and availability of the required doctor or specialist at certain hospital or clinic
+2.Easy to make online appointments
+3. Live Online consultation with the doctor or specialist in the field
+4.Provision of online payment
+ 
+Platform: Android  
+
+

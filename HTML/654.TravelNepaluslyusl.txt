@@ -1,0 +1,25 @@
+TravelNepaluslyusl
+
+Submitted on:  September 17, 2015 - 12:21pm 
+ 
+Idea:
+ Travel Nepal is an app which helps people from all around the world to get all information about tourism,resturant,hotels available in Nepal.
+ 
+Problem Solved:
+Travel Nepal app helps national as well as international toursit to save time and money by providing information about various resturants and hotels with price range so that they can find resturants and hotels that fit their budget.
+ 
+Functions:
+ The app provides all information about hotels and resturants,get best deals for rafting,bungy jump etc.
+ 
+Targeted audience:
+ Domestic as well as International Tourist who loves travelling and likes to save money while they travel.
+ 
+Main Benefits:
+1.Find Hotels and resturants according to price range and facility simultaneously book hotels that fit their budget.
+2.Get the best deals for toursim activity like:Bungy jump,Rafting etc.
+3.Get information about upcoming festivals and events in Nepal.
+ 
+ 
+Platform: Android, iOS  
+
+

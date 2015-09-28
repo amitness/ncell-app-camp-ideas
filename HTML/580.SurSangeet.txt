@@ -1,0 +1,29 @@
+SurSangeet
+
+Submitted on:  September 2, 2015 - 5:27pm 
+ 
+Idea:
+ Sur Sangeet is an app where you can download or even upload your best nepali songs collection. 
+ 
+Problem Solved:
+Most people are having the problem of searching their best songs to download on their mobile and listen anytime they want. So we want to overcame that problem by providing varities of nepali songs collection according to their category. 
+ 
+Functions:
+ This app provides the search facility where user can easily search their favourite music from our database. And we will also provide the comment box where people can request their favourite songs.
+ 
+Targeted audience:
+ Our main target is all those music lovers who are having trouble to find their favourite music and those who wants to learn and achieve in music field. Also our target is to promote our Nepali singers whose songs can be bought by paying some amout by the users and that money will be directly forwarded to the music company.
+ 
+Main Benefits:
+1. With this app people can search and download       their favourite nepali songs and listen anywhere and anytime they like.
+2. We will have varities of music categories like folk, pop, rnb, adhunik etc.
+3. User can also upload their songs video which we'll publish in our facebook page and youtube link and promote their talent.
+3. We will supply all news related with music to our user where they can learn what is happening currently in music field of Nepal.
+4. We will have the detailed information of our music legends like Narayan Gopal, Tara Devi, Arun Thapa so that people won't ever forget those legends.
+5. We will even upload some music lessons link where you can learn instruments like guitar, drum, vocal in your home also.
+6. Songs will be ranked according to their numbers of download so it will be easy to know the user which song is trending.
+7. We ll also get some fresh upcoming songs for which users don't have to buy the whole CD for the particular song. They just have to pay a small amout to get that songs and that money will be forwarded to the music company from where we have bought the music.
+ 
+Platform: Android  
+
+

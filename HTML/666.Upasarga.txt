@@ -1,0 +1,24 @@
+Upasarga
+
+Submitted on:  August 12, 2015 - 5:28pm 
+ 
+Idea:
+ Our main idea is to solve health related problems of people through viber like application (ie. through voice command).
+ 
+Problem Solved:
+Our application doesnot needs typing through touchpad. People can directly record their problems through mobile and send to respective doctor. Illetrate people can also use our applications easily.
+ 
+Functions:
+ 1) People can put their questions by recording their voice or text and sending it.2) People can select their problems category such as: balrog, hadjorni, etc3) Doctors can login through their specific username and password and they reply answers through voice or text.
+4)Health tips , Health Calendar, etc
+5)Find Blood donors near you.
+ 
+Targeted audience:
+ This app focuses on telemedicine concept but in different way. We target this application to every Nepali citizens who are conscious with their helath and to those who have no access to quality doctors.
+ 
+Main Benefits:
+Benefits through this applications can be listed as below:1) Free health monitor through best doctors.2) Easy to put problems through voice recording ability of apps.3) Till today we cannot put sex related health problems to doctor easily so this problem will be reduced as this app focuses on privacy. 
+ 
+Platform: Android  
+
+

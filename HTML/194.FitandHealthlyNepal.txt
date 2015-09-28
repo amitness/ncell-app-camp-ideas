@@ -1,0 +1,23 @@
+FitandHealthlyNepal
+
+Submitted on:  August 25, 2015 - 6:20pm 
+ 
+Idea:
+  
+This app provides physical fitness trainings and yoga ,that can be done at home to live healthy life 
+ 
+Problem Solved:
+1.Due to busy schedule and daily table work many people are suffering from different problems like back pain , diabetes , high calorie , gain in weight etc 2.Most of the people are unknown about the fitness exercise and yoga that can be done at home. 3.Nowadays many youths are attracted to gym bt they are unaware about the problems that can arise because of gym .. So this app will provide many ideas of fitness trainings and yoga that can be done at home , for living healthy life ,in the form of pdf , photos , videos along with the criteria for different exercise and yoga ..
+ 
+Functions:
+ 1.In the first screen of the app user will have a two options A. Caring methods of various health problems B. For making body fit and healthy , by clicking among one of them user will be lead to next screen .if the user will click the first one , user will have the options to write the description of their problem he/she is suffering from after that app will provide the solutions for those problems if that can be solved through physical exercise and yoga if not will recommend for the doctor . If the user will click one the second option user will be lead to the screen containing the physical fitness exercise trainings and yoga in the form of pdf ,videos,and photos for different part of the body and the contains the criteria for those exercise and yoga 
+ 
+Targeted audience:
+ This app is useful for all the people but will be more beneficial for the youths who wanna make their body attractive,for the people having busy schedule because of which they don’t have time to go fitness trainings centres,for the old aged people to make their life healthy and body physically fit .
+ 
+Main Benefits:
+1.By using this app the user can maintain his/her physical fitness and make their body healthy and attractive . 2.User will know about the importance of yoga and fitness exercise  in their life,finally user will be fresh every day doing the regular exercise, yoga and will live a healthy life 4.This app will provide the easiest way to lose weight , which is the cause of various health problem for maximum number of people . 5.We all Know that Sound souls Dwells in the sound mind and sound body ,using the same concept doing exercise daily will make mind more capable to do work and create new things which will lead the user in the path of success .
+ 
+Platform: Android  
+
+

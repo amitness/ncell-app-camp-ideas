@@ -1,0 +1,27 @@
+PsyclotronCallMNGR++
+
+Submitted on:  September 19, 2015 - 11:27pm 
+ 
+Idea:
+ If anyone had tried calling you while your phone was switched off or out of network coverage, this app notifies you right after you switch it on.
+ 
+Problem Solved:
+We all have had a hard time reaching out to people if their cell phone is switched off. The receiving person won't know that someone's been trying to contact him/her. So, we are left with only one option: calling them every few hours to check if their phone is switched on or if they gained network coverage. To solve this problem, our app notifies the user right after regain network if someone's trying to contact them. This saves the users valuable time and effort as calling ever so often is just tedious job.
+ 
+Functions:
+ The main functions of our application are:
+-  Sending notification if receiver phone is switched off 
+-  Messaging system if user wants to send any message along with notification
+-  Integration with web server to store missed calls and messages
+-  Call log with messaging history
+-  Receiving user gets either missed call notification or message notification according to the sender's information
+ 
+Targeted audience:
+ Everyone who uses smartphones as a means of communication.
+ 
+Main Benefits:
+The main benefit of this app is that it allows users to never miss out on anything important just because their battery is dead for a couple of hours. Also, it saves time and effort for the caller. So, as a whole this app saves the users from having to blame their network coverage or battery status for important calls.
+ 
+Platform: Android  
+
+

@@ -1,0 +1,22 @@
+EscapeJump
+
+Submitted on:  September 15, 2015 - 6:48pm 
+ 
+Idea:
+ Esacpejump is simply fun Game, where user encounter different enemy and eliminate the enemy by shooting
+ 
+Problem Solved:
+its promotes 2D Games .
+ 
+Functions:
+ The main function of the game 1.Shooting enemy2.Good graphics3.User friendly4.Good Game Enviroment 
+ 
+Targeted audience:
+ #teenagers#Game lovers
+ 
+Main Benefits:
+Games makes the user free from stress of work ,who want to take a short nap from work and play the game. 
+ 
+Platform: Android  
+
+

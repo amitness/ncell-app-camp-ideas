@@ -1,0 +1,25 @@
+THC
+
+Submitted on:  September 1, 2015 - 9:37pm 
+ 
+Idea:
+ App that lets you travel on a budget by suggesting the cheapest flights, accommodations and much more so that you can just Backpack and get going.
+ 
+Problem Solved:
+Travelling is not cheap. And with the overwhelming number of hotels and hangouts, when on a budget, tourists find it tough to locate the cheapest ones. Our app helps solve this problem.
+ 
+Functions:
+ The app will suggest the cheapest hotels and restaurants and other places of interest based on the budget of the user and the location he/she is in.
+It will also list out the cheapest flights to their destination if they are travelling abroad.
+The app notifies about any upcoming deals or discounts nearby the user’s location which might be of interest to the user. 
+ 
+Targeted audience:
+ Tourists as well as locals who want to travel cheap. Also, students who can’t afford to spend a lot on hotels and flights.
+ 
+Main Benefits:
+1. Allows tourists as well as locals to locate the cheapest hotels and restaurants.
+2. Notifies them about special deals and/or discounts in places of interest.
+ 
+Platform: Android  
+
+

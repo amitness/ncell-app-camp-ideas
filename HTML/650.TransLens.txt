@@ -1,0 +1,24 @@
+TransLens
+
+Submitted on:  September 15, 2015 - 9:21pm 
+ 
+Idea:
+ You would have never thought what your camera or your mobile lens is capable of and after seeing this app you will realise it :) 
+ 
+Problem Solved:
+The very app TransLens utilises some of the best libraries and image processing and combines it to your camera to translate any thing written in a paper to your native language..
+ 
+Functions:
+ - it will translate the texts in real time just hover and your are good to go
+- translates almost every language 
+ 
+ 
+Targeted audience:
+ This app is mainly targated to the tourists visiting different places with different languages.
+ 
+Main Benefits:
+This is mainly targated to the tourists visiting different countries. For an instace you go to the places like China or Japan and the main problem you face is the language problem. The signs and the hoarding boards are almost impossible to understand and what this app does is translate that in real time and instanly all you need to do is hover your camera infront of the unknown language..
+ 
+Platform: Android  
+
+

@@ -1,0 +1,30 @@
+whitesparrow
+
+Submitted on:  September 6, 2015 - 1:47am 
+ 
+Idea:
+  
+This app help tourists by finding people of their nationalities in foreign countries.
+ 
+Problem Solved:
+People love to travel. when people are travelling in foreign country, the major problem they have to face is communication. Its almost impossible to know language of any country and its very difficult to stay in such countries where you are striving for communication.This app helps you finding the people of your nationalities in that country. The app provides an ease of communication in foreign countries.
+ 
+Functions:
+ The app allows/provides you:
+1. To select your nationalities and the country where       you are now.
+2.The app track your current location. so,you can          give detailed information about your stay in that          country.
+3. possible routes to the destination along with the           information on public vehicles.
+ 
+Targeted audience:
+ 1. Tourists and Travellers.
+2. People who need to go to foreign countries for  job     or study.
+ 
+Main Benefits:
+ 
+In the app,Users can enter their home country and the country where they are now .The app will check people from his/her nationalities and show detailed information along with his location and contact number in that country.So, the users can easily contact to him/her and get local information of that country.Users can arrange to meet him/her.
+Also, user can know the routes of local destinations from this app.
+ 
+ 
+Platform: Android, iOS  
+
+

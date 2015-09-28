@@ -1,0 +1,35 @@
+LocaTil.com
+
+Submitted on:  August 13, 2015 - 2:40pm 
+ 
+Idea:
+ Social Travel App that shows other traveller's experience when they were nearby so you don't miss amazing travel destinations near you,
+ 
+Problem Solved:
+When you are visiting some place by yourself and don't have a guide or even when you have them, it's quite easy to miss some awesome places nearby. Then you come back and a friend asks if you visited the same awesome place that you missed and didn't even know that you missed it.
+Now, if you check facebook, twitter or instagram, there are a lot of pictures and status being posted and lot of them are tagged into location. This app queries all those social network for publicly shared images and status to give you overall view and perspectives that people have around that place.
+When you see an amazing picture of a place that you found in this app. Just follow the map in this app or just show it to a local and you can get there.
+A simple "Text" list of tourist locations and "things to do nearby" will not solve this problems because our target audience is more about experience and emotional stimulation.Thus, we need user generated content based on the person's emotions and this type of content is ever-stimulating and always unique.
+ 
+Functions:
+ 1. A news feed about what travel experience their traveller friends are having. 
+2. Scan all social networks about what other people experienced in place you are visiting right now.
+3. Add other travellers like you as friends in the app.
+ 
+Targeted audience:
+ 1. Frequent Travellers
+2. Weekend Travellers
+3. Casual Family Travellers
+4. Hotel/Restaurant Owners.
+ 
+Main Benefits:
+Travel was basically consider a "Do-It-Alone" thing in the past. It all changed due to social media. While travelling alone is great in its own way and sometimes it's even important. But doing it in group or special people in your life is even better. Whatever people prefer, this app makes sure people always get more from their travel experience.
+ 
+Main Benifits To Users
+1. Don't miss amazing places, Connect with Amazing People and Broaden your scope of Exploration.
+2 .  Users can search for any place and get user-generated reviews.
+3. Users get Perks(Discounts on Hotels/Airlines) for visiting place of cultural important in Nepal.
+ 
+Platform: Android  
+
+

@@ -1,0 +1,23 @@
+MosquitoSwatter
+
+Submitted on:  September 13, 2015 - 9:09am 
+ 
+Idea:
+ MOSQUITO SWATTER will be a fun casual game in which the player has to prevent the mosquito from drinking blood by swatting them before it is too late
+ 
+Problem Solved:
+1. Create awareness about danger of mosquito
+2. helps to pass the time having fun
+ 
+Functions:
+ 1. Different mosquitoes will appear on the screen and will try to feed .2. player can swat the mosquitoes and prevent them from feeding by using touch screens.3. Time limit: Showing the time the player has4. Score Tracking: Tells the best and current score of the player on the game5. Achievements: The player will be awarded with  achievements if they were able beat some goals.
+ 
+Targeted audience:
+ The target audience will be people of age 3 years or more. The game is ment for all kinds of people who owns an android phone and are willing to play some intresting games.
+ 
+Main Benefits:
+1. Fun: The players will be provided with some achievements if they were able to reach some predefined goals.2. Time pass: The game will be a good mode to kill time.3. Create awareness:  The game will spread awareness about mosquitoes, the disease they tranmit and will also tell ways to stay safe by providing tips and tricks.4. Chalanging: The game will have different difficulty levels chalanging the players abality to think and react. 
+ 
+Platform: Android  
+
+

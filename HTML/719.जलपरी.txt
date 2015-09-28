@@ -1,0 +1,22 @@
+जलपरी
+
+Submitted on:  September 18, 2015 - 10:03pm 
+ 
+Idea:
+ जलपरी is a game where a girl runs to save the environment, teaching children healthy habits & ways solve  environmental problem
+ 
+Problem Solved:
+This application teaches children healthy habits like washing hands before eating, keeping environment clean, avoiding junk foods and too much candies. It also teaches children about the global warming and how small act can help reduce it.
+ 
+Functions:
+ The game is a single player game. Player has to run to save the world by defeating global warming, pollutions and environmental problems. Player has 3 lives to do this. During the process, he/she dodges the obstacles like junk foods, candies and gets bonus by eating vegetables, fruits etc.
+ 
+Targeted audience:
+ Target audience are children of age 6 – 10 years who loves playing game in mobile phones.
+ 
+Main Benefits:
+Children can play games and side by side learn healthy habits.
+ 
+Platform: Android  
+
+

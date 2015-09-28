@@ -1,0 +1,38 @@
+EPCI
+
+Submitted on:  September 19, 2015 - 8:25pm 
+ 
+Idea:
+ Provide access to available nearest EPCI E=Electrician, P=Plumber, C=Cable, I=Internet at MVP stage and expanding service providers later.
+App Flow
+ 
+Problem Solved:
+ -  Availabilty of EPSI service providers.
+-  Booking system is availabe for service providers.
+-  Using the EPSI app, users can filter through the best services providers within their budget.
+- Users can also rate the service of the service providers so other users can benefit from past customer's experience.
+ 
+ 
+Functions:
+ 1. UI/UX will be flawless and will be tested upon real users before launching
+2. Availabilty of EPSI service providers.
+3. Booking system is availabe for service providers.
+4. Using the EPSI app, users can filter through the best services providers within their budget.
+5. Users can also rate the service of the service providers so other users can benefit from past customer's experience.
+6. Service providers can mantain their bio, profile details, images and other links.
+7. Users will also have a user profile in which they can maintain their profile and list their services using system generated tags.
+8. Their will also be a chat system between users of the app.
+9. In later stages of app, we are also considering features as rating system for users, leaving a video messages to user regarding their problem.
+ 
+Targeted audience:
+ Our application will be focused on mostly house wives, husbands and also students. Our target age is focussed from 20-40. They have good access to smartphone and are average tech savvy.
+ 
+Main Benefits:
+-Users will have easy access to services providers in time of need with just a smartphones.
+- Users can know the best of the best service provider in their area.
+- Users can also rate the service in terms of quality, communication, turn around, cost etc.
+- Service Providers will have another way of providing their servcies. This is great for marketing their expertise.
+ 
+Platform: Android  
+
+

@@ -1,0 +1,22 @@
+MyLifeManager
+
+Submitted on:  September 11, 2015 - 9:24pm 
+ 
+Idea:
+ App that helps tracking/managing users life with the feature of emergency contact no. (expandable) in case they fall into such situation...
+ 
+Problem Solved:
+- problem tracking/calculating daily expenses which are supposed to be payed in a weekly/monthly/yearly basis. For eg. If milkman brings milk to your home and you can track which day he brings and forgets and can finally calculate money during payment time through our app - gives emergency contacts no. according to its value. Also the user can extend the list with their own emergency contact no. For eg. if you want to call police you can dial 100 (which is easy) but if you want to call blood bank, when u require blood, this app is much helpful - statistics, where user can write their daily expenses and review them for future management. - reminder. Eg. medicine intake, vehicle servicing, etc
+ 
+Functions:
+ This app functions in managing life of every individual Emergency Contact No. availability Easier Household expenses evaluation
+ 
+Targeted audience:
+ Everyone in Nepal (because anyone can fall into emergency situations) also for those person who want to manage their daily activities
+ 
+Main Benefits:
+managing life made easy emergency contacts no. available in case of emergency situation
+ 
+Platform: Android  
+
+

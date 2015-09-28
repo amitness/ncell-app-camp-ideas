@@ -1,0 +1,29 @@
+shresthaNShows
+
+Submitted on:  September 20, 2015 - 1:29am 
+ 
+Idea:
+ Allows user to view all favourite shows schedules in one single UI broadcasting from different media channels of Nepal.
+ 
+Problem Solved:
+1)set the reminder of your favourite show.
+2)notify you based on your scheduled tv shows before.
+ 
+ 
+Functions:
+ 1) set the list of favourite shows
+2)time based automated pop up notification
+3)schedule recurring shows
+4) Remainder of dedicated shows
+5)notification based upon shows
+5)Snozzing ability
+ 
+Targeted audience:
+ nepalese people from teenage to elders waiting for next shows
+ 
+Main Benefits:
+with our app, you don't need to worry that you'll forget your weekly shows or relevant.
+ 
+Platform: Android  
+
+

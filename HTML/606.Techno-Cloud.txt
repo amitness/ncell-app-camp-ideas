@@ -1,0 +1,58 @@
+Techno-Cloud
+
+Submitted on:  September 17, 2015 - 11:10pm 
+ 
+Idea:
+ Provide service to general public by providing information about different hospitals/clinics with location and various first aid informations.
+ 
+Problem Solved:
+ Our application will solve the following problems listed below:
+1.Provide detail information(such as contact number, email, location and so on ) of hospitals & clinics of nepal.
+2.Provide solutions of general public queries(such as about medicines, about various diseases and so on).
+3.Provide location of near by hospitals & clinics.
+4.Provide various health as well as healthy food tips.
+ 
+5.provide information about various diseases & their symptoms with various prevention methods.  
+ 
+6.Show registered health professionals & health services which will save our users from fraud one's.
+ 
+ 
+ 
+ 
+ 
+ 
+Functions:
+ The main function of our application will be to provide fast and efficient way to stay in touch and exchange information which will help to thrive health sector of a country & also country's economy.
+The elements of our application will be as points listed below:
+1.Functionality.
+ 
+2.Engagement.
+ 
+3.Security.
+ 
+4.Constant updates.
+ 
+5.Market approach.
+ 
+Targeted audience:
+  
+Target audience are general publics as well as health service peoples/ health care professionals such as doctors, nurses, and so on.
+ 
+ 
+Main Benefits:
+Main benefits :
+1. Deliver simple, effective, inexpensive, and personalised solutions to users.
+2.Help to change the way of our users (i.e doctors and their patients) to approach medicine and health issues.
+ 
+3.Our app will help to increase healthcare professionals(i.e Doctors) knowledge of patients' conditions as well as patients knowledge of healthcare professionals through easy connectivity. . 
+ 
+4.Various health tips will encourage users to take more responsibility for their health.
+ 
+5.New feeds regarding various health tips, diseases & their symtoms with prevention methods, and so on.
+ 
+6.Users(i.e general publics) can add their queries and feedback.
+ 
+ 
+Platform: Android  
+
+

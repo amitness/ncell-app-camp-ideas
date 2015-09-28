@@ -1,0 +1,38 @@
+HireAGuide
+
+Submitted on:  September 13, 2015 - 10:17pm 
+ 
+Idea:
+ ONLINE PLATFORM FOR HIRING A GUIDE AND PORTER WHICH INCLUDES THERE EXERIENCE,CATEGORY,SPECIALITY,RECOMMENDATIONS  AND THEIR COST.
+ 
+ 
+Problem Solved:
+In tourism field the biggest problem is if we can't provide them good service what theywant  then it is big problem, with my app Tourist can find a guide  exactly what they are looking for.e.g if they need a guide who has knowledge in vegetation and if agency is provinding normal guide who cant explain all the things then obviously there will problem so with this app problem will be solved.
+Guides can get deserving money according to there experience,knowledge ,recommendations which they can't get from the agencies.
+ 
+ 
+ 
+Functions:
+ Collection of Guides related to trekking,hiking,cycling,paragliding,city tour, rafting etc all the tourist activities but mainly trekking.
+Guides with his/her qualification,experience,recommendations,little about them,Specialily, catogory ,there daily amoungetc
+Tourist can select the guide and can do an interview online paying certain amount.
+Tourist can hire and pass the details to the agency from there they are going to travel
+ 
+ 
+Targeted audience:
+ All the travelers who are coming to Nepal and looking for the guide.
+ 
+Main Benefits:
+Tourist can find the guide what they are looking hence they will get full satisfaction of there visit for what they are coming here.
+It helps them to be familiar with guide before landing to Nepal hence once they will land they will be mentally prepared which benefit the both the tourist and guide to travel.
+They can find a guide which will be adjust on their budget.
+They
+They can know more the about the trips than they have been said from the agencies as guide has a practical knowledge.
+Guides and porters can get the guest directly.
+Guides can increase their wages according to their recommendation and knowledge.
+Female guides can get the opportunities.
+ 
+ 
+Platform: Android, Others(Web application)  
+
+

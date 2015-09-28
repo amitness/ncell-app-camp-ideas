@@ -1,0 +1,48 @@
+EarthquakeNepal
+
+Submitted on:  September 7, 2015 - 12:52am 
+ 
+Idea:
+ App that provides information about recent and past earthquakes in Nepal along with real-time notification, safety tips, warnings and so on.
+ 
+Problem Solved:
+ 
+Earthquakes cannot be predicted, but the chances of survival are much better if we prepare in advance and know what to do when an earthquake strikes. The keys are education and preparing in advance.
+ 
+A little knowledge and a few precautionary measures can enormously increase your chances of surviving an earthquake - or any other type of hazard.
+ 
+The earthquake safety tips will not make us an expert but they could make a life-saving difference.
+ 
+Functions:
+ * Tricks for construction earthquake resistant buildings for rural and urban region with detail designs approved by National Society for earthquake Technology Nepal (NSET). * Instant notification on the quake larger than 4 ML Scale(data provided by seismonepal governmental site). 
+* List of Past earthquakes occurred in Nepal since 1994 with detail insights on stats related to damages, relief operation etc.
+* Get updated with news, gallery of earthquake damages, relief works etc.
+* Emergency contact addresses of Nepal Police/rescue bodies and medical instituitions.
+* Safety tips for before earthquake, during earthquake and after the earthquake.
+ 
+Targeted audience:
+ General public who wants to be updated about the earthquake information.Government bodies, NGOs and INGOs who wants to share the information.
+ 
+ 
+Main Benefits:
+
+
+Image rich tricks for construction earthquake resistant buildings with design details.
+
+
+Public awareness on the safety measures.
+
+
+Emergency contact addresses of Nepal police and Hospitals.
+
+
+Provides informations of the most risky and safe areas within the country.
+
+Gallery of Earthquake damages, relief works.
+Realtime notification for the earthquake and its aftershocks for confirming the magnitute and epicenter.
+National and International data analysis related to earthquake for being aware of keep calm on those situations.
+
+ 
+Platform: Android  
+
+

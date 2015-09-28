@@ -1,0 +1,34 @@
+Notifica-Medic
+
+Submitted on:  September 17, 2015 - 10:45pm 
+ 
+Idea:
+ Notifica-Medic helps you keep up a healthy lifestyle through health-related alerts, suggestions, recommendations and various medical info.
+ 
+Problem Solved:
+People easily forget to take their medications on time, buy them on time. They are also unaware of the things they consume. While on a medication, they are unaware of the foods that conflict with the medication and also don’t know what kind of food reinforces the healing process. This application provides such information and also helps the user to know more about the diseases they are suffering.
+ 
+Functions:
+ - Alerts at intake times and about nearly finished medicine (example: 2 days before the stock of the medicine finishes) once the user inputs the medicine they are prescribed, the stock and the times for intake
+ - Using the medicine name provided, gives info about that medicine- what it is for (is the medicine right for the given illness?). Suggests the right diet for that illness along with what the users should avoid.
+ - Medicines conflicts detection
+ - Body Mass Index (BMI); recommendations about diet according to the users’ BMI result
+ - Queries can be posted by users to which a real doctor replies
+ - Alerts to take water properly and in sufficient amount
+ - Suggestions on eating habits
+ 
+ 
+Targeted audience:
+  - Anyone on any sort of medications
+ - People who usually forget to take medications and are too busy to take care of themselves unless reminded
+ - Health conscious people
+ 
+Main Benefits:
+ - Promotes healthy lifestyle among the users
+ - Prevents people from taking wrong medications
+ - Encourages regularity in medicine intakes
+ - Suggests people proper diets for proper diseases or medical conditions
+ 
+Platform: Android  
+
+

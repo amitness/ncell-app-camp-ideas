@@ -1,0 +1,23 @@
+Onlinedoctor
+
+Submitted on:  August 19, 2015 - 8:21pm 
+ 
+Idea:
+ Online information about hospitals and doctor aviable. 
+ 
+Problem Solved:
+Helps people to choose best doctor and hospitals nearby.Just asking recommendation from few people might not be helpful rather than choosing doctor online on their rated basis.Information about cost and charges of hospitals ,that makes people to choose hospitals easily.The app provides daily healths tips to maintain health by doctors. This app would also prevent people from being cheated by clinic and expensive charges by suggesting cheap and good hospitals.
+ 
+Functions:
+ Help to choose cheap and best doctor nearby and even recommend the easy way to reach the hospitals. Online payment via online payment option.
+ 
+Targeted audience:
+ Patients confused to choose doctors and hospitals.
+ 
+Main Benefits:
+1.Online appointment for check up and online payment facilities. 2.Online health tips and exercise. 3.To known the information whether doctor is available or not. 4.To know about number of bed /ambulance availability at a moment. 5.To take suggestion from doctor online. 6.Information about hospitals policy and doctor. 7.Detail map to locate hospitals. 8.Blood bank connected online, to ask help for blood. 9.Ask help among people for fund, who are unable to operate/check up their health (collect fund online for needy one's) 10.Provide information about hospitals offers(eg. discount on check up for women during teej festival and so on.) 11.Rating of hospitals and doctors.
+12.Scan  and save their perceptions for future use.
+ 
+Platform: Android  
+
+

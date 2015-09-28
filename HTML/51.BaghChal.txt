@@ -1,0 +1,22 @@
+BaghChal
+
+Submitted on:  September 19, 2015 - 1:39am 
+ 
+Idea:
+ It is an old nepalese game in which users can play with AI as well as with their friends via Bluetooth. 
+ 
+Problem Solved:
+This game is for entertainment purpose. It is an old Nepalese game. It promotes Nepalese games throughout the world.
+ 
+Functions:
+ This Game is entertaining and tricky where users can play with AI as well as with their friends via bluetooth connection. Plus, It promotes youths towards old Nepalese games.   
+ 
+Targeted audience:
+ The targeted audience are everyone especially Youths and old peoples.
+ 
+Main Benefits:
+The main benefits for the user is that it improves intelligence of gamers and entertains them. 
+ 
+Platform: Android  
+
+

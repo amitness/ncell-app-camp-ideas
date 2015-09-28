@@ -1,0 +1,31 @@
+PublicBusTracker
+
+Submitted on:  September 19, 2015 - 1:33am 
+ 
+Idea:
+ 'Public Bus Tracker' apps able to find out the location, upcoming scheduled and estimated arrival time of your public vehicle.
+ 
+Problem Solved:
+Sometimes, the boaring days at station is just, not knowing when your bus will arrive.
+Notify few minutes before the bus arrives to ensure,never miss their ride.
+Avoid time consumption on waiting.
+Stolen vehicle be recovery though used in Private vehicle too.
+ 
+ 
+Functions:
+ Public Bus Tracker uses GPS device with integrated Google Maps  to report the location on an internet mobile phone.It determine the best route to get them to their destination through the actual location information.
+To find a particular bus,choose the route  from the list.  A Google Maps based map for the route will appear it showing all buses currently providing service on that route and countdown the time of arival at your stations.
+ 
+ 
+Targeted audience:
+ The targeted audience are college students, employees, and every common man.
+ 
+Main Benefits:
+Exact time Arrival Information.
+Use to see the nearest Bus stop.
+Designed to make the public transit experience easier.
+Can have an alternate transportation for delay or no upcoming vehicle.
+ 
+Platform: Android  
+
+

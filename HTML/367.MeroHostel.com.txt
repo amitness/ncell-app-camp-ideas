@@ -1,0 +1,24 @@
+MeroHostel.com
+
+Submitted on:  September 2, 2015 - 8:31pm 
+ 
+Idea:
+ MeroHostel.com aims to become a mobile application that includes the information of all the hostels inside Kathmandu valley!
+ 
+Problem Solved:
+At the end of every school year, thousands of young students make their journey to Kathmandu to pursue higher education. This journey will see them confused about selecting an area to live in and for many – the right hostel! It can even be a challenge to locate a hostel in the first place.
+MeroHostel.com is a mobile application to help students get the right information of hostels in a more comfortable way. The app aims to include the information of all the hostels inside Kathmandu valley.
+ 
+Functions:
+ The app categorizes hostels for boys and girls and also as per the location. The app can also provide the detail information of each hostels and their fee structures, photos, and facilities.
+ 
+Targeted audience:
+ 1. College Students and working people who need a hostel to reside in.
+2. Hostel owners who want to advertise their hostel.
+ 
+Main Benefits:
+1. Easy to locate hostels nearby and as preference.
+ 
+Platform: Android  
+
+

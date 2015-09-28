@@ -1,0 +1,40 @@
+JaagauNepali
+
+Submitted on:  September 19, 2015 - 8:31pm 
+ 
+Idea:
+ App allows to report social,economic,political and almost every ascept of national issues to the concerned authority for necesary immediate action.
+ 
+Problem Solved:
+We aim to develop an android application which will help to aware, encourage, motivate and precisely speaking, pressurize the people in the authority towards the development of the country. Our application will provide a platform where users can report anything which they think is happening wrong along with a picture. For a very good example, a person living around the border areas of the country can post something which tells what actually is happening when they say our border has been encroached. Or, another person may take the picture of a damaged pitched road to get it repaired and so on.
+Nepal is having the historical moment of implementing the constitution after this long period of chaos and indefinite tomorrow. Now, every head in the country is thinking of something good happening in our country. So, there will be lots of people and lots of problems to be taken care of. In this context, this app, we believe, becomes a tool in sending the voice of people to other people and the people in the authority. Answers are hidden until the questions are made visible. So, when problems are shared and people become aware, solutions evolve.
+ 
+Functions:
+ - Friendly user interface, of course,
+
+- There will categories of the issues which the user should select,
+- User may attach a photo with the reporting,
+- The report is routed to the concerned responsible heads of the country,
+- The post can be shared and rated to indicate the support and importance.
+
+ 
+ 
+Targeted audience:
+ - Every single citizen, who wants the country in good track of peace and prosperity,
+- The persons in the authority, who will be working in the way which the public wants and needs.
+ 
+Main Benefits:
+
+- The voices of the people are amplified,
+- Peoples’ votes on any issues can be obtained,
+- Priority of importance of different issues can be provided to the government,
+- The needs of the people are met in style,
+- The benefits are actually infinite and invaluable but can be summarized as “effective and efficient development of the country”.
+
+ 
+ 
+ 
+ 
+Platform: Android, Others(web)  
+
+

@@ -1,0 +1,22 @@
+yuvrajteam
+
+Submitted on:  August 15, 2015 - 6:30am 
+ 
+Idea:
+ App to sing and tune a song
+ 
+Problem Solved:
+Tune song with tracks or karaoke
+ 
+Functions:
+ The app changes the singer voice according to the beat user can download the beat and upload his own beat to sing .
+ 
+Targeted audience:
+ All people who can sing
+ 
+Main Benefits:
+It can change the voice according to the beat
+ 
+Platform: Android  
+
+

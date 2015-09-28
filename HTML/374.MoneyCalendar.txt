@@ -1,0 +1,34 @@
+MoneyCalendar
+
+Submitted on:  September 20, 2015 - 12:41am 
+ 
+Idea:
+ Track your Money flow to regulate income and expences .
+ 
+Problem Solved:
+-> Gives user overview of the money they are spending .
+-> alerts user about their monethly and weekly budget according to their expences.
+->presents users data in various engaging way so that user can  learn about their monitory activities without even reading , some techniqu like graph ,  pie chart etc can be used .
+-> save data in cloud ,
+    1. to increase aviliability and usability of data user has inserted in app.
+   3. to have bigger domain of data for better analysis  and hence better user and app engagement.
+ 
+Functions:
+ -> take data from user  in different category.
+-> present them in pie chart , graph  etch to give better visualization to user .
+-> save their data in clound .
+-> give user suggestion to their monitory events according to users setting  which is initially set up  . for example if montly budget is 5k  , and  user has spend 3 k in 15 days then app will inform user that he  may be spending unnecerrily.
+ 
+ 
+Targeted audience:
+ People who  are conscious about how  money comes and goes past them .
+ 
+ 
+Main Benefits:
+-> Will most probably save some fraction of  money  user  spends regularly.
+-> user will  have better idea about how his money comes and goes .
+-> user can handle his/her money spending treand  accordingly .
+ 
+Platform: Android  
+
+

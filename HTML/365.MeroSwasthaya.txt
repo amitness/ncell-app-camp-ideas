@@ -1,0 +1,28 @@
+MeroSwasthaya
+
+Submitted on:  September 20, 2015 - 8:57am 
+ 
+Idea:
+ Mero Swasthaya is ths complete health app with great features
+ 
+Problem Solved:
+1. Basic Health Care suggestion
+2.  Tips for different types of precausion
+3. Medical advice of different problems
+5. Generating self basic reports. and many more
+6. It also give the information about health camping, donation and free checkup program and various health realated events reun buy different organisation.
+7. helps to meet you the right doctor for your problem
+ 
+ 
+Functions:
+ It Provides you to keep basic care of your health as  well as meet the expert doctors. Make us aware about the various health events and programme.all the health tips and advice from the experts will be helpful for every one.
+ 
+Targeted audience:
+ Every people can  be benifited from this application, people canget riht advice and find the right doctor for their problem, simillary it also give news and events about various health program.
+ 
+Main Benefits:
+Thsi app deals with the comple health advice and precausion it is huge and really helpful for every one.
+ 
+Platform: Android  
+
+

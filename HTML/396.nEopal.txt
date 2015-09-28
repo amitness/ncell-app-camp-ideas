@@ -1,0 +1,25 @@
+nEopal
+
+Submitted on:  September 20, 2015 - 12:51am 
+ 
+Idea:
+ This app provides platform for tourists to search  hotels & rooms; info. about local foods; transportation booking e.t.c along with rating(stars).
+ 
+Problem Solved:
+It solves problems like
+    -  Unavailability of rating system
+   - lack of one place online booking system
+   - Unavailability of modern (likely        fundamental) tools for assisting tourist to make their tour easy and efficient.
+ 
+Functions:
+ The app will provide options for the major things tourists generally look for(location based information) . And will also comprise of search box, from where they can search other things. The rating for each services depending on many factors and information about the direct booking or contacting  will be its crutial feature.
+ 
+Targeted audience:
+ Tourists who use their electronic devices for making most of the choices. Particularly those tourists who are fond of using apps for booking tickets, e-shopping and so on.
+ 
+Main Benefits:
+Easy searching of transportation , hotels and many different things tourists would likely need. Moreover, the rating and description,this app provides somehow gives tourists opportunity for  easy selection. And it will also help them to enjoy almost all-round aspect of tour at nepal viewing suggestions and all under the single icon.
+ 
+Platform: Android  
+
+

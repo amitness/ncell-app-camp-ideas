@@ -1,0 +1,26 @@
+TheGuide
+
+Submitted on:  August 27, 2015 - 4:54pm 
+ 
+Idea:
+ Especially targeted to those who are interested on traveling and trekking
+ 
+Problem Solved:
+Searches near by tourism and trekking areas with events and good trekking expertise
+ 
+Functions:
+ This application helps to locate the traveling. areas with current situation
+ 
+Targeted audience:
+ There are lots of people who are travelling and enjoy doing trekking who wants to leave free, who wants to have safe and joyfull travelling and trekking
+ 
+Main Benefits:
+1.Easy to navigate travelling spots
+2.Easy to get connected with good trekking guides
+3.Easy to get information about events
+4.Easy to get connected with good travelling and trekking offices and companies
+ 
+ 
+Platform: Android  
+
+

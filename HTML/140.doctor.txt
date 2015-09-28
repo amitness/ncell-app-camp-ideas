@@ -1,0 +1,42 @@
+doctor
+
+Submitted on:  September 18, 2015 - 8:35pm 
+ 
+Idea:
+ This app mainly focus on Diagnosis and remedy of possible diseases from symptoms using AI.
+ 
+Problem Solved:
+ 
+In the present of our country the health services are so much centralized in kathmandu.That very big society of rural part are in darkness so far the health facility is concerned.In addition the people who are busy do not have enough time for regular health checkup.So people are mostly neglecting some common symptoms which may be very much injurious to health.So in this cenerio we introduce a solution package for the people.Also the app facilates paid users with 24/7 online doctor facility.In this way this app is very much applicable for people who want to get the health releted informations without visiting to any doctors. this app  saves the time of user,provides the fundamental informations to users releted to health.
+ 
+ 
+Functions:
+ 1>user can simply enter some real symptoms and determine some possible diseases with their causes,precautions and home remedy.
+2>24/7 Online Doctor facility for paid users.
+3>Latest news about epidemic diseases spreading in the country.
+4>alraming feature remaind user to have medicine in time.
+ 
+Targeted audience:
+ This app is targeted for all the people who want to know possible diseases from different symptoms and collect good informations like remedy, causes,precautions of disesases. .Also targeted for people who want to checkup their health regularly with online doctors.
+ 
+Main Benefits:
+ 
+
+1>Users can diagnosed the illness with home remedy,precautions, and causes.(We will use AI for that purpose)
+ 
+2>Users also can collect some basic informations like causes, symptoms, home remedy of diferent diseases.
+ 
+3>This app lets user know the latest news about the epidemic diseases
+ spreading in the country(like Swine Flu) with precautions, symptom and home remedy. 
+ 
+4>The user can know about  the best possible way for curing disease.
+ 
+5>Alraming  feature lets users know when to have medicine.
+ 
+6>On the other hand paid user are facilated with 24/7 online doctor facility.  
+
+ 
+ 
+Platform: Android  
+
+

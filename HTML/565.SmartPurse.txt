@@ -1,0 +1,23 @@
+SmartPurse
+
+Submitted on:  September 9, 2015 - 5:05pm 
+ 
+Idea:
+ Online payment System for the tourist who visit Nepal and for Nepalese too.
+ 
+Problem Solved:
+Deals with the foreign currency which solve payment system as no confusion for  the tourist while paying and while exchanging the currency which is the main problem and     eliminate the expansion of fake currency on market,Tourist can shop online,book the hotel online etc which will consume there time and they can utilize that time on other things
+ 
+Functions:
+ Sending the money,Depositing in the bank account, Local remit, Recharge ,Get foreign currency back (tourist get remaining  money on their own currency at the same rate ),Online shop,Online booking hotels,renting car.
+ 
+Targeted audience:
+ Every tourist who is unfamilier with nepali currency,Bussinessman,Students (all the nepali ) as the new way payment will arise and  local remit will be cheap for nepalis
+ 
+Main Benefits:
+ 
+Tourist won't be confuse while paying on local markets and shopkeeper wont be confuse while accepting the money.It is 100% safe, reliable no one can steal your purse.Easy and efficient way for local remit(),tourist can pay the exact price of the things.Ecommerce bussiness will rise up for the tourist as they can buy gear,equipments etc.Tourist can get there remaining balance on there own currency after finishing there trip .
+ 
+Platform: Android, SMS  
+
+

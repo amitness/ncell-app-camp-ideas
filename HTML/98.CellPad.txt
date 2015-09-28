@@ -1,0 +1,28 @@
+CellPad
+
+Submitted on:  September 20, 2015 - 10:47am 
+ 
+Idea:
+ An app that can be used your cell phone as a trackpad for your laptop and PC through wireless.
+ 
+ 
+Problem Solved:
+When your PC or Laptop is far from a user, they still can run their PC through their cell phone. They just need to install the Cell Pad app and can use as a trackpad or mousepad.
+ 
+Functions:
+ The app runs as a mousepad.
+The app also includes click buttons.
+The app also support various gestures.
+ 
+Targeted audience:
+ Lazy people who are smart.
+Businessman for projection.
+ 
+Main Benefits:
+No need to expense on wireless mouse.
+Can use cell phone as projection remote.
+Simple and easy to use as mousepad when the user cannot reach their PC.
+ 
+Platform: Android  
+
+

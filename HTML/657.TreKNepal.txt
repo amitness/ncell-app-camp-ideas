@@ -1,0 +1,26 @@
+TreKNepal
+
+Submitted on:  September 20, 2015 - 11:35am 
+ 
+Idea:
+ This application allows user to choose tour package, hotels in accordance with their budgets comparing current price and book.
+ 
+Problem Solved:
+During the visit to Nepal or any places in Nepal, tourist will be coming here and definitely won’t be able to navigate where to go, where to eat, because of the language barrier. The price surge this year is higher than the previous year due to which visitors find problem coping with such issues so our application allows user to find the best destination according to the current running price.
+ 
+Functions:
+ The application let the visitors such for item them want- such as cost of tour package, hotels and then compare the best prices at nearby business. The prices are crowd sourced and dated so you can see if the cost has gone up since the last person visited leaving you to the option to haggle or to find a cheaper option.
+ 
+Targeted audience:
+  The target audiences are both international as well as domestic visitors.
+ 
+Main Benefits:
+-User can compare the price and find best one .
+- It allows user to add review and photos
+- User can know their trek destination with the use of map that can be  downloaded .
+- Search cool thing nearby
+-User can book tour package and get verification from e-mail.
+ 
+Platform: Android  
+
+

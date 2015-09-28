@@ -1,0 +1,28 @@
+MyServices
+
+Submitted on:  September 12, 2015 - 8:06am 
+ 
+Idea:
+ Government Services (Offices and Officials to visit, Ways to get services, Places to visit to make additional documents) at a glance
+ 
+Problem Solved:
+We are not aware of government services whenever we visit an office. The problems are we don't complete the services on time. We grow frustation of services offered and plus we need to fill up new forms from other organizations. This app will target to solve these issues.
+ 
+Functions:
+ User-friendly GUI, Drawers for Type of services
+ 
+Targeted audience:
+ 1. General Public
+2. Social Organizations
+3. Private Organizations
+4. Research Groups
+ 
+Main Benefits:
+1. List of government offices, officials and rooms according to location and Citizen Charter Boards.
+2. Offered services
+3. Required Documents to be submitted.
+4. Links to officials and offices in case more documents needs to be processed.
+ 
+Platform: Android, iOS  
+
+

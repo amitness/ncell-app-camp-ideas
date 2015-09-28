@@ -1,0 +1,33 @@
+easServ
+
+Submitted on:  September 18, 2015 - 5:58pm 
+ 
+Idea:
+ easServ acts like menu card on cutomer smartphone and uses local server on lappie to fetch item list and help order food on particular table
+ 
+Problem Solved:
+1..reduced labour cost.
+2..customer can see todays available food recipies along with price list on     phone and order particular food in req. quantity on particular table
+3..billing will be easy for particular table
+4..local server on laptop reduce server cost and ease to update daily             available items and recent cost
+5..notification alerts owner for order in particular table in lappie 
+6..this app can be customized to use  in diiferent places as department           store as the local server contains info to display on the app.it has               flexibility in its use and much more
+ 
+Functions:
+ 1.The main function of this app is to behave as display showcase of items         and it also faciliates ordering the items
+2.billing system will be much easier
+3.local server on the device of owner enables easy update of items and its     changed price
+ 
+Targeted audience:
+ 1.everyone who has smartphone and who intends to shop on department    store and go to hotels
+2.tourists on big hotel can order whatever they want staying at their rooms and viewing the foods with local name
+3.even the owner gets benefit from this as the service they provice will be      efficient
+ 
+Main Benefits:
+1.As this app get automatically downloaded as cutomer connects to wifi on        thatparticular restura/store,people can browse every items on                        restura/department store staying at one place with recent available     items.
+2.shopping becomes easier
+3.same app can be used on restura/department store as its content is        driven by server files
+ 
+Platform: Android, iOS, Windows phone  
+
+

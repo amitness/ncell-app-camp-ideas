@@ -1,0 +1,32 @@
+HireRooms
+
+Submitted on:  September 20, 2015 - 11:10am 
+ 
+Idea:
+ This helps to upload all the details of the Rental rooms in Nepal, where Owner keeps the room details & interested one can apply for hiring.
+ 
+Problem Solved:
+1) It helps to save the consumer time through which they don’t have to visit every streets and lanes asking about is “their any hiring rooms?”
+2) The room owner don’t have to spend high cost in advertisement for keeping their rooms on sale/rental process.
+3) The 2nd party (Broker) price can be eliminated because the owner and buyer gets direct communication.
+4) Consumer can search the best rooms among all uploads as per their requirements for instance, capacity as per family for numbers of rooms required and so on.
+ 
+Functions:
+ 1)      This has mainly two functions one is for owner and the next is for consumer where owner upload and consumer get the information.
+2)      The room owner is given forms to fill up for keeping all room details and owner details.
+3)      Consumer gets all information of uploaded room (rental/sales) where they can apply for most suitable one.
+4)       The user gets the exact location for available rooms through Google maps feature as the owner keeps the marker on Nepal’s maps for pointing his/her location. 
+5)      The application will have picture clicking feature for the available rooms so that consumer can choose desired room layouts or surrounding. 
+ 
+Targeted audience:
+ It focuses on local publics and foreigners residing in Nepal who can be students, teenagers and families who migrate for one place to another for having quality life/bright future. Secondly, this can even be suitable for people whose house got seriously affected thorough massive Earthquake and are searching for new apartments. Lastly, this app can be useful for hotels as well for tourists. 
+ 
+Main Benefits:
+1) It helps to save the consumer time through which they don’t have to visit every streets and lanes asking about is “their any hiring rooms?”
+2) The room owner don’t have to spend high cost in advertisement for keeping their rooms on sale/rental process.
+3) The 2nd party (Broker) price can be eliminated because the owner and buyer gets direct communication.
+4) Consumer can search the best rooms among all uploads as per their requirements for instance, capacity as per family for numbers of rooms required and so on
+ 
+Platform: Android  
+
+

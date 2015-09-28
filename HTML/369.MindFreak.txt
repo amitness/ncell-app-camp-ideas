@@ -1,0 +1,29 @@
+MindFreak
+
+Submitted on:  September 17, 2015 - 10:33pm 
+ 
+Idea:
+ a game where user manipulates two objects with reversed hands control
+ 
+ 
+Problem Solved:
+train inactive brain side (for e.g. left handed person has less active left brain)
+ 
+ 
+Functions:
+ The game consists of two distinct colored objects to be controlled independently by two hands. The balls move independently on two paths, on either halves of the screen, with sharp 90 degree turns. Turns are made by touches on the opposite halves. This will conflict the usual way of controlling things of one side by the hand on same side. There will be obstacles to be slid over on the path. Failing to avoid them will switch the balls, hence switching the controls. Complexity of the game increases with speeding balls ,complex paths and obstacles. The longer the player survives  the higher will be his score.
+ 
+ 
+Targeted audience:
+ Gamers and teenagers
+ 
+Main Benefits:
+Users become quick and more reflexive
+entertainment to user
+This game improves concentration of the users
+This game improves multi tasking capability of the users
+ 
+ 
+Platform: Android  
+
+

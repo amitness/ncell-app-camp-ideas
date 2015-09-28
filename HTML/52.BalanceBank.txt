@@ -1,0 +1,27 @@
+BalanceBank
+
+Submitted on:  August 22, 2015 - 5:29pm 
+ 
+Idea:
+ App that handles information/subscription of services offered by network provider, balance transfer and recharge operation in a smart way.
+ 
+Problem Solved:
+1) Lots of users dont know how to access different services provided by network carrier such as PRBT, Daily horoscope, News highlights and many more. Not all of us remember exact codes to SMS.
+2) Recharging your balance can be really be a problem when things don't workout well, sometimes  we mistype the pin number and sometimes we suffer network traffic, all of these result unsuccessful recharge we have no choice but redailing till we get it done.
+3) Users should be able to handle  balance transfer operations very easily. Dialing security code, receipent number and the amount everytime is a lengthy process. 
+ 
+Functions:
+ This application Provides information about different services offered by the network provider and users can subscribe/unsubscribe just by selecting an option. The application silently handles all the messeging operation involved in the procedure. Secondly the application uses Optical Character Recognition (OCR) technology to derive the pin code from the recharge card and process the code to recharge balance. The application also provides option for safe balance transfer within the network.
+ 
+Targeted audience:
+ This application is targeted to all the smartphone users. 
+ 
+Main Benefits:
+1) Easy access to services offered by network providerOur application provides portal to your favourite service. Either it is daily horoscope or Data for facebook, it is just one click away.
+2) Smart RechargeScratch, Point your camera to the pin, Done!!! Simple as that. Users can avoid lengthy, error prone and time consuming method of balance recharge.
+3)Easy Balance TransferUsers can transfer their SIM balance to valid receipents very easily.
+4)ALL in ONE appNow you don't have to download multiple apps for different services you want to access, One app will do it for you.
+ 
+Platform: Android  
+
+

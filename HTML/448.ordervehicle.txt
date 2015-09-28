@@ -1,0 +1,27 @@
+ordervehicle
+
+Submitted on:  September 3, 2015 - 9:15pm 
+ 
+Idea:
+ order your vehicle for your purpose.
+ 
+ 
+Problem Solved:
+easy,guided and safe, long or short, individual or group travel, get or deliver goods and demands.
+ 
+ 
+Functions:
+  
+The app list down all available types of vehicle,its licensed drivers profile and fare cost.Mention your place to drive or place where you want to deliver goods and order vehicle. Comment or rate on driver profile or any service, track your vehicle, text or call driver.
+ 
+Targeted audience:
+ Tourism, business, market, customer, traveller and helping drivers
+ 
+ 
+Main Benefits:
+Save time, money and effort. No worry about directions and places.
+ 
+ 
+Platform: Android  
+
+

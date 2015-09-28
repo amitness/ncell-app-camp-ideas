@@ -1,0 +1,22 @@
+PerAppChat
+
+Submitted on:  September 18, 2015 - 10:06am 
+ 
+Idea:
+  The people can share the experience of using the app with each other , every person can share ideas about the app with the random people in a group.
+ 
+Problem Solved:
+There are many people who does't know the way of using the app, it's benefits etc. So, with these app people can share information to each other.
+ 
+Functions:
+ For example . The person have the applications named Facebook,Clash of Clans, Candy Crush etc. then the specific chat room will be created with the name of specific app (ie Facebook, Clash of Clans, Candy Crush etc.) where the random users can join in the  chat room and share information to each other.
+ 
+Targeted audience:
+ People who doesn't know how to use the app and the people who want to know more about the specific app are mainly targeted.
+ 
+Main Benefits:
+One can know the information about the app from other people.
+ 
+Platform: Android  
+
+

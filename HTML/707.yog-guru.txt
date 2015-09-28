@@ -1,0 +1,25 @@
+yog-guru
+
+Submitted on:  September 3, 2015 - 6:27pm 
+ 
+Idea:
+ "yog-guru" is an app that teaches the basics of yoga to the users.
+ 
+Problem Solved:
+Due to the decrease in physical activities and the lack of time for exeercise people have been suffering from various health related problem. When a person makes up his/her mind to be involved in some physical exercise he/she has many physical constraints to consider upon and thus procastinates his/her idea to improve fitness.
+ 
+Functions:
+ The main function include an illustrative description on how yoga is perfomed correctly.
+ 
+Targeted audience:
+ Target audience include all thepeople who want to remain fit but cannot affort sufficient time to  join a fitness club or the people who wish to remain fit but are too reluctant to go out for a walk/jogging.
+ 
+Main Benefits:
+The main benefits for the users are listed below:
+1. Knowledge about yoga
+2. Methods of doing yoga and meditation.
+3. A list of all the places which provide training/instruction for yoga. 
+ 
+Platform: Android  
+
+

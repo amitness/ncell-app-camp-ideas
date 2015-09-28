@@ -1,0 +1,22 @@
+PhotoAlbum
+
+Submitted on:  September 17, 2015 - 10:02pm 
+ 
+Idea:
+ This app organizes the photos that you take with your phone into albums based on the location where the photos were taken. 
+ 
+Problem Solved:
+It solves the problem of the people who love to take photos but hate to organize the photos .
+ 
+Functions:
+ It automatically organizes the photos you take with your phone into albums based on the location where the photos were taken. You can choose to make certain groups of photos public and instantly upload them to facebook, instagram ,viber etc. You can view and share your album's photos by picking them from within an list or by a map . The program looks really straightforward and easy  .
+ 
+Targeted audience:
+ Any age group can download this application . 
+ 
+Main Benefits:
+User can have separate albums for different locations and can directly share to facebook, instagram, twitter, whatsapp, viber and etc
+ 
+Platform: Android  
+
+

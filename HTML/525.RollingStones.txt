@@ -1,0 +1,30 @@
+RollingStones
+
+Submitted on:  September 20, 2015 - 9:21am 
+ 
+Idea:
+ Developing an app via which internal/external tourists can compare the different trekking agencies/hotels and select the best deals for them.
+ 
+Problem Solved:
+Mailny focusing on tourism industry of the country, the application provides function to compare between various organizations so that we can select the best one. This reduces the confusion among the visitors about their whereabouts after they land on Nepal. Since information about all the organizations(registered) are given they can now choose the places to stay, roam via online staying in a room. They can compare the prices and standards. This makes things easy as they dont have to go through individual sites. And also, most of the good place dont have their own website. We are trying to get their information and put it in the site. This helps all those small scale industries too. The application will also provide information about upcoming events in various places of the country.
+ 
+Functions:
+ -Info about the nearby hotels and agencies.
+-Info about restaurants and their prices.
+-Features to compare between the deals.
+-Additional features to book, provided the agencies allow.
+ 
+Targeted audience:
+ - Tourists :: Esp. Those people who are visiting Nepal from foreign land as they are new to place this application will help them to select best deals. They can save few bucks too as they dont have to go through various middle man to get the best deal.
+-Agencies Oweners :: As they can put their best deals in the applications, people will come to know about their organization.
+ 
+Main Benefits:
+-Less Complication.
+-Clear of all price confusion and deals.
+-No need of agents to select tourists a best place to stay.
+-Small Scale organizations can establish themselves through the application.
+-easy to locate places nearby too.
+ 
+Platform: Android  
+
+

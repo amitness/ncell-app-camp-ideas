@@ -1,0 +1,24 @@
+Phonulus
+
+Submitted on:  September 19, 2015 - 10:48pm 
+ 
+Idea:
+ A single app that holds all phone numbers of registered organizations i.e digital yellow pages.
+ 
+Problem Solved:
+A single app that can provide one with all the contact details of a registered commercial and non-commercial organization or firm.
+ 
+ 
+Functions:
+ User can download an updated database of yellow pages and access them via a single app
+User can sort their list on basis of category of the business or firms.
+ 
+Targeted audience:
+ Any user who might need for contact details of any office like banks, hospitals, schools, etc.
+ 
+Main Benefits:
+User can download a package file to simply browse for contact details of any firm or organization registered. With this service one doesn't need for collection of contact cards and other papers and avoids calling to service centers for contact numbers.
+ 
+Platform: Android  
+
+

@@ -1,0 +1,23 @@
+HPKIDEA,VEHICLETRACK
+
+Submitted on:  September 6, 2015 - 9:03am 
+ 
+Idea:
+ It tracks the vehicle's current position and estimates the arrival time to the selected destination.
+ 
+Problem Solved:
+Spending a lot of time to wait for public vehicles daily.
+ 
+Functions:
+ 1.It locates the present location of user, nearby vehicles and the informs the user about the arrival time of the nearby vehicle to the user selected destination .
+2. Infroms user about the traffic jam suffered or smooth running condition of vehicle
+ 
+Targeted audience:
+ People who use public vehicles daily
+ 
+Main Benefits:
+It saves the precious time of the people that they spend for waiting public vehicles daily. Meanwhile, they can perform others tasks.
+ 
+Platform: Android  
+
+

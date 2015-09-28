@@ -1,0 +1,29 @@
+HomestayNepal
+
+Submitted on:  September 3, 2015 - 3:31pm 
+ 
+Idea:
+ Helps connect local/foreign tourists with local residency.
+ 
+Problem Solved:
+Unsettled rooms can be rented for one or more night/day stay.
+local people can be employeed.
+ 
+ 
+Functions:
+ Tourists would be able to rent a stay.
+Homestays can advertise their rooms.
+ 
+Targeted audience:
+ Local / Foreign Tourists visiting Nepal.
+ 
+Main Benefits:
+Tourists can search for local homestay without going to town to town.
+Tourists can book a rent.
+Homestay's can avail their unused rooms.
+Local people can earn money.
+ 
+ 
+Platform: Android, Others(Web)  
+
+

@@ -1,0 +1,38 @@
+Pangraz
+
+Submitted on:  August 14, 2015 - 1:19am 
+ 
+Idea:
+ Help people find a vehicle for hire based on gps location: TAXI, TRUCKS, MINI VANS, CARS, PICKUPS, TOUR BUS, ESCAVATOS, TANKERS, TRACTORS, BIKE, MTB
+ 
+Problem Solved:
+It will help users find any kind of vehicle nearby ready to serve their transportation needs rather than having to search around randomly.
+Say Mr. A needs a taxi to go to the airport and is getting late and still has some packing to finish. It would really be of great help to Mr. A if he could anyhow bring a taxi at his front door while he finishes the last minute packing. The idea is to help Mr. A get a taxi by using a mobile application.
+Mr. A will look for vacant taxis nearby his gps location and call a taxi to pick him up at the front door (exactly where he needed) while he takes care of his final tasks before leaving. And yes the taxi driver who was surfing on Facebook, waiting for a customer to come, would be more than happy to serve Mr. A Similarly Mr. X or Miss K could look around for a car or a truck as per there needs,all while enjoying there drinks.
+ 
+Functions:
+ 1. Provide a platform for the transportation service providers and the users to find each other easily
+2. Uses the gps location of the user looking for a particular kind of transportation service and searches for available service providers that are available at that instance
+3. Maintain a list of service providers along with their contacts and default locations for the users to contact when no service providers are available online
+4. Caluclate fare using the standard rates for TAXI along with support for multiple TAXI Categories like "standard", "deluxe" and "super deluxe"
+ 
+Targeted audience:
+ 1. Anyone who needs a taxi for a ride in the town
+2. Someone who needs a truck to shift his/her office to a new location
+3. Group of students looking for a nice tour bus for their next camping trip or picnic
+4. A hotel that is looking for an escavator to dig out there new swimming pool for kids in the backyard
+5. A farmer looking for a pick up to take his vegetables to the market or tractor to plough the fields
+6. Adventurists looking for a 4 wheeler to take on their next expedition and the list goes on...
+ 
+Main Benefits:
+1. Saves time and effort required to find the desired transportation means
+2. Provides multiple options for users to choose from (multiple taxis around-you get to bargain)
+3. Service providers can be rated for reference that can be of great help to other future users, ultimately leading to improvement of quality of service
+4. Opportunity for service providers to increase their business without any investment
+5. Definitely saves fuel of service providers wandering around looking for customers
+6. Helpful for people who need to hire a ride from considerably distant area from the current location of the service provider
+7. Statistics for analysis and future prediction of transportation business
+ 
+Platform: Android, iOS, Windows phone, SMS, Others(Web Application)  
+
+

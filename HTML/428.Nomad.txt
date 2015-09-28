@@ -1,0 +1,26 @@
+Nomad
+
+Submitted on:  September 19, 2015 - 11:41pm 
+ 
+Idea:
+ A location based game that allows players to explore, discover, travel different historically important sites of Nepal.
+ 
+Problem Solved:
+Conserving the old mythical stories of different regions of our country, assocaited heritages and community life, a game of travel and exploration.
+ 
+Functions:
+ A story to make people move around different places to acquire the goal of  the game.
+Probelm solving for completing objectives.
+Location based game.
+ 
+Targeted audience:
+ Gamers and people interested in historical heritages.
+ 
+Main Benefits:
+Promotes exploration
+Provides entertainment
+Promotes tourism in Nepal
+ 
+Platform: Android  
+
+

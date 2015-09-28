@@ -1,0 +1,29 @@
+KuKhuriKan
+
+Submitted on:  September 20, 2015 - 12:02pm 
+ 
+Idea:
+ The app will let the users search for companies to apply for an intern and also will provide infromations regarding ongoing trainings near them.
+ 
+Problem Solved:
+Many students and startups are frustated because of not finding information of companies where they can  apply for internship. The app will take care of this and even provide extra information regarding training programs and events that are happening around them.
+ 
+Functions:
+ - ListView of companies in need of interns.
+ 
+- Number of trainings and workshops happening near by.
+ 
+ 
+Targeted audience:
+ Startups and students looking for intership. And also anyone who is looking for trainings and workshops.
+ 
+ 
+Main Benefits:
+- Users will be able to search through various company profiles that are in need of interns.
+ 
+- Users will also be informed about various training sessions and workshops being held and can apply for them.
+ 
+ 
+Platform: Android  
+
+

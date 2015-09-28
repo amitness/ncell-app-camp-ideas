@@ -1,0 +1,27 @@
+Workshop
+
+Submitted on:  September 19, 2015 - 11:36pm 
+ 
+Idea:
+ Let's Build
+ 
+Problem Solved:
+WORKSHOP is a app that help creative brain to build something.
+ 
+Functions:
+ 1.Tip of the day
+2.Woodwork plans
+3.Electronics projects
+4.Project Mankind
+5.Young idea's discussion
+ 
+ 
+Targeted audience:
+ The best place to learn and built something.
+ 
+Main Benefits:
+A place for students,workers,engineers for global development
+ 
+Platform: Android  
+
+

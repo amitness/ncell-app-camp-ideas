@@ -1,0 +1,24 @@
+TeamvisitNepal
+
+Submitted on:  August 12, 2015 - 12:44pm 
+ 
+Idea:
+ This is an app to give all information about intresting tourist destinations in Nepal and to give all information about hotels and restaurants.
+ 
+Problem Solved:
+Tourist are being sometime confused and feel bored to get information about interesting destination in Nepal and finding restaurant and lodge to stay from different sources. Our app will give all information before visiting Nepal and help to take decision early.
+ 
+Functions:
+ The app gives all information of intresting tourist destinations of nepal and list down the restaurant and lodges they want. Our app includes review and rating system of places and restaurants.
+ 
+Targeted audience:
+ Mainly foreign and local tourists who don't know much about Nepal but wish to visit the country. Our app gives all essintial information to them before visiting Nepal. 
+ 
+Main Benefits:
+1.Easy to select restaurant and lodges.
+2.Helps to pickup their destination early.
+3.Helps to get ready for destination and packup their clothes and essential stuffs before visiting the place
+ 
+Platform: Android  
+
+

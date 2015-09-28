@@ -1,0 +1,22 @@
+NepaliKeys
+
+Submitted on:  September 19, 2015 - 10:10am 
+ 
+Idea:
+ A Nepali keyboard application with spelling correction.
+ 
+Problem Solved:
+A lot of Nepali speakers find it difficult to write the correct spellings of Nepali words. This is especially visible on social networks like facebook and twitter where spelling errors and grammatical mistakes are rife. Our app solves this problem by checking the entered words for correct spelling and correcting the wrong words.
+ 
+Functions:
+ The main interface of the application will be a keyboard designed for  entering Nepali text. The keyboard will feature automatic correction of incorrect words that are detected. Additionally, another element will be an interface where text could be pasted from a source and the spelling-corrected text will be shown.
+ 
+Targeted audience:
+ Anyone who wishes to type in Nepali can use our application, but our target audience are especially the people who access social networks through their smartphones.
+ 
+Main Benefits:
+The foremost benefit to the user is that he/she will be able to write the correct Nepali spellings even when he is unsure of the right one. Also, frequent use of the application will help the user to learn correct spelling and proper usage of words, making it less probable that the user will make mistakes in the future.
+ 
+Platform: Android  
+
+

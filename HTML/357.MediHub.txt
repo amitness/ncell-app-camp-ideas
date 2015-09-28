@@ -1,0 +1,33 @@
+MediHub
+
+Submitted on:  September 17, 2015 - 11:43am 
+ 
+Idea:
+ App to search hospitals/doctors and take appointments, access your medical file and know more about health-related infrastructure.
+ 
+Problem Solved:
+Searching specialized hospitals and doctors in any location and making appointments on a single click is never an easy task. Also finding details about medical institutions and knowing properly about other health-related infrastructures is tiresome work. It is somewhat unheard of accessing medical information from the lab on the mobile phone. It is also challenging to easily access proper information about diet, local herbal remedies, health tips, health laws, information about human anatomy, diseases, medicines, etc. in a single app. Our app will help users in simple yet efficient ways and help to solve above problems.
+ 
+Functions:
+ This app:-
+1. Gives information about hospital with detail about specialist facilities provided and medical professionals associated with the organization and enables users to make appointments and access their medical file remotely in an easy way.
+2. Lets users know about medicines, alternative treatments and local herbal remedies.
+3. Gives users health-related tips and professional advices.
+ 
+Targeted audience:
+ Our target audience are:
+1. Student of all levels who are interested to know about human anatomy, sex and reproductive health and also those students who are pursuing dream of medical field and want to know about medical institutions.
+2.  Hobbyists who are interested in local herbal remedies.
+3. General people who want to search and take appointments from hospitals/doctors in any location, access their medical file, know about diseases and their cure and want to have health and diet tips, information about medicines on a single click.
+ 
+Main Benefits:
+The main benefits are:
+1. Easy to search hospitals, doctors, medical colleges, pharmaceutical companies around your location.
+2. Easy to take appointment from doctors and access your medical information provided by hospital remotely on the app.
+3. Easy to learn about medicines and local herbal/house remedies.
+4. Easy to receive health tips, professional advice and awareness about health-related issues.
+5. Increase interest among users about health through interesting ways like health quiz.
+ 
+Platform: Android  
+
+

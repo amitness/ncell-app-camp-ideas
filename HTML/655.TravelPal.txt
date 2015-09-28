@@ -1,0 +1,40 @@
+TravelPal
+
+Submitted on:  September 18, 2015 - 1:15pm 
+ 
+Idea:
+ Plan where you want to go and what you want to do in accordance to your budget.
+ 
+Problem Solved:
+Approximation of the budget before travelling is troublesome for people with fixed budget. This application will help travellers easily find the approximate travel budget for their trip.
+ 
+Functions:
+ Easy budgeting the trip into three categories
+           a) Economic Trip
+           b) Standard Trip
+           c) Luxurious Trip
+Trip is categorized according to the travel routes
+a) Transportation type
+     Economic Trip shall have economic travel routes and cheapest transportation option available for the travel route.
+     Standard Trip shall have easily accessible and affordable transportation available for the travel route.
+      Luxurious Trip shall have the most easiest and the most luxurious option available for the travel route
+b) Accomodation type
+     Economic Trip shall have economic  and cheapest accomodation option available.
+     Standard Trip shall have easily accessible and affordable accomodation option available.
+      Luxurious Trip shall have the most easiest and the most luxurious accomodation option available.
+c) Daily Pocket Money
+     Daily Pocket money is included according to, how expensive the travel route is.
+     Economic Trip shall have the least amount of approximate money needed to enjoy the trip.
+     Standard Trip shall have the optimized amount of appoximate money needed to enjoy the trip.
+     Luxurious Trip shall have extravagent amount of approximate money needed to best enjoy the trip.
+*Every sub category can also be individually and easily customized.
+ 
+Targeted audience:
+ Every kind of travellers are targeted but travellers with fixed budget are targeted the most.
+ 
+Main Benefits:
+User can find approximate budget before travelling and be pre-informed about the different elements of the trip, categorized by price. 
+ 
+Platform: Android  
+
+

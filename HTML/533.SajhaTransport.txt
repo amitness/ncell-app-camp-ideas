@@ -1,0 +1,35 @@
+SajhaTransport
+
+Submitted on:  September 15, 2015 - 2:12pm 
+ 
+Idea:
+ Get taxi service and sajha bus arrival time information at your finger touch wherever you are.
+ 
+Problem Solved:
+1. It gives realtime location information about taxi and sajha bus which save time to get it.
+2.This app help in easy recover of lost property as it display full driver information.
+ 
+ 
+Functions:
+ 1. Get a taxi through sms as primary process as well as call.
+2.Booking and Reservation of taxi,bus,micro for Domestic tour.
+3. Display real time location of sajha bus with specific route with estimated arrival time.
+4.Get driver detailed information for future purpose.
+5.Nearby location of taxi for fast  service.
+ 
+ 
+ 
+Targeted audience:
+ Domestic tourist and International tourist
+ 
+Main Benefits:
+1. Time saving: No need to wait in order to get taxi service and sajha bus service.
+2. Easy Service: Real time location of taxi,sajha bus in map makes easy to use.
+3.Reservation and Booking: To make traveling efficient and easy without hassle for information and reservation.
+4. Full information of taxi driver and customer.
+5. Easy to recover lost property.
+ 
+ 
+Platform: Android  
+
+

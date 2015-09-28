@@ -1,0 +1,36 @@
+F-Book
+
+Submitted on:  August 30, 2015 - 6:42pm 
+ 
+Idea:
+ Apps that lets users to find best books (best writer's book) for their levels(Loksewa,Bachelor,Master,+2,etc) available in the market with price.
+ 
+Problem Solved:
+To get best book(best writer's book) in the market is not an easy task at all, is'n it? Yes, shop keeper often shows lists of book and tell all are good. But among them which one is suitable for me? How can I judge whether it is good for me or not? F-Book is here for solve these problems. You just need to select your level and which book you need(eg. level : BE, subject: C programming ) and click search.The rest work is for the app which shows the lists of best writer's book available in the market according to  rating and feed back of  users. 
+ 
+Functions:
+ For Student: 
+1. Select the level of study and the book that he/she needs and click search.
+2. App will show different writer's book according to the rating given by users. 
+3. Also show the price, locations where book is available, and the bibliography of the writers. 
+4. Facility for the users to rate the book so that other users can judge best book. 
+For Book Writer/ Stationary :
+1. They can submit their book with detail informations
+2. To submit, he/she must be logged in first and app will costs certain charge per submission(Not at starting but latter on for the bussiness point of view). 
+ 
+Targeted audience:
+ 1. Students are the main target audience for this application. 
+2. Book writers and Stationary  are also the most valuable audience (for business point of view ). 
+3. Other users can use as Guest.
+ 
+Main Benefits:
+1. Users( Students) can find those best books that they need. 
+2. Saving of money from buying  unnecessary books. 
+3.Users Can get the actuall price of the book.
+4. Get the actual locations were the book is actually available. 
+5. Users can rate and give feed back to book as well. 
+6. Book writers can make popularity of their book through this application.
+ 
+Platform: Android, Others(Web Application)  
+
+

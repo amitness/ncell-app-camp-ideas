@@ -1,0 +1,35 @@
+BucketList
+
+Submitted on:  September 16, 2015 - 8:01pm 
+ 
+Idea:
+ Our idea is to create a mobile app that suggests travelers, the various activities - kinda like a bucket list for every destination.
+ 
+Problem Solved:
+Travelling is an amazing experience. Ask anybody, and travelling will be on their bucket lists.However, the one thing that this experience lacks is knowing what each place is famous for and what are the things that toursits can do (or cannot do! for that matter). This is where our mobile app 'Bucket List' comes in handy.
+ 
+Functions:
+ This app 'Bucket List' is a guide for tourists about what possibilites any destination holds.Our app has the following features -
+ 1)Know about the place before the visit, what tourists can or cannot do, know  about  famous restaurants and cuisines, 
+ 2)Get automatic updates based on GPS tracking about any special events and occasions during the visit, festivals (barha barshe mela), also user will get warnings about any imminent natural calamities as well as any form of disturbances (strikes,Curfews) so that tourists do not get stranded  
+ 3)Gain information about the famous landmarks, what the place is famous for  etc
+ 4)Know about the historical significance of the place from local residents
+ 5)Social Media Integration for exchanging pictures and comments about the  destination
+ 
+ 
+ 
+Targeted audience:
+ Everybody loves travelling and this app will be a huge advantage to all the travelers and explorers, since people will have more knowledge and information about the place that they are going to visit. Our app targets tourists - both local and international.
+ 
+Main Benefits:
+Our app is designed to help tourists get information about any  destination.With the help of this app, the user will be able to know about their destinations beforehand and get answers to the questions such as -
+What each tourist destination is famous for?
+What are its features?
+What you can and cannot do at this place?
+ 
+ 
+ 
+ 
+Platform: Android  
+
+

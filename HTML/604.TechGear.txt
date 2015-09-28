@@ -1,0 +1,27 @@
+TechGear
+
+Submitted on:  September 19, 2015 - 11:15pm 
+ 
+Idea:
+ App that create a platform to ease the process of searching and buying the technical products and promote the technical stores and their products.
+ 
+Problem Solved:
+The application will solve the problem of customers and buyers who don’t have any options except to stop by each and every stores or shops around the town to buy even a single stuff. This app will provide a platform to search any type of technical gears you want to buy in Nepal such as laptops, phones, and different accessories without any stop by at place to place. They can go directly in the store they selected in the app.
+Further, for the stores (or shops), it solves the problem of creating websites, blogs for each and every store which doesn’t seems to be feasible, since there are thousands of shops and stores in Nepal. Generally, it is really difficult for the small shops to create their own websites and blogs to promote their products and reflect them in the competitive market. So this app will provide them a platform as a replacement of the website to promote and display the accessories they sell and the new product they will be selling in coming future with availability and other descriptions.
+So this app will solve the problem of both the normal user who want to buy stuffs and the storekeepers who sells it.
+ 
+Functions:
+ The main function of the application is to provide customer the virtual tour to all the technical stores in Nepal. This virtual tour in the application is intended to provide the customer easy search of the items they are looking to buy. This way they don’t have to go here and there in search of the products they are looking for. They can check each and every store in town in the app with the availability of the product and can directly go to that particular selected store to buy which ultimately save the time and money of the customer.
+The next function is to provide the instant pop up notification inside the app that keep the app user up-to-date of the new products available in market and the store where it is found with description like price, number of items left in that store and so on.
+The above notification function is completely depends on the function of the store owners. This is a next function of the app. First of all, the store name or the company or the shop needs to be register so that they can be the admin of their company in the app. After registration, they can be the admin of their company and can do different things in the app such as adding the items they are selling now, new items that are about to come, edit the items (as number of items left in store, availability, etc.). So the notification depends on this, example the notification of the particular item will be shown in the app as soon as the store owner adds it in the app and so on.
+Small shops and stores couldn’t afford the websites for their company. Even the big stores here failed to maintain their existing sites. So this element in the app will definitely replace the use of the costly website they use to promote their company and products with small effort.
+ 
+Targeted audience:
+ Target audiences are: Customers and Shopkeepers.
+ 
+Main Benefits:
+The main benefit for the normal customer is that they don’t have to roam all around town to buy any technical stuff. The app provide all the details of the stuff they want to buy such as in which store it is available right now, direction to that store (follow short path), price, number of availability, and other descriptions. Also as soon as the shopkeeper adds the new item, the instant pop up notification inside the app keeps the user up-to-date with the items available in the market. Next main benefit is for the store owners since the app will replace the use of websites for the promotion of their stores and products creating the common platform for all the technical stores in Nepal.
+ 
+Platform: Android  
+
+

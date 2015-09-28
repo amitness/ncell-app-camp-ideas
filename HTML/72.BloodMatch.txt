@@ -1,0 +1,22 @@
+BloodMatch
+
+Submitted on:  September 20, 2015 - 11:38am 
+ 
+Idea:
+ To provide platform for donar and receptor for the related blood group, nearby location, last donated date.
+ 
+Problem Solved:
+I am currently  secretary of Kathmandu University Youth Red Cross Circle(KUYRCC) at Kathmandu University. And, being in this position I came to realize that there is great gap between donar and receptor of various blood group people. They are getting difficulty in getting related blood group donar in emergency. I wanna provide you one true situation. Few days ago my senior of Bio technology called me to provide A+ blood group donar for his sister operation. Then in that situation I have to see all the list of blood donated student in Kathmandu Univeristy during blood donation program. At that time if we had an app that could give nearby people of related blood group than that would have been lot more easier and excessible to everyone who don't know me.This application contains data of donar from various places, blood banks , hospitals which gives user the nearby location, last donated date, contact address if he is available in that situation.
+ 
+Functions:
+ location searchrelated blood group searchcontact info of the donar last donated date of donar
+ 
+Targeted audience:
+ everyone who has excess to smart phones + internet 
+ 
+Main Benefits:
+1. Gives platform to donar and receptor.2. Provide easy excess to data of related blood group people and their availability.3. Could be life saver in emergeny(especially for reare -ve blood group people).
+ 
+Platform: Android  
+
+

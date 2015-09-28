@@ -1,0 +1,22 @@
+bloodgroup
+
+Submitted on:  September 17, 2015 - 8:31pm 
+ 
+Idea:
+ list all the relevant blood donor near by u with thier contact no.
+ 
+Problem Solved:
+it will bring u in contact with blood donor
+ 
+Functions:
+ to provide sufficient no. of blood donor
+ 
+Targeted audience:
+ all people and especially hospital
+ 
+Main Benefits:
+ can get blood any time of needed group
+ 
+Platform: Android  
+
+

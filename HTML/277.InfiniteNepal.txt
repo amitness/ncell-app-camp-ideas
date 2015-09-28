@@ -1,0 +1,22 @@
+InfiniteNepal
+
+Submitted on:  September 19, 2015 - 1:21am 
+ 
+Idea:
+ Give tourists an effective map of Kathmandu -- locating all major as well as minor touristic venues; also, highlighting out-of-valley venues to them.
+ 
+Problem Solved:
+It help tourists find ways in and around Kathmandu and also locate major touristic spots outside Kathmandu. It also effectively communicates with tourists to help prevent them from getting annoyed and/or cheated by Bandhas or even people. It would provide notifications about locations and the major attractions of those locations. Apart from touristic locations, it would also focus and major food items of the places along with historical as well as traditional descriptions and also update about the events, that way they would be able to take taste of every suitable aspect of tourism. The application would also be helpful in promotion of Nepal tourism and post-travel, by which it means that the tourists would be able to keep memories of the locations they visited in the single application and also share them on the social media sites. They can create photo collage and also take notes of the names of the people they meet with their contact details. Finally, they can backup their memories in storage through the application.
+ 
+Functions:
+ 1. Effective Map2. Updates of events 3. Notifications on every touristic issues4. Highlighting locations outside of Kathmandu5. Keeping contacts and other detailed information about other locations6. Store and share memories
+ 
+Targeted audience:
+ Tourists, both national and international are probably the audience targeted through this application. Tourists, either coming for entertainment or business, can take advantage of their stay by getting updated with the events at the locations in and around their living area. 
+ 
+Main Benefits:
+The tourists would take full advantage of their stay in Nepal and don't have to bother to store the memories with note-taking or taking photos through any seperate device. The memories would be stored in the application and it would be easily available for storage. They would also never lose the contacts of the people they met during their stay and remember Nepal forever, probably wanting to visit again.
+ 
+Platform: Android, Windows phone, SMS  
+
+

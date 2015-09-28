@@ -1,0 +1,37 @@
+Bookeasy
+
+Submitted on:  September 17, 2015 - 11:48pm 
+ 
+Idea:
+ App that let user to check for events, plays, movies and other entertainment activities happening around you and book and buy tickets effortlessly.
+ 
+Problem Solved:
+The problem that this app will solve are
+1. People may miss their most awaited events as they can forget the date for event.This app will notify them about their most awaited events
+2.They do not have to stand in queue to buy their ticket.This app will provide an easy and efficient way to book their show.
+3. Let user to know about all the happening events and event details.
+ 
+ 
+Functions:
+ Events
+Lists of events categorised under different topics like movies, sports, plays etc
+User Profile
+Let user to select their prefrences and get notified when booking opens for most awaited events.
+Search
+Let user to search for event .
+Book and Buy Ticket 
+User can either book the ticket for their show or can buy the ticket.
+Purchase History
+Let user to track past purchases.
+ 
+ 
+Targeted audience:
+ It cover all the people who like to watch movies, plays, sports etc
+ 
+Main Benefits:
+This application is definitely a one-stop shop for all your ticketing and entertainment shows.This will let user to  check events listing, event show time, event venue and book their tickets on the move using their Android Devices.
+ 
+ 
+Platform: Android  
+
+

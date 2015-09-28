@@ -1,0 +1,22 @@
+BechauFatafat
+
+Submitted on:  September 20, 2015 - 10:34am 
+ 
+Idea:
+ The app enables user to buy and sell their second hand items online. 
+ 
+Problem Solved:
+People have lots of second hand items which create issue of space and management in their room/house. They are unable to find purchaser for such items as well. The app helps them resolve the issues of second hand items which have gone obsolescent for them. 
+ 
+Functions:
+ The main function of my apps are:1. Upload information about second hand items2. Search and surf functions about products the users intends to buy3.Match the query of user with most favorable options available for them
+ 
+Targeted audience:
+ The target audience of my app includes a broad range of users who are looking for purchase of economical items as well as sale of their second hand items.
+ 
+Main Benefits:
+1.People can get rid of the second hand item 2.People can get good pay for the sale of their items and buy new products they were longing to buy using the cash3.People looking for second hand items can get products as reasonable price4.It allows users to bargain over the buy or sale of products
+ 
+Platform: Android  
+
+

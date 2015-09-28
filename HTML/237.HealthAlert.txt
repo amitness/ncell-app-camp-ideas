@@ -1,0 +1,24 @@
+HealthAlert
+
+Submitted on:  September 20, 2015 - 9:59am 
+ 
+Idea:
+ Health Alert Application is the daily calculation of water level and calories of user's body and, notify and alert them.
+ 
+Problem Solved:
+ 
+
+The Health Alert Application keeps track of the consumption time of water and calories and calculate the consumed amount on that time. The amount of water and calories to be consumed can be defined by the user as per their need and their age, then the application determines the next consumption time. If the user approaches its consumption time, the application alerts the users.
+ 
+Functions:
+  The application records the last time consumption of water and calories and alerts the user for the next consumption time. The application's standard predefined calculated amount of calories of different items would provide the information about the suitable item for the users.
+ 
+Targeted audience:
+  This application is targeted for  user who are health conscious.
+ 
+Main Benefits:
+ Nepalese are poor in health conscious and they are unaware of amount of water and calories to be consumed. So, this application would timely keeps the user to be health conscious by notifying them. Aside from it, this application would be very beneficial for the young generation girls who are very conscious regarding their body fitness and gets worrying about what to eat and how much to eat. By customizing the time interval and items to be consumed, the application keeps alerting until the user takes the necessary actions.
+ 
+Platform: Android, iOS  
+
+

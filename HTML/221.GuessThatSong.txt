@@ -1,0 +1,44 @@
+GuessThatSong
+
+Submitted on:  September 20, 2015 - 12:09am 
+ 
+Idea:
+ Musical game that challenges you to identify songs based on short audio clips or some facts.
+ 
+Problem Solved:
+
+Lets you get familiar with different songs and music.
+Kill boredom
+Provides you information about the artist, record label, musicians involved and other interesting facts about the songs.
+Music has been proven as a strong friend to every one, so it will surely destroy loneliness.
+Music is brought closer by an engaging game not for only individual purpose, but also group fun.
+Provides recognition to local and international artists who created the song.
+
+ 
+ 
+ 
+Functions:
+ 
+The app plays a brief audio clip and you will be given choices about the title, artist or any other information about the clip and you will have to identify the correct answer.
+It may also present a direct question related to a song with options.
+Points will be scored on the basis of number of retries, response time.
+If other players are online, you can challenge them.
+
+ 
+Targeted audience:
+ 
+This is a simple game so, any one that enjoys music and likes quizzes can play this.
+Mainly users of ages 13 to 35 will enjoy this the most.
+
+ 
+Main Benefits:
+
+Provides full entertainment to all music lovers.
+Gain knowledge about songs and artists.
+Explore different songs.
+Play with a friend or make a new one online and challenge them to beat your score.
+
+ 
+Platform: Android  
+
+

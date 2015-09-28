@@ -1,0 +1,22 @@
+FirstAidDroid
+
+Submitted on:  September 19, 2015 - 1:42pm 
+ 
+Idea:
+ An android application that provides information on how to perform the required first aid in different situations.
+ 
+Problem Solved:
+When faced with an emergency health situation we might not know how exactly to deal with that situation. This application can teach you about different first aid techniques and what/how to do them. It can be learnt beforehand or be used to look it up during the emergency.
+ 
+Functions:
+ 1.The application will provide first aid tutorials for a multitude of situations. 2.It will provide step by step instructions on what to do and what not to do. 3.Basic knowledge regarding the emergency will also be shown in the form of FAQs
+ 
+Targeted audience:
+ This application is targeted towards the entire general public who have an android smartphone. An emergency can occur at any time to anyone. This application may help save a life by providing first aid knowledge.
+ 
+Main Benefits:
+The absolute main benefit of this application would be that anyone can be equipped with the knowledge to atleast perform emergency first aid in case of such a situation where it is critically needed.
+ 
+Platform: Android  
+
+

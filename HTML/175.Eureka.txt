@@ -1,0 +1,38 @@
+Eureka
+
+Submitted on:  September 8, 2015 - 11:52am 
+ 
+Idea:
+ Financial app to buy, sell and bid daily commodities including bullions at Real time price or the price you think is best for you 
+ 
+Problem Solved:
+Last time when bullion price reached record low, how many of you got chance to buy gold at that price; very few because most of the bullion shop was shut down to prevent themselves from selling bullion at low price.
+Another example, Nepal rank among top 5 in ginger production in world. Farmers who produce ginger in anticipation of selling it at high price had to leave ginger in field because price nosedived due to surplus supply in domestic market. There is no mechanism to export ginger to world commodities market.
+Nepalese are unable to be benefited from commodities price volatility that happens in international market due to limited options to deal from. The professional dealing platform that is available in international market that is maximizing the profit from agricultural sales and certainty of sales of the product produce by framer is missing in Nepal.
+eDealer provides online platform for commercial as well as non-commercial user to deal professionally the quality product, You can either buy at the Real Time price/ market quote or place bid for the available product you feel right. You can even ask the price for the product you feel profitable from the hundreds of buyer available at the market.
+As eDealer is an online platform, the market will be in 100% transparency level and will eradicate any malpractices that are so common in spot market.
+ 
+Functions:
+ 1.       Buying at Real Time Quote
+2.       Bidding
+3.       Ticket number generation and complete transaction details                         recording
+4.       Different interface for the commercial user (admin)
+5.       Order matching engine
+6.       Deposit/Withdrawal request
+Many more
+ 
+Targeted audience:
+ All the Nepalese interested in smart investment and portfolio management, eDealer is very useful for commodity commercial users to reach to the spectrum of mass that is not possible without online platform.
+ 
+Main Benefits:
+1.       In Nepalese spot market bullion (gold & silver) price updated only once a day, however in eDealer users can get access to international markets’ Real Time price that might change many times in a second. Hereby client can buy the bullion at the best price available in the given time period.
+2.       Users might opt to buy the bullion or other commodities at their desired price, Real Time bidding option gives them the option to set the desired price and wait for their order to be executed once the Real Time Quote get matched or somebody want to sell their commodities at the given price.
+3.       User can book commodities in just a fraction of the total value and pay later at the time of delivery facility helps them to manage their liquidity smartly and never again be the prey of opportunity cost.
+4.       As bank will be collaborating along with other stakeholders of daily commodities, user can get their delivery to the closest point possible from their location (in bullion case).
+5.       There will be an account section, where user can deposit or withdraw from it, the fund will be used during booking of the commodities (any bullion or agricultural products) and hence erase any chance of default on order.
+6.       Users will have option to analyze the market from past history and chart pattern integrated with eDealer
+7.       Users can sell their quality test passed  product by placing either ask price for the product or on the Real Time Quote of the product at given time.
+ 
+Platform: Android  
+
+

@@ -1,0 +1,52 @@
+Health360°
+
+Submitted on:  September 20, 2015 - 2:27am 
+ 
+Idea:
+ Covers all the health problems along with their causes,symptoms, preventions and precautions and manages appointment plus help get more accurate tips.
+ 
+Problem Solved:
+1. GIves accurate and detailed information on all the health majors and minors.
+2. Offline built in functionalities to help users get proper knowledge about the types of problems they want to deal with.
+3.Online appointments linking direct hospitals such that patients can get the exact scheduling of their appointments with concerned doctors.
+4. Detailed locations  of each and every hospitals,clinics,health centres,medical shops around each and every corners of the globe.
+5. Helping teenagers as well as elders to deal with the situations immediately with proper guidances available within the selected categories.
+5. Images and posters relating to kind of stages they are in during different phases of their illness.
+6. reminders and notes on daily basis plus managing the medicine consuming routines.
+7. Detailed info about the prescribed medicines whether its ayurvedic or allopathic and locations of their availabilities.
+8. Procedures to make homemade remedies for common allergies or minor health disorders
+9. This app is meant for 'one for all' means solve all types of injuries and illness.
+10. Physically disabled, mentally retarded beings can also be benefitted by speak and know voice recognition programs installed within.
+11. Also gives informations on workouts and fitness trainings for maintaining good posture and better health.
+12.Provides proper guidance on what kind of food or nutrients users need to consume.
+ 
+ 
+Functions:
+ 1. Database of hospitals appointments
+2. Interaction with nearby medical  centres and stores
+3. Gym and body building tips
+4. Essential diets and nutrients for better health
+5. voice recognising while typing or by speaking for physically impaired
+6.provides knowledge of ayurveda and allopathy
+7. skill to make homemade remedies
+8.managing routines and reminders 
+9.accurate and effective built in prescriptions.
+ 
+ 
+Targeted audience:
+ Users ranging from newly born baby to old aged elders both male and female can be benefitted through this application. It deals with the various phases of human life i.e from infants to teenagers problems along with increasing ageing problems in old peoples.
+ 
+Main Benefits:
+1. users dont need to get each and every app installed for various health related problems since this product covers all of them i.e 360 degree app
+2. Immediate and urgent conditions can be handled easily through the proper and accurate guidance this app aims to provide
+3.users dont need to rely on doctors for their appointments.. direct linking with hospital database can help solve this problem
+4. Important locations af all medical stores and centres are within the app
+5.It also aims to provide users with homemade remedies for mostly all problems
+6 helps to gain good posture and maintain healthy diets.
+7. online appointments can be scheduled with better persistency.
+8. disabled and physically impaired people can also get better facilities and informations.
+9. no need to remember important dates.. since it maintains  day to day routines and reminders.
+ 
+Platform: Android  
+
+

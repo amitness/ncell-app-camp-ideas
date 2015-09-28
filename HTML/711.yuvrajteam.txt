@@ -1,0 +1,22 @@
+yuvrajteam
+
+Submitted on:  September 19, 2015 - 7:35am 
+ 
+Idea:
+ App to calculate monthly finance and to do online shopping  which has a collection of shopping sites with discount
+ 
+Problem Solved:
+It automatically calculates all monthly or weekly saving and user can get all online shopping sites in one place with discount 
+ 
+Functions:
+ user can get all online shopping sites in one place with discount 
+ 
+Targeted audience:
+ all people who are intrested in online shopping
+ 
+Main Benefits:
+user can get all online shopping sites in one place with discount 
+ 
+Platform: Android  
+
+

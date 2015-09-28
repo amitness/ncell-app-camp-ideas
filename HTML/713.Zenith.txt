@@ -1,0 +1,77 @@
+Zenith
+
+Submitted on:  September 3, 2015 - 11:14pm 
+ 
+Idea:
+  
+An app for making your travel easier, providing the necessary information along with full concern of your accomodation,security and convenience.
+ 
+Problem Solved:
+ 
+
+Thinking of a great weekend plan, but confused where to go? Not to worry, we are here to solve your problem completely. Our app will give you the related information about the tourism areas, travel schedules with their respected routes as well as touristic destinations to visit just within your fingertip. Moreover, we will also help you in finding the best accommodation as per your budget including the reservation service in the hotels you’d like to stay. In addition to this, we would also include the location and necessary details about the currency exchange center. Travelers are our assets, so your security is now our responsibility. Click once when you’re in trouble, concerned authorities would be there to help you. Having problem on packing your bags, what to take and what not to? Grab a suitcase, and start packing because our app will guide you, about required goods that you needn't forget while planning for a journey including the daily weather update of your destination place!! And most importantly, we will have the language translator so that tourists will not have any difficulty in communicating with Nepalese people. In addition to this, we will also have the provision of contact between tourists and tourist guides as well as porters which will automatically help both Guide and tourists. So, this app will solve each and every one of your problem during your travel to make it memorable.
+
+ 
+ 
+Functions:
+  
+Main functions and elements are:
+
+a) Trekking route info
+b) Hotel comparison and booking
+c) Home stay location and booking
+d) Nearby ATM/bank location in the city
+e) Bus/air ticket booking
+f) Travel mate finder
+g) Weather info
+h) Local cultural/traditional event info
+i) Local culture/tradition/food varieties/people info on detail
+j) Photo/video gallery of various exotic places from all over Nepal.
+k) Find affordable Car/cycle/motorbike on rent anywhere you go.
+
+
+ l) Help the tourist in trouble through GPS tracking when they are in need.
+m) Perfect world clock .
+
+ 
+ 
+
+
+ 
+ 
+Targeted audience:
+  
+
+Followings are our audiences:-a) Travel lovers:- Anybody who loves to travel can use this app to get all the information about the place they're going to travel. Users can find like-minded people who wanst to travel and are looking for travel mate.
+b) Tourists:- National and international tourists can use this app as a companion to plan before traveling as well as during traveling..
+c) NG bodies:- Government bodies can promote tourism through this app.
+d) Local Businessman :- Local business peoples can place ad,offers and promote any special events they are organizing to attract more audiences.
+e) Homestay Service provider:- As homestay is going famous all over Nepal,homestay service provider can make great benefit from this app.They can place their ad, create profiles and mention their services and faciliteies. Tourist can see and select as well as book their rooms.
+f) Hotels:- Hotels can place their ad to reach out more audiences, travelers can compare many hotels,their services and price as well as reservation is also done.
+g) Travel agencies:-Agencies can make benefit from this app.Can make their customer more satisfied.
+h) Tourist Guide:-Can create their profile so tourist directly can contact them via app or contact no. available. No mediator between tourist and guide.
+ 
+i) Schools:- As detail info about culture,tradition of all the touristic places in Nepal are available,school can teach their student about local tradition,history,local food,language,people.
+ 
+ 
+
+ 
+ 
+Main Benefits:
+ 
+
+Our application is equally beneficial for both local as well as international travelers. This aids them in their journey in mainly the following ways:
+1. It is easier to locate the best hotels and restaurants nearby your location and reservation system is also available. 
+2. It will help you translate your language into Nepali so that every Nepalese can help you during your journey.
+3. It will give you all the weather information and the required things needed in your journey according to the place you want to visit.
+4. It will help you out when you’re in trouble assuring your full security through accessing your GPS location.
+5. It is helpful for hotel owners and tourism-based employees to enlarge their business through promotion and advertisement.
+6. Since our app directly interacts tourists with tourist guides, their unemployment problem would be solved automatically.
+7. Tourism sites which are in shades will also be emphasized by our app so that total rate of visitors will gradually increase.
+ 
+
+ 
+ 
+Platform: Android, Windows phone  
+
+

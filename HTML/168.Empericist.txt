@@ -1,0 +1,39 @@
+Empericist
+
+Submitted on:  September 19, 2015 - 8:16am 
+ 
+Idea:
+ Our main idea is to create a game which can also be played by disabled people (like those who are visually impaired).
+ 
+Problem Solved:
+1. Entertainment - even for disabled people (like those who are visually impaired)
+2. Empathy - other people playing this game will come to understand how difficult it is to live with disability and hopefully will become more compassionate
+ 
+ 
+Functions:
+ The main function of our 'GAME' is 'ENTERTAINMENT' - for everyone
+   Elements:
+1. We will use advanced audio engines to create realistic audio feedback so that visually impaired audiences will be able play the game without the advantage of graphics.
+2. We will use different noval mechanisms of feedback like haptic feedback to communicate with the users.
+3. We will use sensors and outputs in the device such a way that it will become an extension to the user
+4. We will refer to the guidelines provided for creating user interfaces for disabled and extend it to interactive media while designing UI/UX and gameplay
+   Functions
+1. Even people with disability will be able to able to play and enjoy our gane
+2. With a different type of user output we aim to release a new type game
+ 
+Targeted audience:
+ Our main target audience are people with disability. There are many games in the market but none of them seem to be specifically for the entertainment of disabled people (like those who are visually impaired).
+Our secondary market also include the people who want to have a walkthrough of disabled peoples lives so that they can understand and help them better. Our game hopes to provide them that oppourtunity.
+ 
+Main Benefits:
+Like the benifits from any game, the main benifit to the user is that s/he will be entertained. However the further benifit is that even the disabled people will be able to play.
+Moreover research has suggested that playing games can also have some of the following benifits:
+- improved cognitive abilities
+- improved problem solving
+- enhanced self confidence
+- boost competetiveness
+- refresh peoples minds
+ 
+Platform: iOS  
+
+

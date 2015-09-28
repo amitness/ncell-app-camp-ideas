@@ -1,0 +1,24 @@
+ReadersCLub
+
+Submitted on:  September 13, 2015 - 10:31pm 
+ 
+Idea:
+ Create social network of avid book readers to recommend and exchange books among themselves.
+ 
+Problem Solved:
+Reader's Club is about starting a trend on interaction among strangers to establish a society where they can express their love of books rather than addressing an existing problem.
+ 
+Functions:
+ Reader's Club is a social network focused for book lovers. In app there will general section with common recommendations for books. The app will allow users to create their own group (where they can add members) and chat among themselves, discuss on a book, provide notes on the book and exchange books on their mutual consent.
+Reader's Club will also recommend one group to another on the basis of their common interest.
+ 
+Targeted audience:
+ Anyone interested in literature.
+ 
+Main Benefits:
+There are millions of book recommending sites and apps all over the internet. Elite society has filtered the masterpieces through the centuries and provided us with the highly recommended list of good reads. Our expectations, emotions and social perspective differ according to our society and upbringings.
+We aim to bring a platform where book enthusiats interact with their preferred group. It is a society where we can recommend, exchange, discuss and analyze books.
+ 
+Platform: Android, iOS  
+
+

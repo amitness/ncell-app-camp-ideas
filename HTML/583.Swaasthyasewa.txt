@@ -1,0 +1,32 @@
+Swaasthyasewa
+
+Submitted on:  September 17, 2015 - 5:00pm 
+ 
+Idea:
+ App to know about diseases,first aid that locates nearest hospitals,clinics,medical stores, ambulances,reminds menstrual cycles, medicines,injections.
+ 
+Problem Solved:
+- helps to know about symptoms of many diseases like diarrhoea, common cold, round worms, flu etc  and how they can be treated at home(if they can be) without taking antibiotics and expensive treatment fees.
+- locate hospitals, clinics, medical stores, ambulances nearby your location and contact them to know if they are at service or not so that you don’t have to run throughout the town helplessly at any time of the day/night.
+- reminds you about your menstrual cycle and amount & time intervals for your medicines, injections so that you don’t get yourself into trouble and miss your important medicines, injections.
+ 
+Functions:
+ -First aid tips during emergency.
+-Symptoms and treatment of diseases at home
+-locations of hospital, clinics, medical stores and their contact addresses.
+-reminder for menstrual cycle, time and amount of medicines and injections to be consumed.
+-a health tip each day.
+ 
+Targeted audience:
+ Any person who wants health services to be available easily and instantly.
+ 
+Main Benefits:
+-	The users will get to know about first aid in emergency.
+-	Users will treat themselves for diseases like diarrhoea, common cold at home.
+-	This app will help the users to contact the nearby hospitals, clinics, ambulance.
+-	App will contain a reminder that reminds  about user's mentrual cycle dates and  information about  changes in health that occur during menstrual period.
+-	Users will be alerted to take right amount medicines/injections in time.
+ 
+Platform: Android  
+
+

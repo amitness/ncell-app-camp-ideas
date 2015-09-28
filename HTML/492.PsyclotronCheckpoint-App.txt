@@ -1,0 +1,26 @@
+PsyclotronCheckpoint-App
+
+Submitted on:  September 20, 2015 - 9:02am 
+ 
+Idea:
+ A tourist checkpoint app which keeps update of the places they visit with total privacy, which helps to track them if in case they are lost.
+ 
+Problem Solved:
+Time and again tourists are stuck or they get lost in the places they visit. The app keeps track of the places based and keep it updated in map so that it serves as check point to help authorities to find them if in case they are believed to be lost or out of contact.
+ 
+Functions:
+ -survey based check point on the places tourists visit
+-total privacy
+-help tourists about the features and attractions of the places
+-keep their near ones updated to their location based on their consent
+ 
+Targeted audience:
+ Tourists who wish to install this app and share their location on their visit
+ 
+Main Benefits:
+- track tourists if they are lost
+-notify about the attraction and features of the place they visit,etc
+ 
+Platform: Android, Others(General phone with telecom connection)  
+
+

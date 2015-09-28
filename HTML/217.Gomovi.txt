@@ -1,0 +1,31 @@
+Gomovi
+
+Submitted on:  September 8, 2015 - 7:03pm 
+ 
+Idea:
+ Provide a centralized portal for checking out all available movie shows at all theaters and booking / ticket purchase facility.
+ 
+Problem Solved:
+Provides convenience and easy information access for people who are trying to book tickets for a movie show.
+Users need not check multiple portals to view the status of each theater and instead get a centralized information for all the shows and can easily book or purchase tickets online.
+ 
+ 
+Functions:
+ Book / Purchase online movie tickets
+User rating for theaters and their services
+Movie rating from local people
+ 
+ 
+Targeted audience:
+ People who go to watch movie in theaters and hate standing in long ques for purchasing tickets or checking multiple portals to book a show.
+ 
+Main Benefits:
+One step portal to access all required information about any theater in town
+Provision to rate theaters and their services
+Price comparison betweeen theaters
+Movie rating from local people
+ 
+ 
+Platform: Android  
+
+

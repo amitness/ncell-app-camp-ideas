@@ -1,0 +1,48 @@
+Healthy-I
+
+Submitted on:  September 18, 2015 - 10:50am 
+ 
+Idea:
+ Select your symptoms and find out possible dieaseas that you are going through along with ways to solves them.
+ 
+Problem Solved:
+1. Get best possbile home treatment of dieseas based on your symptoms.
+2. provides information about adolescence  health education and sex education
+3. Helps to  maintain your health according to daily calories needed.
+4. Provides information and assistance about child and maternal health.
+5. Encorage people to share their health problems to others 
+ 
+ 
+Functions:
+ 1. Symptoms specific details of diseases.
+2. Doctor specific Details.
+3. Details accoring to users health conditions.
+4. Nearest Clinic/ Hospitals/ Healthpost.... based on their location.
+5. Notifications during nationals immunization program.
+6. Teach healthy food habits 
+7. SMS notifications to nearest blood doners.
+ 
+ 
+Targeted audience:
+ 1. Busy schedule people
+2. Teenagers
+3. Pregnent women
+4. Shy people to their health problems
+5.  Health Conscious people
+6. People who are far from health centres and hospitals.
+ 
+ 
+Main Benefits:
+1. Can get best free possible medical assistance based on symptoms 
+2. Maintain your daily calore need with help of bulit in calore meter
+3. Keep records of all medicals treatment you go through.
+4. Locate the nearest blood doners on emergency.
+5. Enter your age, weight, height, actvity schedule to get food consumptions with calories values information.
+6.  Get information about nearest hospitals and helath care centres.
+7. Provide contact details about docters based on particular diseases.
+8. Provide good foods schedules during pregnency
+ 
+ 
+Platform: Android, iOS, SMS  
+
+

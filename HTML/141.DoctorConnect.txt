@@ -1,0 +1,35 @@
+DoctorConnect
+
+Submitted on:  September 19, 2015 - 8:08pm 
+ 
+Idea:
+ Our app is based on the use of IT for public health, our aim is to virtually connect end-users and professional doctors for consulting their problems.
+ 
+Problem Solved:
+Due to environmental changes and unhealthy food more and more people are getting sick and with the increasing number of smartphone users, we(developers) could easily use this opportunity to create new services for people.
+Our  app is based on the use of IT for public health approach. Our aim is to virtually connect doctors and patients. Simply speaking, it’s a app where end-users can consult on health-related topics with professionally registered doctors and specialists. Especially if the patients are far away from health centres or don't prefer to openly share their problems.
+ 
+Functions:
+     1.  Realtime chat with voice and video calls between doctors and patients.
+    2.  Consult with real professional doctors.
+    3.  Get recommendation on common problems from the comfort of your own home or detect problems early that may make things difficult later.
+    4.  A whole community to share your problems with.
+ 
+Targeted audience:
+ - People who would like to consult on their health from their own home.
+- People who want to save some time from going to the hospitals.
+- Confidential people who don't want other people to know about their problems.
+- Helpful for patients from remote areas where specialized doctors are not around.
+ 
+ 
+Main Benefits:
+    1.  Getting prompt treatment.
+    2.  Reliable consultancy.
+    3.  Time-management.
+    4.  Quick diagnosis of problems.
+    5.  Private consults with different doctors.
+    6.  Get diagnosed by specialists.
+ 
+Platform: Android  
+
+

@@ -1,0 +1,63 @@
+NepaliCampers
+
+Submitted on:  August 23, 2015 - 10:40am 
+ 
+Idea:
+ An app targeting Internal and External tourists to provide them with all the information they need to know including Real time Language Translation.
+ 
+Problem Solved:
+This App solves all the problem to internal and external tourists as listed below:
+ 
+1) Problem of having to search through Numerous sites and Agencies to find a best place/hotel to stay.
+ 
+2) Problem of having to search through Numerous sites and Agencies to find a proper place to visit.
+ 
+3) Problem of experiencing unexpected weather.
+ 
+4) Problem of having to hire a translater or go through basic tutorials just for communication.
+ 
+5) Problem of having to carry all their money due to lack of daily expenditure estimation.
+ 
+6) Problem of Currency Conversion.
+ 
+7) Problem of having to solve all the above problems separately.
+ 
+Functions:
+ The main elements of our app can be listed below:
+ 
+1) The app provides the location of the nearby restaurants and provides an approximate navigation to that place.
+ 
+2) This app also notifies the users about random facts of upcoming events in their particular location.
+ 
+3) This app provides a rough chart so that the user can estimate a rough amount of money to carry with them for the whole day.
+ 
+4) This app also provides a small panel to convert basic communicative statements from nepali to english. It also provides some audio feedback of selective sentences.
+ 
+5) This app also allows the user to go through all the places to visit, stay or eat, to get the best possible and the most comfortable place for them.
+ 
+6) This app encorporates all the above feature, so now the user will have less workload and can spend his vacation freely.
+ 
+ 
+Targeted audience:
+ Our target audience are the internal and external tourists, that are wanting to spend a quality day on the land of Nepal.
+ 
+Main Benefits:
+This App benifits all the problem to internal and external tourists as listed below:
+ 
+1) They dont need to go through Numerous sites and Agencies to find a best place/hotel to Stay.
+ 
+2)  They dont need to go through Numerous sites and Agencies to find a proper place to Visit.
+ 
+3) They dont need to face unexpected weather.
+ 
+4) They dont need to hire a translater or go through basic tutorials just for communication.
+ 
+5) They dont need to carry all their money due to lack of daily expenditure estimation.
+ 
+6)They dont need to go through the headache of Currency Conversion.
+ 
+7) They dont need to choose the best hotel to stay in.
+ 
+Platform: Android  
+
+

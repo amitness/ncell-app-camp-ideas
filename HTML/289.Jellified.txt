@@ -1,0 +1,22 @@
+Jellified
+
+Submitted on:  September 4, 2015 - 11:39am 
+ 
+Idea:
+ A cute, addictive, jellicious platform game where players help the cute little Bubby find his magical Jelly in jellyish land.
+ 
+Problem Solved:
+There are very few games available that are so cute and joyous enough to make your day. We are contributing to solve this problem by adding one more game to the list. Also there is no 3D platform game that has jellyish floor and multi-dimensional gravity physics and Depth of Field camera altogether. So our game will solve this game design problems too.
+ 
+Functions:
+ Jellified is a 3D auto moving platformer game making it easier and fun to play. The storyline of this game happen in Jelly Heaven where the evil Jello snatches the magic stick  of Bubbly. Jello misuses the magic stick and traps Jellians. The gameplay includes the character Bubbly travelling in a sled freeing trapped Jellians and earning points. The Heaven doesnt have gravity so sled can climb in steep lands too. The gameplay is exciting due to use of lots of particles effects for speed ups, freeing the trapped Jellians, etc. This game is being developed in Unity Game Engine.
+ 
+Targeted audience:
+ Almost everyone who has human like fingers. It is a game designed for 3+ age groups. This game is not intended for the users having severe heart problems since the game may excite them to death.
+ 
+Main Benefits:
+Well, If your kids are crying and not letting you do your chores, you can hand them this game. Or If u r waiting someone or you are in bad mood, this game will save your day. It may also relieve your heart problems although there is no research to prove it. But it is guaranteed, this game will keep you happy.
+ 
+Platform: Android, iOS, Windows phone  
+
+

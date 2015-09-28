@@ -1,0 +1,27 @@
+SmartNepaliHome
+
+Submitted on:  August 23, 2015 - 9:49am 
+ 
+Idea:
+ App which calculates and informs about amount which is to be paid monthly and in installment basis so that we easily manage money on time.
+ 
+Problem Solved:
+This app slove two problems.Normally we have lots of thing to pay in monthly basis like, electricity bill,TV/internet/Phone bill,Water bill,Bank loan,Insurance premium,college/school fees,finance installment,office rent/TAX,home rent/TAX etc. But the problem is we dont know all the exact time when to make individual payments so that sometimes we can not get enough time to manege money. This app informs along with money amount certain time before so that we can manage respective money on time.This app also alerts about other important events like monthly health check up, Special events and functions, meeting and programs so that we can be in time.
+ 
+Functions:
+ 1.Notifiy users about near coming payments along with total amout to be paid.
+1.Notify users about next events and functions(already set by user before).
+3.calculates estimated amount to be paid within month and year.
+ 
+ 
+Targeted audience:
+ Taget audiences of this app is all home owners, office owners, finance managers in office,all those who live in rented house. This app can be used by anyone who want to manage their monthly money tansaction.
+ 
+Main Benefits:
+1.Main benifit for users is they get enough time to manage money.
+2.They can manage their time to attent all events and functions.
+ 
+ 
+Platform: Android  
+
+

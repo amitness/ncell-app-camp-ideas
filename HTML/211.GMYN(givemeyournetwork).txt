@@ -1,0 +1,22 @@
+GMYN(givemeyournetwork)
+
+Submitted on:  September 9, 2015 - 11:21pm 
+ 
+Idea:
+ just like sharing internet through hotspot, what if we could share network.
+ 
+Problem Solved:
+it helps in urgency ,when you are out of your network coverage and the person beside has access to it, you can share and make an important call may be.
+ 
+Functions:
+ The main function is to access to the network thorugh other`s network, and the elements would be wifi-direct ,or bluetooth or may be a hotspot.
+ 
+Targeted audience:
+ general people are the targated area as every single person is gonna need it.
+ 
+Main Benefits:
+as i`ve said above, it will be an advantage over the network problem that usually araises, weather in the city or village.
+ 
+Platform: Android  
+
+

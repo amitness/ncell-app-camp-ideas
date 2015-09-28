@@ -1,0 +1,22 @@
+SSPApp
+
+Submitted on:  September 10, 2015 - 10:25pm 
+ 
+Idea:
+ Money transfer sytem using mobile simcard and mob. number as account number by tourist, and nepalese
+ 
+Problem Solved:
+Fake foreign currency, Robbery,Exact price of anything, No confusion of the currency
+ 
+Functions:
+ Can send the money in Rs, $ and pound. Local remmitance,Deposite the money in bank account.
+ 
+Targeted audience:
+ Tourist and all the android users
+ 
+Main Benefits:
+Local remmitance,Online payment system consumes the time ,tourist no need to exchange the money, people dont need to change the money 
+ 
+Platform: Android  
+
+

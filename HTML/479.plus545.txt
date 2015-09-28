@@ -1,0 +1,22 @@
+plus545
+
+Submitted on:  September 17, 2015 - 5:22pm 
+ 
+Idea:
+ An app that provides information about events ,weather,highway obstruction and traffic update happening in different cities of our country.
+ 
+Problem Solved:
+Provides information that are vital before someone is making his/her presence somewhere, gives them the full knowledge of environmental scenerio . Also helps peope connected with different types of new information on product .
+ 
+Functions:
+ Like I mentioned events, weather update, highway and traffic obstruction ae provided as the inforrmation. In addition , some elements like Bhrikutimandap today that will show the events that are organized in Bhrikutimandap, through the app. Further, new product launch basicallly intended for high-end customer will also be part of our app contents.
+ 
+Targeted audience:
+ Those who use smartphones , means everyone because events like concerts , seminars, melas, training programmes are provided as the information and weather updates of of places, information on highway  obstruction are the areas that this app wil provide. Also the people who search new market updates on different  product like gadgets, automobile and so on .
+ 
+Main Benefits:
+Provides a complete edge to smartphone users and movers who neeed prior information so that they can save time and keep them updated about happenings in Nepal.
+ 
+Platform: Android  
+
+

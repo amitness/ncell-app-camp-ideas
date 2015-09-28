@@ -1,0 +1,28 @@
+Xpereance
+
+Submitted on:  September 20, 2015 - 10:46am 
+ 
+Idea:
+ The app  recreates the best possible experience for tourist of visiting a new place as reffered to them by  friends or visitors.
+ 
+Problem Solved:
+Tourists waste their limited time and budget wandering in places of less importance/excitement .With our app experience aggregator algorithm ,new tourists can have a pre-planned travel experience. Tourists who have visited Nepal can describe the best experience they had,places they visited,hotels they stayed,adventures they had done which are then recreated for the users based on the time and budget available to them.We create a custom,preference based travel experience to the users.
+ 
+Functions:
+ The main function of our app is to recreate a custom travel packages based on the user preference and his/her peers referal.
+Our algorithms aggregates the different variables to output a customized travel package that best suits the user.
+ 
+Targeted audience:
+ We target the adventure and thrill seeking tourists who are on a limited stay in Nepal.
+Tourists with yearly income of more than $40000 are preffered.
+Users from Europe, America and Australia are targeted.
+ 
+Main Benefits:
+Users can get the best moments and experience in visiting new places.
+Our travel plans will be take account the amount and time,the users are willing to spend on the particular place.
+Custom packages dependent of tourists likes,preferences and adventures are generated.
+Visitors not only can tell about expeirence,moments and fun they have but refer their peers to relive those exact (nearly) moments.
+ 
+Platform: Android  
+
+

@@ -1,0 +1,22 @@
+marbles
+
+Submitted on:  September 19, 2015 - 10:32am 
+ 
+Idea:
+ this is a nepali marble game which you can play with your friends as well as with the ai
+ 
+Problem Solved:
+this game is for entertainment purpose
+ 
+Functions:
+ there will be player marbles and a portal where players attack at each others marble and then make it to portal to get points. whoever scores highest in a given amount of moves wins.
+ 
+Targeted audience:
+ anuyone with android device can play this game
+ 
+Main Benefits:
+this game can be real entertaining.Plus it can be played online.
+ 
+Platform: Android  
+
+

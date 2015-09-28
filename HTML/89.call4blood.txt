@@ -1,0 +1,24 @@
+call4blood
+
+Submitted on:  September 19, 2015 - 4:45pm 
+ 
+Idea:
+ Building a bridge application between the blood donors and needies.
+ 
+Problem Solved:
+It eases the process for anyone to find a fresh blood.
+ 
+Functions:
+ 1. Eases the gap between the blood doonors and the needies
+2. Motivate the donors to continuing the good job they are doing by providing them discount card with our collaborators
+3. Inspire people to do the same
+ 
+Targeted audience:
+ Active blood donors of the society and the hospital, blood banks, ingos
+ 
+Main Benefits:
+User can get fresh blood donor at his place rather than keep searching everywhere in a panic situation.
+ 
+Platform: Android  
+
+

@@ -1,0 +1,33 @@
+EDU_QUIZ
+
+Submitted on:  September 18, 2015 - 7:11pm 
+ 
+Idea:
+ Learning With Fun
+ 
+Problem Solved:
+Academic learning has always been a loathing task for students of all levels. If the same courses were to be provided in an interactive way, learning can become fun.
+Our application will help students  learn and memorize lots of helpful points from within their academic syllabus in a very engaging way, which otherwise might have been a tedious job.
+ 
+ 
+Functions:
+ $ Real-time Head-to-Head Gameplay
+$ Questions Based on Academic Syllabus
+$ Lively User Experience
+$ Simplified Learning Process
+$ Participatory, Accessible and Inclusive Platform 
+ 
+ 
+Targeted audience:
+ High School students are the most active mobile users today. Initially, we will be targeting that demographic by including questions strictly from the HSEB syllabus. But, anyone who is interested in quiz will be able to join and play.
+In the future, we will introduce questions from different levels like SLC, ‘Lok Sewa’ and even graduate levels.
+ 
+ 
+Main Benefits:
+Competition always brings out the best in people. Our app will introduce the feeling of competitiveness amongst friends in a very healthy way. Users will be able to challenge each other and realize their knowledge levels. Also, there will be a practice mode, where users can enhance their grasp on a particular  topic.
+While playing our app, users will not just be having fun, but unknowingly increasing their aptitude levels as well.
+ 
+ 
+Platform: Android  
+
+

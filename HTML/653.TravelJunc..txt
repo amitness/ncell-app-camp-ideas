@@ -1,0 +1,24 @@
+TravelJunc.
+
+Submitted on:  September 10, 2015 - 10:03am 
+ 
+Idea:
+ An app where you can create your travel profile with your experiences with people/places/culture,make friends and bring forward rare new destinations.
+ 
+Problem Solved:
+   There are many travel freaks among us, who want to create a profile of their travel experiences, which includes new palces recently travelled,foods they ate,wonderful people they met,etc.But, we can hardly find new destinations to explore. Many of us travel to same places twice or even thrice.The problem is there are many such wonderful but rare places in our country that goes unnoticed. Most of us here are from different parts of the country. In every district, there are abundant places to travel. Some of us know how wonderful those destinations are and we want others to visit those places. So,using this app you can create your profile of travel experiences ,add friends who share same travel interests and recommend rare new destinations. You will get regularly notified what places your friends are travelling to and experiences they gathered. So, you can make up your mind for next trip to those places.  You can tag those places with your experiences, trip details, important aspects of those places and your travel ratings,etc so that people who are looking to explore new places can find them easily. Apart from it,you can create a profile of your village or locality if you think it  has potentiality to develop as a tourist destination.Ultimately, this will help to maximize the reachability of new travel destinations.
+ 
+Functions:
+   First, you can create an account and add your basic details or sign in via facebook account. You can now upgrade your profile with places you travelled(add some experiences, photos if you wish). So, places you travelled will appear as "travelled/explored" in your profile. You can even rate those places  via "Rate" button and add some details.
+ Other user can view your profile and explore the places you travelled. You can add friends and know what places recently they travelled or observe their travel status at "Home".You can queue new destinations you are planning to travel so you will get notifications from your friends if they have recently explored those places.You can even invite friends to visit new places using "Invite" button.
+  If you want others to know any rare destinations you know .You can even upload profile of those destinations with some detail and pictures. This feature can bebefit local guides and agencies.   You can now search destinations via place tags (it includes category such as most rated, most queued, recently added). These are just primary features of this app. Other can be added on the go.
+ 
+Targeted audience:
+ Those people who love to explore new places,culture,food,etc. Especially, local tourists and internatinal tourists. It also targets local travel agency and guides.
+ 
+Main Benefits:
+   Instead of looking for different travel destinations in various websites, you can easily add friends and create a small community of travel minded people.  You can regularly upgrade your travel status so others  get notified what experiences you had. Share some pictures of yours and invite friends to those wonderful destinations.  Users can tag tourists destinations with their ratings or  word of praise so that others can easily search for those places and makeup their minds for travel.  It also benefits local travel guides. They can upload a profile of new destinations so travel minded people will notice those are places.
+ 
+Platform: Android  
+
+

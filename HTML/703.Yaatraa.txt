@@ -1,0 +1,26 @@
+Yaatraa
+
+Submitted on:  August 31, 2015 - 2:01pm 
+ 
+Idea:
+ App to know how to safe during Travel and it connect you to near hospital and police.
+ 
+Problem Solved:
+It helps tourist from any emmergency service and it also ealier notice that what are the main problem can happen during Travel.
+ 
+Functions:
+ At First User enter the name of place where he want to visit and then He know  what are the main problem can be faced during journey and know how to solve such problem,and what are the Emergency number of that places such as police control number, Hospital number.
+ 
+Targeted audience:
+ Tourist who want to visit in adventure specific area.
+ 
+Main Benefits:
+1.Easy to connect nearer Emergency Service.
+2.Easy to know how to take prevent during travel and know which things are mostly use in that area such as temperature suite clothes,foods etc.
+3.Easy to know how to Firstaid during travel.
+ 
+ 
+ 
+Platform: Android  
+
+

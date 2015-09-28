@@ -1,0 +1,88 @@
+DustbinScorerVR
+
+Submitted on:  September 19, 2015 - 10:35pm 
+ 
+Idea:
+ A Virtual Reality game played using Google Cardboard where the user throws paper balls in a virtual environment, into the dustbin lying at a distance
+ 
+Problem Solved:
+The application would provide an easy VR experience with a simple game. It is a fun, time spending game to keep the users engaged. 
+There are few games in the reach of common people in the Virtual reality segment. With the making of Google cardboard Virtual Reality has come within the realm of common users. But yet,  the software, games and apps that actually give the hardware its value is still low in number. The app attempts to dent void in such games and give the Google Cardboard its value.
+ 
+ 
+Functions:
+ 
+
+
+
+A main menu in Virtual Reality Room
+
+
+Option to toggle sound and haptic feedback on/off.
+
+
+A game in virtual reality, and in-game pause feature
+
+
+It is a tossing game. The user would be introduced with several obstacles like fan, wind, wet ball, heavy ball, glider aeroplanes, etc. 
+
+
+The game will be built for VR headsets with common features to handle :
+
+
+Lens distortion correction.
+
+
+Head tracking.
+
+
+3D calibration.
+
+
+Side-by-side rendering.
+
+
+Stereo geometry configuration.
+
+
+User input event handling.
+
+
+
+
+The user will have access to change area of view in vertical line. The user will have to adjust their view angle to the horizontal floor to determine the distance from the dustbin and will have auto increasing power proportional to time taken to throw the object. 
+
+
+The user will use VR clicker to trigger the throw.
+
+Various props can be used to level up and gear up the difficulty.
+
+
+
+ 
+Targeted audience:
+ The target audience are people with high-end smartphones with good processing capabilities and good screen resolution(pixel density). There are many people in this segment who have paid big lumps of money for their smartphone, but haven’t explored the device’s extreme capabilities. We’ve targeted such people to get Google Cardboard and try our Dustbin Scorer VR. 
+ 
+School Children and College Students  are another market. They are easily fascinated with new gadgets and new ways to play games, VR definitely being one of them.
+ 
+ 
+Main Benefits:
+
+
+Experience virtual reality
+
+
+Throw paper balls like real life into the dustbin using hand/trigger
+
+
+Experience headtracking
+
+
+The user can enjoy spare time with this interactive game.
+
+User will not have to pay hundreds of dollars to experience Virtual Reality.
+
+ 
+Platform: Android  
+
+

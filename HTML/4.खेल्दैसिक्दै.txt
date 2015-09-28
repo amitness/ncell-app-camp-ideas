@@ -1,0 +1,33 @@
+खेल्दैसिक्दै
+
+Submitted on:  August 26, 2015 - 9:34pm 
+ 
+Idea:
+ making user configurable (add/delete/modify) game app, so that content is according to child's intellectual capacity.
+ 
+Problem Solved:
+since most of the child game mesmerize in unrealistic things like gta, counterstrike and it is unproductive in future. parent cannot do anything because they dont have time/access the internent enough. the game are not available according to child ability. now parent can be part in selection and design game for their child. similarly they can play with their child. also teacher can make mcq q&a game according to their lesson taught.
+ 
+Functions:
+ user configurable element of game like picture, sound, text.
+the button can have visible/nonvisible option.
+button have work like next,play,sound on/off, random also. hence nontechnical people also add/delete the content and behaviour of game.
+parental information about effective test making to improve their academic performance.
+ 
+Targeted audience:
+ parents/guidance of pg to class 1.
+parents who can invest time in mobile technology for their child so that they can guidance in internet too in future.
+parent can also be fun with child in technology field .(a type of entertaintment)
+ 
+Main Benefits:
+user can make their own multiple choice question.
+choose/add the question and answer.
+choose/add the picture and sound.
+user can take help from other so that that game will found as soon as possible
+ 
+ 
+example: since abcd can be found but ka,kha,ga not easily found.
+ 
+Platform: Android  
+
+

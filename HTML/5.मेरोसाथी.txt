@@ -1,0 +1,48 @@
+मेरोसाथी
+
+Submitted on:  September 15, 2015 - 11:37pm 
+ 
+Idea:
+ Health app fully focused on providing clear information and assisting users to maintain a healty lifestyle.
+ 
+ 
+ 
+Problem Solved:
+-  Lessen the dilemma of users in choosing the best hospitals and doctors.
+- Easy to read contents and info also in Nepali language
+- Lessen the hassles to take an appointment to any doctors 
+- All fitness tricks and tips for maintaing a healty body and mind
+ 
+ 
+ 
+ 
+Functions:
+ - Latest News and update on health sector
+- Online Appointment can be done for major doctors within the valley
+- Notification Features (Alarm)
+- Can be used offline to some extent
+ 
+ 
+ 
+Targeted audience:
+ Android app users mostly from 16 to 60 but still all the age group can be benefited with this app
+ 
+ 
+ 
+Main Benefits:
+- Contents in both Nepali & English Language
+- Free app
+- Low Space 
+- Newsfeed providing all the latest news on health sector (local & global)
+- Fitness  tips for all age group
+- Format of info ( text, images and videos links)
+- Direct linkage to allmost all the major hospitals & Doctors of Kathmandu valley
+- Queries and Feed back Menu
+- Notification options (eg : Exercise timings, Medicines timing, doctors appointments etc)
+ 
+ 
+ 
+ 
+Platform: Android  
+
+

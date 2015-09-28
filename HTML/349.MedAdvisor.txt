@@ -1,0 +1,27 @@
+MedAdvisor
+
+Submitted on:  September 19, 2015 - 1:22am 
+ 
+Idea:
+ Med Advisor saves a complete list of medications to notify time to take it and gives advices while on use.
+ 
+Problem Solved:
+This app will solve the problem to remind yourself when to take your medicine. It also provides medicine information on side effects, dosage, drug-drug reaction, pregnancy warning, breastfeeding warning  etc while on use.
+ 
+Functions:
+ Med Advisor app saves medication routine and doctor's advices from user, and notify user when they need to take medicine. Users can also see information on drugs they have been taking like side effects, dosage, drug-drug reaction, pregnancy warning, breastfeeding warning etc.
+ 
+Targeted audience:
+ The people who are taking medicines regularly.
+The people who are intending to know what type of drug they are taking for what purpose.
+ 
+Main Benefits:
+1) Sick people tends to forget when to take medicine, it'll benefit them by notifying time to take medicine.
+2) Gives important information about drugs you are taking such as side effect, dosage, drug-drug reaction, pregnancy warning, breastfeeding warning etc. You don't need to rush to hospital or consult doctors frequently for these informations. 
+3) Gives informations about important notes given by doctors which you've saved on your app.
+4) Gives warning to pregnant women , if it's safe to take medicine or not.
+ 
+ 
+Platform: Android  
+
+

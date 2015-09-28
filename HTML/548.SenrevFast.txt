@@ -1,0 +1,22 @@
+SenrevFast
+
+Submitted on:  September 11, 2015 - 1:55pm 
+ 
+Idea:
+ send!receive file over the network by direct penetration on required device i.e the device acts as multithreadedserver
+ 
+Problem Solved:
+Our app solves the great problem of sending large file sitting on our home to other freinds with low internet speed.
+ 
+Functions:
+ The apps specifies who are on the network and if someone need to communicate ie if he wants some file he request the respective user.this app allows user to make group and make multilevel sending or receiving
+ 
+Targeted audience:
+ Everone whoever need to transfer file which cannot be downloaded in their device such as flims,captured multimedia files etc
+ 
+Main Benefits:
+1:fletching of data from required device over the universal network.2:one sender many receiver 3:fast sync using multithreading in the required device which acts as server that listens to client request.
+ 
+Platform: Android  
+
+

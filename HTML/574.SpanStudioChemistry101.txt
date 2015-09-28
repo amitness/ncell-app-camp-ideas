@@ -1,0 +1,32 @@
+SpanStudioChemistry101
+
+Submitted on:  September 16, 2015 - 10:41am 
+ 
+Idea:
+ An edutainment game that familiarize with the basics of chemical reaction/composition by letting them play the game which enhances their concept.
+ 
+Problem Solved:
+ A subject mater taught side by side with entertainment is most efficient.
+People have hard time dealing with chemistry during different phases of their life. As a part of basic home science it is important to understand those concepts. We therefore present those concepts in a entertaining game that enhances their concepts related to chemistry
+ 
+Functions:
+ - lets users to combine different chemicals.
+- Share score in social media.
+- In game purchases.
+ 
+Targeted audience:
+ - Students/ Teacher (higher secondary students)(primary target)
+ 
+- Parents (who help on doing their children's homework)
+ 
+Main Benefits:
+- it also provides its user their own portable laboratory
+- this will increase the grades of the students
+- edutainment learning
+- helps to over exam phobia
+- effective and effecient learning
+- creativity
+ 
+Platform: Android, iOS, Windows phone, Others(Web app)  
+
+

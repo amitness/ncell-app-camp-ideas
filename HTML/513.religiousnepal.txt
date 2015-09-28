@@ -1,0 +1,33 @@
+religiousnepal
+
+Submitted on:  September 20, 2015 - 10:52am 
+ 
+Idea:
+ Provides whole guide to all religious places of nepal
+ 
+Problem Solved:
+1.All religious places are mapped  through this app.
+2.Information about the places and its importance is addressed.
+3.All religious programs and updates are informed like mela and seminar..
+ 
+ 
+ 
+ 
+Functions:
+ this app will act as a religiuos guide and mentor such that all programs events and important dates are addressed.
+It will be user friendly as notifications are also provided.
+Sharing and comunicating through different social apps are also provided.
+ 
+Targeted audience:
+ 1.The target audience will be domestic tourist and global tourist who wants to visit and be safe from fraud guides.
+2.People with busy schedule
+ 
+Main Benefits:
+1. People can be informed about the religious places and the prayer procedures.
+2.People can attend programs and events easily.
+3.Religious tour can be attended as route also provided through map.
+ 
+ 
+Platform: Android  
+
+

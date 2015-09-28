@@ -1,0 +1,22 @@
+DiseaseDictionary
+
+Submitted on:  September 19, 2015 - 9:04am 
+ 
+Idea:
+ Provides the detail information on symptoms, causes, effects and remedies on any disease and symptoms provided by the user.
+ 
+Problem Solved:
+Provides the possible disease name for the given symptoms,its effects and remedies and also the prevention measures before it gets worse.
+ 
+Functions:
+ This app can address to the disease of the provided symptoms and provide its detail information. Can also categorize the disease according to their nature and provide information accordingly.
+ 
+Targeted audience:
+ General public
+ 
+Main Benefits:
+User can get the sufficient information on any disease so that they find the cause of the disease, its effects and remedy measures.
+ 
+Platform: Android  
+
+

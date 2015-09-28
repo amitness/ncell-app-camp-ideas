@@ -1,0 +1,35 @@
+TourNepal
+
+Submitted on:  September 8, 2015 - 12:33pm 
+ 
+Idea:
+ It helps to promote tourism from users level by users themselves in their grasp.
+ 
+Problem Solved:
+It helps to promote the tourism industry of Nepal by users themselves as Tourism industry is degrading day by day due to lack of sufficient publicity, different natural calamities, political instability and many others. It also helps to promote in development of those places and things by collecting data about those places and things importance.E.g : many places in Nepal are out of reach for tourist due to lack of medium to travel there. This app helps to give data to developmental commission of Nepal to make these places reachable by many others too.
+ 
+Functions:
+ 1. Booking (Room, restaurant, Silver screen, bundles, and so on.)
+2. Dairy
+- where guests will take notes along with their pictures and videos.
+- Moreover, it consist of sharing button where you can share your voyaging exercises in your social destinations like Facebook.
+3. GPS Following and provide special evens around them .Also, Provide data about that place which you would prefer not to overlook.
+- Vital Calendar like celebration, Social projects, and so forth.
+- ATM Boot, Doctors facilities, Banks, Hotel,etc
+4. Booking Packages and travelling plans.
+5. Important information's will be provided according to the targeted users.
+6. Users too can leave their feedback and experiences about the places which can be viewed by other users too.
+7. This application is offline until and unless users want updated data about the places and manyother features.
+(Discretionary: Online payment alongside obliged security.)
+ 
+Targeted audience:
+ Every users who wants to promote tourism in Nepal. Users who have keen interest to know and share Nepal's importance in tourism industry of world.
+a. Tourist (Local/International)
+b. For those who want to preserve and explore more about culture, traditions, places of Nepal.
+ 
+Main Benefits:
+Users can know and share about many tourism purposes places and things inside Nepal as Nepal is a full package tourist place in aspect of religious view, adventurous view, natural view, historical view and so on.
+ 
+Platform: Android  
+
+

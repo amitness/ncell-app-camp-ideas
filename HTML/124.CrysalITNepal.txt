@@ -1,0 +1,22 @@
+CrysalITNepal
+
+Submitted on:  August 19, 2015 - 1:31pm 
+ 
+Idea:
+ Rubic's cube solution game
+ 
+Problem Solved:
+Solve the rubic's cube and make the pattern.
+ 
+Functions:
+ App gives the 3x3 and 4x4 cube with gigjack color and user will match it with the same color in each side. User can get hint after pay.
+ 
+Targeted audience:
+ Rubic's cube player or interested others
+ 
+Main Benefits:
+Enjoy by solving problem
+ 
+Platform: Android  
+
+

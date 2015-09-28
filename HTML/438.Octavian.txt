@@ -1,0 +1,22 @@
+Octavian
+
+Submitted on:  September 19, 2015 - 11:33pm 
+ 
+Idea:
+ Our game DYT(Defend Your Territory) is a 3-Demensional game which makes use of state of the art technology in order to save the endangered animal.
+ 
+Problem Solved:
+Due to heavy amount of poaching, many animals are extinct and many are on the verge of extinction. What better way to save endangered species than by creating a 3 Dimensional fun game which helps to spread awareness and teaches children from a very young age.
+ 
+Functions:
+ Our game is a 3-Dimensional game which provides immersive virtual gaming experience using kinect. For eg: using kinect if we run outside the game then the player player inside the game will run too, if we turn it will turn too, if we shoot , it will shoot too.
+ 
+Targeted audience:
+ Anyone can play our game but we have designed our game spefically for the age group from 10-20.
+ 
+Main Benefits:
+Our game is a world class game. We won the Imagine cup 2015 competition organized by Mircrosoft from Nepal. We also won from the Asia Pacific region. We were the world finalist among nations of 64 different countries which was held in Seattle, Washington, USA. Our game provides immersive virtual gaming experience using kinect.
+ 
+Platform: Windows phone  
+
+

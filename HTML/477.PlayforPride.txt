@@ -1,0 +1,22 @@
+PlayforPride
+
+Submitted on:  August 22, 2015 - 9:51pm 
+ 
+Idea:
+ A moto racing game where users connect via Facebook and make high scores to make real money, prizes and recharge cards by just playing the game.
+ 
+Problem Solved:
+The game provides the users real money or recharge cards for beating their friends in the game by just playing and making top scores. Who doesn't want that?? 
+ 
+Functions:
+ The game is a moto racing simple addictive game where on a weekly basis top 50 scorers are announced and top 5 are awarded with prizes and recharge cards. People can share their score in Facebook and challenge their colleagues to beat them. Also there is a bumper prize for the high scorer of the month. The cost and other requisites are maintained by showing non annoying logical creative ads in the game.
+ 
+Targeted audience:
+ Everyone who love playing games and enjoy winning prizes for nothing other than playing.
+ 
+Main Benefits:
+1. They can win prizes simply by playing their own game. 2. They can share their scores via Facebook and show it to their friends and challenge them. 3. It's totally free and for every one. 4. They can win bumper prize every month by being the top scorer of the month.
+ 
+Platform: Android  
+
+

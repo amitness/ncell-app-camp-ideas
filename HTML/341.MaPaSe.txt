@@ -1,0 +1,28 @@
+MaPaSe
+
+Submitted on:  September 20, 2015 - 11:42am 
+ 
+Idea:
+ Calculates Blood Alcohol amount from liquor consumed on time basis and recommending Driving or not in accordance to the legal driving limit.
+ 
+Problem Solved:
+This app is very useful for reducing the vechicle acciddents caused by the Drink and Drive.
+This App helps in making dessision if they are capable of driving or not.
+ 
+Functions:
+ Calculate Blood alcohol amount Based on Body Mass Index of user, Strength and quantity of liqour
+calculate liquors BBA wear off time and Stacking time
+ 
+Targeted audience:
+ Every kinds vechicle Drivers
+Liquor consumers
+ 
+Main Benefits:
+Save Lives from accident
+Saves money from MA PA SE (liquor consumption) checking. :D
+Helps in making dessions to drive or not
+user can track their liquor consumption amount and expenses in it
+ 
+Platform: Android  
+
+

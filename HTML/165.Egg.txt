@@ -1,0 +1,26 @@
+Egg
+
+Submitted on:  September 20, 2015 - 11:22am 
+ 
+Idea:
+ Egg is an interactive math skills learning lock screen game for children that rewards players  based on effort,focus,persistence and techniques used.
+ 
+Problem Solved:
+We have all seen kids of 2 -3 years old in our family who rushes towards us and ask for the mobile phones to play games with their innocent looks and nobody can refuse to give. These kids are in risk of getting addicted to games that will not help them in their future nad career.That is where our fun app comes in to save their futures.
+ 
+Functions:
+ Our app sets at lock screen,so that kids can play the game right away without need of unlocking the phone.Our app rewards the kids for the focus,persistency nad correct answer ultimately unlocking the screen where they can play the desired games.It is a game that needs to be played to play other games. Our app rewards access to other games.
+ 
+Targeted audience:
+ Our targeted users are the married couple who have a child between 2-9 years of age.
+ 
+Main Benefits:
+Users can lear problem solving skills.
+-helps kids to enchance their cognitive skills.
+-helps to earn better grades in exams.
+-fun and engaging for child.
+-parents can be relieved of time and effort to teach their kids.
+ 
+Platform: Android  
+
+

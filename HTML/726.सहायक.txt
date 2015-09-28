@@ -1,0 +1,42 @@
+सहायक
+
+Submitted on:  September 19, 2015 - 12:42pm 
+ 
+Idea:
+ Your personal assistant/helper/service provider for every real world issues.
+ 
+Problem Solved:
+The internet is a vast space where you can find everything you can,provided you know where they are.
+In today's world, it doesn't matter if something is out there. We all need someone who will help us grasp that something and bring it to us.  
+
+सहायक helps you gain access to your interets,news,events and everything you'd expect your helper to do for you. 
+Basically, with सहायक you possess a really really helpful AI Friend.
+ 
+ 
+
+
+ 
+ 
+Functions:
+ Expected Features:
+1) User Friendly(Voice Interaction) in both Nepali and English Language
+2)  Access to news (Politics,Music,Celebrity,Sports,World,Tech)  based on interest , specially personalized for Nepali Users
+3)  Managing events/meeting/schdules , reading out new emails, sending emails.
+4) Connect with friends: Feature which processes the place to meet for individuals based on purpose, by not only suggesting places within Kathmandu, but allowing users to  share the intended location by one click.
+5) Wishing on your friends birthday, at the precise time, via text message or social utilities like Facebook,Viber.
+6) Suggesting movies (personalized for Nepali User's experience), giving information about movies in different movie halls.
+7) Advanced data manipulation, suggesting clothes based on weather, load shedding notifications via voice, suggesting resturants within Kathmandu etc.
+8) Further Data manipulation based on new ideas, and what's tredning in the social world 
+ 
+ 
+ 
+Targeted audience:
+ Every inidvidual all around the world involving all age groups.
+A separate unique  experience for individuals in Nepal
+ 
+Main Benefits:
+  The user can find a trustable means to manage their real world problems, customize it according to their interest and forget the need for redudant web surfing for useful day to day activities.
+ 
+Platform: Android  
+
+

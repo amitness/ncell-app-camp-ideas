@@ -1,0 +1,32 @@
+NepalDrugIndex
+
+Submitted on:  August 27, 2015 - 5:39pm 
+ 
+Idea:
+ Database, where you can feed trade names to find about the molecule, its info, and use generic name to search available products vice-versa.
+ 
+Problem Solved:
+Currently Nepal lacks such software, even a National Formulary is not available, maximum available are the drug index provided by the drug company, which includes its products only. 
+ 
+Functions:
+ 1. Generic to trade name, search engine
+2. Drug informations, like common indications, and side effects, what are the symptoms when seen the consumer should contact the treating physician etc
+3. Alternative products and combination available in market
+4. MRPs and the pharmacutical industry (manufacturing it)
+5. Networking for new available product launch
+ 
+Targeted audience:
+ 1. All health care providers
+2. New medical graduates and foreign medical graduates
+3. All conscious Nepalese
+ 
+Main Benefits:
+1. Health care providers can easily scroll on alternative products available in market, to choose from.
+2. Consumers can find a brief information on the drug
+3. Consumers and health care providers can get information of the drug and its current market price, which would help get an alternative, if incase needed.
+4. Help new health care providers and foreign medical graduates, for easy prescription in early phase of establishment.
+5. Can be used for networking, if new products are launched.
+ 
+Platform: Android, iOS  
+
+

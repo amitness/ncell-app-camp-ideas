@@ -1,0 +1,25 @@
+MBlood
+
+Submitted on:  September 20, 2015 - 11:57am 
+ 
+Idea:
+ This apps helps Blood Urgency problem from mobile.
+ 
+Problem Solved:
+ easy registration for blood donors.
+ location update on every login of the donor.
+searches the nearest donor first.
+ easy to contact to the donors.
+ 
+Functions:
+ The application list down the blood type, and it will shows the result of the nearest blood donor arround you. 
+ 
+Targeted audience:
+ persons who need blood and person who can give blood (16-60 yrs)
+ 
+Main Benefits:
+Notify the availability of all blood group from own area.
+ 
+Platform: Android  
+
+

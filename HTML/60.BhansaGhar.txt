@@ -1,0 +1,37 @@
+BhansaGhar
+
+Submitted on:  September 20, 2015 - 9:49am 
+ 
+Idea:
+ BhansaGhar is an app which allows the users to get necessary kitchen supplies delivered in their doors; Water Jar, LPG (cooking) gas and grocery items
+ 
+Problem Solved:
+Though we are fashioned people of 21st century living digital life, we buy our kitchen accessories in very primitive way. Specially, Water Jars, Cooking gas and groceries. We stay on-line for hours, despite the high cost due to artificial scarcity created by cunning businessman. Despite being most important aspect of human life, food and water are overlooked by technology. We are buying Water and Gas jars in the same way we were doing 10 years back, and are suffering from same problems. Our app( BhansaGhar) will solve all those problems.
+First one of its kind, BhansaGhar will solve all the problems we face to fulfill the most basic of our needs(Food, water and Fuel). It will put an end to traditional shopping, reducing the costs due to artifical scarcity. Also, save all those hours we spend to buy Gas and water, and boosts up productivity.
+ 
+ 
+ 
+Functions:
+ Since, it will be the first one of its type. BhansaGhar will be the first one revolutionising our lives. Though app will be mostly dedicated household, it is enriched with features to improve user experience. The main functions of application are:
+1) Instantly order and delivery of the product through nearby agents.
+2) Easy location tracking of consumer and agent with additional contact details. (Agents are the supplier which wil co-operate with us to supply product).
+3) Feature to rate the agent to improve the level of satifaction and customers'  buying experience.
+4) Includes payment system to secure and simplify payment.( eSewa, Hellopaisa)
+5) Feature to keep track of the accessories in your kitchen(Remainder). Notification to get them if you seem to be running out of it.
+ 
+ 
+Targeted audience:
+ BhansaGhar will be universal companion for anyone who has life. It is mainly targetted for all household around major cities, specifically for the families around cities who use Drinking water Jar, and LPG cooking gas. 
+Anyone who has been victim of water&gas scarcity or uses grocery can use our app. 
+ 
+Main Benefits:
+BhansaGhar will not only allow user to shop basic things online than on-line. It will provide very secure and fast way of getting water, gas and groceries delivered to doorstep of the user. Other benefits for users are,
+1)BhansaGhar will save time, lot of time. After all we have been spending hours for gas on-line.
+2) It will secure and simplify payment through digital money (esewa and hellopaisa).
+3) Quick delivery of the Water Jar and Gas, also grocery items.
+4) Keep the track of those things (Water, Gas and food) you bought. It will give early notification about what you need before you run out of it. 
+5) Since, BhansaGhar will be connecting you directly to supplier, you will be getting stuffs at cheaper than you are getting now.
+ 
+Platform: Android, iOS, Windows phone  
+
+

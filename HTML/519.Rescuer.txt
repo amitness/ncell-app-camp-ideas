@@ -1,0 +1,22 @@
+Rescuer
+
+Submitted on:  August 25, 2015 - 7:29pm 
+ 
+Idea:
+ Rescuing the earthquake victims which are injured and buried under the buildings but still alive.
+ 
+Problem Solved:
+it solves the psychological pressure of the persons who are unable to help to earthquake victims by helping them in game to relief pressure.
+ 
+Functions:
+ the app gives information about the places which are affected by earthquake.game takes places on kathmandu,sindhupalchowk,tools to rescue the earthquake victims
+ 
+Targeted audience:
+ The persons of everyfield students,teachers,citizens who had experienced the earthquakes.
+ 
+Main Benefits:
+Removal of pressure,entertaintment,relaxation,users will know the tools used by earthquake rescuers
+ 
+Platform: Android  
+
+

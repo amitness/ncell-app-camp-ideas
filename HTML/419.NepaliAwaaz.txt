@@ -1,0 +1,22 @@
+NepaliAwaaz
+
+Submitted on:  September 8, 2015 - 5:02pm 
+ 
+Idea:
+ Our App - NepaliAwaaz helps the voice of Nepalese to be heard by the Government
+ 
+Problem Solved:
+Strikes, Curfews have been a major issue of Nepalese Economy. In such a scenarion, Our App solves by making our rights more prominent and our demands more feasible
+ 
+Functions:
+ This app has a text and voice based messaging service to talk to the concerned authorities and also consists of social media integration - Facebook, Twitter, Viber, WhatsApp
+ 
+Targeted audience:
+ Nepalese people globally
+ 
+Main Benefits:
+To make it easier to talk to the Government without the use of violence.
+ 
+Platform: Android  
+
+

@@ -1,0 +1,23 @@
+ComfyTravel
+
+Submitted on:  September 19, 2015 - 12:27pm 
+ 
+Idea:
+ Build a social network of willing private vehical owners and non-owners to create database of starting and ending point of pre-planned travel.
+ 
+Problem Solved:
+People are forced to travel in hard way in public vehicles when private vehicles with same destination as theirs is travelling empty.
+ 
+Functions:
+ It will be a social network of private vehicle owners and non-owners. The private vehical owners will update their starting and ending point of travel with the date and time of travel. The owners and non-owners can mail each other to come at understanding of their mutual benefits.
+There will be separate database for long distance travels and day to day travels.
+ 
+Targeted audience:
+ Anyone who want comfortable ride.
+ 
+Main Benefits:
+Users avoid painful public vehicles to have a comfortable ride.
+ 
+Platform: Android, iOS  
+
+

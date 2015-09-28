@@ -1,0 +1,45 @@
+NepalTourGuide
+
+Submitted on:  September 19, 2015 - 4:21pm 
+ 
+Idea:
+ This pocket tour guide is a companion which helps tourists overcome many obstacles and engage in highlighted and unknown areas/services of Nepal.  
+ 
+Problem Solved:
+Tourists are finding it difficult to communicate locally which halts them from experiencing all areas of Nepal fully. This app intends to solve that problem by presenting a full set of updated informations on services of their choice. It also solves the fact that many tourists that come to Nepal are being scammed financially. We will be providing tips, procedures and actual rates for all the services that a tourist might require. This idea can even extend to a point where possible deals or offers can be listed on this app so it’s instantly available for existing and potential tourists.
+Tourists get lost and sometimes roam around to ask the public regarding their need. This app is a problem solver as it can be downloaded and read before landing in Nepal. A tourist can have instant access to all services and their providers on arrival. Services such as hotels, restaurant and taxis would be able to provide the best package deals and offers through this app so tourists can spend within their budget. This fully allows them to plan their travelling experience without any hassle and occurrence of any mediating charges.
+As a plus point to advertise the popular and must-experience activities, this app aims to increase awareness so tourists can know that Nepal has a full-fledged tourism market. Considering the fact that the tourists have limited knowledge on Nepal’s diverse range of services and other potential experiences locally, this app intends to present full information so tourists know when and which location they have to reach for the activity of their choice to enjoy to the fullest.
+Another problem a tourist faces is a language barrier while communicating about certain information with the general public. This app will be focusing on multiple languages starting with English, Hindi and Chinese. The reason being is that those countries have the biggest visitors for us here in Nepal and we want our users to feel comfortable in their preferred language.
+Another major problem-solver is that it promotes existing, new and local businesses that provide good services that incorporate quality, hygiene, comfort and new experiences tourists crave for. This allows tourists to experience a wide range of activities that are unknown to them. Local businesses with little start-up capital get opportunities to increase their revenue by being included in this app. This becomes a win-win situation for both parties. This also motivates current businesses to increase the quality of their service and surroundings as they have a possibility of targeting the tourist market.
+ 
+Functions:
+ The app targets a wide range of people/tourists; hence it shall be user-friendly with great user-experience. We also plan to provide it in different languages, so the users can feel comfortable to get the information.
+The major features include:
+· Clustered map system with icons that represent the area/heritage/business/services
+·  News, weather and political situations and updates of different cities and locations in Nepal
+· Provide knowledge/awareness on services/heritages of Nepal
+· Useful safety, to do and not to do travel tips
+· Method to communicate/interact with other visitors using feedback and selfie system and also see other's feedback about the places
+· Provide best rates and offer details for the services to prevent scam
+· Ability to pre-book for services/hotels/restaurants
+·  Multilingual
+·  Good and Easy to use UI and UX
+ 
+Targeted audience:
+ The primary users of our app will be people who have plans yet have less knowledge on how to travel in Nepal. These people can be of various cultures (tourists, locals) who don’t have idea of certain locations and people with language barriers.  It will be very handy for tourists however locally if people are uncertain about rates and some services; this can be handy for their use as well. The target audience can be of all age groups, gender and people who own a smart phone. The app will be simple and easy to use for people who even have difficulty functioning a smart phone.
+Another set of target audience are the people who enjoy and love travelling, trekking and experiencing new traditions and cultures in Nepal. These can be people who want to know more about Hinduism, Nepali heritage sites and festivities. Who also value the nature and its’ beauty for short holidays and relaxation. The audience can also be professionals who are coming for research on wildlife or cultural documentaries.
+The audience who use smart phones for looking up for the information can be a major user group. This is a pocket tour guide app which tourists have at their finger tips. The potential and confirmed tourists that plan to come to Nepal could pre-download the App and plan their trips which include pre-bookings, weather informations, security and safety tips, what to do and not to do as well as making all services prior plans to eat, stay and roam around different locations. By having all these functions the potential and confirmed tourists that will be visiting Nepal will have all the help and guidance they require while staying at Nepal.
+Secondly, according to our research we have come across the fact that Nepal does have a large fan following and the fact that Nepal was declared to be the touristic country in 2011-2012.  We know that this app will make it more reasonable for travelers all around the world to divert their attention and come to Nepal and try experiencing the culture, cuisine and entertainment factors. This app simultaneously promotes Nepal as a tourism country which increases accessibilities between an app user and the service provider.
+Thirdly, our App market also targets all the local and high-end businesses and services to promote their expertise in what they provide as a product or service. This could surely become a communication medium between Nepalese fooding services to art products to many more things in the future.
+ 
+Main Benefits:
+The users of our App will be mostly tourists who do not have all the information about the services/experiences that could be performed or carried out in Nepal. By using our app, they can get detailed information of services/experiences available in the country. This allows them to choose from a larger list of available services and get information on all services and news.
+The app can also help users' plan their travel as they have an option to pre-book for the services and also get information on the best time of the year to do it. Tourists are largely impacted by holidays and political situations in the country and the app gives instant updates and news on ‘what’s happening’ currently. These can be festivities, strikes and cultural events. All these additional information acts as a helping hand to plan their traveling experience here in Nepal. A weather prediction feature is added to give details of current locations or city they are at. This will help them to plan accordingly of any upcoming activities/services inclined with their current travel status.
+The app can also be used to interlink tourists with other tourists allowing them to share their views and experiences through comments or selfies. This helps them to stay connected through a fun experience with other tourists. By doing this they might be able to interlink social media and mediums of communication in order to stay or get in touch with people which increases connectivity. The interaction shall be also tied-up with social media, so their family and friends can stay updated with their traveling record. Memories are being captured so a sense of entertainment and personal experiences is highlighted between the traveler and their family and friends.
+The presence of a rating system provides the user to rate and search for highly rated or recommended services. Services or activities can be ranked in terms of quality, safety and hygiene. This allows tourists to categorize accordingly to the expectations of the service they would want or require.
+We are also planning to provide some traveling tips and the rates of basic needs so that the tourists can stay safe and not pay over the odds for a certain service. Our tips include suggestions such as ‘going on a taxi meter rather than on an agreed rate with the driver’. Emergency tips are included so tourists can contact traffic headquarter/police stations to report emergency incidents.
+Finally, users will have access to the best rates on any services. These will be verified information so they don't get scammed and pay the reasonable price
+ 
+Platform: Android  
+
+

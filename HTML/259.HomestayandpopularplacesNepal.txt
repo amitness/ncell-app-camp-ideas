@@ -1,0 +1,41 @@
+HomestayandpopularplacesNepal
+
+Submitted on:  September 16, 2015 - 5:19pm 
+ 
+Idea:
+ App which shows the homestay options and popularity of places in nepal among the tourists in Nepals map. 
+ 
+Problem Solved:
+ 
+Deciding where to visit next is always a confusing task for tourists.They dont know where other tourists are visiting at the moment , or the places wher tourists tend to vist often for that matter .
+Our app will solve this problem by letting tourists know where other tourists are visiting now or in any other moment of time and also giving them additional reviews and ratings about that place .
+ 
+Also not all tourists want to stay in luxury /  hotels . They may choose to stay with warm hearted nepalese family . but finding the right home and establishing communication is difficult.
+Hence to solve this our app will provide a easy to use platform  where any nepalese family can offer the tourists shelter and the tourists can choose from the list of the families and establish communication easily.
+ 
+ 
+Functions:
+ The app will represent each tourist as a colored dot in a map . ( colored according to nationality ). Colorful clusters of tourist will be seen in the map depicting the popularity of that place / home . 
+Tourists will also be able to leave reviews and ratings about the places they have visited and the homestay they chose  which can be viewed by other users.
+All this data beautifully presented on a map  will help tourists decide where to go next , or choose a homestay option best fitting for them . 
+ 
+ 
+Targeted audience:
+ 1. Tourists/Travelers ( internal and external )
+2. All nepalese families who want to open thier home for tourists .
+3. Tourism enthusaist and analysts
+ 
+ 
+ 
+Main Benefits:
+- Know where the tourists are visiting at the moment or any other instance for that matter all shown in the map in aan elegant manner. 
+- Popularity of any place among tourists will be known instantly.
+- Decide where to visit next eaisly by knowing where other tourists visit most or least . " wanna go where everybody is going , or find new roads , you decide ".
+- Toourists can explore homestay options see thier reviews / ratings and conform thier stay easily .
+- Reviews and ratings about places / nepalese families will be available for tourists to consider before finalizing any destination / homestay .
+ 
+- All nepalese family can open thier homes to tourists by just signing up and verifying thier details .
+ 
+Platform: Android, iOS, Others(web)  
+
+

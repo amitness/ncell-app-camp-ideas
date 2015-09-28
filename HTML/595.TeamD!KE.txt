@@ -1,0 +1,27 @@
+TeamD!KE
+
+Submitted on:  September 19, 2015 - 9:06pm 
+ 
+Idea:
+ MedAlert - A livesaving mobile app that alerts you to intake and/or purchase your medicine on time!
+ 
+Problem Solved:
+Need an urget medication drug at the mid-night? Or, do you always forget to take your medicines on time?
+Worry no more, MedAlert is here to the rescue. MedAlert will alert you to take your medications on time. It will also track the quantity of medicine consumed and alert you when it is time to buy a new file. Upon logging in, MedAlert will also show you archived history of your medication consumption over time.
+ 
+Functions:
+ MedAlert will alert the user to intake their medicines on time. It will also send alerts when the user needs to buy new medicines files, based on their medicine consumption. It will also locate nearby drug or medicine stores so that the user can quickly reach the store with less hassles. MedAlert will also be archiving the users' medicine consumption history which will be helpful in future diagnosis. Moreover, MedAlert will also have a BMI calculator to check users' body mass index based upon their height and weight.
+ 
+Targeted audience:
+ Medication is inevitable for everyone, but our primary target audience are people who has to intake regular medication. These people might be of any age, race, gender.
+ 
+Main Benefits:
+1. Easily remember to take your medicines on time.
+2. Receive alerts when you need to buy your medicines.
+3. Locate nearby drug/medicine stores
+4. See archive of your medicine consumption
+5. Check BMI
+ 
+Platform: Android, Windows phone  
+
+

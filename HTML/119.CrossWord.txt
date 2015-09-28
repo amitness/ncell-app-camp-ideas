@@ -1,0 +1,29 @@
+CrossWord
+
+Submitted on:  September 18, 2015 - 5:24pm 
+ 
+Idea:
+ Our favourite childhood game, Crossword, is now in our android smartphone and we can challenge our brain against our mobile's processor.
+ 
+Problem Solved:
+In this busy world, there is hardly time for friends to meet and spend some time, and for playing a multi-player game it's hard to find a friend.
+Our app, helps to overcome the loneliness and helps to increase vocabulory of user.
+ 
+Functions:
+ 1.Scoring for every words as in the standard Crossword game.
+2.Hints to suggest user that can help them fetch maximum points through available words.
+3.Messaging platform for communicating with other players during multiplayer gaming.
+ 
+Targeted audience:
+ School going childern, and College friends who can relive the moment of their childhood in their smartphones.
+ 
+Main Benefits:
+1. Enjoy free time to increase your vocabulory.    
+2. Overcome loneliness. 
+3. Increses our memory and word building capacity.  
+4. Dictionary within the app can be used to explore vocabulory.
+5. Play game with friends who are far from your surroundings via internet.
+ 
+Platform: Android  
+
+

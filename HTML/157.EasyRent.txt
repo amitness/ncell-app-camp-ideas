@@ -1,0 +1,33 @@
+EasyRent
+
+Submitted on:  September 8, 2015 - 11:01pm 
+ 
+Idea:
+ This app helps in all the rental business' like house rent,room rent,vehicle rent ,equipment rent,things rent etc in effective and efficient way
+ 
+Problem Solved:
+We all face problem of searching rent room for residential purpose as well as official or business purpose but we have no option instead of running street by street. Also when we want to hire some vehicles(car,taxi,bycycle,bike so on....) for a certain time we have to search manually which is very tedious and time consuming. But this app not only help to seekers to get right things but also owner can upload their vacant room,house,vehicle and all the things which can be provided in rent.Through this app buying and selling process will be fast and effective.
+ 
+Functions:
+ -Owner can directly upload their house/room/vehicle,equipment,rental things' picture along with specification,services,locaition,estimated price,contact number.
+ 
+-Works like bridge between searcher and owner.
+ 
+-Facility to search by location,price,specification.
+ 
+-Facility to call directly to owner in one tab.
+ 
+-Option for booking if user dont want to call(Owner will get notification).
+ 
+Targeted audience:
+ -All searcher and owner daju bhai didi bahini from all around the Nepal who are involving in rental business. 
+ 
+Main Benefits:
+-User can easily find out vehicles,equipments,things which can be provided in rent,rented room/house in their desired location.
+-User can also upload their vacant room/house,vehicles,equipments,things which can be provided in rent
+-Quick selling and buying of vacant rooms,things will be beneficial for both owner and searcher.
+ 
+ 
+Platform: Android  
+
+

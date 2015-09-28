@@ -1,0 +1,29 @@
+NepBalance
+
+Submitted on:  September 14, 2015 - 9:23am 
+ 
+Idea:
+ App that keeps track of your Mobile Balance and other information of your network.
+ 
+ 
+Problem Solved:
+It is hard to know how much you spend on your mobile network. Our app makes it easy by keeping track of your mobile balance over a SMS or USSD request(offered free by Network Operator) and gives the daily,weekly or yearly statical amount.
+It is also not easy to locate the mobile number.Our app  gives the name of the place/zone in Nepal where the number is registered that makes it easy to locate numbers.
+ 
+Functions:
+ The app intersepts the sms request or USSD request (eg. BL to 1421(NTC), blank to 40011, *101# or *400#) and parses the remaining balance. It records and keeps track of the mobile balance. The app can be used as a phonebook that will tell you how much you spend on phone call and the location of the numbers.
+Apart from that, various request to activate services and USSD codes are available. 
+ 
+Targeted audience:
+ Smartphone users in Nepal as well as in other countries.
+ 
+Main Benefits:
+ 
+1.Know the remaining Balance in app offline.
+2.Keep track of your mobile balance.
+3.Know the location(registered place) of Incoming Calls, Mobile Contacts,Mobile Number & any Phone Number.
+4.Activate or Deactivate servies and other USSD operations.
+ 
+Platform: Android  
+
+

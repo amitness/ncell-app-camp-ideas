@@ -1,0 +1,26 @@
+LipSync
+
+Submitted on:  September 20, 2015 - 12:21am 
+ 
+Idea:
+ App for lip syncing  to existing video clip.
+ 
+Problem Solved:
+It is rather an entertaining application than problem solving application. This application does exact opposite to Dubsmash i.e. user will be provided with popular video clips or the video clips they want to lip sync so now they can lip sync with the playing clip. Eg: https://www.youtube.com/user/BadLipReading, this youtube channel has million of views just by making lipsync of one video. This facility of lipsyncing if provided to user, this app will certainly be trending among youth and might have millions of user soon enough.Problem we are going to solve is tap the untapped marked.
+ 
+Functions:
+ -With this app, all one has to do is open the app, login , select a video clip and start lip syncing.
+-User can also enjoy trending lipsync of other users.
+-User can share them with friends in both within LipSync app and other social sites.
+ 
+Targeted audience:
+ People with sense of humor and familiar with technology.
+ 
+Main Benefits:
+-It is a lesure app, so basically it helps to entartain users.
+-User can lip sync any video clip they want.
+-Lip sync might be developed as a way to show potential of user as that developed in dubsmash.
+ 
+Platform: Android  
+
+

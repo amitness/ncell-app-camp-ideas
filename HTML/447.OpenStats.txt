@@ -1,0 +1,29 @@
+OpenStats
+
+Submitted on:  September 18, 2015 - 10:57pm 
+ 
+Idea:
+ An app that allows users to view the statistics on various queries and lets them perform related statistical analysis by posting queries themselves
+ 
+Problem Solved:
+Data collection and their statistical analysis is a tedious job, especially in the  context of Nepal where there aren’t many data collection going on digital level. 
+ 
+Functions:
+ The primary objective of this concept is to create an app which will allow the users to view the statistics on various queries and topics, also let them perform some related statistical analysis to make it more interesting.
+ 
+The topics and queries can be requested by the users, which then needs the approval of an administrator before it goes to the general public for data collection.
+ 
+Users will be able to find the topic of their interest for both viewing and submitting their data. To protect the fake data submission, some level of verification will be applied.
+ 
+The queries can be very basic, for example: "How much do you like the Ncell App Camp?" or "What's your favorite internet browser?".  It can be anything that might interest the users. 
+ 
+ 
+Targeted audience:
+ Anyone interested 
+ 
+Main Benefits:
+Data collection/ Statistics analysis will become easier like never before.
+ 
+Platform: Android  
+
+

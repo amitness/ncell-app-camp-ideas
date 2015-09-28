@@ -1,0 +1,28 @@
+Bingo
+
+Submitted on:  September 11, 2015 - 11:07am 
+ 
+Idea:
+ Bingo is a multiplayer game and can be palyed online ,it is an mathematical tic toe game using 25 numbers.
+ 
+Problem Solved:
+Boost mathematical tactical knowledge of any age and let you have some refreshment in your spare time.
+ 
+Functions:
+ - 2D graphics
+-Mulitiplayer
+-Earn coins and betting
+ 
+ 
+Targeted audience:
+ any people who knows mathematical numbers and smartphone.
+ 
+Main Benefits:
+-Have fun
+-Boost your maths tactics
+-Play with friends and win coins
+ 
+ 
+Platform: Android, iOS, Others(web)  
+
+

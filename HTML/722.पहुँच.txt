@@ -1,0 +1,33 @@
+पहुँच
+
+Submitted on:  September 19, 2015 - 11:22pm 
+ 
+Idea:
+ स्थानीय निकाय र तिनिहरुले प्रदान गर्ने सेवाहरुमा जनताको सहज विधुतीय पहुँच
+ 
+Problem Solved:
+हाम्रो यस एपले तलका समस्याहरुलाई समाधान गर्छ:
+१) जनतामा स्थानीय निकाय (सरकार)का विवरणमा सहज पहुँच नहुनु (Lack of detail of Local Government Bodies to the citizens)
+२) जनतालाई कार्यलयको स्थान र त्यहा पुग्ने बाटोहरु/तरिकाहरु थाहा नहुनु/खोज्न गार्हो हुनु (Location & navigation to those offices)
+३) जनतालाई निकायका सेवाहरु लिन आवश्यक पर्ने जानकारी नहुनु (Lack of information regarding services delivered to citizens)
+४) जनता/सेवाग्राहीसम्म निकायका सुचनामा पहुँच नहुनु (Lack of access to latest information disseminated by local bodies)
+५) जनतामा सुचनाको हक सम्बन्धि जानकारी नहुनु (Lack of knowledge about right to information in citizens)
+ 
+Functions:
+ एस एपले प्रयोगकर्तालाई नेपालका प्रशासकीय क्षेत्रअनुसार स्थानीय निकाय सम्बधी सम्पूर्ण जानकारी र त्यहाबाट प्रदान गरिने सेवाहरु बारे आफ्नै हत्केलामा सहज तरिकाले पहुँच दिन्छ|
+(The app provides detail of local government agencies navigable as per administrative zones of Nepal and their services delivered to the citizens.)
+ 
+Targeted audience:
+ स्थानीय निकाय मार्फत सेवा प्राप्त गर्न इच्छुक सम्पूर्ण सेवाग्राहीहरु (Every Nepali citizen and others willing to get services from local government agencies)
+ 
+Main Benefits:
+हाम्रो यस एपबाट प्रयोगकर्तालाई हुने फाईदाहरु:
+१) स्थानीय निकाय (सरकार)का विवरण (Detail of Local Government Bodies)
+२) कार्यलयको स्थान र त्यहा पुग्ने बाटोहरु (Location & navigation to those offices)
+३) विधुतीय नागरिक वडापत्र (Digital citizen charter board) मार्फत निकायका सेवाहरु लिन आवश्यक पर्ने जानकारी
+४) सेवाग्राहीलाई निकायका सुचनामा सहज पहुँच (Easy access to latest information dissemination from local bodies)
+५) जनतामा सुचनाको हक प्रबर्धन (Promoting right to information)
+ 
+Platform: Android  
+
+

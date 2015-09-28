@@ -1,0 +1,36 @@
+OpenLoopStudios
+
+Submitted on:  September 15, 2015 - 9:41pm 
+ 
+Idea:
+ A hardware merged app that indicates water level status on any reservoir , provides ON/OFF control remotely from the app and helps maintain usage log.
+ 
+Problem Solved:
+1) Provides instant information on water level in the reservoir
+2) Prevents water overflow
+3) Fills the reservoir when empty based on automatic/ preset 
+4) Provdies water usage log based on client requirements
+5) Facilates communication between client and water supplier/s
+ 
+Functions:
+ 1) The App provides instant information on water level in the reservoir
+2) App controls the system ( eg. a motor) remotely ( both manually or automatically based on preset value)
+3)  App provides water usage log 
+4) App communicates between water supplier and client
+5) minimal and user friendly interface 
+ 
+Targeted audience:
+ 1) Home based users looking for automation in thier water reservoir 
+2) Water plants looking for automation in thier water reservoir 
+3) Water suppliers 
+ 
+Main Benefits:
+1) One touch ON/OFF of the system via the app
+2) Automated / remote control of water level in the reservoir 
+3) Accurate water level measurement ( industrial application )
+4) On the go communication between client and water supplier
+5) Easy to maintain water usage log 
+ 
+Platform: Android  
+
+

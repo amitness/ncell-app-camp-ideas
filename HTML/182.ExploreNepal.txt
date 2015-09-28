@@ -1,0 +1,24 @@
+ExploreNepal
+
+Submitted on:  September 17, 2015 - 3:21pm 
+ 
+Idea:
+ This app allows all the national and international tourist to know about the religious and cultural events happeneing in the country.
+ 
+Problem Solved:
+Our app helps the international tourists to explore Nepal's cultural and religious diversities. It also helps internal tourists to explore our country further.
+ 
+Functions:
+ This app shows all the major and minor celebrations happening in Nepal and the reasons behind their celebration.
+This app also allows users to upload their events and invite their friends from phone book to their event via app.
+ 
+Targeted audience:
+ This app can be used by any person who wants to explore the cultural and religious diversity of Nepal
+ 
+Main Benefits:
+The user gets to know all the events happening in the country and they get to post their own events like concerts, parties and invite thier friends.
+ 
+ 
+Platform: Android  
+
+

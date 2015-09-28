@@ -1,0 +1,24 @@
+NepaliCoders
+
+Submitted on:  September 17, 2015 - 4:54pm 
+ 
+Idea:
+ It is a simple game where you play the role of traffic police and you have to handle the heavy traffic.
+ 
+Problem Solved:
+One would understand the importance of traffic rules and understand the role of a traffic officer.
+ 
+Functions:
+ A simple traffic officer giving signal to numerous vehicles in the road, to move or to stop. His main target is to stop any kind of traffic jam, within a given time period.
+ 
+Targeted audience:
+  Anyone who loves to play games, but especially to teenagers.
+ 
+Main Benefits:
+-> Better understanding of the traffic rules and regulations.
+-> Realizes the importance of the roles of traffic officers.
+-> Fun to play.
+ 
+Platform: Android  
+
+

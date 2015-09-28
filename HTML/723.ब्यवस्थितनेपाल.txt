@@ -1,0 +1,29 @@
+ब्यवस्थितनेपाल
+
+Submitted on:  September 9, 2015 - 7:51pm 
+ 
+Idea:
+ to give information about tourism and how it can be used in development of our village/town (hence benefit for nepal and nepali people).
+ 
+Problem Solved:
+in earthquake hit region, some people are still not living their normal life. some of structural debris are as it is but tourist like good scene. peoples economical status may have also been degraded by loss of house/cattles/cloth/health.
+now employement/busigness may have affected in non earthquake hit region too .
+this apps gives information about town/village planning (earthquake and new state formation) like where to build house, road and water mgmt. gives information about what tourist like and dislike? how to search employement in tourism? how tourism may help to develop their village?
+ 
+Functions:
+ this app is for nepali villager/people so the script language is in nepali.(this app is not for tourist)
+it has audio/video data related to skill like greeting/art or gift manufacture by hand.
+it has feedback form of tourist too so that related people can do better in future.
+it has upto date information about what tourist want . like gift (चिनो) they want to buy from nepal
+ 
+Targeted audience:
+ village people who want to grow/develop their lifestyle/village through tourism.
+people who are searching job/earning.
+ 
+Main Benefits:
+village/location will more tourist friendly after knowing tourist likes and dislike
+people will get more employement (or more earning) using tourism related busigness/work like gift/art item.
+ 
+Platform: Android, SMS  
+
+

@@ -1,0 +1,39 @@
+<Dammi!>
+
+Submitted on:  September 11, 2015 - 1:36pm 
+ 
+Idea:
+ An app that allows tourists to search for and book budget rooms/travel packages under a standardized and trusted brand. (Eg: Dammi! rooms/deals)
+ 
+Problem Solved:
+As a budget travel destination, Nepal attracts a lot of tourists (both domestic and international) who travel on limited budget. There are plenty of companies out there who provide hotel and travel packages to tourists at low prices. But, many tourists who end up choosing such packages often return dissapointed because *they have to compromise on the quality of the services in return for the lower price.
+Another problem tourists often face is, *the services they require while staying at a hotel or while traveling, differ from one company to another.
+No more.
+Dammi! app makes sure that whatever room or travel package tourists book through *our app will contain basic, minimal but quality services required for budget travelers.
+The app company will not only work as an aggregator for budget deals but also *work on the branding, marketing and quality assurance front by partnering with the related stakeholders (including hotels and travel companies).
+We will also make sure that whatever services we provide are same (or standardized) no matter where you travel to. For eg: a hotel in Chitwan will offer similar quality services as the hotel you chose to stay in Kathmandu under our brand)
+Once users book through our app, they will be assured of certain standardized but quality services at minimal cost anywhere in Nepal!
+ 
+Functions:
+ -Users would be able book rooms or travel packages by simply choosing their dates and destinations and going through the list of results
+-The app will then aggregate various room and travel package deals starting with the lowest price.
+-Each result would contain details of the services provided by the hotel or tour operators and their pictures.
+-Users can choose to pay directly at the hotel/touroperator or through Paypal/eSewa/cash to the app company.
+-Allows messaging and live chat to customer service.
+-App allows services like room service while staying in a hotel.
+ 
+ 
+ 
+Targeted audience:
+ 1. Budget Tourists/Travelers
+2. Hotel Owners and Tourism Operators
+ 
+Main Benefits:
+-Users get good budget deals of hotel bookings and travel packages without compromising on the quality.
+-Users will get basic but quality services that they require while staying at a hotel or going on trek.
+-Users will feel better under the safety and quality assurance of the Dammi! brand and the standardized services that we provide.
+-Users can also use the app to avail themselves of facilities like room service while staying in a hotel.
+ 
+Platform: Android, iOS  
+
+

@@ -1,0 +1,40 @@
+MeroHospital
+
+Submitted on:  September 6, 2015 - 9:36pm 
+ 
+Idea:
+ Schedule an appointment with any doctor in a hospital, entirely from within your cellphone.
+ 
+Problem Solved:
+It basicaly sets the target to eliminate all the queue of patients in front of a hospital ticket counter, reducing the time wastage of patients and hospital staff.
+A huge and unmanaged crowd of people shall be completely eliminated, leaving only sufficient number of people inside a hospital compound at any specific time upon a successful usablity of the app. This has many side benefits to be explained later.
+Hospital Management shall be able to handle all the appointment bookings easily, efficiently and with high accuracy via a web based backend, where every little information is editable by the authenticated user.
+Doctors are able to view and get notified (if necessary) on the schedules they are liable for. They are also able to post/update general/specific medical information which is viewable by the patients/users.
+ 
+ 
+Functions:
+ 1. Ability to add/update hospital details, including doctors' profiles, department information, hospital services, appointments dates, etc. by the hospital admin.
+2. Ability for the users/patients to view the above information and schedule an appointment with a desired doctor.
+3. Ability to request for specific blood group to the rest of the users.
+4. Ability to contact the blood receptor in order to willingly donate blood on demand.
+5. Ability for the doctors to view their schedules and act accordingly. They are also able to post different health issues/solutions viewable by the users/patients.
+6. Ability to pay the appointment bills via the Cellphones.
+ 
+Targeted audience:
+ All kinds of users. Basically, every individual who is a potential patient in their lifetime.
+ 
+Main Benefits:
+1. Super easy to schedule an appointment with specific doctor in specific hospital
+2. Visit the doctor in the hospital only at the time of your appointment.
+3. Pay your appointment charge via your mobile phone without having any bank accounts.
+4. Forget about standing in the queue for hours to get an appointment fixed
+5. Get notified about your scheduled appointments before time
+6. Make a mass request on urgent need of Blood, specyfying the Group, to the other users of the app. (This feature is believed to reduce a lot of obstacles for finding blood for their patients)
+7. Get health posts from different doctors and be health aware in smallest to all levels
+8. Hospital admin can convey all necessary information about their hospital, i.e. doctors, appointments, departments, news, etc. via the backend provided.
+9. Doctors are benefitted by having them bound to the routines/schedules. They may view their patients for the day and be prepared.
+10. Hospital Ticket Counter staff can view the scheduled appointment list, categorize them according to wards/departments, print those tickets and attach them to the respective report files of the patient to be delivered to the specific room before the time of the appointment.
+ 
+Platform: Android, iOS, SMS, Others(web based backend)  
+
+

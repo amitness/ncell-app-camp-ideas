@@ -1,0 +1,27 @@
+EarthquakeMate
+
+Submitted on:  September 14, 2015 - 5:18pm 
+ 
+Idea:
+ Detecting Earthquake based on the volunteered accelerometer data from different locations & getting directions to the shortest safe places.
+ 
+Problem Solved:
+Most of the Earthquake sensors app available in appstore are just based on the gyroscope data of the single phone. In contrast, this app is based on the volunteered real time data of  intensity of simultaneously detected vibrations around the area in a certain time, so there's least chance of making the wrong decision.The more the vibrations are spotted, the more reliable the data is.Hence, the app is more reliable.
+Furthermore, the app visualizes the shortest route to the TARGET position (neasrest open/safe places) and the time required to reach there as soon as the earthquake is detected with a siren, which makes it a life saver !
+ 
+ 
+ 
+Functions:
+ Earthquake Mate basically acquires the position of the user using either GPS, GLONASS. IP, Assisted GPS or Location field and directs the user with the shortest path to nearest open/safe place,
+In addition, it also tries to imply a new concept of detecting earthquake using crowd sourcing volunteered data of gyroscope fed by other phones using the app.
+ 
+Targeted audience:
+ Everyone
+ 
+Main Benefits:
+ "It's like a bullet proof jacket in a war, Wear it !! you never know when a bullet will hit you !"
+Useful during Earthquake Emergencies, useful for life !
+ 
+Platform: Android  
+
+

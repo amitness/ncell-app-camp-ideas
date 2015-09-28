@@ -1,0 +1,79 @@
+8byteRoutemandu
+
+Submitted on:  September 19, 2015 - 11:24pm 
+ 
+Idea:
+ Suggestion of a route and its costs and how long it would take to go from a location to another location using the public transport system.
+ 
+Problem Solved:
+User won’t have to ask people or their relatives when they don’t know which bus or tempo or micro bus to take to go to other places. It also helps user to find shortest or fastest or cheapest options. It helps the user to know new routes and also can be a platform to be updated on such new routes and new transportation rates. The Transportation Authority keeps on updating the cost of travelling based on the fuel prices that are revised every 10 days. This can be an opportunity for the transport owners/ conductors to cheat ravellers. So , the app will keep such price updated. 
+ 
+ 
+Functions:
+ 
+
+Shows all possible options of route (by bus, tempo or micro) to go from one place to another
+
+
+Shows number of time user would have to change vehicle for each route
+
+
+Shows price they would have to pay for each vehicle and possible discounts they could get
+
+
+User can rate a particular area based on how heavy is the traffic at any point of time, how well the roads are and how is the condition of the vehicle they are travelling on
+
+
+This rating data would be compiled to help user make wise decision at particular period of time
+
+List the most common and famous places to go to
+
+ 
+Targeted audience:
+ 
+
+Smartphone users especially travellers who have to go to new places frequently
+
+
+Users who don’t have their private vehicle
+
+
+People with smartphones who need to travel to new places within the nation
+
+
+Marketing persons who need to go to new places for marketing
+
+
+Foreigners who come to Nepal for prolonged stay
+
+
+ 
+ 
+Main Benefits:
+
+
+Offline access
+
+
+Transportation fares will be based upon latest information as provided by Nepal government.
+
+
+Optimised system to reduce mobile data usage
+
+
+User can take calculated rational decisions to reach a place
+
+
+People will use this app when they need to travel and go to a new place for visit or as a tourist.
+
+
+User can provide review on place and transportation system. Thus, giving general idea to other users about the given place’s transportation condition.
+
+
+User can record the transportation history
+
+
+ 
+Platform: Android  
+
+

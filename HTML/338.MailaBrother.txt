@@ -1,0 +1,22 @@
+MailaBrother
+
+Submitted on:  September 18, 2015 - 3:18pm 
+ 
+Idea:
+ A game where player can make their own avatar, travel around Nepal, share photos(before and after earthquake) and play extreme sport games.
+ 
+Problem Solved:
+We hope to spread positive message for travelers around the world and encourage them to visit Nepal. After the earthquake there has been a huge drop in the number of tourist and we think our app can be an inspiration source for travelers as well as Nepalese youth to build a new Nepal that is even more beautiful than it was before.
+ 
+Functions:
+ Main function of our application include customizable user avatar, travel plan as per the user all across Nepal, sharing photos before earthquake and rating and placing users on different levels according to their activity in the game.
+ 
+Targeted audience:
+ Our target audience are all level of travelers who are interested traveling Nepal, domestic or international.
+ 
+Main Benefits:
+Users of our app will be able to play different extreme sports and share old and new photographs of places near them and different tourist point. By enabling this we are hoping to get more people into doing things they usually think they never will; say bungy jump or paragliding or rafting or mountain flight. This will directly help in our country’s tourism sector. By letting people share photos of specific place we want people to see the beautiful landscape that we have in Nepal, and glorious cultural heritage that was destroyed by the quake.
+ 
+Platform: Android  
+
+

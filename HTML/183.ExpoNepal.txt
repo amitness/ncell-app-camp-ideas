@@ -1,0 +1,45 @@
+ExpoNepal
+
+Submitted on:  September 20, 2015 - 1:47am 
+ 
+Idea:
+ An app to suggest tourist to explore Nepal and help to find their necessities until stay to Nepal.
+ 
+Problem Solved:
+Solves the problem of selecting safe routes avoiding from major/minor ongoing strikes, blocked paths from natural disasters etc.
+Get rid of problem, for finding taste of own food, with the help of nearby restaurants. 
+Our App helps to find contacts for Emergency Service even there is no internet service.
+If people go missing or get contactless, their relatives can look for them by looking at the recent activities and location records. So family do not have to worry about their loved ones.
+ 
+ 
+Functions:
+ Major Functions
+ 
+Auto suggest places and activities according to their interests and help in planning
+Cost Estimations and Suggestions for their plans
+Periodical record their location and activities which can be shared through social networking sites
+Minor Functions
+Names and Descriptions of  Places
+Informations of Hotels and Lodges
+Contact Lists for Hiring Vehicles
+Offline Emergency Service Records
+ISP, Telecom etc. Records
+Banking and Currency Exchange Informations
+Entertainment Blog section to review about movies, safari, trekking, rafting etc.
+Information about Ongoing Events for participations
+ 
+ 
+Targeted audience:
+ We are mainly focusing to attract the international tourist. Local tourist can equally benefit from the app. Any traveller who loves to roam around will surely find our app helpful. We are also keeping Local Business open from benefitting from our app by targeting the appropriate customers(tourists, travellers). Event organizers can also use the app for the promotion of their events and attract the possible visitors.
+ 
+Main Benefits:
+Easier to find the locations and descriptions(based on his/her personal taste)
+Find affordable and homely environment places to stay and eat, which benefits traveller as well as local business.
+Contacting directly the available trekking guides, feels easier to trip adventurous places
+Finding best places to taste foods for food lovers
+Finding on going events and cultural shows which benefits the organiser to promote their business and participants for enjoyment
+ 
+ 
+Platform: Android  
+
+

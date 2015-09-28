@@ -1,0 +1,33 @@
+UVoice
+
+Submitted on:  September 4, 2015 - 10:59pm 
+ 
+Idea:
+ Your own voice mail solution.
+ 
+Problem Solved:
+1.We could miss the important phone calls during our busy schedules,so this app helps to store phone calls as voice mail.
+2.Improved voice recordings as to remove the problem during disturbance of network.
+3.No need to take all your calls ,selective voice mail contact options.
+4.Important voice message convey when receiver is too busy to receive phone call
+ 
+Functions:
+ 1.To store  phone calls as voice mail, while receiver is too busy to receive calls.
+2..Voice remainder
+3.Voice mail forward.
+4.Popup Notifications
+5.Voice Message management(Have to pay some amount of money after the trial periods of the app).
+ 
+ 
+ 
+Targeted audience:
+ Business world, for retailers, for doctors, general audiences, lawers, construction peoples,catering/hotels/tourists,commercial use.
+ 
+Main Benefits:
+1.If user is not able to receive phone calls user can store the phone calls and important messages.
+2.For record keeping.
+3.Remainder of voice mails using popup notifications . 
+ 
+Platform: Android  
+
+

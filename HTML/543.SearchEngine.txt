@@ -1,0 +1,25 @@
+SearchEngine
+
+Submitted on:  September 18, 2015 - 10:12am 
+ 
+Idea:
+ App that searches the nearby hotels, lodges or any other destinations.
+ 
+Problem Solved:
+This app gives the location of nearest destination with available resources
+like hospitals, lodges and so on.
+ 
+ 
+Functions:
+ App searches the nearby desstinations with available resources and gives the direction to reach their destinations or directly contact to the customers.
+ 
+Targeted audience:
+ Tourists who don't know where every places are located and facilities available.
+ 
+Main Benefits:
+1.Everyone can go directly where thy want rather than going to random directions.
+ 
+ 
+Platform: Android, Windows phone  
+
+

@@ -1,0 +1,22 @@
+Guideyourtour
+
+Submitted on:  September 12, 2015 - 9:35am 
+ 
+Idea:
+ App that contains location and description of hospital,park, museum, stars hotels,post office ,bus station , petrol pump and cultural places .
+ 
+Problem Solved:
+It helps to guide nepalese and foreign tourist to make their destination easier by providing unicode converter and date converter as well as providing ther guide
+ 
+Functions:
+ Details about many places will be listed online radio can be accessed Unicode converted can solve language problem Date converter can help user to date as they desire User can share their experience witn that chat option.
+ 
+Targeted audience:
+ students, tourist, basically all people can use this app for their benefit.
+ 
+Main Benefits:
+1.User can navigate their destination through this app. 2.User can chat with their friends (group and private chat) 3.Online radio will be provided for user 4.App will be auto updatable (ftp base) 5.Unicode converter will be provided ( english to nepali) 6.Date converter will provided (A.D to B.S and B.S to A.D) 7.User can get info about all cultural places and their target
+ 
+Platform: Android  
+
+

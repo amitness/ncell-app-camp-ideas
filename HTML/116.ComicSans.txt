@@ -1,0 +1,30 @@
+ComicSans
+
+Submitted on:  September 19, 2015 - 12:42pm 
+ 
+Idea:
+ Comic Sans provides readers with interactive comic reading experience & artists with a different level of digital comic making platform.
+ 
+Problem Solved:
+-        The app aims to display comics to the user with interactive capability that will let the reader change comic windows and view comic conversation bubbles in a serial manner in a single screen tap.
+-        The app will also help comic artists a digital comic making platform where they don’t have to worry about managing the sequence of conversation and conversation bubbles blocking the scenery.
+ 
+Functions:
+ -        The app allows a comic artist to upload the digital comic pictures without the hassle of the conversation text.
+-        The conversation text along with their sequence can be added through the app’s “artist’s dashboard” side itself.
+-        Comic readers will be able to choose their favorite comic to read, and it will be displayed to them on a comic window by window basis.
+-        Users can view the comic pictures, tap on the screen to get the comic conversation bubble in the correct sequence.
+-        Users can choose to automate the comic to generate next comic window and/or dialog box based on a timer, or tap screen to go to next dialog box and/or comic window.
+ 
+Targeted audience:
+ -        Comic artists
+-        Comic readers and enthusiasts
+ 
+Main Benefits:
+-        This app will help promote comic artists and connect comic artists with comic readers. It will help remove the abstraction between comic artists and readers.
+-        An interactive way of reading comics for comic readers.
+-        An interactive way of developing comics for comic artists.
+ 
+Platform: Android  
+
+

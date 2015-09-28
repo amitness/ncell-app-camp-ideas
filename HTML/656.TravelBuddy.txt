@@ -1,0 +1,35 @@
+TravelBuddy
+
+Submitted on:  September 16, 2015 - 3:50pm 
+ 
+Idea:
+ A mobile app that helps solve the difficulties of driving and helps ensurse safety on the roads by keeping rules and regulations in check.
+ 
+Problem Solved:
+The number of vehicles in Nepalese roads are increasing resulting in long traffic jams. Besides this, the cases of drunk driving and accidents cannot be overlooked. Our app 'TravelBuddy' helps in solving these problems .Also, this app can help emergency vehicles - Ambulance, Firetrucks reach the location in time.
+ 
+Functions:
+  
+TravelBuddy features the following elements to make the roads more safer and driving more enjoyable
+ 
+- Get to know about the traffic rules and regulations
+ 
+-using GPS, calculate the appropriate route to the destination
+ 
+-helps against drunk driving
+ 
+-report other drivers to concerned authorities using camera and registration plate
+ 
+-automatic notifications about obstructions, accidents neat the user's area
+ 
+-know the procedures for license registration and news for the same
+ 
+Targeted audience:
+ This app will prove to be of huge help to anyone and everyone who owns a vehicle
+ 
+Main Benefits:
+This app 'TravelBuddy' aims to help our users know the shortest route to their destinations and also be updated about any obstructions, accidents near their area.  Not only this, 'TravelBuddy' also has other features such as - it helps ensure safety, know about the traffic rules and license procedures.
+ 
+Platform: Android  
+
+

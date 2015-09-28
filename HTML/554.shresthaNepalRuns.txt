@@ -1,0 +1,43 @@
+shresthaNepalRuns
+
+Submitted on:  September 20, 2015 - 3:12am 
+ 
+Idea:
+ Allows users to capture your run activities and walk duration and view the stats on Google Maps in intuitive way.
+ 
+Problem Solved:
+helps you track your daily run,walk activities 
+ 
+Functions:
+ elements includes 
+ 
+1)sensors ( GPS, accelerometers),google map
+ 
+fuction includes
+ 
+1)user can set personal information name, email.
+ 
+2)can view history activities
+ 
+3)can choose actvity type running or walking
+ 
+4)shows results in google maps
+ 
+Targeted audience:
+  
+everybody who are conscious about their health and wanted to see small step improvement in their own pocket daily.
+ 
+Main Benefits:
+1)easy, user friendly UI 
+ 
+2)shows average speed
+ 
+3)distance travelled
+ 
+4)capture duration
+ 
+all above results are shown with google maps 
+ 
+Platform: Android  
+
+

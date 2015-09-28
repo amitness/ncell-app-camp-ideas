@@ -1,0 +1,24 @@
+TechGeek
+
+Submitted on:  September 9, 2015 - 10:02am 
+ 
+Idea:
+ A simulation game which has the Custom Nepali village Environment and lets user roam around inside it.
+ 
+Problem Solved:
+Our app will clone some of the villages of Nepal and lets you experience its beauty with some strategy missions.
+ 
+Functions:
+ This game will have a nice UI which attracts the users.
+This game is intended to attract users who enjoy Virtual reality type of environment.
+ 
+Targeted audience:
+ Nepalese people in Nepal and People over the world who wonder what its like in Nepal are the main targets.
+ 
+Main Benefits:
+1. User can enjoy the virtual reality of the game.
+2. This game helps user to know the livelihoods of Nepalese.
+ 
+Platform: Android, iOS  
+
+

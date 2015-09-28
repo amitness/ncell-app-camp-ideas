@@ -1,0 +1,30 @@
+RemoteInputDroid
+
+Submitted on:  September 18, 2015 - 4:53pm 
+ 
+Idea:
+ A simple android application that acts as a remote for Powerpoint presentaions, Mouse & Keyboard, VLC Remote and a simple joypad.
+ 
+Problem Solved:
+This application solves problem of having to constantly be around the laptop/PC when giving a presentation, showing videos and also gives the option for multiplayer gaming.
+ 
+Functions:
+ 1. Server-Client based architecture.
+2. Multiple device access
+3. Connection over WiFi
+4. Cross platform server (Java based)
+ 
+ 
+Targeted audience:
+ The most sensible target audience for the application would be students, teachers and anyone who gives presentations on a regular basis or would like to remotely control thier PC.
+ 
+Main Benefits:
+1. Ability to control powerpoint presentations.
+2. Use the mouse and keyboard remotely.
+3. Control VLC Player
+4. Use a joypad for gaming.
+5. Localised nepali typing on computer through mobile device
+ 
+Platform: Android  
+
+

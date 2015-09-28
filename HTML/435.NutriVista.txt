@@ -1,0 +1,22 @@
+NutriVista
+
+Submitted on:  September 18, 2015 - 5:01pm 
+ 
+Idea:
+ Gives nutritional status,nutritional news, provides complete information and guidance on nutrition for different stages of life including food diary.
+ 
+Problem Solved:
+Nepal is developing country with a per capita income of $427 in 2014. Compared to 1974 the per-capita income is increased. With increase in per capita income there is change in living style and dietary pattern. Due to change in dietary pattern the number of hypertension and diabetes has been increased. It is also estimated that most of the hospitals does not have dietetics department or dietician so there is a difficulty in counseling the person on diet plan and recommended daily allowances (RDA). One of the main problems which would be solved by NutriVista is this. Similarly the people are still are having nutritional problems in the rural areas of Nepal and it’s very hard to reach out the specialties over there so NutriVista solves such problems by disseminating the information on food facts, food as medicine or medicine. Another main problem that this app is going to solve is the calculation and interpretation of anthropometric inputs. Provides the comprehensive information on body mass index, basal energy expenditure etc. on the basis of height, weight, age and gender.
+ 
+Functions:
+ The main functions of the app are given below: a. Anthropometric Nutrition: Based on the inputs of height, weight, age, gender, chest diamter, head diameter, waist diameter, hip daimeter, wrist diameter, arm diamter the body mass index, resting energy expenditure, basal metabolism are calculated and graded as per international agencies like WHO. It also provides the nutritional needs for pregnant and lactating women. b. Food Compositition The food composition of the food will be given as per the Deparment of Food Technology and Quality Control (DFTQC) as well as other international Agencies like CODEX. c. Food Diaries Food diaries is another important function, in this function the daily food which are comsumed are recoreded. The recorded data can be traceable for the future need. Fromt the food diaries the app gives the comprehensive information on daily nutrient intake like fat, protien, carbohydrate, minerals and energy. d. Nutrition News The latest updates on food nutrition, clinical nutrition, national policies in nutrition and success stories on nutrition will be shared for the inspiration as well as to follow the users. It also provides the comprehensive information to prepare the weaning food from locally available materials for infants in rural areas of Nepal.
+ 
+Targeted audience:
+ The primary target audiences are the android users since the version is going to be made is android. Refining the target community the secondary community for this app among the android users are the teen & youths ranging from grade 11 to masters level students or this may be suitable to some PhD and Post docs. Since this app is also giving information on food consumption for weight gain or weight loss our app is highly focused in between 12 class students to bachelor level students cause in this very phase are either interested on gaining weight or losing weight. After all the youths are pillar of the nation
+ 
+Main Benefits:
+The benefits of using this app are information dissemination on food safety, food composition table and their nutrition values. As we all know that the food composition table gives the comprehensive information on protein, vitamin, carbohydrate, energy the foods that is to be need for the gain in weight or loss of weight in given specified time shall be given from this application. The application gives the news updates on the nutrition and nutritional research which has been disseminated globally. The change in nutritional status shall be notified from the application. After using this application the time consumption for inquiry for nutrition is highly minimized and cost too and very rapid response to it. It also gives the scientific based evidence of medicinal plants which has been used for curing since ancient time.
+ 
+Platform: Android  
+
+

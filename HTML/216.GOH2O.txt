@@ -1,0 +1,22 @@
+GOH2O
+
+Submitted on:  September 19, 2015 - 2:19pm 
+ 
+Idea:
+ H2O schedule + swipe to call & complain to water boards & authority as per area/group.
+ 
+Problem Solved:
+1.Like loadshedding schedule it's gonna remind you when water flow starts to that area.2.Also notifies by alarm & wakes you up if water flows at 3AM so wont miss3.Theres somewhat rough schedule of water flow & this app is slowly gonna make it standard thru swipe to call & complain interface.4.While shortage of water theres link to tankers & other water providing companies(i.e call option)5.Confusion of water timing & hence staying in long lines in the wrong time will be reduced.6.Great time management & reminder
+ 
+Functions:
+ view water schedule,notifies with countdown timer,search the water flow area by location in your device,swipe to call & complain interface to water authorities & providers during shortage. 
+ 
+Targeted audience:
+ Everyone who stays in long lines & waits whole day without even knowing water timing so that they can collect water without loss of time
+ 
+Main Benefits:
+1.Be smart enough to plan your time efficiently & never miss to collect water.2.No need to stay in long lines & wait for water in the wrong time when water doesn't flow.3.Smart way to know about water flow thru call & complain interface4.While crisis just go thru contacts of water providers which you can add & self update.
+ 
+Platform: Android, SMS, Others()  
+
+

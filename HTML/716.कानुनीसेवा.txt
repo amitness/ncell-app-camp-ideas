@@ -1,0 +1,28 @@
+कानुनीसेवा
+
+Submitted on:  September 15, 2015 - 5:20pm 
+ 
+Idea:
+ It gives whole information about our newely updated constitution and justification along with contact method for ligal services.
+ 
+Problem Solved:
+It solve all the legal case problem (कानुनि समस्या ) and give clear justification about newly updated constitution.
+ 
+Functions:
+ It inclueds following services
+1.updated constitution
+2. justification of confused DHARA and UPADHARA of constitution.
+3.Information about legal action (कानुनि प्रक्रिया) upon any kind of legal services
+4. economic rate about lawer and legal agent.
+(eg: how much cost for case DEVORSE and how it happens in court and what is its further action)
+5. contact method to legal agent.
+ 
+Targeted audience:
+ All people who are belogs to nepali citizenship.
+ 
+Main Benefits:
+User get legal services help (कानुनि साहयता) and whole information about our constution.
+ 
+Platform: Android  
+
+

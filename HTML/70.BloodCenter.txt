@@ -1,0 +1,42 @@
+BloodCenter
+
+Submitted on:  September 11, 2015 - 12:10pm 
+ 
+Idea:
+ A technical Initiation to save lives.
+ 
+Problem Solved:
+Blood transfusion saves lives and improves health. Many patients requiring transfusion, however, do not have timely access to safe blood and blood products. Every country needs to ensure that supplies of blood and blood products are sufficient. Adequate supply of safe blood can only be assured through regular voluntary unpaid donation.
+There are many people who are ready to donate through donation programs as well as on the spot if any emergency need occurs. But there is not an easier way to reach them. There is a need of a system to connect the donors, blood banks and blood donation events so that no one would have to lose life due to lack of blood. So we came up with a solution.
+ 
+We will connect the donors, the people who need blood donors and even the blood donation program organizers, hospitals and as well as the blood banks directly through our app by allowing them to create a profile which will have various features for the each user group.
+Thus ensuring that adequate supply of safe blood and blood products are available all the times anywhere.
+ 
+Functions:
+ The app would be able to connect all user groups based to various location and blood group filters as well.
+After having a profile, any subject can either seek for blood, or explore any local activities of blood banks and donation program organizers.
+Hospitals and blood donation program organizers can keep posting the details of the events they are organizing related to blood donation and their present state of blood availability as well as honor the top donors by giving them stars and ratings.
+ 
+ 
+Targeted audience:
+ Our target audience are:
+1. Blood Donors ( There are people who frequently donate blood but nothing is being done to keep their spirit up and make them proud of what they are doing.)
+ 
+2. General People ( Any one can create a profile and explore local activities and profiles of top donors and their activities as well as seek for blood when needed.)
+ 
+3. Blood Banks, Hospitals and Blood Donation event organizers.
+ 
+Main Benefits:
+Our app would have a huge benefit to the whole mankind. Any one can create a profile and get connected in this  initiation of saving lives.
+ 
+We would have a "Common User" profile through which anyone can explore nearby donors, activities and current stock of blood availabe on various blood centers and hospitals nearby, a "Donor cum Common User" profile. Profiles for "Blood Donation Event Organizers" and "Blood Banks" as well as "Hospitals". The users are going to get benefits on the following ways.
+ 
+a. A donor would have a social profile to be proud of and we would help them to do their social work on even a better way so that they can keep  saving lives and be a proud human being.
+ 
+b. A common user can seek for blood banks, donors and events nearby while we would be the mediator to maintain the security.
+ 
+c. Blood donation program organizers, hospitals and blood banks could reach a huge audience for a better reach of donors as well as provide an immediate facility for the ones who need them.
+ 
+Platform: Android  
+
+

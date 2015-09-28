@@ -1,0 +1,31 @@
+HospitalForEveryone
+
+Submitted on:  September 19, 2015 - 10:51am 
+ 
+Idea:
+ App to find hospital, register patient name in hospital and to take a date for the treatment
+ 
+Problem Solved:
+Tourists or new people may feel difficult to find hospital. And due to busy life of people,to be in queue for registration of patient for treatment is time consuming. On the other hand people living very far from hospital may need health services and for this purpose they first have to go to hospital register their name and by some reason if doctor needed for checkup is not present then they have to return or go to next hospital. But our app help them to solve this problem.
+ 
+Functions:
+ 1. The app help to search nearby hospital.
+2. The app provide the information about the health facility provided by the hospital and the list of doctor available at specific time.
+3. In case if health services what we needed is not available in that hospital then through app patient will inform about it and they will be suggested for next hospital having such facilities.
+4. Their will be system of online paying for registration of patient in hospital. 
+ 
+Targeted audience:
+ This app play vital role for tourists or new people for searching hospitals.
+Even busy people incase they don't have sufficient time to be in queue for registration of name in hospital can use this app.
+Also people living far from hospitals can use it.
+And even all people who need to go for treatment in hospital can use it.
+ 
+Main Benefits:
+1. Our app will show the list of hospital and their location. So incase if we need to go for treatment we can choose near one hospital.
+2. Easy registration of patient through the app without going to hospital, it help people to save time.
+3. People living far from hospital may need to go for checkup then by help of our app they can do pre- registration and take date for treatment.
+4. Incase if doctor, whom we are going to consult is out of hospital then we will be given notice during registration time and we can manage accordingly.
+ 
+Platform: Android  
+
+

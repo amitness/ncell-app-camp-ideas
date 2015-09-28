@@ -1,0 +1,26 @@
+BindassDevelopers
+
+Submitted on:  August 22, 2015 - 11:34am 
+ 
+Idea:
+ App for the tourist  to know about the best hotel and their bookings, their adventourous destination and the locations.
+ 
+Problem Solved:
+searching best hotel and their cost is not easy task for tourist, they can book their desire hotel by just one click so that they could get their desire hotel.
+ 
+Functions:
+ The app list down the nearby hotel to stay with their booking and cost.The app can provide detail information about the different places of nepal and they can go different place by taxi not even being dumpped by the taxi driver.
+ 
+Targeted audience:
+ Tourists who come to visit nepal and want to stay in their desire hotel with affordable cost and want to visit different places with their one mobile.
+ 
+Main Benefits:
+1.Helps to find best hotel to stay.
+2.Helps to book the hotel with just one click.
+3.Help to search for the different destination they could visit.
+4.Helps to know about the taxi rate and other different things so that thery wouldn't be dumped by those people.
+ 
+ 
+Platform: Android  
+
+

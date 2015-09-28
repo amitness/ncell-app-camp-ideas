@@ -1,0 +1,22 @@
+Paryataan
+
+Submitted on:  September 18, 2015 - 10:03pm 
+ 
+Idea:
+ Most user-friendly travel organizer for organizing the trips in the easiest and reliable way and let people able to see the beauty of our NEPAL.
+ 
+Problem Solved:
+i) Solves the problem of tourist by relating them to unexpected expenses.ii) Helps from frauds.iii) Solves security issues.iv) Cut down journey times.v) Create new way to attract visitors.vi) Helps to know the visitors and their preferences.vii) Makes the travelling more reliable, safe, secure and efficient.
+ 
+Functions:
+ i) Geo-locationii) Offline utilitiesiii) Images ,video etc.iv) Interaction with near by tourists and idea sharing through blogs.v) Hotel world : not every one can afford a luxurious hotel. So it allows a geo –tagged list of budget hotels.vi) Database of emergency service numbers of our country for safe and smart travelling.vii) Currency convertor.
+ 
+Targeted audience:
+ International and domestic tourists.
+ 
+Main Benefits:
+i) Efficient and effective navigation.ii) Can locate nearby places easily.iii) Doesn’t have to use manual maps.iv) Help the users for effective planning.v) Available for every season.vi) Improve visitors experience.vii) Provide easy access to information and maps.
+ 
+Platform: Android  
+
+

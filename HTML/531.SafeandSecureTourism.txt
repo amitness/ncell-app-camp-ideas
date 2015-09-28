@@ -1,0 +1,33 @@
+SafeandSecureTourism
+
+Submitted on:  September 18, 2015 - 8:36am 
+ 
+Idea:
+ It is an android app that will trace tourist and verify their safety in cases like: lost, alive or dead, kidnapped, etc.
+ 
+Problem Solved:
+Problems: 
+1) Tracing: Easy to locate tourists. Location of tourist will be monitored in certain intervals of time and location details will be sent to specified person(family, friends,etc.) that the user wants. Hence, the tourist's location will be monitored many times a day thereby tracing every locations they visit.
+2)Security:The tourist's movement can be observed with the change in latitude and longitude. The app will check the change in longitude and latitude everytime it traces tourist location. If there is no change in latitude and longitude for many checks then the app will assume tourist is in problem and hence notify the specified person to verify tourist safety and location.
+Sometimes undesirable locations can be traced that was not in the tourist plan. Suppose the specified person was informed that the tourist is going to visit kathmandu, pokhara, Charikot, etc but the traced location was somewhere in undesirable location. In such case it can be hint that the tourist is lost or kidnapped and specified person will verify about tourist safety. 
+ 
+Functions:
+ Main Functions
+1) Tracing tourist's location in regular interval of time.
+2) Notifying sepcified persons( family, friends, etc of tourists) about whereabouts of tourists in regular interval of time.
+3) Application can switch on data packet or connect to available wifi network automatically for collecting information about tourist's location and sending tourist location information to the specified person.
+4) Notifiying specified person for verification of tourist safety in cases like no change in latitude and longitude for many checks in locations and for undesirable traced location.
+ 
+Targeted audience:
+ Our targeted audience: National and International Tourists.
+ 
+Main Benefits:
+Benefits
+1) Easy to trace tourist location.
+2) Easy to monitor and verify tourist safety.
+3) Easy to detect if the tourist is in problem such as lost, kidnapped.
+4) Safe and secure tourism.
+ 
+Platform: Android  
+
+

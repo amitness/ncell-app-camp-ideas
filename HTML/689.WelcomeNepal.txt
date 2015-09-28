@@ -1,0 +1,31 @@
+WelcomeNepal
+
+Submitted on:  September 20, 2015 - 10:28am 
+ 
+Idea:
+ Our app will help tourist in every possible way, from finding a proper accmodation to language translator to helping as a virtual tourist guide.
+ 
+Problem Solved:
+Our application will help tourist in every aspect. It will help tourist communicate, find a good and affordable accomodation, will help as virtual tourist guide, will save them from paying extra bucks for taxi and other services and also will help them stay updated with the exchange rates.
+ 
+Functions:
+ * Language Translator
+*Virtual Tourist Guide
+*Accomodation Mapping
+* Know Legitimate Taxi Fares
+* Exchange Rates
+ 
+Targeted audience:
+ Our target audience would be tourists from all arround the globe who visit Nepal for exploring various historical, religious and adventourous places.
+ 
+Main Benefits:
+Following are the benifits:
+* Users will not have to face any issue while communicating.
+* With our app installed in their mobile, they will not need to hire a tourist guide.
+* It will help them find a good and affordable accomodation.
+* It will help them stay updated about the exchange rates.
+*It will help them know the legitimate taxi fares and makes sure that they dont get ripped off.
+ 
+Platform: Android, iOS, Windows phone  
+
+

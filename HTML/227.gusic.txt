@@ -1,0 +1,22 @@
+gusic
+
+Submitted on:  September 14, 2015 - 6:51pm 
+ 
+Idea:
+ lets create a online game on musics all over the world, in which players get their opponent randomly and batlle on the topics of music.
+ 
+Problem Solved:
+its online game for fun and for involvement on music
+ 
+Functions:
+ it has online connection to users,`provide a feature to users that can share their their music to others.
+ 
+Targeted audience:
+ these are specially  for  music lovers and for others  also.
+ 
+Main Benefits:
+user can play this game with others from all around the world and  create their own group according to intrest in music. 
+ 
+Platform: Android, Windows phone  
+
+

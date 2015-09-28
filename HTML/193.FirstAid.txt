@@ -1,0 +1,25 @@
+FirstAid
+
+Submitted on:  September 20, 2015 - 11:13am 
+ 
+Idea:
+ An app that can provide users with loads of instant suggestion for pain and stress.
+ 
+Problem Solved:
+Provide an elaborate suggestion to users depending on aches they intent to resolve
+One can search for categorized precautions and first aid instantly
+For example: if one is chokes on something suddenly a friend can find its remedy on their smartphone.
+ 
+Functions:
+ A categorized pain topics and its remedies as first aid
+ 
+ 
+Targeted audience:
+ Any users who are able to search for pain relief solutions digitally in their smartphones.
+ 
+Main Benefits:
+Reduces panic and anxiety about stress or suffering
+ 
+Platform: Android  
+
+

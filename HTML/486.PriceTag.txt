@@ -1,0 +1,32 @@
+PriceTag
+
+Submitted on:  September 18, 2015 - 10:46pm 
+ 
+Idea:
+ We will provide users with the rates fixed by the different gov.organization along with the connection to concern office. 
+ 
+Problem Solved:
+ - Save the people from the frauds of the market.
+- Help citizens to consume goods as per the rate fixed by government
+- Help the AKHTIYARs to take action over such trickeries.
+- Make the market run as per the rule 
+- Ensure the citizen to be consuming in the right way.
+ 
+ 
+Functions:
+ Give information about the prices determined by authorized agencies(gov or non  gov).
+Connection to Those Concerned Offices for support.
+To bring awareness and no to be cheated .
+ 
+Targeted audience:
+ Everyone : for purchasing anything 
+Travellers(national and international) : for know the exact fares of the  vehicles .
+ 
+ 
+Main Benefits:
+- Easy access to the purchasing prices of different goods fixed by the government.
+- Can directly infom to the Concern Office in case the buyer doesnot agree to sell in the predefined price.
+ 
+Platform: Android  
+
+

@@ -1,0 +1,31 @@
+Rakchhyak
+
+Submitted on:  August 17, 2015 - 9:40am 
+ 
+Idea:
+ App that will find the nearest blood donor or blood bank in case of emergency.
+ 
+Problem Solved:
+1. It will decrease the scarcity of blood.
+2. Fresh Blood will be avaiable at a Cheaper cost (May be Free).
+ 
+ 
+ 
+Functions:
+ The app will help to find nearest blood donors or blood bank (and their details). It will also give health tips or blogs, notifications about the events that are going to happen.
+ 
+Targeted audience:
+ 1. People who are in need of blood (like Hemolytic Anemia, any accidents, etc.).
+2. Health Conscious People. (like people having high/low blood pressure can get tips to maintain the level)
+3. Students related to medical field can get extra knowledges from the people all around the world.
+4. Besides medical students, Normal peoples can read blogs, notifications about the events and activities, etc.
+ 
+Main Benefits:
+1. They will find the nearest blood donor or blood banks or emergency contacts, etc.
+2. They will be able to add events like Blood Donation Programmes to increase the number of donors.
+3. They will be able to add blogs related to Blood, Diseases, health tips and many more.
+4. They will get facitlity to upload pictures they have taken while conducting certain events or participating events.
+ 
+Platform: Android  
+
+

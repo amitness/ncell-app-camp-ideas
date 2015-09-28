@@ -1,0 +1,50 @@
+One
+
+Submitted on:  September 18, 2015 - 5:17pm 
+ 
+Idea:
+ App that collects, analyzes intensive care medical data to assist medical personnel derive vital information and detect complications sooner.
+ 
+Problem Solved:
+-In intensive care unit continuously data is collected of patients' vital signs - blood pressure, pulse, respiration, temperature and saturation. The data collected for even a single patient is of enormous volume.
+-Medical data of intensive care units are noted at an intervals of about 15min or larger intervals and is summarized to a number. This number is then judged to conclude if there is any complication in patient.
+The data given by medical instrumentation is so large that it is impossible for a person to process. The relationships that could be figured out using data analytics often go unnoticed.
+-In crucial field like medicine, it is important we know details of previous cases, patients. The data collected is usually so huge to process they are summarized in static paper charts by people less familiar with data analytics.
+One app environment saves all these enormous volume of data continuously to build up a memory and finds patterns in vital signs relationship to help doctors Detect Complication Sooner and derive vital information.
+-While the medical data of intensive care runs out of memory without any further processing, a relevant sector of biomedical industry, pharmaceutical industry seek heavy data and rely on the ability to acquire, analyze and display large quantity of data.
+With advanced data collection, One's data repository and analytics we can help biomedical industry build resources based on continuous data and facts.
+-Medical personnels usually make decision based on traditional data analytics and intuitive medical understanding.
+The prospect with recent development in data science can help them build decisions based on precise facts and information. One app bridges the gap between data analysis sector and medical knowledge to foster medical intuitive decisions with analytics.
+ 
+Functions:
+ Elements: 
+-hardware component that collects data from medical instrumentation and puts it online.
+-real time web based database management.
+-data analytics that finds patterns in patient's behavior, compares them with previous behavior to suggest conclusions.
+-mobile app specialized for health personnel to help them predict future behavior based on medical knowledge and analysed data.
+-platform that maps data analysis to medical implications.
+Functions:
+-detailed, real-time, continuous data collection of patients under intensive care.
+-an open source data repository that can be used for research, analytics and health predications.
+-a dynamic analytics mobile app that can focus on specific parameter to deliver corresponding relationship.(For example, If a diabetes patient is under intensive care and the patient's acidosis is to be studied, it's most significant symptom i.e, respiration is considered. A graph and analysis information is the respiration behavior and pattern is delivered to doctors.
+Also, during automatic assessments if any alterations happen in normal behavior, mobile app informs.)
+ 
+Targeted audience:
+ -Intensive care unit patients.
+-Medical staffs.
+-Data scientists.
+-Biomedical and pharmaceutical industry.
+-Medical researchers and analysts.
+ 
+Main Benefits:
+-Almost all of patients' health behavior is noticed to build up conclusion. With advanced intensive care data analysis we can predict when the patients have to readmit or take medicenes precisely.
+-Automatic assessments to collect data at very small intervals unlike 15/30 mins intervals assessment will facilitate nurses. Also it will help build an effective database.
+-Data analysis based on data behavior can be used for medical understanding. 
+-Medical instrumentation system provides continuous data and it is kept in memory that can be later compared and analysed.
+-Biomedical and pharmaceutical industry can be benefitted by the data monitoring and storing of physiological signals and the effects of drug interaction.
+-With large collected and analysed data that is connected between different vital signs, doctors can detect critical cases sooner with greater accuracy, speed and larger domain of consideration.
+-Fusion of technologies(sensor technology, statistics,  AI, medical informatics and knowledge) can overcome constraints posed by traditional statistical methods.
+ 
+Platform: Android  
+
+

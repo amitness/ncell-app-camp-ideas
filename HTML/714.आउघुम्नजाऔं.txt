@@ -1,0 +1,30 @@
+आउघुम्नजाऔं
+
+Submitted on:  September 9, 2015 - 5:33pm 
+ 
+Idea:
+ An android app which displays all the best travelling places all over Nepal.
+ 
+Problem Solved:
+Due to the devastating earthquake in Nepal, there has been a slight affect in the number of tourists visiting Nepal. Tourists have a fear of earthquake in Nepal. Our app solves this problem by displaying all the best travelling places all over Nepal. Also, it displays the number of earthquake occured at that place after the devastating earthquake of April 25, 2015.
+ 
+ 
+ 
+Functions:
+ 1. Users see all the best travelling places all over Nepal.
+2. After selecting a place, they can see a full description of the travelling place with pictures and videos.
+3. Users can also see the number of earthquakes occured in that area after the devastating earthquake of April 25, 2015.
+ 
+Targeted audience:
+ Tourists searching for best travelling places all over Nepal.
+ 
+ 
+ 
+Main Benefits:
+1. Tourists can see the best travelling places all over Nepal just with a click.
+2. The app displays the number of earthquakes occured after the devastating earthquake occured on April 25, 2015.
+3. Users can view the full description of the travelling place with pictures and videos.
+ 
+Platform: Android  
+
+

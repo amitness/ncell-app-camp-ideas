@@ -1,0 +1,31 @@
+CollegeFinder
+
+Submitted on:  September 16, 2015 - 10:50am 
+ 
+Idea:
+ A handheld application which will help students to find proper place to study based on their requirements(i.e fee structure, rank, location etc).
+ 
+Problem Solved:
+We all know that student who just passed SLC are not aware about the outside world.They know nothing about schools and colleges outside their place.Our application will help those student who just passed their scool to find proper place to study as per their requirement. This application will help student find school as per their fee structure, as per location. as per rank by ministry of education, Our application will help students find proper college for them without any trouble.
+ 
+Functions:
+ list the names of colleges
+arangement of college on the basis of fee structure
+arrangement of college on the basis of location.
+Detail information about the colleges.
+location in map for easy navigation.
+ 
+ 
+Targeted audience:
+ Our application will primarily target students who are about to joing college (+2),student who are going to join undergraduate and graduate level also.
+ 
+Main Benefits:
+Our application has many benefits :
+1. This app will help student find college just sitting at their hopr.
+2. Facilitate students to find college as per their financial status.
+3. Help student find college as per the location.
+4. Giving student information at their hands.
+ 
+Platform: Android  
+
+

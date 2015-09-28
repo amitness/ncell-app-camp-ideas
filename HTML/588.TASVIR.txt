@@ -1,0 +1,36 @@
+TASVIR
+
+Submitted on:  September 18, 2015 - 4:41pm 
+ 
+Idea:
+ TASVIR allows the user to take  picture of any monument,places  and gives the detail information, microscopic features  about them.
+ 
+Problem Solved:
+Suppose you have to visit Basantapur Durbar Square,as we all know most of the structures there have been destroyed during earthquake ,so in order to know about its previous state(before earthquake) you can take a picture of present state of that monument and by using image processing unfold the authentic antecedent state,meticulous information about it.Not only the earthquake affected monuments one can know a lot about popular masterpieces and places using our app. 
+ 
+Functions:
+  
+Using our app,person can take a picture and discover a new masterpiece within the demolished(disintegrated) structure.
+Not only that user can find map to different tourism sectors and historical places from our app.
+ 
+Targeted audience:
+ This app is specially targeted to :
+1.Those travellers who love to travel alone without any guides,guidebooks(Solo travellers)
+2.General public who love  to take pictures using there phone.
+3.Art worshiper,technology maniac,nature lover and historical admirer.
+ 
+Main Benefits:
+ 
+
+1.Individual can learn a lot genuine information about any historical monument with just a click on his/her phone.
+2.Increase the number of visits in those earthquake affected places so that one can learn actual state and take a rational step to promote that place.
+3.Those travellers  who love to travel alone will not require any guide or guidebooks.
+3.Not to sound overambitious this app can help in tourism development and boost tourism economy.
+ 
+ 
+
+ 
+ 
+Platform: Android  
+
+

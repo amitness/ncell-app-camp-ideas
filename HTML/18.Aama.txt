@@ -1,0 +1,49 @@
+Aama
+
+Submitted on:  September 19, 2015 - 8:58am 
+ 
+Idea:
+ 
+p { margin-bottom: 0.1in; line-height: 120%; }
+It is an app to disseminate information and save lives of expected mothers.
+ 
+Problem Solved:
+
+p { margin-bottom: 0.1in; line-height: 120%; }
+Pregnant women may lack the information about what to do and what not to do during the pregnancy. This app will provide them weekly information about things to take care of, and knowledge base of pregnancy related health care advices, fitness and nutrition information and symptoms manual. As a result, this would help disseminate useful information to them, which they might not have been able to receive, otherwise.
+The ability to log their weight, count baby kicks, contractions and further facilities provided will help women keep better track of their pregnancy and the child within.
+Along with information and utilities useful to the pregnant women, they will also be able to communicate with Doctors (OB/GYN) as and when needed. The community forum will act as a platform where they can have their queries answered to by doctors and other users.
+Hospitals will be able to provide better care for their patients with the help of the app. They will be able to monitor how far along the patient is in her pregnancy, along with some risk factor or information (if provided) associated with that particular patient. Doctors, on the other hand, will be able to be in touch with their patients 24/7 and will be able to receive personalized messages or notification from the patient in case of emergency, or any problem.
+So, all in all, in order to improve maternal health, the app tries to solve three major issues : lack of information related to pregnancy, communication gap with doctors / health professionals, and lack of proper tracking of pregnancy.
+ 
+Functions:
+ 1. Knowledge base of pregnancy related information (dos and donts, symptoms manual, pictures of child development etc.)
+2. Notification alerting the user about things to take care of or supporting messages.
+3. Communication with other patients and ob-gyns.
+ 
+ 
+Targeted audience:
+ 
+p { margin-bottom: 0.1in; line-height: 120%; }
+We are targeting the following groups:
+1. Pregnant women.
+2. Doctors.
+3. Hospitals.
+4. Health care workers ( FCHV, TBA, MCHW, Safety and health practitioners)
+We are assuming that all these groups have access to a good enough Internet connection and smart phone that supports our application.
+We acknowledge the fact that since it is a smart phone app, we won't be able to reach out to a larger audience that is in the village areas. However, our app can be used by health care workers such as Traditional Birth Attendants (TBA), Maternal and Child Health Workers (MCHW), Female Community Health Volunteers (FCHV) in order to get information about maternal and child health care. The same thing can also be replicated via Interactive Voice Response (IVR) in order to reach out to the pregnant women themselves in the remote areas.
+ 
+Main Benefits:
+
+p { margin-bottom: 0.1in; line-height: 120%; }
+1. Would-be mothers will be able to keep better track of their pregnancy.
+2. They will get personalized recommendation about what to do and what not to do during their pregnancy. As there's some things to be taken care of as the week progresses ( for example, pregnant women should only travel long distance within 13 weeks to 26 weeks of pregnancy), such useful information will also be provided weekly.
+3. They will be able to use utilities like Kick counter, Contractions timer, calendar, notes, and knowledge base of pregnancy related information, pictures of baby development and more from within the app.
+4. Doctors will also be able to keep better track of their pregnant patients. They will be able to remain in touch with their patients.
+5. Hospitals will be able to evaluate maternal health care provided by them.
+6. The app will be as Nepal centric as posible for the time being, as in the recommendations provided would suit our community or way of life. Also, there would be option to choose between English and Nepali as the app's language.
+ 
+ 
+Platform: Android  
+
+

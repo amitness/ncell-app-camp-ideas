@@ -1,0 +1,22 @@
+FoodTour
+
+Submitted on:  September 15, 2015 - 8:14am 
+ 
+Idea:
+ App that focuses on the beauty and diversity of foods in Nepal to attract and ensure domestic and foreign tourists' tour to be tasty.
+ 
+Problem Solved:
+Nepal is a diverse country and as diverse is the food we can find here. From world class to street foods. Even at little geographical intervals we can find a different spice, a different technique and a different taste. All of that for an unmatchable price. While we are on a tour the significant expenditure happens for Food. A research suggests 88% of tourists consider gastronomy as strategic element indefining brand and image of the destination. Tourism can flourish even at this point when we are hit hard by recent earthquake, if we can attract domestic tourists. Besides sight seeing, regional foods can be a great medium to attract domestic tourists. Also, most of Nepalese are middle class people who have to care of their budget before they try something new. In culinary tourism, these domestic tourists can be anybody. Someone who likes to have new taste. While we look at a scenery it may not always mean different eveytime, but we can always serve a different dish to make the Tour Different. There are countries which are famous for their specific culinary item, French wine, Italian espresso. We could soon have our own. Food Tour makes sure tourists get a privileged Tour of Food alongside other aspects of Nepal. The information about diverse food that we have could attract Culinary enthusiasts and also help domestic tourists manage their budget.
+ 
+Functions:
+ -Price tag(An unprecedented collection of information of menu and price of Food in restaurants.) -User and seller based information collection. -Location and taste based recommendation. -Foods and offers information.
+ 
+Targeted audience:
+ -Food Tourists, Culinary enthusiasts. -Domestic Tourists who want to taste new foods. -Domestic tourists who want to know the Price before taking the service. -Cultural Tourists who want to take a tour through Food.
+ 
+Main Benefits:
+-Find food, find good food, Find cheap good food. - Know the price before getting into the service. -Complete Food package service for the tour. -Tour's Food Package selection and information. -User based collected data and reviews.
+ 
+Platform: Android  
+
+

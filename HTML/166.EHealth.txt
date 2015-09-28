@@ -1,0 +1,22 @@
+EHealth
+
+Submitted on:  September 19, 2015 - 7:03am 
+ 
+Idea:
+ Monitors user health status and provides feedback.
+ 
+Problem Solved:
+Many of us dont know what was the statistics of our health status. In course of time our health my degrade hence, EHealth will help everyone to know their health status and get notified.
+ 
+Functions:
+ Our application gets input from user and displays in a statistical manner, and when user sees that statistic he/she will know what he has to do or on what of his healt he should give more focus.
+ 
+Targeted audience:
+ Everyone
+ 
+Main Benefits:
+User can know his health statistics, he can make changes as per that, potentian health issues can be solves previously by looking at the statistics user sees.
+ 
+Platform: Android  
+
+

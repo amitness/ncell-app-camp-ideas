@@ -1,0 +1,27 @@
+LunchBox
+
+Submitted on:  August 27, 2015 - 1:24pm 
+ 
+Idea:
+ To develop an app that will help to prepare the best possible food item from the ingredients provided by the user as well as provide other food recipe
+ 
+Problem Solved:
+1. People may not have time and money to eat outside. They may also not have all the ingredients int the recipe to prepare food in their own kitchen. So it helps to find the best recipe for the available ingredients.
+2. People might have problem in estimating the time required for each process in recipe. It helps to estimate the time by using timer.
+ 
+Functions:
+ This app provides the food recipes.
+ The main feature of this app is that it finds the best recipe based on the available ingredients.
+ 
+Targeted audience:
+ -Foodies
+-People who want to prepare and eat in their own home
+-Amateur cooks
+ 
+Main Benefits:
+1. Provides the recipe to prepare a food item along with the timer which will help to estimate the time while preparing food.
+2. Even if there are limited ingredients, the app will suggest the best possible recipe from those ingredients.
+ 
+Platform: Android  
+
+

@@ -1,0 +1,31 @@
+TrekkersNepal
+
+Submitted on:  September 19, 2015 - 9:34pm 
+ 
+Idea:
+ Trekking interest made more convenient with a mobile app that can provide users with a detailed information about trekking and facilities.
+ 
+Problem Solved:
+1. Find trekking routes around Nepal
+2. Get detailed information about best season for trekking and degree of difficulty regarding the corresponding route.
+3. Find most convenient place to stay while on trekking route.
+4. Compare days and difficulty of trekking routes and find the best one for yourself.
+ 
+Functions:
+ 1. Provides users with a detailed route for trekking like, number of days, expenditure, best scenes, destinations speciality,  and others.
+2. User can sort their destination on the basis of days, expenditure, nearest from current place, etc
+3. Users can book for hotels, bus and flights beforehand.
+ 
+ 
+Targeted audience:
+ 1. All Nepali trekking enthusiast who are looking forward to go for trekking to their regular route or trying a new one this time
+2. International tourist who come to Nepal to be obliged by trekking routes scenarios but get dizzy about selecting the best route.
+ 
+Main Benefits:
+1. One can decide their requirements for vacaiton and financial issues earlier to trekking.
+2. One can find the best trekking route for themselves according to their interest (depending on distance, days of trek, etc)
+3. One can gain pre-knowledge about the trekking routes before using their luck. 
+ 
+Platform: Android  
+
+

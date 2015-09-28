@@ -1,0 +1,37 @@
+कारोबार
+
+Submitted on:  September 10, 2015 - 8:49am 
+ 
+Idea:
+ This app keeps the financial records effectively and efficiently.
+ 
+Problem Solved:
+
+p { margin-bottom: 0.1in; direction: ltr; color: rgb(0, 0, 10); line-height: 120%; text-align: left; }p.western { font-family: "Liberation Serif",serif; font-size: 12pt; }p.cjk { font-family: "Droid Sans Fallback"; font-size: 12pt; }p.ctl { font-family: "Lohit Marathi"; font-size: 12pt; }
+Everyone keeps lending friends and family money and forget about it. Well no more, this app helps you to keep track of all your financial transactions. Especially shopkeepers need to do many dealings everyday, this app helps to organize those dealings from your pocket.
+ 
+Functions:
+ 
+p { margin-bottom: 0.1in; direction: ltr; color: rgb(0, 0, 10); line-height: 120%; text-align: left; }p.western { font-family: "Liberation Serif",serif; font-size: 12pt; }p.cjk { font-family: "Droid Sans Fallback"; font-size: 12pt; }p.ctl { font-family: "Lohit Marathi"; font-size: 12pt; }
+1. It keeps the financial records for every person in user's contact list.
+2. It shows the date/time of the dealing and type of dealing (cheque, cash, due).
+3. It shows the net debit or credit amount.
+4. And for safety, it requires a PIN to open the app.
+ 
+Targeted audience:
+ 
+p { margin-bottom: 0.1in; direction: ltr; color: rgb(0, 0, 10); line-height: 120%; text-align: left; }p.western { font-family: "Liberation Serif",serif; font-size: 12pt; }p.cjk { font-family: "Droid Sans Fallback"; font-size: 12pt; }p.ctl { font-family: "Lohit Marathi"; font-size: 12pt; }
+Everyone. Especially shopkeepers and people dealing with numerous financial ventures.
+ 
+Main Benefits:
+
+p { margin-bottom: 0.1in; direction: ltr; color: rgb(0, 0, 10); line-height: 120%; text-align: left; }p.western { font-family: "Liberation Serif",serif; font-size: 12pt; }p.cjk { font-family: "Droid Sans Fallback"; font-size: 12pt; }p.ctl { font-family: "Lohit Marathi"; font-size: 12pt; }
+Main benefit of the app:
+1. No need to waste time and effort by keeping the records in record books.
+2. Easy and Efficient.
+3. All you records are in your pocket.
+4. Safe and secure.
+ 
+Platform: Android  
+
+

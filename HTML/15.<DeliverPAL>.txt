@@ -1,0 +1,32 @@
+<DeliverPAL>
+
+Submitted on:  September 10, 2015 - 9:45am 
+ 
+Idea:
+ An social delivery app that allows users to request travelers/commuters traveling to their location to deliver their products on the way.
+ 
+Problem Solved:
+-It slashes delivery/shipping charges (local, domestic or international) for individuals requesting delivery of products by a significant amount compared to other forms of traditional delivery services.
+-It minimizes delivery time and provides platform for frequent travelers/commuters to monetize their travel.
+-It also cuts carbon footprint/pollution as it makes optimal usage of the existing travel mechanisms to make deliveries possible instead of adding new ones.
+ 
+Functions:
+ -App will contain an option for international/domestic/local delivery, the type of user Traveler (Deliverpal) or Buyer/Client and the type of product to be delivered.
+- Travelers, who elect to be a Deliverpal, can choose the type of delivery, the pickup location and destination they are traveling to make the delivery.
+-Buyers/Clients can request delivery of products from potential Deliverpals traveling to their area.
+-Travelers can check the app portal to track the amount of money they have made through commission on each delivery.
+-Buyers/Clients can top up their Deliverpal account and make necessary transactions online to purchase products or request delivery of their products.
+-Buyers can rate the services of their Deliverpals.
+-The app will set limits on the type/dimensions of products that can be delivered.
+ 
+Targeted audience:
+ - Online shoppers, Local/Domestic individuals or businesses
+ 
+Main Benefits:
+ 
+-Users, who request delivery, can get their products delivered faster and at a cheaper price compared to traditional forms of delivery service.
+-Travelers who deliver the products can monetize their travel by earning commission on each delivery.
+ 
+Platform: Android, iOS  
+
+

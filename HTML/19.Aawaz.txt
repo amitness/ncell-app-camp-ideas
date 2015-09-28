@@ -1,0 +1,29 @@
+Aawaz
+
+Submitted on:  August 21, 2015 - 12:17pm 
+ 
+Idea:
+ aawaz is a social voting app that lets user ask a question and lets friends,followers,public rate the answers by choosing from the given options.
+ 
+Problem Solved:
+1. app helps users to take decisions when they are in doubt or in confusion.
+2. app also takes public trending polls on politics,sport,health where idea can be generalized of people.
+ 
+Functions:
+ 1. users can choose time period for which the poll will be live.
+2. users can also upload picture by using camera and record sound by using mic.
+3.for privacy users can make their polls visible to selected users like friends.
+4.their will be also anonymous voting where faster voting can be done where username will be hidden.
+5.there will be a option where users can also write feedback later. 
+ 
+Targeted audience:
+ Everyone can use this app who what to share their idea and solve problem of other rating the question.
+ 
+ 
+Main Benefits:
+1.  easier to make decision analyzing the poll result.
+2. easier to know what people think on some hot topics.
+ 
+Platform: Android  
+
+

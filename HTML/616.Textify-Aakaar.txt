@@ -1,0 +1,40 @@
+Textify-Aakaar
+
+Submitted on:  September 17, 2015 - 8:03pm 
+ 
+Idea:
+ It extracts text  from real world objects while maintaining  its structure and provides actions according to the context
+ 
+Problem Solved:
+This app aims to bridge two gaps
+1) between taking real world text into the app and
+2) using that text for required task or according to context
+ 
+Functions:
+ It will do an ocr on the picture from the camera, extract the text and maintain the formatting and structure for later use.
+It will be able to extract tabular data and send it to spreadsheet
+it will be able to extract business card data and add it to contacts
+it will be able to extract phone numbers and make a call on that number
+it will be able to extract printed document and make a editable rich text file.
+it will be able to extract text and based on the proper noun sujjest various actions possible and do automated search.
+movies->booking
+book cover->review
+maths formula ->calculated result
+peroson's face->name
+place->google map
+and more features as technology matures
+ 
+ 
+ 
+Targeted audience:
+ general audience and for day to day tasks.
+Students, business people, teachers etc
+ 
+Main Benefits:
+it accelerates the proces of interacting with the real world.
+users wont have to extract the text by hand which is tedious.
+and users will be given options accordig the the type of text and its context so that user can take actions based on it very quickly
+ 
+Platform: Android  
+
+

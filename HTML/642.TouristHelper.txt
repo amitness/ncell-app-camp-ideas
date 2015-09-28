@@ -1,0 +1,25 @@
+TouristHelper
+
+Submitted on:  September 20, 2015 - 9:42am 
+ 
+Idea:
+ App to help tourist when they are in trouble  cheated or misbehaved by directly connecting with police.
+ 
+Problem Solved:
+Tourism is good source of income but tourist are often cheated and misbehaved.Our app will connect tourist with police by simple one click so  that they will be out of problem from  anyplace.
+ 
+Functions:
+ User friendly icons so that tourist get help  by simple one click using GPS.
+ 
+Targeted audience:
+ This app has targeted international tourist who have language problem and who feel misbehaved and cheated.
+ 
+Main Benefits:
+1.This app is mainly focused for tourist with language problem.
+2.Easy to contact with police .
+3.Others will not know when the user is calling police. 
+4.Police can find the location by GPS.
+ 
+Platform: Android  
+
+

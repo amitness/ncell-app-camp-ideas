@@ -1,0 +1,28 @@
+TeamCoders
+
+Submitted on:  September 19, 2015 - 4:38pm 
+ 
+Idea:
+ An app lock application that requires you to play short quiz to unlock the app.
+ 
+Problem Solved:
+Our app will especially help parents to lock apps that their children often use and will force children to play the quiz before being able to use the app.
+ 
+Functions:
+ Our applciation main functions are:
+1) Lock the desire application.
+2) Setup up 3 - 5 quiz randomly based on category or as desired by parents.
+3) Correctly answering all questions will unlock the application
+4) Quiz can be of a) choosing correct word
+                            b) Matching the given word with the picture
+                            c) Drawing a pattern based on question,etc
+ 
+Targeted audience:
+ Our target audience is Parents who wants to restrict access to his/her mobile from their children without correctly answering the quiz.
+ 
+Main Benefits:
+The main benefits of the app is that parents can force children to learn something new while opening the app.
+ 
+Platform: Android  
+
+

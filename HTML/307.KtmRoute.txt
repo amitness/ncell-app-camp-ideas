@@ -1,0 +1,23 @@
+KtmRoute
+
+Submitted on:  August 26, 2015 - 5:11pm 
+ 
+Idea:
+ An app to provide information about public vehicles providing their service in Kathmandu.
+ 
+Problem Solved:
+It minimizes the information gap between the public vehicle service providers and the general public who utilizes their service. 
+ 
+Functions:
+ Proivide information about public vehicles and their      routes in Kathmandu Valley.
+ 
+ 
+Targeted audience:
+ The targeted audience is the general public of Kathmandu who utilizes the public vehicles on daily basis, or the people outside from the valley who are in Kathmandu and unaware about vehicle routes.
+ 
+Main Benefits:
+The users can get information about the different types of vechiles that can take them to their desired destination. Moreover, they can also get information about alternative vehicle routes to their destination.
+ 
+Platform: Android, iOS  
+
+

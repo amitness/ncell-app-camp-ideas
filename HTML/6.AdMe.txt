@@ -1,0 +1,33 @@
+AdMe
+
+Submitted on:  August 11, 2015 - 10:45pm 
+ 
+Idea:
+ To provide Web and Mobile Ad Solution.
+ 
+Problem Solved:
+It will help advertizer to show their advertisement in nepali websites and Mobile application as well as helps website/application owners to earn by displaying ad in their website.
+ 
+Functions:
+ WEBSITE /MOBILE aPPLICATION OWNER
+ - can view ads available to publish in their website/APPS.
+- can select ads by earning, size, type and ad to their website/APPS.
+-can view their income and redeem.
+ADVERTISER
+- can publish advertise and commission rate in our site.
+- can review their total viewer and their site visitors.
+- request to prepair their brand/product ad.
+- request some website/APPS to publish their ad.
+ 
+ 
+ 
+Targeted audience:
+ Website/App owners, Nepali news portals, local manufacturing and production companies, software companies, communication services (cable, TV, telicommunication), travel and tours, remit agents, theatre, shopping malls, handicraft business and any business organization.
+ 
+Main Benefits:
+User1 - Website/App Owner can earn by displaying advertisement he wish to show.
+User2 - Local companies can grow their business by advertising in local websites/Apps. 
+ 
+Platform: Android, Windows phone, Others(Web)  
+
+

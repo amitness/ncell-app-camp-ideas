@@ -1,0 +1,32 @@
+NepEd+
+
+Submitted on:  September 20, 2015 - 12:05pm 
+ 
+Idea:
+ NepEd+ is an app that provides full academic information about universities, their colleges and their courses both privately and publicly.
+ 
+ 
+Problem Solved:
+i.                     Students in dilemma about their further academic career can choose which they topic they want to pursue in near future.
+ii.                   Provides easy access about the courses available in colleges and universities of Nepal.
+iii.                  Reduces the necessity to go searching around in various websites about courses in Nepal.
+iv.                 It saves time and money since students don’t have to wander around for school and colleges.
+v.                   Subscribers might be in trouble knowing about latest strikes, holidays, routines and results of a chosen college. They can be notified privately by this app.
+ 
+Functions:
+ i.                     Categories about Universities/Colleges/Courses.
+ii.                   Graphic presentation of environment in colleges of Nepal.
+iii.                  Notifications about holidays, Exam schedule, Exam Centers, results privately, only for those who have wishlisted the institution.
+ 
+Targeted audience:
+ Specially focused to the students and their guardians who are always worried about their career
+ 
+Main Benefits:
+·         Users can excess all the academic activities and info from the same apps without visiting different websites available in web market. It reduces the time.
+·         Makes students aware about courses available in different universities/colleges in Nepal.
+·         Categories system simplifies the viewing style of the app within.
+·         Students will frequently be notified about events, syllabus, routines and results privately after they have access.
+ 
+Platform: Android  
+
+

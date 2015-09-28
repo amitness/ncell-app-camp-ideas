@@ -1,0 +1,25 @@
+TempleTour
+
+Submitted on:  September 19, 2015 - 12:19pm 
+ 
+Idea:
+ App to show guideline for national and international religeous tourists to visit temples and stupas in Nepal, promoting religeous tourism in Nepal.
+ 
+Problem Solved:
+Nepal is very rich country in terms of religeous sites. Lumbini is a world attraction point for buddhist tourists and there are so many historic temples of Hindus in Nepal. But after devastating earthquake in Nepal numbers of religeous sites specially in Kathmandu were ruined and international religeous tourist reduced drastically after earthquake. In order to convey the message that most of the religeous sites of Nepal are safe our app is focused to promote all important temples and stupas in an international level. 
+ 
+Functions:
+ The main functions of the apps are:
+           - App will be designed in three languages: English, Nepali and Hindi (As the major portion of religeous tourists in Nepal are from India, Hindi language will also be included).
+            - Photos and related description will be attached 
+            - Sharing option for facebook and twitter.
+ 
+Targeted audience:
+ National and International religeous tourists are the main target audience of this app. Specially as Nepal is famous for Hindu and Buddhist religeous sites, Hindu and buddhist religeous tourists will be our target audience.
+ 
+Main Benefits:
+Users of the app ''Temple Tour'' will get the knowledge about Nepal's religeous sites such as Temples and Stupas via photos, historical importance of the sites, available lodging fooding facility around site, other tourist attractions near temple, which route should follow to go to temple , estimated cost etc. Every temples and stupas can be shared by users to their facebook, twitter profiles thus promoting more to more audience. 
+ 
+Platform: Android  
+
+

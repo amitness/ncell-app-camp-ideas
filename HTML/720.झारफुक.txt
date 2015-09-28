@@ -1,0 +1,38 @@
+झारफुक
+
+Submitted on:  September 10, 2015 - 5:53am 
+ 
+Idea:
+ In the absence of doctor,medicinal plants to meet primary health care needs  .
+ 
+Problem Solved:
+Find the cause and symptoms of diseases from thousands of diesease.
+Search about the specific diseases with details of herbal medicines.
+Immediately finding the solution of diseases with herbal medicine with full details(how to use it).
+Get details of plants found on nepal and determining whether it can be in use or not.
+Get location of the plants in nepal
+ 
+ 
+Functions:
+ The app searches for the users specific diseases  and provides  details of it with symptoms.
+Provides  details of curing process with the help of herbal medicines.
+Get the details of plants and herbals that can be found on Nepal and where it can be found on nepal.
+Finally user can feedback if the specific diseases is cured or not and provides additional necessary treatment.
+ 
+Targeted audience:
+ According to the WHO 4 billion people or 80% of the total people use herbal medicines.
+Travellers who loves travelling and they may fall sick or often fall sick it may be useful if they are in no doctors land.
+village area people where they need to walk miles to reach hospital it will be useful for primary heath care and curing simple diseases.
+ 
+ 
+Main Benefits:
+ 
+Easy to find the cause and symptoms of diseases from thousands of diesease.
+ Easy to search about the specific diseases with details of herbal medicines.
+ Helps in immediately finding the solution of diseases with herbal medicine with full details(how to use it).
+Easy to get details of plants found on nepal and determining whether it can be in use or not.
+Easy to get location of the plants in nepal.
+ 
+Platform: Android  
+
+

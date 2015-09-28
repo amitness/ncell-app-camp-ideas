@@ -1,0 +1,36 @@
+SastoKitab
+
+Submitted on:  August 22, 2015 - 3:55pm 
+ 
+Idea:
+ A Complete (Application) Package For Book Lovers Around the World
+ 
+Problem Solved:
+Basically, there are lots of peoples who are fond of reading books. Right? Going to book stores, choosing a book, bargaining about the book. That's a long way to go right?. So, why not create an app where you can get all your books. The books you wish to read on your fingertips only a touch away. Simple, Fast and Quietly Brillant for the people who think of getting their books quickly and with a variety of price to choose from such that they don't have to keep on bargaining again and again.
+ 
+Functions:
+ Function of this application is
+1. To Find the Book you are searching For, give its information , review, price etc and other specification of book.
+2. To Feature Books of writers and other novelist
+3. Give the best deals about books.
+ 
+ 
+Targeted audience:
+ Almost all peoples of all ages are targeted who are interested in reading books of their kind.
+1. Peoples who like to save some bucks and enjoy reading their book.
+2. Book writers and Other Peoples who want to feature their book .
+3. College Students, Teachers, and other peoples who are fond of reading books.
+4. Peoples who want to gift books to other friends and family members.
+ 
+ 
+Main Benefits:
+Why would anyone want to go to a book shop to buy a book when they can get it done by their smartphone. So, basically user has a lot of advantage from the App.
+1. Saves their Time ( Why go to shop when you are a touch away )
+2. Compare the Deals and Prices of Books ( That's right get your books at cheap price as possible )
+3. See what's trending ( Popular Books that is trending globally. )
+4. Keeps you Updated about all the Books and Yes you can search books you want whether it is Nepali or English
+4. Not only user but, people who want to feature their books can contact and they can feature their books in the app to increase their book sales
+ 
+Platform: Android  
+
+

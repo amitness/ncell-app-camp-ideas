@@ -1,0 +1,26 @@
+ForestRanger
+
+Submitted on:  September 8, 2015 - 12:58pm 
+ 
+Idea:
+ Forest Ranger is a First Person Shooter 3D game where game character is a Forest Ranger who have to travel in a forest and defend it from poachers.
+ 
+Problem Solved:
+This Ranger game is to provide entertainment to the user along with this to provide awarness about the poaching of wild animals.
+ 
+Functions:
+ Our game is 3D game being developed with the latest technology.
+It can be played both on single player mode and multiplayer mode(online).
+It is physics based game with the compliance of different cinematic scene.
+Player can take entertainment from the real time environment of the game and other physic based animation.
+ 
+ 
+Targeted audience:
+ Target audience are people above the age of 14.
+ 
+Main Benefits:
+This Ranger game will help the player to increase their Cognitive Skills, improve their memory power, logic and reasoning , auditory processiong and visual processing.
+ 
+Platform: Android, iOS  
+
+

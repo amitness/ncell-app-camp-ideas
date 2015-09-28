@@ -1,0 +1,27 @@
+AccidentAlert
+
+Submitted on:  September 19, 2015 - 5:59pm 
+ 
+Idea:
+ App to alert about accidents near the area.
+ 
+Problem Solved:
+During accident, health services like ambulance does not arrive on time and public transportation also does not agree to take the victim to the hospital. This application will help hospital emergency system to know about accident site and provide emergency services.
+ 
+Functions:
+ The app list down the nearby hospitals and by using the app camera a person can sent the image of accident site along with location, time and date.To sent the image the user must click the picture,they cannot upload the existing images.
+ 
+Targeted audience:
+ All citizens because accidents can occur at any time for any one.
+ 
+Main Benefits:
+
+1) Early identification of the accident site.
+2) Early treatment and prevents life.
+3) Reduces the casulty risk.
+
+ 
+ 
+Platform: Android  
+
+

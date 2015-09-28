@@ -1,0 +1,31 @@
+NepaliCodersArts&Crafts
+
+Submitted on:  September 19, 2015 - 2:06pm 
+ 
+Idea:
+ Arts and Craft is a simple app where brief details about any handcraft product of Nepal will be listed along with the location where they can find it.
+ 
+Problem Solved:
+1. Most of the tourists from countries like China come to Nepal in search of specific statues. They keep on wondering shop by shop for the status of their choice. In this app tourists can search the statue by name and get the list of related statues where they can find the brief detail about the location and price.
+2. Tourists who are new to Nepal may not have clear view on different hand made products by Nepalese. This app will emphasize popular hand made products of Nepal and provide details about those products.
+3. Tourists may be unaware about the price of Nepalese products. This app will provide price tags of product in different market along with details.
+ 
+Functions:
+ 1. User can search specific item by name.
+2. User can view brief detail about any item.
+3. User can pin point the location of the shop where they can find their item.
+4. User can see the price for the item.
+5. User can browse a different list of popular hand made products.
+ 
+Targeted audience:
+ 1. Tourists coming from all over the world especially Chinese.
+2. Nepalese people who are interested in buying handmade products.
+ 
+Main Benefits:
+1. Tourists visiting to Nepal can view popular hand made arts and crafts of Nepal. 
+2. Tourists can search specific product by name (Eg. Tourist coming from China looking for specific statue, can search by the name of the statue like "Nataraj")
+3. Tourists can find product with the cheapest price just by browsing from the list.
+ 
+Platform: Android  
+
+

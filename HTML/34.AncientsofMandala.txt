@@ -1,0 +1,39 @@
+AncientsofMandala
+
+Submitted on:  September 18, 2015 - 6:36pm 
+ 
+Idea:
+ A location based RPG allowing players to discover, persuade and level-up the ancient spirits after battling them from their allocated co-ordinates.
+ 
+Problem Solved:
+Nepal holds ancient mythical stories in its every corners which are currently at risk of being forgotten due to progressing modernization. 
+Ancients of mandala(AOM) collects these stories and brings them alive into their daily lives promoting our heritage.
+ 
+In the busy modern age world, keeping in touch with your friends can prove to be difficult.AOM brings friends together into a virtual world where they can keep in touch and compete with each other.
+ 
+When people are running out of entertaining options to do during their leisure time, AOM perfectly fits it into the plan making them travel and explore.
+ 
+ 
+Functions:
+ - Location based game: Players have to actually move to different locations in city to discover the spirits 
+- Multiplayer game: Players can battle with their friends or strangers using their current roster 
+- RPG: Players will collect and level-up their captured spirits 
+- Battle mode: Turn based battle using available abilities  
+- Story:Relates to actual ancient stories within the city 
+- Achievements :Players can attain achievements by battling gyms or participating in events.
+ 
+ 
+Targeted audience:
+ - Local  enthusiastic gamers mainly from Kathmandu 
+- Android users
+ 
+Main Benefits:
+- Builds a platform for user to interact with their friends or to make new ones.
+- Provides entertainment
+- Promotes exploration
+- Players attain ancient knowledge
+ 
+ 
+Platform: Android  
+
+

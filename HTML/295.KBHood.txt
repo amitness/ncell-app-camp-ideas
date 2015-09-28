@@ -1,0 +1,23 @@
+KBHood
+
+Submitted on:  September 13, 2015 - 10:28pm 
+ 
+Idea:
+ New release movies of  week of KOLLYWOOD,BOLLYWOOD and HOLLYWOOD link for their official trailer with other's reviews and online buying ticket.
+ 
+Problem Solved:
+Get the update with new released movies and their reviews  from others
+They can buy online tickets
+ 
+Functions:
+ Gets the new update weekly and online system of buying tickets
+ 
+Targeted audience:
+ people who love movies but they busy on there work
+ 
+Main Benefits:
+Gets the update of new movies so  entertaining though they have busy schedule
+ 
+Platform: Android  
+
+

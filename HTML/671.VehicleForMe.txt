@@ -1,0 +1,26 @@
+VehicleForMe
+
+Submitted on:  September 9, 2015 - 3:53pm 
+ 
+Idea:
+ Users can find the nearest local transportation to get to a destination and their route.
+ 
+Problem Solved:
+Local Nepalese as well as tourist have a hard time finding and boarding appropriate local vehicles. Our App will let the user to know about public transportation facilities and the show them the route to take to get to a destination.
+ 
+Functions:
+ 1. Provide Mapped Route of Vehicles as needed by the user,
+2. Know all the stops the vehicle passes by,
+3. Provides Details about the type of Vehicle,
+ 
+ 
+Targeted audience:
+ Tourist as well as locals visitng new places
+ 
+Main Benefits:
+1. Will know which vehicle to take and the nearest station of the vehicle,
+2. Show them estimate time intervals between vehicles,
+ 
+Platform: Android  
+
+

@@ -1,0 +1,24 @@
+GreenerNepal
+
+Submitted on:  August 28, 2015 - 8:18pm 
+ 
+Idea:
+ When you recharge your Prepaid account for 10 times using our app, a tree will be planted in your name.
+ 
+Problem Solved:
+This application will help to restore greenary of Nepal. It helps to create a healthier  and eco-friendly environment.
+ 
+ 
+Functions:
+ When a user recharges his/her account from our app, a small sum of money is deduced from his account and that amount is collected in his account. When he/she has a sufficient amount, a tree will be planted in his/her name. S/he also can change that amount into freebies.
+ 
+ 
+Targeted audience:
+ The target audience all all the Prepaid cellphone users who recharge their phones to use the Services provided by the service provider.
+ 
+Main Benefits:
+User recharges his/her account and side by side is doing a social service. S/he  is helping to make the environment healthier for living.  Besides this, the user can exchange the plantation scheme for other freebies.
+ 
+Platform: Android  
+
+

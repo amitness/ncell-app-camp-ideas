@@ -1,0 +1,46 @@
+ScrollLabsScrollNepal
+
+Submitted on:  September 20, 2015 - 11:40am 
+ 
+Idea:
+ A mobile app that helps promote Tourism by providing full-fledged information on maps, routes, transports, hotels and events along with translator.
+ 
+Problem Solved:
+"Scroll Nepal" will address following issues:-
+1- Problem of hiring expensive Tourists guides
+2- Language Problem 
+3- Problem in booking Hotels
+4- Problem in booking Transportation ticket
+5- Problem of not knowing about the place to be visited
+6- Pricing and fees
+7- Problem of Insecurity
+ 
+Functions:
+  "Scroll Nepal" will be packed with following features:-
+1- Inbuilt Language Translator
+2- Online payment system
+3- Maps/Navigator
+4- A Complete Virtual Guide on Traveling in Nepal
+5- Booking System (Hotels and Tickets)
+6- Tracking System
+7- Offline messaging system for various purposes.
+ 
+Targeted audience:
+ 1- People enthusiastic on traveling and tourism
+2- National and international Tourists/trekkers
+3- Archaeologists, anthropologists and researchers
+ 
+Main Benefits:
+Through "Scroll Nepal", users will be benefited in following ways:-
+1- Users need not search for any places on different websites
+2- No need of hiring expensive guides
+3- Translation to users desired language
+4- Easily book desired hotels through "Scroll Nepal"
+5- Easily book desired destination tickets (Flight/road) through "Scroll Nepal"
+6- Information on safe Tourists spots  available locally.
+7- Pricing Fees Detail
+8- Detailed list on nearby Police station and Residental Areas.
+ 
+Platform: Android, iOS, Windows phone, SMS, Others(Web-application)  
+
+

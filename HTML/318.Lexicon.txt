@@ -1,0 +1,26 @@
+Lexicon
+
+Submitted on:  September 18, 2015 - 12:35pm 
+ 
+Idea:
+ This Vocabulary based game helps students prepare for exams such as SAT, GRE and GMAT.
+ 
+Problem Solved:
+It is very difficult to get authentic resources for preparing for internation aptitude exams. The resources are incomplete, unmanaged or expensive to get hold of. This game allows users to learn new words that are commonly seen in real time SAT, GRE and GMAT. Pairing synonyms, associating words with their respective definitions, sentence completions are some of the mode that user can play. All these game modes are devloped to help increase students GRE, GMAT and SAT scores.
+ 
+Functions:
+ Build rich vocabulary with a addictive gameplay.
+Prepare for international aptitude exams as you play the game.
+Practice on real questions from previous tests.
+Social interactions between friends.
+ 
+Targeted audience:
+ Casual Users who wish to play a interesting vocabulary based game.
+Students who are preparing for international aptitude exams(GRE, GMAT, SAT)
+ 
+Main Benefits:
+Users can play game to build rich vocabulary.They can prepare for international aptitude exams by playing a interesting game. Users are also able to practice on real questions from previous tests. Users can login to facebook for social interactions between friends.
+ 
+Platform: Android, iOS  
+
+

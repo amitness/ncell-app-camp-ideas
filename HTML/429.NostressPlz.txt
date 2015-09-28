@@ -1,0 +1,42 @@
+NostressPlz
+
+Submitted on:  September 20, 2015 - 10:01am 
+ 
+Idea:
+ An application for to manage stress or to get rid of their addiction or having a certain goal with the use of a task/reward based approach
+ 
+Problem Solved:
+1. The need of a smart companion that could help people be conscious about their fitness, well-being and personality .
+ 
+2.The need of an some kind of utility that could help people monitor their progress on attempts to stay healthy and cheerful .
+ 
+3.The need of a simple yet encouraging tool too work collectively on mutual wellness improvement with friends and family
+ 
+Functions:
+ Bring together workout , self-improvement and gaming like experience with points and awards
+Share your results with friends and families and get their advice
+ 
+ 
+ 
+Targeted audience:
+ 
+hospitals
+Family /friends
+Working class
+
+ 
+Main Benefits:
+1. A software cum mobile application that will help you ;
+a. Improve your habits with little tasks on daily basis.
+b. Suggest you probable solutions of your general wellness problems.
+c. Bring together workout , self-improvement and gaming like experience with points and awards
+d.Share your results with friends and families and get their advice
+ 
+2. A utility to set your own goals on the go.
+ 
+1.We have designed the detailed production phases diagram.
+2. We have initial stage of application design.
+ 
+Platform: Android  
+
+

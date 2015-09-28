@@ -1,0 +1,26 @@
+CalorieCounter
+
+Submitted on:  September 3, 2015 - 5:48pm 
+ 
+Idea:
+ An app that lets you calculate your daily calorie consumption, calorie gain and calorie reduction as well as calorie contained by each food item.
+ 
+Problem Solved:
+This app specially solves the problem of over weight as well as under weight. Also it is  for all those user who wants to maintain their body fit and healthy.
+ 
+Functions:
+ The app calculates the total calories gained in the particular days, weeks and months and informs the proper amount of calorie to the user to maintain their health.Also it provides the daily routine exercises to burn out the excess amount of calorie.
+ 
+Targeted audience:
+ My target audience is all those people who wants to maintain their body fit and healthy.
+ 
+Main Benefits:
+1. Those who are having the problem of over fat can control their body fats.
+2. Those who have the problem of under-weight can increase their weight.
+3. It is benefit for all the people who wish to have to good body shape.
+4. Following the different daily routine exercise user can burn out their calories.
+5. User can know how much calorie is contained by each food easily with this app so that they can choose their food according to their body fat.
+ 
+Platform: Android  
+
+

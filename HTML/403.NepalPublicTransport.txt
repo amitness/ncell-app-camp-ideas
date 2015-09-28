@@ -1,0 +1,25 @@
+NepalPublicTransport
+
+Submitted on:  September 13, 2015 - 10:57am 
+ 
+Idea:
+ It tells the user about possible public available to travel from current location to destination location along with their cost per person.
+ 
+Problem Solved:
+1. helps the people to travel easily for those people who are new to the location
+2. gives the exact price for using the public transport which has been recently changed
+ 
+Functions:
+ 1.user can choose starting and destination location using maps
+2. the available Public transport vehicle list for the selected route will be generated and provided according to the inputs.
+ 
+Targeted audience:
+ the target audience of the app are those people who owns android phones and want to use public transport in Nepal but does not have much idea about it.
+ 
+Main Benefits:
+1. The user will easily be able to travell using local transport even at those places unknown to user.
+2. Makes travelling in public transport simpler, easier and relyable
+ 
+Platform: Android  
+
+

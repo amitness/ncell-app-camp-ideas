@@ -1,0 +1,29 @@
+TeamCoders
+
+Submitted on:  September 19, 2015 - 5:03pm 
+ 
+Idea:
+ Multiple Language(used in nepal)  converter.
+ 
+Problem Solved:
+Due to the vast language spoken in Nepal, our application will allow people to convert the words of different language spoken in Nepal to English.
+ 
+ 
+Functions:
+ THe main functions of our application are:
+1) Translate words to English
+2) Show the meaning of the word
+3) Find list of languages spoken within an area.
+4) Learn Language.
+5) Hear the pronounciation of the given word.
+ 
+Targeted audience:
+ Our target audience are all the people travelling or within nepal and to help them easily understand each other by helping to break the language barrier.
+ 
+Main Benefits:
+The main benefits to the users is that they can easily find the meaning of the spoken language.
+ 
+ 
+Platform: Android  
+
+

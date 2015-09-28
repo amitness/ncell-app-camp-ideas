@@ -1,0 +1,22 @@
+CallTheCab
+
+Submitted on:  September 20, 2015 - 10:55am 
+ 
+Idea:
+ This app calls cab the nearest location of the user
+ 
+Problem Solved:
+This app will help to solve the problem of people having to search for cabs when in a hurry and hence save their valuable time.
+ 
+Functions:
+ This app sends the gps location of passenger to the cab driver so that cab driver will be able to get to passenger easily using google maps(or any maps).
+ 
+Targeted audience:
+ anyone
+ 
+Main Benefits:
+When the user is unable to make a call, this app will facilitate them to find cabs easily.
+ 
+Platform: Android  
+
+

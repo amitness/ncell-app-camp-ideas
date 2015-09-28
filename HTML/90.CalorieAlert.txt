@@ -1,0 +1,22 @@
+CalorieAlert
+
+Submitted on:  September 19, 2015 - 11:20pm 
+ 
+Idea:
+ The user can capture the picture of food they are about to eat and find out the amount of calorie it contains and alerts if it is consumable or not.
+ 
+Problem Solved:
+This app takes the height weight age and BP of the user and finds out if the picture of food they took is healthy for them or not.
+ 
+Functions:
+ Calorie Alert will use image processing feature to analyse the image of the food the user is about to eat and will dictate if the food is edible or not for that specific person by calculating his/her height/wieght/ age as well as combining with health issues scientifically.
+ 
+Targeted audience:
+ General people specially health conscious people
+ 
+Main Benefits:
+The user can eat healthy foods only and stay healthy:)
+ 
+Platform: Android, Windows phone  
+
+

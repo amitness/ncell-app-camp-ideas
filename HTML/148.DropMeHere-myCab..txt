@@ -1,0 +1,22 @@
+DropMeHere-myCab.
+
+Submitted on:  August 30, 2015 - 4:31pm 
+ 
+Idea:
+ Drop me here is all to call taxi at your location.Cab solution in kathamandu valley.
+ 
+Problem Solved:
+Searching taxi on rent and private taxi for tour and even for tourist to get taxi easily.
+ 
+Functions:
+ Suggestion of shortest route and cost of taxi to reach our destination.
+ 
+Targeted audience:
+ Tourist and people searching taxi and cars for their trip.
+ 
+Main Benefits:
+1.Easy to get taxi @ reliable rates. 2.Suggest shortest route. 3.Get private taxi(cars) for a trip. 4.List of important number. 5.Link Google maps to search places. 6.Track you and count cost/fare in order prevent driver form cheating. 7.Send user location if needed. 8.Call ambulance.
+ 
+Platform: Android  
+
+

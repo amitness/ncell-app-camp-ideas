@@ -1,0 +1,49 @@
+PinPeaks
+
+Submitted on:  September 20, 2015 - 6:18am 
+ 
+Idea:
+ Point your camera to a mountain and get related information about it or locate mountain in viewfinder of your camera
+ 
+Problem Solved:
+When we go to new places, we usually don’t know the name of the mountains and sometimes we want to locate some specific mountain. And also as a tourist, we look for best hotels to enjoy the scenery.
+ 
+Functions:
+ 
+
+Move your camera and identify the mountains (based on OpenStreetMap API)
+
+
+Tap on the mountain to get detailed information about the mountain
+
+
+Display best location to view a mountain and route to that location
+
+
+Locate a given mountain by giving directions to shift the viewfinder of the camera
+
+
+Implement 3d view of that mountain from the given locations(like of google maps)
+
+
+ 
+Targeted audience:
+ Tourists, Explorers
+ 
+Main Benefits:
+
+
+Identify mountain
+
+
+Locate mountains
+
+
+Details about the mountains (distance / height / altitude difference between mountain and the user)
+
+Best location to view that mountain and route to that location
+
+ 
+Platform: Android  
+
+

@@ -1,0 +1,29 @@
+RemindMe
+
+Submitted on:  September 6, 2015 - 9:38pm 
+ 
+Idea:
+ An app that alert notification before you cross your destination.
+ 
+Problem Solved:
+Sometime we forget task that need to be done. So, this app lets you remind the task in your pocket and make your day to day life easier and efficient.
+ 
+Functions:
+ 1. Map Me : An interactive local map that allow users to map their current location in real time.
+2. NearBy : An integrated search engine that allow user to search for places such as restaurants, bookstores, hotels, ATM, airports, etc near their current location and get direction.
+3. Reminder : Allow user to create location reminders and be alerted with the message on the notepad while entering or existing the vicinity of a given location.
+ 
+Targeted audience:
+ This app is targeted for those who like to travel but often get forgot to do the task in that location.
+ 
+Main Benefits:
+1. Get exact location of user in Normal view, Satellite view, and Terrain view.
+2. Get NearBy information of places such as restaurants, bookstores, hotels, ATM, airports, etc and get direction.
+3. Along with reminding alarm, user can keep note of detail informations of specific task.
+4. Automanagement of task through location.
+5. Never lets user location be missed.
+ 
+ 
+Platform: Android  
+
+

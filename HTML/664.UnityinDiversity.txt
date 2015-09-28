@@ -1,0 +1,22 @@
+UnityinDiversity
+
+Submitted on:  September 16, 2015 - 11:04am 
+ 
+Idea:
+ This is World War type Game where Nepalese people of different caste, culture, religion unites together to protect our country Nepal. 
+ 
+Problem Solved:
+It's for entertainment purpose but this game aims to unites all Nepali and show them how working together can really helps to develop a Nation.
+ 
+Functions:
+ Their will be 10 strong nation which are trying to capture Nepal and the user in this game is the Leader of Nation where he/she has to protect Nepal by managing available resources. 
+ 
+Targeted audience:
+ All people who needs refreshment.
+ 
+Main Benefits:
+The user will get refreshment and by playing this game he will know how working hand in hand with people of different caste, religion and culture is neccesary.
+ 
+Platform: Android, Windows phone  
+
+

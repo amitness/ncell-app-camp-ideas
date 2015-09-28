@@ -1,0 +1,25 @@
+NepalTour
+
+Submitted on:  September 19, 2015 - 10:14pm 
+ 
+Idea:
+ An apps for national and international tourist to book the best hotel and transportation thoroughout their journey.
+ 
+Problem Solved:
+Searching nearby hotel and transportation facilities.
+ 
+ 
+Functions:
+ To display hotels and transportation facilities so that they can plan accordingly and so that they can book.
+ 
+Targeted audience:
+ National and International Tourist
+ 
+Main Benefits:
+1.we can find and book the best hotel in advance  thoroughout journey.
+2.we can find Good transportation in proper time.
+3.To make their journey safe and best.
+ 
+Platform: Android  
+
+

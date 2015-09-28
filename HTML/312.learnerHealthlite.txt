@@ -1,0 +1,23 @@
+learnerHealthlite
+
+Submitted on:  September 18, 2015 - 8:23pm 
+ 
+Idea:
+ way to solve problems facing by the people over nepal.
+ 
+Problem Solved:
+It makes efforts in solving the dangerous diseases that the people over the nepal is suffering. 
+ 
+Functions:
+ The application can be taken as game as well as health tips. The app consist of description about the dangerous  as well as minor health diseases that people over the nepal are suffering and are dying due to minor health problems due to lack of awareness . This app includes the diseases its cause, evolution, symptoms . It also includes the solution to the problem Preventive measures, types of medicine. Is the medicine available in nepal. Treatment methods, Details of available  doctors and hospitals , Hospitals which are providing free treatment etc It also provides the expenses  details during the treatment of diseases. The app also helps in providing the latest technology if any in solving the problem. All the factors above mentioned are circle around a game. 
+First we have to match the set of medicine which will increase the points. After the particular set of medicine is matched it displays the detailed infromation about the diseases . The set of medicine mactched is medicine for the particular disease. It displays information according to the medicine. The increasing points in games first Unlock the problems , then the solution and at last it will unlock the latest technology .  fitness tips will appear in every achievement. quiz sections are also provided in the middle of game. Hint for matching the items are also provided by spending some points.
+ 
+Targeted audience:
+ This application is focused over all the people of nepal. It is also for those people who are facing these problems.It is for those who are economically weak so that they can be aware
+ 
+Main Benefits:
+With the help of this app they can get knowledge about the dangeraous diseases that people are facing, They can get knowledge about the methods of treatment, Latest Technology if any to cure these diseases. 
+ 
+Platform: Android  
+
+

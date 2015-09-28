@@ -1,0 +1,31 @@
+THC
+
+Submitted on:  August 31, 2015 - 9:19pm 
+ 
+Idea:
+ Doctor Who: Need a Physician? This app tells you OPD hours of Physicians from different hospitals in your city w/ contact info for making appointments
+ 
+Problem Solved:
+Finding a proper specialist is a tedious job. From making phone calls to various hospitals to inquiring about the availibility of the doctor, this is a problem faced by every Nepali.
+This app centralizes availability information from all the hospital near the user's city and presents it in a way that would be understandable even to someone who doesn't know how to use smartphone apps.
+Apart from this, the app can also be used to search for services provided by Hospitals and Clinics. Such as serology tests or an MRI.
+ 
+ 
+Functions:
+ 1) Display OPD hours of available specialists in all the hospitals/clinics in the user's city.
+2) Display services offered by hospitals/clinics as per the user's request
+3) View rating and reviews of individual
+4) Easy and Sleek UI 
+ 
+Targeted audience:
+ Our target Audience is everyone who needs Medical Care.
+ 
+Main Benefits:
+1) The app will have a sleek and simple UI so that it can be used by even a layman.
+2) Online reservation options aren't implemented in a major portion of hospitals in Nepal, so that app sticks with basic contact information of the hospital.
+3) Apart from OPD hours, the app offers centralized information about services offered by hospitals such as tests (HIV Test, Pregnancy Test or an MRI)
+4) Users familiar with smartphone technology can register an account to rate and review services from their recent experiences. Un-registered users can still read these reviews and ratings.
+ 
+Platform: Android  
+
+

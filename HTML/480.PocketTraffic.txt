@@ -1,0 +1,23 @@
+PocketTraffic
+
+Submitted on:  September 1, 2015 - 7:14pm 
+ 
+Idea:
+ This application helps to get information about traffics, traffics jams and road conditions
+ 
+Problem Solved:
+It helps to prevent from getting huge traffic jams and helps to find out open shortest path to reach in distinction point on time
+ 
+Functions:
+ It update the current road conditions ,traffic pressure and jams 
+ 
+Targeted audience:
+ Especially to those who are involved in driving jobs (ambulance, schools buses and vans, official vehicles)
+ 
+Main Benefits:
+1.Easy to reach in distinction point on time
+2. Prevent from getting huge traffic jams
+ 
+Platform: Android  
+
+

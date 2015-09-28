@@ -1,0 +1,31 @@
+MapMe
+
+Submitted on:  September 19, 2015 - 12:37pm 
+ 
+Idea:
+ Map me allows you to save Google maps for any route, including source, destination & landmarks for later offline viewing of the map.
+ 
+Problem Solved:
+The app solves the problem where people are not able to view and fully utilize Google maps while travelling: because of Internet unavailability or no network coverage.
+ 
+Functions:
+ -        The app can access Google maps using the Internet – an act initiated by the user through the app. The significance of browsing Google maps via the app is the option to save the map.
+-        After user enters source and destination addresses, and Google maps displays the relevant information, the app provides user with an option to “Save the Map”. This function will essentially save all the information of the session in the mobile phone, therefore making it available for offline viewing.
+-        The app will also automatically save non-initiated sessions of a map (to a limited extent) such as zoomed in sessions. This would allow users to zoom in and get detailed information of landmarks on their route even when offline.
+-        However, to keep things relevant and technically practical, only a limited portion of the map is saved. This portion of the map will NOT remove information between the source and the destination.
+ 
+Targeted audience:
+ -        International/National Tourists
+-        Anyone who is in a new area and needs directions
+-        Users who cannot access Internet on the go but still needs a map
+-        Adventure/Adrenaline Trekkers who are planning on travelling to remote places with few people to help and few facilities for directions.
+ 
+Main Benefits:
+-        Easy to navigate through a city.
+-        Track yourself using information about important landmarks falling within the route between source and destination.
+-        To some extent, use Google maps without any sort of Internet connectivity.
+-        The map will be very beneficial if the user has access to Internet initially, and is able to browse through Google maps and enter relevant source and destination. Once this condition is achieved, the functionality to save this data for offline viewing will be very beneficial for offline mapping.
+ 
+Platform: Android  
+
+

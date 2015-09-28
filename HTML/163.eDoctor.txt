@@ -1,0 +1,34 @@
+eDoctor
+
+Submitted on:  August 24, 2015 - 11:01pm 
+ 
+Idea:
+ connect with doctor.
+ 
+Problem Solved:
+Now a days we are too busy in our daily life we do not have time for our health check up. We only go to the hospital when we are in serious condition. Whenever there is a symptom  of any diseases we need to consult with a doctor. So we are trying to contact with a doctor and consult with them.
+ 
+Functions:
+ 1. Seperate registration and login system for doctor and patient.
+2. List different fields of doctors and their availability
+3. Get appointment and chat room for doctor and patient.
+4. Track health check up reports, medicines, health progress.
+ 
+ 
+Targeted audience:
+ Mainly there are two types of audience.
+
+
+Doctors who can give their service via our platform.
+
+A patient or people who need information, check up, consult.
+
+ 
+ 
+Main Benefits:
+ 
+User can easily search doctors related with their problems. Direct contact with doctors.
+ 
+Platform: Android  
+
+

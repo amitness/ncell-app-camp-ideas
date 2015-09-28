@@ -1,0 +1,35 @@
+SaveMe
+
+Submitted on:  September 14, 2015 - 11:28pm 
+ 
+Idea:
+ save girls frim the greateat evil of socity known as #Rape. It's not just national issue so Join me and Make World Proud of Us. 
+ 
+Problem Solved:
+It will help to minimize the #Rape and crimes to higher extent. 
+ 
+Functions:
+ Function And Main Features of Planned App will Be. 
+1. It is works with gps.
+2. It will take help of Facebook and Server which provide information of local user and police station from gps. (THEIR ARE ALREADY SUCH APP WITH OPEN SOURCE)
+3.Send Massage To all Facebook user near victim area with map genrated by GPS of Victim.
+4.Send massage to Near police station. (GPS) 
+How It works :
+Here one girl is going to be rapped by some group and she feel unsecure
+(*She must have active intnet connection
+ *She must have ON gps service)
+ 1. She will Mark herself "UNSECURE"  on app.
+ 2. The app will generate the list of Facebook user and police station using GPS.
+ 3.After listing it will send massage to all active user nearby that place (where victim is)
+ 4.We people should help her as being human. Do you think our minute can save her life.  
+I'm Sure many organization will help us because this is not a national issue, there are almost 1500 victims per day (NDSt Survey, 2015). Can We SaVe Them? 
+ 
+Targeted audience:
+ The main target of this app is general public and mostly #GIRLS. And as we planned it works as body gaurd to save one and every people who are unsecure. As many NGO, INGO are working to stop such social crimes it will help or make their works. 
+ 
+Main Benefits:
+The main benefits of using this application you can feel save in this unsecure world, It will make the enviroment where you fell safe and secure. 
+ 
+Platform: Android  
+
+

@@ -1,0 +1,31 @@
+TourMates
+
+Submitted on:  August 27, 2015 - 10:38pm 
+ 
+Idea:
+ Conneting enuthisiastic local youths with tourists, one gets a side job another gets a perfect guide. 
+ 
+Problem Solved:
+The application has two seperate target Audience each of whose problems are addressed seperately.
+1. Tourists: Finding local tour-guides for visiting sites of their own choice. 
+2. Youngsters: Provides youngster an employment opportunity to guide tourists to the places they are familiar with. (As a side job)
+ 
+Functions:
+ Guides and tourists can register seperately.
+The guides have to create their profile which includes their basic information as well as their educational status along with their fluency with any given foriegn languages to understand the creadibility of the guides. For the new users, their language proficiency and educational qualifications are kept under priorities whereas for the older ones, their ratings and reviews by previous costumers are given priorities under judgement criteria.
+If a tourist want's to visit a certain area, He searches for that particular area and seeks out the guides avilable. The Guide search displays the guide suggestion based on the ratings recived by the guide. The toursist can select the guide, communicate and hire him
+ 
+Targeted audience:
+ Target audience:
+1. Tourists who are looking for some local guides at an effective price and can ensure they dont miss a thing about a place.
+2. Youth:a) College students looking to spend their spare time in a productive way by earning some experience as well as making some pocket money.
+b) Unemployed Youths looking for a dignified way of earning money as well as gaining some experience.
+ 
+Main Benefits:
+The main benifits are:
+1. For Tourists:Tourists get an unique opportunity to explore every nook and corners of the country with the help of guides familiar to the culture. They also find a better deal in cheaper price.The guiding companies in Nepal are found to charge over US$150 per customers, which is a pretty high price. As our guides are not professional guides but local youths, the price will automatically decrease and  the youths being local to the places, the quality of service won't be compromised. 
+2. For Guides/Youths:It can prove to be an important employment sector where youths can keep themselves busy in job that they love. They can make decent money from this side job. 
+ 
+Platform: Android  
+
+

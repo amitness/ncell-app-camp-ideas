@@ -1,0 +1,22 @@
+MALBOOST
+
+Submitted on:  September 19, 2015 - 2:21pm 
+ 
+Idea:
+ To know if malnourished by calculating Z-score & BMI then give diet tips,newsfeeds & recommendations accordingly. 
+ 
+Problem Solved:
+1.Roughly know if malnourished as per age,sex,weight & height.2.Real time newsfeeds diet tips,infos & recommendations accordingly.3.Somewhat solves/prevents malnutrition & helps stay healthy.4.No need of measuring tape or ruler to measure height.5.works as health guide & personal nutritionist.
+ 
+Functions:
+ Sign up with age,sex & weight to create own profile then just move your device to measure height to know mild,moderate or severe nutrition state.Then this app will guide you with FB like newsfeeds,infos,recommendations & healthtips accordingly.Works on principle of inertial navigational system(INS),uses accelerometer & gyroscope 
+ 
+Targeted audience:
+ Everyone to make them health conscious especially just by move to measure we can know malnourished child.Helpfull in rural backward areas.
+ 
+Main Benefits:
+1.Smart way to aware,educate & make users conscious.2.Just by move to measure height calculates malnutrition level & health state.3.Newsfeeds help to stay healthy & boost nutrition level.4.Helps make sense of nutritional labels & terms.
+ 
+Platform: Android, Others()  
+
+

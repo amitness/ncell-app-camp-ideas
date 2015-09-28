@@ -1,0 +1,39 @@
+MedFren
+
+Submitted on:  September 20, 2015 - 12:14am 
+ 
+Idea:
+ MedFren will help user to recognize the drug received from drug store if it is really the prescribed one and if it is the needed one.
+ 
+Problem Solved:
+Both fake and real medicines are available in Nepal (nepalitimes.com/news.php?id=3765#.Vf2HeCsV9ps). General people are usually given drugs that are said to be similar to as prescribed by doctors, by pharmaceuticals or drug store and general people should usually buy not knowing if it is true. Death due to wrong prescriptions has also been in news in Nepal (http://nepalbreakingnews.com/3777/). The unavailability of drugs in the visited-drug store causes panic in the patient or drug seeker.
+                MedFren helps the user to recognize if the drug is from the recognized pharmaceutical company and also if right prescription is made for the patient. It furthermore gives information about the drug store that has the drug-of-interest.       
+ 
+Functions:
+ 1.       1.       Generic: can be used by just installing in mobile
+-          User can search the information about drugs – brand name, medical name, composition, dosage by typing the name of drug in search box or by selecting from the category.
+-          User can search the availability of drug in drug-store by typing the name of drug and name of drug-store in search box or list of drug-stores that contain the drug of interest by typing the name of drug only.
+-          User can tap into sections to look into information about the side-effects of the drug
+-          User can tap into sections to look into information about related drugs and possible home-care/ herbals
+Name of drug here refers to both brand name and medical name
+ 
+2.       User focused: user should sign up and log in to use this functions
+-          User can add the medical information i.e. health issues and treatment received and display to doctor if needed. All information will be encrypted.
+-          User can set Alarm/ reminder for the usage of drugs timely if user is a drug user
+-          User will be able to do all the functions as by the generic users.
+ 
+Targeted audience:
+ Those who buy medicines/drugs for friends or families or self. 
+ 
+Main Benefits:
+-          Find the information about drugs – brand name, medical name,  composition, dosage
+-          Find the availability of drug in drug-store or list of drug-stores that contain the drug of interest by brand name or medical name
+-          Find the side-effects of the drug
+-          Find the related drugs and possible home-care/ herbals
+-          If logged in
+o   Maintain the medical history
+o   Alarm/ reminder for the usage of drugs if user is a drug user
+ 
+Platform: Android  
+
+

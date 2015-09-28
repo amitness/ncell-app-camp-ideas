@@ -1,0 +1,26 @@
+EventsNepal
+
+Submitted on:  August 27, 2015 - 10:59pm 
+ 
+Idea:
+ This app provides all upcomming events, programs, exhibition, party and its information with date, time and location.
+ 
+Problem Solved:
+Searching for some interesting events or sometime we don't know which events is upcomming and we may miss some great events But by this app people can know upcomming events with their all information. 
+ 
+Functions:
+ This app provides all events around Nepal with their detailed information. User can also find events nearby their location. This app also notify the updates of events like event is cancel or time and date is changed. 
+ 
+Targeted audience:
+ 1. Tourists who can get all information about interested events earlier.
+2. College students who are always informed about upcomming concerts,partys and programs.
+ 
+ 
+Main Benefits:
+1. Easy to find events
+2. Easy to get all information about event
+3. Get updates about events
+ 
+Platform: Android  
+
+

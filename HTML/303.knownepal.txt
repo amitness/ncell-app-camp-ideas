@@ -1,0 +1,22 @@
+knownepal
+
+Submitted on:  August 22, 2015 - 9:52pm 
+ 
+Idea:
+ Important telephone number of all sector of Nepal.
+ 
+Problem Solved:
+Problem of not having the telephone number of all sector in their mobile app.
+ 
+Functions:
+ To give the telephone number of all sectors of nepal.
+ 
+Targeted audience:
+ All the people.
+ 
+Main Benefits:
+People can solve their problem about their queries by using the telephone number.
+ 
+Platform: Android  
+
+

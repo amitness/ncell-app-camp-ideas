@@ -1,0 +1,42 @@
+HealthCheck
+
+Submitted on:  September 7, 2015 - 5:24pm 
+ 
+Idea:
+ App to keep track and remind people of the immunizations and medical check ups,provide information about those and provide the test results on mobile.
+ 
+Problem Solved:
+We all know that prevention is better than cure. With all these new kind of diseases and resistive variant of old ones coming into the world, getting immunized is absolutely necessary. Some places have certain immunizations to be taken as a basic requirement. For eg. Schools in western countries require immunization record. Similarly in Nepal, when you are applying for visa to foreign countries, they also require immunization record. However, in Nepal, immunization is not taken seriously in Nepal and vaccines are administered haphazardly and records are not kept. So this app will provide the people information and list of vaccines to be taken by a person of certain age and  help people to keep track of the immunizations. By this they will be more healthy and can also present a immunization record where required.
+ 
+Similar to immunizations are regular health check ups which are also not taken seriously in Nepal. So this app will also keep track of the medical checkups and tests done and all the results and also remind people regularly to do those check ups. The record will help to determine any abnormalities in health markers and the app will provide ways to keep the markers normal. For example, foods to avoid if body glucose level gets high. The app will thus also provide the progress over time indicating improvement or deterioration.
+ 
+ 
+In addition to keeping track, this app will also provide information on where the immunizations can be taken and the health check up and tests can be done. It will also make appointments for those in possible health institutions. This app will also provide information on health camps and health check up packages around the city.
+ 
+Lastly, this app will also try to make the results of health checkups and tests done in some health institutions available on mobile. By this people can easily view their test results on their mobile without going to the institution again.
+ 
+Functions:
+ Keep track of the immunizations and medical tests.
+Reminds to take vaccines and perform health check ups.
+Provides suggestions to keep the health markers normal.
+Provides information on where to get the vaccine and perform health check ups.
+Provides the result of health check ups and tests on mobile.
+ 
+Targeted audience:
+ Adults with certain abnormal health markers who have to perform health checkups and tests regularly. For example, diabetic patients.
+Couples with new born babies and small children as they have to get vaccines regularly.
+People who will apply for a visa to foreign countries who need immunization record.
+Any person who want to keep track of their health.
+ 
+Main Benefits:
+1.Easy to Keep track of immunization and results of medical tests.
+2.Reminder to take immunization and perform health check ups.
+3.Easy to view progress of your health(through the test results and health markers).
+4.Get ways to maintain the health markers normal.
+5.Easy to get info on places for taking immunizations and health check ups.
+6.Easy to make appointments for health check up and medical test.
+7.Easy to get results of medical tests in your mobile.
+ 
+Platform: Android  
+
+

@@ -1,0 +1,33 @@
+WalletDoctor
+
+Submitted on:  September 19, 2015 - 10:52pm 
+ 
+Idea:
+ A budget management app to assist you in the same old "Income vs Expenditure" problem.
+ 
+Problem Solved:
+Our application will help users to manage their expenditures within the budget constraint. Whether you are a student or a job holder, managing your daily expenditure is a big issue. Nowadays you don't get any stuff in cheap rates. You have to fork a lot of cash for even basic stuffs. While this expenditure graph is rising continuously, your income hardly rises. So Wallet Doctor will help you to keep track of every expenditure and manages your budget in best possible manner.
+ 
+Functions:
+ -Keeping track of daily expenditures
+-Maintain balance between expenditure and saving
+-Preventing the expenditures from exceeding the spending limit
+-Budget management for an event(parties, trips)
+-Summary of your expenses, income, saving at the end of the period(month)
+ 
+Targeted audience:
+ 1) Students who need to balance between their expenditure and pocket money
+2) Job holders 
+3) Anyone planning for a trip/picnic/parties
+ 
+Main Benefits:
+-Users can add every expenditure they make in their daily life.
+-There will facility to categorize the expenditures.
+-Users can add their income details.
+-Users can set the target expenditure and spending limit.
+-Users can also add a separate budget scheme for certain festivals, celebrations(parties, feasts).
+-Users can also plan the budget for a picnic/trip,  calculate the expected expenditures for the trip.
+ 
+Platform: Android  
+
+

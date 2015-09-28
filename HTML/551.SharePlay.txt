@@ -1,0 +1,22 @@
+SharePlay
+
+Submitted on:  September 18, 2015 - 6:08pm 
+ 
+Idea:
+ Play the same audio in collaboration with different devices.
+ 
+Problem Solved:
+Different types of mobile are available on the market each with its own unique feature and most importantly in our case with various type of speaker. Many mobile's speaker nowadays can not provide audibility on their mobile phone's in order for user to make their sound reachable to the audience. So, this app makes the user to play the audio having larger amplitude through the science of resonance that due to same audio played by different devices at the same time.
+ 
+Functions:
+ When a host device creates a Group, Other devices can join the group and when the host plays an audio file, all the devices in the group play it synchronously.
+ 
+Targeted audience:
+ Everyone who wants to listen to what they are playing in a more audible way or who wants to make others listen to what they are playing in a more audible way.
+ 
+Main Benefits:
+Users can multiply the amplitude of the audio so that the user can listen to the audio in a much audible way.
+ 
+Platform: Android  
+
+

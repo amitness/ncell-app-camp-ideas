@@ -1,0 +1,31 @@
+VOTE
+
+Submitted on:  September 3, 2015 - 9:13pm 
+ 
+Idea:
+ This application is used to vote in the government constitution election,help in gathering survey report.
+ 
+Problem Solved:
+the problem that my application:
+1) use of thousand's paper
+2)Threat for the citizen
+3) chances of the vote being waste.
+4)each year government perform survey report but the survey report cannot be accurate.
+5)Government people visit most of the citizen's home to calculate the data and ask some question.
+ 
+Functions:
+ user can be able to vote their repective political parties and the question that the government ask for the user to find the survey report.
+ 
+Targeted audience:
+ people above age +16
+ 
+Main Benefits:
+1)Thousand of paper's can be used for other purpose
+2)More secure voting environment.
+3)Amount of money the government waste for the election  preparation will be saved
+4)less chances of voting will be waste
+5)More accurate data will be achieved by the government of nepal,which help to easily calculate  reports.
+ 
+Platform: Android  
+
+

@@ -1,0 +1,60 @@
+Ghareluremedies(HomeRemedies)
+
+Submitted on:  September 20, 2015 - 8:34am 
+ 
+Idea:
+ User can get detailed information on local home remedies for common health problems along with recommendations on food allowed/disallowed to eat
+ 
+ 
+Problem Solved:
+When we search for home remedies on google and go through each remedies, we are likely to fail on using any of those remedies most likely because of their convoluted procedure and requirement of items that are not easily available among us. Browsing those items for elders is less likely due to language issues and complex procedure. This application would help any class of user to find a correct home remedy to cure their illness.
+ 
+ 
+Functions:
+ 
+
+Listing of illness
+
+
+Listing of home remedies according to illness
+
+
+System to track food for particular illness or condition
+
+
+Rating based on the effectiveness of the remedy
+
+
+Post users own home remedy (requires login)
+
+
+ 
+Targeted audience:
+ 
+
+People who are concerned about their health and have smartphone
+
+people who are ill and want to know if they are allowed to eat some particular  food when suffering from a specific disease.eg : Can we eat Spinach when suffering from DVT(Deep Vein Thrombosis)?
+People who research on illnesses online to get more information like students, teachers, office goers who have access to internet and smartphone
+
+ 
+Main Benefits:
+
+
+Localized language
+
+
+Remedies whose requirements could be met easily are given highest priority
+
+
+Offline access
+
+
+Local name of items
+
+User can suggest their own remedy and let other users support on it
+
+ 
+Platform: Android  
+
+

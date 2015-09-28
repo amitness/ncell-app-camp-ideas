@@ -1,0 +1,32 @@
+LevelItUp(LIU)
+
+Submitted on:  September 16, 2015 - 1:48pm 
+ 
+Idea:
+ LIU is a 3d physics based game where the user is stucked in a level with necessary items within the level to solve the puzzle and move onto next.
+ 
+Problem Solved:
+This game is under development for enhancing cognitive functioning to help make individuals smarter and competitive.
+ 
+Functions:
+ 1. 3d environment.
+2. Physics based puzzle game.
+3. Multiple levels.
+4. Power ups for hints.
+5. Power ups for special step to solve the puzzle.
+ 
+Targeted audience:
+ Planning to have a selection in the difficulty level which will make the game playable by almost everyone above 8 years of age.
+ 
+Main Benefits:
+Benefits:
+1. Certain degree of increase in IQ.
+2. Certain level of improvement in logical problem solving.
+3. Improvement in search behaviour.
+4. Certain degree of rise in competitive behaviour.
+5. Improvement in social behaviour since, it will require maximum communication in the society.
+6. All in all he will have fun to the point of self satisfaction.
+ 
+Platform: Android, iOS  
+
+

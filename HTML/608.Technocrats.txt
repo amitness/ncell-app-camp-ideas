@@ -1,0 +1,55 @@
+Technocrats
+
+Submitted on:  August 24, 2015 - 12:35am 
+ 
+Idea:
+ A solution to each and every health needs through the help of a health forum app .
+ 
+Problem Solved:
+Problems regarding the immediate need of health advice.
+Problems created due to  aftermath of bigger events like natural disasters.
+Problems regarding finding hospitals and appointments 
+Problems related to ratings of the doctors as well hospitals/clinics .
+Busy schedules of the doctors and the inconvenience caused due to it to the doctors as well as patients.
+Clarification of the category of problems.
+Problem related to Certified services provided by hospitals/ clinics as well as doctors.
+Problem of use of medicine without proper advice.
+Problem of finding specialist for certain health issues.
+Problem related with supervision of health services.
+Pre-response to the patient condition before going to hospital
+Problems relating to unhealthy lifestyle.
+ 
+ 
+ 
+Functions:
+ It lets patients choose their category of problem and doctors and hospitals are listed on that basis. They have option to ask to the specific doctors or general doctors
+doctors suggesstion can be rated and recommended by more
+Health tips everyday for the healthy lifestyle
+Users will be given the option to make their account so that they can store their medical records so that doctors can give advice on that basis
+Threads are created on the basis of similar problems
+Users will be able to search for the similar problems with the help of labels.
+Medical students can check on users history which can help them in their studies
+Users will be able to comment on threads so that they can find more solutions from the doctors on the same topic.
+Users can also give feedback on the advice given by the doctors so that others can either have positive impacts or be more alert about the problem.
+Users will be able to book appointments with the desired doctors or in the desired hospitals/clinic.
+ 
+ 
+Targeted audience:
+ 18+
+ 
+Main Benefits:
+1. Ease of access to medical advice
+2. Time efficient due to on the spot problem solving
+3. Quick response to the problems
+4. Medical advices on the go
+5. learning opportunity for the medical students
+6. Proper advice by certified doctors.
+7. Clarification of most of the problems
+8. Works like a health blog so people can have a healthy lifestyle
+9. Cost efficient health services
+10. Learning on the basis of others experiences.
+11. Ease of access to handicapped people.
+ 
+Platform: Android  
+
+

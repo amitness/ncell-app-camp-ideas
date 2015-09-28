@@ -1,0 +1,22 @@
+Sathi
+
+Submitted on:  September 18, 2015 - 8:18pm 
+ 
+Idea:
+ Sathi provides advice and suggestions to users based on the reviews of products and compare two different products and features.
+ 
+Problem Solved:
+Many people are in dilemma of what to chose. In the context of south asian countries people believe on the advice to solve a problem. Sathi will act as a friend to the users who want to compare different products and feature, want suggestions on different problems based on reviews and the users whouse the app.
+ 
+Functions:
+ The main elements of Sathi are Product comparisons, Advisor, Suggestions and reviews, Opinion, Hot happening in social networkings Etc.
+ 
+Targeted audience:
+ Our audience is mostly targeted to the south asian countries where apps and computer technologies are kept aside.
+ 
+Main Benefits:
+THe main benefits for the user will be that they will get a new friend in their smartphones.Users can ask for advice and suggestions on products and services. they could see product reviews and come out of the dilemma. Sathi would promote domestic products to improve the economic condition of the country.
+ 
+Platform: Android, iOS, Windows phone  
+
+

@@ -1,0 +1,22 @@
+RojgaarApp
+
+Submitted on:  September 12, 2015 - 6:34pm 
+ 
+Idea:
+ It lets companies to find employees and employees to find quality jobs
+ 
+Problem Solved:
+My app solves the problem of many neplese like me and also makes easy for varios companies, organisations,INGOS, NGOS, Institute to find quality employees. It surely helps people who are seeking jobs.
+ 
+Functions:
+ the app will show new jobs that are available, according to their qualification, experiences or locations. the app can provide detail information about the organisation, their jobs and role, salary information etc. 
+ 
+Targeted audience:
+ My target audience is all the student who are searching for a job. Our school never tauht us how to find a job or how to look for. So all the students, current employees, organisations, corporate houses, who will publish their ad for vacany and job seekers who will get notified according their qualifications and education.
+ 
+Main Benefits:
+the main benifits for the users are they can get job all across the Nepal. Organizations can search their employee based on their educations, Experiences, Location etc. Let's say, there's a new vacancy in Ncell for IT admin, all the people who signed up on our app as IT student will get a notification an they can apply through the email or drictly via app. It's total hassel free and no need of publishing ADs in newspaper which are way more expensive. Also the vacancy announcement will reach our targeted employees. The app will also make money by publishing various jobs vacancy of other organisations too.
+ 
+Platform: Android, iOS, Windows phone  
+
+

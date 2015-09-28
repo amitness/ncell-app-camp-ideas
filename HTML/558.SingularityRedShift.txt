@@ -1,0 +1,33 @@
+SingularityRedShift
+
+Submitted on:  September 17, 2015 - 5:51pm 
+ 
+Idea:
+ A fun app where people will visit landmarks (tourist destinations) of Nepal to earn points and spend them on real time freebies. 
+ 
+Problem Solved:
+Motivate the tourists to visit the recognized as well as unrecognized (but worth visiting) places in Nepal which will help to promote and boost the local economy.
+It also helps some of the local bussiness to boost their business in the long run.
+Many tourists just come to Nepal to see the Durbar Squares, Pokhara and the mountain regions of Nepal avoiding all the other places of significant value thus not experiencing the full Nepal tourism experience. What our app does is it motivates them to visit these places by awarding them some points which they can use to buy different items which has significant value to the landmark. For example, a tourist can earn say 200 points if he/she visits Patan Durbar Square. And from that 200 ponits the user can buy a discount coupon of (say 15%) in a cafe nearby. It benifites both the user and us. 
+ 
+ 
+ 
+ 
+ 
+Functions:
+ The app uses the GPS technology embedded in every smartphones of the users to see if they've travelled to a specific landmark to give them points.
+For eg, If the user visits the Patan Durbar sqaure and turns on his/her internet connection and GPS, the app will award some points (say 200). Then, the person can use the points to buy discount coupnes (15 % off at some hotel, 20 % off on cafe and so on) from the app's store. Doing this, the user may get motivated to visit other places to collect some more ponits to buy some discount coupnes from the store !
+Intergrates with the user's social media accounts so the the user can see the amounts of points which his/her friends havce earned which will generate a feeling of competition thus boosting our tourism industry.
+ 
+Targeted audience:
+ Mainly the international tourists so that the unrecognized places of Nepal gets some exposure in the interantional market.
+Also helps the domestic tourists to explore their own country.  
+ 
+Main Benefits:
+The user can buy discount coupons, free tickets to various events / museums and so on using the points that they've earned by visiting the landmarks.
+It also make them outgoing since they're motivated to earn more points to buy things from the app's store. 
+It will help them to be knowledgeable about the landmarks of Nepal.
+ 
+Platform: Android, Windows phone  
+
+

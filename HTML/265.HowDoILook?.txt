@@ -1,0 +1,28 @@
+HowDoILook?
+
+Submitted on:  September 18, 2015 - 12:58pm 
+ 
+Idea:
+ App to let people try out different looks and outfits with various haircuts and beard, outfits and colors before acutally getting that in real life.
+ 
+Problem Solved:
+People want to change their looks every so often, but are afraid of doing to because of not being sure if they would look the way the wanted to after actually doing it. You have to invest time and money to get the look you want, and it sucks if that doesnt work out well.
+This app will solve that problem and help the users. It will take people's pictures, and let them try out various looks for themselves. Using facial recgonition, users will be able to see them in completely different avatars and choose whats best for them. This app can be used for fun casually, help people find the right look for them, and save precious time and money!
+ 
+Functions:
+ The core function of this application is to let users experiment with their looks and find what best suits them, so they can decide to get that in real life. This will be helpful for users to see for themselves how they will look before falling for the latest trends. It can also be used for casual fun with friends to get the funniest look for themselves.
+The app will use facial recognition and image distortion for acheiving the goals. Images layers will be used to get the looks on the face. Basic image editing like eraser tools will be available to best fit the look on the picture.
+ 
+Targeted audience:
+ Anyone curious about how they would look with a different hairstyle or facial hair or different kind of outfit can find the app immensely useful. Anyone thinking of changing their look will get to try the look on virtually, without any cost.
+The primary audience would be youngsters, willing to try something new. Then there are people who will try the app, just to see themselves in a look they would never get for themselves. And then there are people trying to troll their friends with funny looking versions of them.
+ 
+Main Benefits:
+The main benifits for users are:
+- Being able to experiment with their looks
+- Find the look that best suits them
+- Have fun with friends trying out funny looking faces
+ 
+Platform: Android  
+
+

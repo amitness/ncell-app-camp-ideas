@@ -1,0 +1,31 @@
+whitesparrow
+
+Submitted on:  September 1, 2015 - 5:50pm 
+ 
+Idea:
+ This app is for groups of guys and girls who want to meet up with groups of opposite sex to party on a night out or enjoy new places together.
+ 
+Problem Solved:
+1.This app helps you find the group of people who are willing to do party.
+2.Help to meet new people near to your location.
+3.Also, this app shows the list of venue for party or any other celebration.
+4.Helps to socialize and get familiar with new people, places and friends.
+ 
+Functions:
+ This app will help you to meet with new people in any place. The app uses the GPS to track location.The main elements of this application are:
+1.Users can take groupie photo of them and their friends. They can upload it to app.
+2.Using their current location, the app will show users, photos of other groups of people out within a certain distance.
+3.Users can click or swipe in the screen, if they want to meet with the group of people in the photo. They will be shown the photo of their group and if they also click/swipe the screen, you get the ability to notify them of where they are going.
+ 
+Targeted audience:
+ Students, youngsters, tourists and anyone who loves travelling to new places .
+ 
+Main Benefits:
+The main benefits for the user are:
+1.Users can upload their photos in this app.
+2.This app will help users to notify the groups of other people of where they are going and can arrange to meet up.
+3.Also, users can find suitable venue for party near to their location.
+ 
+Platform: Android, iOS  
+
+

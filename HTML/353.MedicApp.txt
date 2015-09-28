@@ -1,0 +1,26 @@
+MedicApp
+
+Submitted on:  September 19, 2015 - 12:39pm 
+ 
+Idea:
+ Medic App lets you enter your illness symptoms or a combination of symptoms and gives you a list of probably diagnosis.
+ 
+Problem Solved:
+Using this app, users can have a basic knowledge of their diagnosis based on the symptoms that they go through if/when they fall ill, and use the information to plan further treatment(s). However, the information provided by the application will be for informational purposes only, and will not act as an official medical diagnosis.
+ 
+Functions:
+ -        It allows users enter a symptom or a combination of symptoms of illness and gives back a list of probable diagnosis (sorted by most probable to least probable) based on the calculation of combination of symptoms.
+-        Based on the users’ entry(s) the app calculates and provides them with a list of possible diagnosis for the entered illness.
+-        The app will also recommend relevant medical personnel in the area (like doctors, hospitals) who specializes in the diagnosis based on the location of the user.
+ 
+Targeted audience:
+ -        People looking into more about their illness and possible diagnosis of their illness
+ 
+Main Benefits:
+-        Quick list of probable diagnosis
+-        Medical information
+-        Nearby medical personnel and/or institution recommendation
+ 
+Platform: Android  
+
+

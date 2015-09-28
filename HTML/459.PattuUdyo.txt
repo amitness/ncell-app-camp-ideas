@@ -1,0 +1,24 @@
+PattuUdyo
+
+Submitted on:  September 19, 2015 - 9:45pm 
+ 
+Idea:
+ A game where players put their fingers at a spot and tap on it whenever a flying thing is pronounced like pattu udyo.
+ 
+Problem Solved:
+Multiple players can play this game as a reminder of their childhood memories on their smartphone.
+ 
+Functions:
+ A touch screen where player can tap with their finger while playing is required. 
+One can play the game solely for levelup (top scores) or in a network via internet or any hotspot network to be the best.
+ 
+ 
+Targeted audience:
+ Players who like mini games with no vast strategy requirement, but only sincere attention.
+ 
+Main Benefits:
+Multiple players can paly at once on a same screen or in a network.
+ 
+Platform: Android  
+
+

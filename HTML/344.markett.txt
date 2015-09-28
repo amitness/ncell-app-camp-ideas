@@ -1,0 +1,36 @@
+markett
+
+Submitted on:  September 19, 2015 - 2:51pm 
+ 
+Idea:
+ Platform to locate nearby traders offering best discounts while on the go and also notify nearby essential services such as banks.
+ 
+Problem Solved:
+We aim solving;
+Problem for tourists to find best local cuisine restaurants and souvenir shops nearby.
+Problem to find the best discounts and offerings from different businesses (such as least priced mountain flight tickets) in the city.
+Problem of having to stroll through multiple shops seeking the best price.
+Problem of not having enough time to spend a whole day on shopping only.
+problem of finding the shortest route to reach the target destination.
+ 
+Functions:
+ The app lists down most of available shops, restaurants and essential services. And when user inputs the service s/he is  in need of, has it entered on app screen then the app will automatically notify of shops and services nearby or festive season offerings and best deals. eg; if a person wants a short, has entered it on app screen and is walking through a street where stock shorts are being given with 20% & 28%  discounts on two shops, then the app will inform him/her of the discount and help choose least priced short. The app may also provide detail info on nearby 'Newari' or 'Thakali' food restaurants, ATM, bar, public services,etc among several others.
+ 
+Targeted audience:
+ 1. Tourists-both foreign & internal seeking affordable places to taste local cuisine and culture.
+2. Everybody seeking the lowest cost for anyhing they want to rent/purchase but not willing to move store to store and bargain.
+3. Everyone trying to save time and money.
+ 
+Main Benefits:
+1. Easily locating list of reasonably priced shops and cafes, travel agencies, rooms and also ATM'S , police stations, auto repairs, and oher essential services while on the go.
+2. Easy to locate businesses offering best deals and bargain for lowest cost sitting at home.
+3. Help to reach target destination in shortest possible time by showing shortest routes in the map available even offline.
+4. Also helping short duration visitors to rent the rooms and homestays offering best accommodation at least price.
+Locating intact monuments and safe landscapes, trekking routes not devastated by the April 25 tremor with ease from inside hotel room.
+ 
+ 
+ 
+ 
+Platform: Android  
+
+

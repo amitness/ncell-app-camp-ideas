@@ -1,0 +1,23 @@
+oyeBhag
+
+Submitted on:  September 19, 2015 - 6:58am 
+ 
+Idea:
+ An android game in which user has to save himself from getting hurted by stones falling from houses.
+ 
+Problem Solved:
+Due to recent earthquake many people died. This application will help user to learn by playing different situations during earchquake.
+ 
+Functions:
+ Our application provides user about how to save himself from calamities. Understand triangle of life.
+ 
+ 
+Targeted audience:
+ Everyone in this country using android
+ 
+Main Benefits:
+Since learning by palying is our moto. User will learn to save himself from earthquake and such camalities.
+ 
+Platform: Android  
+
+

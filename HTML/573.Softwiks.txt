@@ -1,0 +1,23 @@
+Softwiks
+
+Submitted on:  September 4, 2015 - 10:50pm 
+ 
+Idea:
+ Make a card game , so that now on  people who owe  this app need not buy cards if they install card game app which is played manually with person.
+ 
+Problem Solved:
+Buying cards
+ 
+Functions:
+ Specific card games
+Clear cut rules
+ 
+Targeted audience:
+ Youth and gamblers also general people
+ 
+Main Benefits:
+No cheating while playing cards.
+ 
+Platform: Android  
+
+

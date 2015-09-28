@@ -1,0 +1,22 @@
+Lords
+
+Submitted on:  August 19, 2015 - 12:02pm 
+ 
+Idea:
+ To solve the problem of entering numbers while recharging the money balance in mobile network from recharge card.
+ 
+Problem Solved:
+If we look then even to recharge Rs.50 on mobile network, it takes 4-5 minutes. We have to scratch then follow the instructions and put the serial number. But with my idea we just have to scratch and remaning other work will be done by the app itself in less then a minute.
+ 
+Functions:
+ This app will basically scan the recharge pin and process it according to the network company that user likes.
+ 
+Targeted audience:
+ All the people who use mobile network in an android mobile.
+ 
+Main Benefits:
+This app helps the people to recharge the money in any networks by saving their time and with a lot easier way. Specially, old aged people face a lot of problem while recharging the money but with this app anyone can recharge their account fast, easily and with 100℅ privacy.
+ 
+Platform: Android, iOS, Windows phone  
+
+

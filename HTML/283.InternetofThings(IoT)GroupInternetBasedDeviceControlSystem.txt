@@ -1,0 +1,31 @@
+InternetofThings(IoT)GroupInternetBasedDeviceControlSystem
+
+Submitted on:  September 19, 2015 - 9:49pm 
+ 
+Idea:
+ This project will control operation of switching of light, waterpump, dryer etc. of home/Industry using web & android mobile via internet.
+ 
+Problem Solved:
+In the absence of remote control system in home as well as in industries, operators have to physically monitor performance values and the quality of outputs and determine the best settings on which the equipment can run. This has caused loss of useful time as well as in many cases resulted in unorganized operations. This all has created the need of effective control system. Thus, for efficient working and for better lifestyle, remotely operated and monitored control system appears to be most important.
+ 
+Functions:
+ Simply, This app can operate any appliances of a home or industry so that user can directly operate their system form anywhere using internet connection.
+ 
+Targeted audience:
+ - Home / Domestic user
+- Industry user
+- official, college, school users
+- Factory, manufacturing company users
+ 
+Main Benefits:
+User can control their Home / Industry Appliances remotely using internet.
+- can check the status of their devices 
+- can monitor system using internet
+- Cloud Data storage
+- cross platform
+- easy hardware setup
+- operate their remote appliances any time from any where
+ 
+Platform: Android, Windows phone, Others(web)  
+
+

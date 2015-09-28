@@ -1,0 +1,22 @@
+Applock
+
+Submitted on:  September 17, 2015 - 5:01pm 
+ 
+Idea:
+ lock the app like - facebook, viber, messanger, whatsapp, wechat etc.
+ 
+Problem Solved:
+can gives privacy for user
+ 
+Functions:
+ lock app
+ 
+Targeted audience:
+ for all who wants privacy
+ 
+Main Benefits:
+Never worry about a friend borrow your phone and use facebook,viber etc
+ 
+Platform: iOS  
+
+

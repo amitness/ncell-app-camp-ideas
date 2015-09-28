@@ -1,0 +1,24 @@
+LunchedUp
+
+Submitted on:  September 14, 2015 - 10:42pm 
+ 
+Idea:
+ "LunchedUp" is a meetup over lunch. It helps growing your professional networking on a lunch date. 
+ 
+Problem Solved:
+In the world of growing social networking, the personal touch is fading away. To bring up a revolutionalized professional networking, bringing persons from different fields or aspects of life  and having a casual talks on a dining table in any restaurants of choice helps in growing networks.
+"LunchedUp" is a simple app where you as a professional can intialize a lunch date with an agenda. Any professional who likes to discuss on the same agenda can RSVP for the meetup. The nearest restaurants can be chosen for the meetup.
+ 
+Functions:
+ A professional has agenda in his mind may it be political or techological. He/she can initiate a meetup and any other professionals can RSVP for the meetup.
+ 
+Targeted audience:
+ A professional which undergoes a minor background check is target audience.
+ 
+Main Benefits:
+"LunchedUp" helps in growing professional network with personal touch. Have a good discussion over a meal to solve some problems is far superior to wasting time gossiping around nonsense topics. "LunchedUp" provides the platform to make a meetup successful.
+ 
+ 
+Platform: Android, iOS, Windows phone  
+
+

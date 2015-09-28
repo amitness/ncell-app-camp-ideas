@@ -1,0 +1,48 @@
+NepalConstitution2072
+
+Submitted on:  September 20, 2015 - 11:38am 
+ 
+Idea:
+ Be your own legal advisor and solve other cases smartly referencing each article and clause of the new constitution 2072.
+ 
+ 
+Problem Solved:
+1. People dont have to buy the book of new constitution to look at what really is in the constitution and be smart in the legal procedure of the nation.
+2. People can be their own legal advisor and dont have to completely rely upon their advocates, since they can go upon our constitution and be smart to their legal procedures.
+3. Police and other Investigation bureau, Advocates and legal advisor can match the complex and intersected articles and clause of constitution and deal accordingly. They also neither have to remember each and every articles and clause nor have to go for the book, they can get in on their own smart phone.
+ 
+ 
+Functions:
+ 1. Smart Search with natural language
+2. Comparision between complex and intersected clause
+3. Suggestion for revision directly to the mail of authorized government body.
+4. Both Nepali & English version
+5. Notification during revision of the constitution
+ 
+ 
+ 
+Targeted audience:
+ 1. All the people in Nepal and around the globe who wants to look after the Nepal's constitution smartly.
+2. Foreign People, NGO/ INGO/ Foreign Nation officials.
+3. Businessman/ Entrpreneur
+4. Students
+5. Advocates & Legal Counsellor
+6. Police, Army, Investigation Bureau and other security boards
+7. Human/ Animal/ Women/ Madhesi/ Janajati rights activists
+The description to the above target audience is same to the previous question. (main benfits for the user)
+ 
+Main Benefits:
+People in Nepal and around the globe and even International communities and foreign nations are eager to look the contents of new constitution. They can simply get the desired articles and clause of the constitution and the description of the clause in the simple language.
+It will also help the user to give the suggestion for the revision in the near future.
+The smart search in the application will directly redirect the user to the desired clause, so that they dont have to remember the each and every number of articles and clause
+It will help businessman/ entrepreneur to get the criteria of the business.
+It will help student to study Nepal Constitution. It will help advocates and legal counsellor to act thoroughly and smartly.
+It will help Police, Army, Investigation to act smartly so that they dont have to go for the big book of constitution.
+It will also help human/animal/women/madhesi/janajati rights activists so that they can immediately take an action with the proof in their smart phone.
+It will simply be the legal advisor of the common people, so that they dont have to rely on the dual meaning of advocates. To some extent, they can be the advocates of their own.
+It will help common people to look their legal boundary as drafted in constitution and make them feel secure on their doings.
+.
+ 
+Platform: Android, iOS  
+
+

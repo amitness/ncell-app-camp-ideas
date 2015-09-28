@@ -1,0 +1,34 @@
+Viewourist
+
+Submitted on:  September 10, 2015 - 10:59pm 
+ 
+Idea:
+ An App for Tourist to Review the amazing places they visit and share their experience in enjoyable manner others could refer to, to make their choice.
+ 
+Problem Solved:
+ 
+Often times we want to visit places during our leisure or Tour during vacation, list down the Package Price through Travel Offices but can’t find out appropriate reference if the Place is exactly where you would love to spend your days. We go to the location and stand out with dozen of restaurant but not sure where to go. We enter the restaurant or hotel but not sure which cuisine or dish or drink to order. Reviews from others experience can help a lot in this case.
+Read the extensive review from just as people like you and choose where you want to visit, or what to order. The Choice is all yours and we want to make sure you choose the right one for you.First impression is the Last impression. We help you get that life experience, taste every time you choose.      
+
+ 
+Functions:
+ The App Lists down the Major World Heritage Sites of Nepal, National Parks, Adventure Sports, Restaurants, Hotels and many more attractions available in Nepal. It Gives Detail Insight of Various Places Within These Sites and have Review Option for Each of the Various Elements and Location within these Places so that Tourist do not miss out the Major Attraction other Travelers Experience that would even help the Business Owner, Government to know the key values that attracted tourists and better them even in future or notify the under polished works for improvement.
+ 
+Targeted audience:
+  
+Mediocre or on Budget Foreign or National Traveler desiring to know more about a destination in Nepal to visit from the perspective of other traveler to make perfect choice where and how to spend their Vacation
+
+ 
+Main Benefits:
+ 
+-Find out Amazing Places to Visit Around You
+-Ask your Query on the App and Fellow Travelers would specify and help out for answer
+-Location Bases Review for Monuments, Adventure Sports, Trekking, National Parks, Restaurants and their Specific Recipes           -Glance over the Review from other Travelers and assure your decision to travel the place
+- Suggestions of which place to go with their background information, all from the comfort of your phone
+-Offline Data sync. On the Go Even after Without Data Connection
+-Share your Review, Exotic Sceneries, Photos of Landscape, Monument, Adventure and Rating in Social Media
+- Helps you find the hidden gems that you wouldnt have found otherwise.
+ 
+Platform: Android, Windows phone, Others(Web Development)  
+
+

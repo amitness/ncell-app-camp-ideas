@@ -1,0 +1,25 @@
+ClickNShare
+
+Submitted on:  September 19, 2015 - 8:51pm 
+ 
+Idea:
+ It's a simple app which takes pictures or shoot videos and can instantaneously share it to Facebook,Twitter or Instagram.
+ 
+Problem Solved:
+The basic problem which it solves is one don't need to open one's account in order to upload image or videos. It would be very useful to those who need to upload images and selfie frequently to facebook,instagram or twitter.
+ 
+Functions:
+ The major functions are:
+i. Take picture or shoot videos on your mobile device
+ii. Share it to your account of Facebook, Twitter or Instagram.
+iii. Post some caption along with pictures and get the likes and comments information about the picture or videos.
+ 
+Targeted audience:
+ All the youths and all those enthusiastic about photo sharing are the major target audience.
+ 
+Main Benefits:
+It would be very convenient for the users to upload their images and videos to their social sites.
+ 
+Platform: Android  
+
+

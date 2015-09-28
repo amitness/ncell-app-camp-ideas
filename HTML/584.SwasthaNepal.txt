@@ -1,0 +1,33 @@
+SwasthaNepal
+
+Submitted on:  September 20, 2015 - 11:42am 
+ 
+Idea:
+ Health app to notify about nearby hospitals ,clinic,doctor ,their services and local health events.
+ 
+Problem Solved:
+Searching nearby hospitals is tough work .Our app will help you tackle with that. Visiting hospitals frequently to check your health status is even not possible in this busy days .So this app will help you get appointment from doctor and you can know about your problems through question answer block and visit the hospital as per necessary.
+ 
+Functions:
+ 
+p { margin-bottom: 0.1in; line-height: 120%; }
+The app has several functions where people can ask about their health problem and the answer is provided by health specialists,suggestion from experts ,people can log in their account and there will be different blocks which contains health detail, it also list down the hospital route ,nearby hospitals or clinic location based on the location where users are in,contact block(doctors or their clinic's contact number),info block(information about health event in your locality that is going to happen ),tips block(hygiene and sanitation), reminder block(through which patient can get reminded about their medicine time through message),blood bank block (synchronizing with blood bank it can provide the contact of  blood donor).
+ 
+Targeted audience:
+ Busy job holders can ask about health problem to health specialists so that they don't have to devote extra time of their busy day.
+People can get informed about the local health events and can get get benefited from those events.
+Patients who forgets to take medicine ,this apps works as a reminder.
+Emergency patients can get the blood donor information from this app.
+General people who are enthusiasts about the their health .
+ 
+Main Benefits:
+1.Easy to locate hospitals and events that are happening in local area.
+2.Easy to get appointment from doctors.
+3.Get health suggestions from health specialists, tips from expert.
+4.Motivates you to improve your health.
+5. Patients who are taking medicine gets reminded through message system which is the main feature of this app.
+6.Internet savvy can also know about health and situation of health condition in Nepal.
+ 
+Platform: Android, Windows phone, SMS  
+
+

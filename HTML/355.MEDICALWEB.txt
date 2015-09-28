@@ -1,0 +1,40 @@
+MEDICALWEB
+
+Submitted on:  September 7, 2015 - 8:07pm 
+ 
+Idea:
+ app to create a medical forum and enable medical staffs to upload medical history of patients or queries in that forum to seek assistance.
+ 
+Problem Solved:
+The government of Nepal appoints many medical staffs yearly to work in rural districts which is deprived of a proper medical institutions. These medical staffs may encounter new cases which they may not be able diagnose and may require attention from an adept medical practitioner.
+This app focuses on enabling medical personnels to upload the medical history of such patients to a platform where it can be reviewed by experts having knowledge on the treatment of such cases. 
+This app also helps medical interns to gain informations about different medical cases. It will create a information hub where queries about new topics will be answered from people working in same field.
+It will enable medical staffs to gain quick information about specialized services provided by specific health centers and also basic treatment procedure about diseases such as TB or AIDS.
+ 
+ 
+Functions:
+ 1. The app will constitute of a form where a medical staff can fill in all the description about the case that needs assistance from experts. The staff can fill all the relevant information along with images. 
+2. It will constitute of a forum where queried cases with complete description of patient history are available for reviewing. Medical professionals having good knowledge on the topic can send in replies for further steps needed to treat the case.
+3. It will contain a page where in cases with highest frequency of occurrence will be listed for quick reference. It will enable quick supply of information for common cases and enable quick response for treatment and notify about any epidemic occuring.
+4.This app will also contain information about the most basic procedure of treatment as prescribed by Ministry of health, Nepal government for diseases like tuberculosis and AIDS for quick reference to doctors.
+5.This app will hold information about list of specialized services provided by specific hospitals and health centers  so as to enable doctors to refer cases related to such diseases in those centers.
+6. It will contain information about "must follow rules" for special conditions like pregnancy, tuberculosis, etc as directed by Ministry of Health so as to enable health staffs to provide proper advices to the patients.
+7. It will contain contact information like phone numbers, website of major health institutions.
+ 
+ 
+Targeted audience:
+ 1. medical staffs in rural districts seeking for assistance in new cases and searching for basic health information for reference.
+2. medical students and staffs looking for information on services given by various health organization , information on cases relevant in their area and diagnosis of such cases.
+ 
+ 
+Main Benefits:
+1. enable medical practitioners in rural districts to be able to identify and treat new cases with the assistance from adept medical personnel.
+2. create a learning platform for new doctors or other medical staffs about new cases and its diagnosis.
+3.create a forum for discussion of topics and create an information hub for future references.
+4. creates a communication link between medical staffs in diiferent places that will help to circulate informations about epidemics and prepare other places to control it from spreading.
+5. enable medical staffs to gain quick acess to most basic informations about health related informations provided by Ministry of Health.
+6. enable medical staffs like doctors to know about services provided by other medical institution to refer various cases.
+ 
+Platform: Android  
+
+

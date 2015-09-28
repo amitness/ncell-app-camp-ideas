@@ -1,0 +1,22 @@
+my_blood
+
+Submitted on:  August 19, 2015 - 7:30am 
+ 
+Idea:
+ An android app to locate nearest blood donor using global positioning system during emergency or in need and contact them though call, sms, broadcast
+ 
+Problem Solved:
+This app searches nearest blood donor and locates them on map with necessary information to make contact with donors and help the needy who requires blood in emergency situation.
+ 
+Functions:
+ 1. Gps location based nearest blood donor search 2. One click Registration through google account 3. Displays calculated nearest donor on map with approximate distance
+ 
+Targeted audience:
+ The world isn't like what we think everyone needs help and everyone is ready to help the target audience for app are college students, working gentlemen and women who are ready to help others.
+ 
+Main Benefits:
+1. Easy to Seach nearest blood donor. 2. Gets fastest way in map to reach them. 3. Searches for particular blood group on Google map. 4. Saves life.
+ 
+Platform: Android  
+
+

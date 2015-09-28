@@ -1,0 +1,22 @@
+BrainyBrain
+
+Submitted on:  September 16, 2015 - 4:29pm 
+ 
+Idea:
+ Its an app to download the facebook synchronised photo.
+ 
+Problem Solved:
+There is no app to download the synchronised photo in facebook till today. Once the photo gets synchronised it can't be brought back to phone. It will solve that problem.
+ 
+Functions:
+ The app would be handy when you want to get back the photos to your phone and want to view it offline and want to use it for different purposes. The app would be very simple and can download the synchronised photo.
+ 
+Targeted audience:
+ Its for all the facebook users who wish to get back their photos back for different purposes which is not possible now.
+ 
+Main Benefits:
+The user can get their photos back to their storage if they are accidentally deleted as they are synchronised in their facebook account.
+ 
+Platform: Android, iOS  
+
+

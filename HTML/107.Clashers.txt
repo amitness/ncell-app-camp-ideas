@@ -1,0 +1,27 @@
+Clashers
+
+Submitted on:  August 20, 2015 - 9:36am 
+ 
+Idea:
+ Our app is for recharging your phone bills using QR code system.
+ 
+Problem Solved:
+Reducing recharging time
+Reducing problem of error in typing long recharge number
+Can be helpful for old and eye-sight problem people
+Recharging system would be easier
+ 
+Functions:
+ It scans the QR code from the recharge charge (recharge card may include recharge number) and send request to service provider and if the Code is matching then the phone is recharged successfully
+ 
+Targeted audience:
+ All phone holder
+ 
+Main Benefits:
+Recharging system would be easier and less time consuming
+No errors on recharging i.e recharge in 1st attempt
+ 
+ 
+Platform: Android, iOS, Windows phone  
+
+

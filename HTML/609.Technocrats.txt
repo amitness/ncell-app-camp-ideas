@@ -1,0 +1,52 @@
+Technocrats
+
+Submitted on:  August 24, 2015 - 3:37pm 
+ 
+Idea:
+  
+NepalGhumgham:A Tourism promoting App that lets the user go on a virtual Nepal tour.
+ 
+Problem Solved:
+
+Today, Nepalese youths are unaware of the historical and cultural significance of the heritages in Nepal.
+Tourists may have insufficient knowledge and guidance about the place.
+Some people want to visit the place but are unable to do so.
+People are unaware about the present status of the destination/heritages after the recent earthquake
+Problem of frauds with Tourists
+Problem of adjustment in the new place
+
+ 
+Functions:
+ 
+Interactive interface virtual tour
+Lets you choose the destination of your interest and gives the information accordingly.
+If the information is inadequate, it lets you post the query.
+Tourist can share their experience of the place and mark as Favorites so that other people are interested too.
+Recommend the most Favorite place to the user.
+Comment or Recommend your views on the place.
+Lets you post your photos (videos) clicked on that place
+Shows nearby hotels, cafes or restaurants in the selected area (with the important contact numbers)
+Route to the selected destination.
+
+ 
+Targeted audience:
+ 
+Tourists
+Nepalese locals
+
+ 
+Main Benefits:
+
+Nepal’s tour on the go. App takes you on a virtual Nepal tour.(Global benefit)
+Promotes Nepal tourism globally
+Present status updates of the destination/heritage
+Convenience to Tourists in getting the information before visiting the place.
+Gives the historical significance of our heritages to local Nepalese as well. (Educational benefit)
+Great app for the people who are keen to visit but cannot visit due to their medical or financial problems, busy schedule, or other problems.
+listing of the nearby hotels, restaurants, cafe with important contact numbers.
+Helps in adjustment to the new place
+
+ 
+Platform: Android  
+
+

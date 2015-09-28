@@ -1,0 +1,25 @@
+HealthPlus
+
+Submitted on:  September 13, 2015 - 10:53am 
+ 
+Idea:
+ This is an android app intended to enhance the health knowlede, services and facilities to the general public ie. user. 
+ 
+Problem Solved:
+Problems regarding the Health issues.
+ 
+Functions:
+ Health Service
+ 
+Targeted audience:
+ Primarily to the residents of Kathmandu Valley 
+ 
+Main Benefits:
+Health tips.
+what should eat and shouldnot.
+Doctor coordination.
+Doctor Appointment.
+ 
+Platform: Android  
+
+

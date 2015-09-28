@@ -1,0 +1,25 @@
+MyBlood
+
+Submitted on:  September 20, 2015 - 10:57am 
+ 
+Idea:
+ Easy registration and easy search for the blood we need in emergency.
+ 
+Problem Solved:
+* easy registration for blood donors.
+* location update on every login of the donor.
+* searches the nearest donor first.
+* easy to contact to the donors.
+ 
+Functions:
+ The application list down the blood type, and it will shows the result of the nearest blood donor around you. 
+ 
+Targeted audience:
+ age between 18 to 60 who can donate blood and every nepalese who need blood in emergency.
+ 
+Main Benefits:
+Donating blood, describes itself.
+ 
+Platform: Android  
+
+

@@ -1,0 +1,32 @@
+onlinepayment
+
+Submitted on:  August 26, 2015 - 7:54am 
+ 
+Idea:
+ An app that allow user to transfer balance from one account to another without going to bank.
+ 
+Problem Solved:
+in many cases you need to purchase service ,goods or product (either by compulsion or just you like and wants to purchase ) even if you don't have cash instantly .Also , you want to visit some place instantly but you don't have cash right there.In such cases app helps  to transfer money from your account to the account of person to whom you want to pay for the shake of service.Also, in many cases you don't have  small amount to pay and exchange is also not available .In such case also this app helps to pay money without consuming any time.
+ 
+Functions:
+ 1. Account creation
+user can create account simply by clicking createaccount button.Here user need to enter all releavant information offered by page .After creating account user need to deposit cash in company associated with this app.
+2. Balance Transfer
+user can transfer balance balance by clicking balance transfer button.here user need to login to account by entering username and password .After logging in user need enter amount and  account number to which he / she intended to transfer
+3.History
+it mainly consist of total cash remaining , deposit and transfer amount along with date .
+4. Post Add
+Bank or finance company can place add in our official website .
+ 
+Targeted audience:
+ all peoples who are using mobile phone and internet facilities and don't want to go bank all the time.
+ 
+Main Benefits:
+1. Fast payment without wastage of time .
+2. No need to bring cash all the time .
+3. Solves problem of exchange money in case    of small amount payment .
+4. any things you can purchase at any time even if you don't have cash right there
+ 
+Platform: Android  
+
+

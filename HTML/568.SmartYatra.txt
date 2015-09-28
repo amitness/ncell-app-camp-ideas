@@ -1,0 +1,37 @@
+SmartYatra
+
+Submitted on:  September 10, 2015 - 12:43am 
+ 
+Idea:
+ App will notify users about the vacant seat available with real time location in deluxe bus/micro/taxi,route details along with reservation facilities
+ 
+Problem Solved:
+Travel can only be meaningful if we do travel with comfort and hassle free way. With our sajilo yatra app travel service provider won’t have to wait for passenger in random place if they do have vacant seats.  Similarly passenger will get to know about the deals(vacant seats) and route detail by contacting the service provider instantly.
+ 
+We have to roam around, deal with the middleman when we reach new place. Which is time consuming and tedious job. With our app, user can get to know about the deals and discounts with booking facilities of destination place which will make the accommodation easy.
+ 
+ 
+Functions:
+ - Service provider can update their offer, deals in efficient way in the app, whereas user can view those deals/offerings and make reservation/booking on the go.
+- Rating of service provider will help users to know about the quality of service on different aspect.
+- Real time bus/micro/jeep/taxi locator along with the route information.
+- Deals and discount available on the destination place.
+Emergency contact addresses of Nepal police and Hospitals.
+ 
+ 
+Targeted audience:
+ Local tourist, Foreign tourist, transportation service provider, travel and tourism entrepreneurs.
+ 
+Main Benefits:
+- Get notified about the vacant seat immediately along with the real time bus location and route details.
+- List of transportation service provider’s information.
+- Deals and discount available in destination place.
+- Booking/reservation facilities integrated with payment gateway.
+- Rating of travel service providers.
+- Emergency contact addresses of Nepal Police and Hospitals on the route.
+- Travel tips.
+ 
+ 
+Platform: Android  
+
+

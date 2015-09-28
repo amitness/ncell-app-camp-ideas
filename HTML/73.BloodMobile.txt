@@ -1,0 +1,28 @@
+BloodMobile
+
+Submitted on:  September 17, 2015 - 11:19am 
+ 
+Idea:
+ app that lets you request blood and locate donors, hospitals, donation camps on map, register for donation events and directly make a call.
+ 
+Problem Solved:
+Problems like unavailability of blood at critical times and unable to find matching blood donors at such difficult emergency cases can be overcome by this application.
+ 
+Functions:
+ This app notifies about the blood requests and upon deciding to donate blood, locates the person in need of blood on the map and shows the route leading to him/her. Also, we can obviously submit blood requests.
+Further, users can choose from a list of upcoming health related events like blood donation camps and register for it, and also locate the venue on the map with route to the venue.
+ 
+Targeted audience:
+ Basically everyone. Everybody needs blood at critical circumstances, and this app serves this purpose. So anyone whose either in need of blood or wants to donate blood is its targeted audience.
+ 
+Main Benefits:
+1. Easily locate matching blood donors for the requested blood on map and feature to make a call to them.
+2. Know about the upcoming events like blood donation camps going around and register for these  events.
+3. Easily locate hospitals nearby on the map.
+4. A list of emergency numbers to call upon.
+5. A personalised account to use above services upon free registration.
+ 
+ 
+Platform: Android  
+
+

@@ -1,0 +1,27 @@
+Caveman
+
+Submitted on:  September 19, 2015 - 12:58pm 
+ 
+Idea:
+ An endless runner game :)
+ 
+Problem Solved:
+A long time ago, cavemen used to habitate these wonderous woods, every nook and cranny. Since they started to live in the caves, a lot has changed now. Cavemen used to help each other and live in families.
+ 
+Similar is the story of two cavemen, Sukhi and Ghale. Sukhi is Ghale's father and Ghale is the world to Sukhi. Every day since he was born, Ghale has seen Sukhi go out for foraging food. But today is different. Sukhi goes out and does not come back. Its Ghale's turn to go out and look for his father. Its his first time in the wilderness, Can Ghale survive? Can you Help Him?
+ 
+Functions:
+ Mobile - friendly.
+Cross-Platform releases.
+Uses device native APIs to render.
+Small size, but double the fun.
+ 
+Targeted audience:
+ Everyone.
+ 
+Main Benefits:
+An engaging story line, completion on every level leaves you wanting for more. :)
+ 
+Platform: Android, Windows phone  
+
+

@@ -1,0 +1,32 @@
+<EkNepal>
+
+Submitted on:  September 11, 2015 - 11:42am 
+ 
+Idea:
+ A gaming app that challenges users to create a map of Nepal by putting together broken down map parts into correct positions.
+ 
+Problem Solved:
+At a time when the country is undergoing a heated debate on federalism and how the states should be delineated, this app will serve as a symbolic reminder that Nepal needs to unite by joining states creatively, not by dividing them baselessly.
+ 
+Functions:
+ -Users can challenge other players to play after completing a map.
+-Users can choose the type of map they want to complete (administrative, geographical, tourist etc)
+-Users can time their solving skills and set records for other to break.
+-Some incentives like hints or bonus tip could be provided to the user after earning certain points.
+-App could contain various federal models that have been proposed in the past by the leaders.
+ 
+ 
+ 
+ 
+Targeted audience:
+ -Anyone above the age of 10. (Contains varying levels)
+ 
+Main Benefits:
+-Users will get to test their knowledge about the correct map of Nepal.
+-User will gain knowledge about the position of cities, districts, headquarters and other important places in Nepal's map.
+-Users will get to channelize their nationalistic sentiments into something productive and creative.
+ 
+ 
+Platform: Android, iOS  
+
+

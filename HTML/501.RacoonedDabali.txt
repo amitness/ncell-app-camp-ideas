@@ -1,0 +1,33 @@
+RacoonedDabali
+
+Submitted on:  September 15, 2015 - 12:16pm 
+ 
+Idea:
+ Student Guide for their career according to their interest.
+ 
+Problem Solved:
+Student's dilemma while selecting college within their reach and interest.
+ 
+Functions:
+ Functions:
+This app takes the students to a virtual tour to all the colleges as per their preferred courses and locations.
+Elements:
+1) Courses and their details
+2) Colleges and their Details
+3) College Reviews from the current students
+ 
+ 
+Targeted audience:
+ 1) Students Searching for Colleges: Choosing college has always been a stumbling-block for students.A student graduate, whether SLC or +2 or PCL, and they are the ones who we want to assist.
+ 
+ 
+Main Benefits:
+1) Saves Time and Money:  Students don't have to visit each and every college personally.
+2) Simplifies College Selection: This app avails the students with the details of all the courses they are open to select and the respective colleges.
+3) Getting to know the Insights of College: Users can peek inside the college even before enrollment on the basis of reviews of current students .
+ 
+ 
+ 
+Platform: Android  
+
+

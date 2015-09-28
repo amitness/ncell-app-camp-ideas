@@ -1,0 +1,37 @@
+SmartBabyBathoBachcha
+
+Submitted on:  September 10, 2015 - 5:37pm 
+ 
+Idea:
+ Teach your growing kids fundamental things(for example ABCD,123)and many more  in a smart and interactive way through graphics, animation and much.
+ 
+Problem Solved:
+App will help to imrpove teaching quality in Kindergarten,School,Day care and in-home for kids through the use of interactive,graphical,animated material.
+ 
+Functions:
+ Animation to show different material to teach kids.
+Graphics, videos and sound to make learnig interactive and interesting.
+ 
+ 
+ 
+Targeted audience:
+ Parents having new born baby, Kindergarten, schools, day care.
+ 
+Main Benefits:
+1) Interactive:- User (parents,teachers,care giver) can teach kids through graphics, animation,voice,video in a interactive way.
+2) Learn with Fun:- Kids can enjoy learning process and will make them interested in leaning more.
+3) Cost Saving:- No need to purchase bunch of books and other material to teach kid.
+4) No Wear and Tear:- Books are pron to wear and tear but smart phone are not. No need to worry about purchasing another book.
+5) Unlimited Material:- Unlimited interactive material will be available through timely update.Just need to update app.Free of cost.
+6) Portable:- You carry phone wherever you go.so you carry all the material needed to teach your kid. Travelling on bus, plane,train, playing in park you can teach kid and have fun.
+7) Multilingual:- App will be availabe on multiple language. You can teach local language to your kid in a interactiInve way.
+8) In-app test:- After teaching some specific topic we can take test and assess how much kid has learned.
+9) Online Record:- Can keep progress record of kid and show them in a graphical way like Graph with suggestion to improve learing.
+10) Teaching material in a package: Teaching material will be availabe in a package based on kids age group. Once the kid has learned one package completely new material will be available.
+11) Any device:- Will be available on any device like smart phone, Tablet and samrt TV.
+12) Data analytics:- Kids progress will be analyzed everyday based on test result and daily leaning and will be given suggestion and new material needed to improve learning.
+ 
+ 
+Platform: Android, iOS, Windows phone  
+
+

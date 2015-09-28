@@ -1,0 +1,26 @@
+AusadiBibaran
+
+Submitted on:  September 15, 2015 - 2:48pm 
+ 
+Idea:
+ "Ausadi Bibaran" is an informative app that gives us the detail information about the medicines available at Nepalese market.
+ 
+Problem Solved:
+In developing country like Nepal, where government's market surveillance is very poor, pharmacies are also not well monitored. The medicines provided by these pharmacies are blindly consumed by the patients without knowing the basic detail about that medicine. Consumers should at least have minimal knowledge about the medicine they consume. Our app will help to tackle this problem by giving the information of medicines, the purpose of the medicine in lay man term, its minimum dosage, its side effects and other basic information.
+ 
+Functions:
+ The main functionality of our app is to give out the information of the medicines that are generally found in our market. The user can type in the name of medicine they are taking and then our app will give out the necessary information of the medicine.The other method of searching for the medicine is by listing out the pharmaceutical companies in Nepal and finding out the name of medicine you are taking. However our App does not promote patients to take their medicine by themselves. It is just to provide the information of the medicines they get in the pharmacies.
+ 
+Targeted audience:
+ Our target audience is literate people who can use a smart phone. Target Audience can be a 5 year old boy to 80 year old grand ma who can use a phone and can read the text and images. 
+ 
+Main Benefits:
+The main benefit for the user are:
+1. Basic information of the medicine, it's discovery, the diseases it cure. 
+2.The minimum dosage of that medicine.
+3. The common side effects, and even foods to omit while taking that medicine will be provided in the app.
+note: Users will be more aware of the medicines they consume.The least amount of dosage of medicine is very important thing since people tend to forget to complete the dosage hence increasing the chance of  complications in the future. 
+ 
+Platform: Android  
+
+

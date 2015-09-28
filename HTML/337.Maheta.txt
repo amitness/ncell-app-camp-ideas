@@ -1,0 +1,25 @@
+Maheta
+
+Submitted on:  August 14, 2015 - 12:00pm 
+ 
+Idea:
+ This app highlights the events and cultural festivals during your trip and shows nearby attractions.
+ 
+Problem Solved:
+It solves the dilemma of where to go
+ you will not get lost with locations 
+ 
+Functions:
+ events and cultural festivals
+ the places to visit according to your location.
+ 
+Targeted audience:
+ National and International tourists. 
+ 
+Main Benefits:
+it will have the the detail information about events and cultural festivals
+ 
+ 
+Platform: Android  
+
+

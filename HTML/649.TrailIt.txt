@@ -1,0 +1,42 @@
+TrailIt
+
+Submitted on:  August 26, 2015 - 3:50pm 
+ 
+Idea:
+ An app that creates trail as you travel, share it and if you enjoyed reading somebody else’s trail then follow the trail for your next adventure
+ 
+Problem Solved:
+You want / came to travel (in Nepal or any country) but you might not have an idea - 'where to travel'. This app - 'Follow the Trail' will help you discover wonderful places to travel from the experience of the people just like you. You and your friends want to go for a cycling tour but do you know the good cycle trail nearby? [Did you knew about a place called lakuri vanjyang which is a very popular cycling destinations]
+Many domestic tourist are not motivated to travel in their own country or places nearby. But when you see the picture of your friend holding the flag of your country at the top of mount Everest you feel inner rush to travel. 'Follow the trail' will try to be the medium to share your experience and get motivated from the breath taking experience from people just like you.
+Many tourist keep missing in Nepal (and so many other countries) mostly while mountaineering, hiking, etc. Searching them takes place in sluggish speed due to lack of proper knowledge of their where-a-bouts. But if those lost traveler had maintained their where-a-bouts as they travelled (through ‘Follow the trail’ app), their family and friends could know where they might be right now. Their last known location could be very helpful for 'search and rescue' operation.
+Notifying authorities and family while you are lost is very important for your rescue. Through this app, sending a stress signal is just a six taps away. (Pressing the emergency button six times will automatically send the emergency stress message to your family members and friends or local authorities with you current GPS location using the phone signal / data / other means if possible)
+Even if you are not much of a traveler, surely you want it to be a memorable experience but then why not make it awesomely memorable by following the popular trail or a trail of an expert traveler by doing the things what he did in the way he did it.
+‘Follow the trail’ app will help traveler to share their travelling experience to other people. While writing the trail you are keeping you and people travelling with you in a safety in case you are lost and when you share your trail to the world you are motivating other people to travel through your experience.
+ 
+Functions:
+ You can search trails (travel experience) originating from a nearby location (GPS / Location search) or from other filter tags like difficulty level, activities involved, geographical location, etc.
+You can create your own trail and share it for other people. You create your own trail by checking-in at some point during your tour, taking pictures and adding some description / tags for that point.
+You can follow the trail of other people by doing the things they did in the way they did or diverge at any point and write your own trail. In the meantime you can comment and discuss on other’s trail. Along with the journey the app will also suggest you interesting place you can visit, hotels, place to eat nearby so that you can discover and write your own trail.
+When you are writing your own trail and you can also add your travelling companions in your trail at any point of time.
+You can subscribe to the live trail of a close friend and family (Travelling experience being written) and receive notification while the trail they are following gets updated.
+You earn points and badges as much as you use the features of the app like creating trail, following the trail, etc.
+App will contain sponsored package/trail which are added by the sponsors of the app through web dashboard. These sponsored package can be booked from the app. Business like restaurants and hotels can advertise themselves by becoming a checkpoint in the trail featured trail or by giving discounts to travelers when they tag their business in their trail.
+ 
+Targeted audience:
+ This app is targeted for domestic tourist and international tourist (Primarily Nepal) with at least a smartphone (Android or IPhone), who wants to discover interesting places to travel or want to share their interesting travel experience.
+Specific targeted users are young and adult domestic and foreign travelers (Primarily Nepal) of (age 16 - 35) who don't mind spending few balance in internet while travelling.
+With the feature of live trail, one can receive notification and updates about the trail which could be useful for family members or friend of the traveler.
+ 
+Main Benefits:
+Can share your travel experience (trail) to other people and help them know what tools they might need to bring, understand climate, difficulties, duration etc. You can share your experience on your favorite Social Medias when you create a marker in your trail, take photos, etc.
+Get motivated and inspired from the travel experience of other people.
+Discover people tested package/trail/tour made by the people like you using filters like difficulty level, activities involved, geographical location, tags etc.
+While making trail you can also search for interesting places, activities, hotels, foods nearby so you can make your trail even more exciting.
+Can publish live trail to your selected member group (family and close friends) so that they know where you are.
+Works in offline if you just want to track your trail now and later sync when you have internet connection. (However app will remind you at least to sync your location data on time to time for emergency purposes only)
+Can send emergency stress signal to family and friends from the app with your current GPS location.
+App can be a medium to receive an emergency broadcast of possible catastrophic situation. In such case, user will receive pre-warning of possible danger like storm, snow fall, etc.
+ 
+Platform: Android, iOS  
+
+

@@ -1,0 +1,22 @@
+JustForGames
+
+Submitted on:  September 18, 2015 - 9:36am 
+ 
+Idea:
+ App that gives knowledge of every games from local level to international level with all the facts and figures
+ 
+Problem Solved:
+App promotes every types of games by telling each and every field related to any games.
+ 
+Functions:
+ App lists downs each and every games and according to the user it gives him every knowledge required in every games.
+ 
+Targeted audience:
+ Everyone who are active towards games.
+ 
+Main Benefits:
+1.Everyone can know the exact rules and regulations of every games.\ 2.Anyone can try new games with this app as it gives every tutorials required. 3.Easy for everybody to get the news of the games they see or play.
+ 
+Platform: Android, Windows phone  
+
+

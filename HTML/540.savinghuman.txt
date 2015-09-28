@@ -1,0 +1,63 @@
+savinghuman
+
+Submitted on:  September 20, 2015 - 12:03pm 
+ 
+Idea:
+ Stop, Prevent and Rescue “Human trafficking”
+ 
+ 
+Problem Solved:
+We human being easily trust each other however these trust issue changes when one is out of home especially crosses border of nepal. The problem what we are trying to deal is Human trafficking  ( sex trafficking, child labour, forced labour, modern slavery ). Due to high number of temporary migrants flying abroad and country with open border with India, there has always been need and will be need in high volume in coming days to address these issue. 
+ 
+Few of the statistics : 
+National Human rights commission Nepal 2014 reports statistics shows nearly 29,000 persons were trafficked or attempted to trafficked. [2]
+Global slavery Index 2014 reports that 35.8 million people are enslaved globally where few of the countries figures are [1]
+Nepal 228,700    
+India 14,285,700 
+Pakistan 2,058,200 
+Bangladesh 680,900
+ 
+According to the Nepal Population Census 2011, there were 1.92 million absentees population in 2011 in Nepal. 228,700 nepalese are enslaved and 1.92 are absent whereas the prevention , rescue figure is nominal [2].
+ 
+ 
+
+[1]https://d3mj66ag90b5fy.cloudfront.net/wp-content/uploads/2014/11/Global_...
+
+ [2]http://www.nhrcnepal.org/nhrc_new/doc/newsletter/1592866493Report%20of%2...(Especially%20on%20Women%20and%20Children)%20National%20Report%202012-2013.pdf
+ 
+
+ 
+ 
+Functions:
+ - Timer is set and  profile is updated by the user,  Profile includes personal details, intended place h/she is visiting, visit purpose, passport screenshot and accompany details, if possible picture of user and accompany. The catch is if the timer is not disabled before it expires h/she will be flagged in red alert.
+ 
+- Volunteers in borders and posts can use the apps to conduct above mention process in the behalf of user, this will replace the traditional paper entry hassle.
+ 
+- All the information are saved securely in server and will be destroyed based on user preference once the timer is disabled by the user later.
+- To disable previously set timer user has to login to app and disable it. Incase the user doesn't have smart phone, disabling can be done by dialing , sms or ussd to phone number where user has to provide access code to verify.
+ - User doesn't have to wait for timer to expire they can initiate rescue anytime they want with press of button. other rescue method include dialing , sms or ussd. If the user is already register they will be flagged in red alert.
+- If a user who is not register initiate rescue signal then in that case h/she will be flagged in blind red alert.
+- Red alert or blind red alert means system will pinpoint user location, details, caller id and will inform/alerts rescuers with as much information as it has. The nearby rescue team is sent alerts with victim location and victim detail cases if available.
+- The app will also posses 1-1 or 1-N group chat based communication .
+ 
+-Maintain audit logs of admin usage 
+ 
+Targeted audience:
+ - People seeking better life and vulnerable to fall in hands of smugglers and human traffickers.
+ - Volunteers, workers of NGO, INGO related to Anti trafficking and government law employee.
+- Global target especially underdeveloped or developing countries which are commonly origin of human traffick.
+ 
+ 
+Main Benefits:
+
+
+Extra Increase efforts to rescue human traffic victims.
+
+
+Easy means for co-ordination to fight against crime.
+
+
+ 
+Platform: Android, SMS  
+
+

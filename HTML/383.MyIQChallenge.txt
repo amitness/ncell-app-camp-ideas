@@ -1,0 +1,39 @@
+MyIQChallenge
+
+Submitted on:  September 20, 2015 - 11:23am 
+ 
+Idea:
+ An annoying interactive single/multi user IQ game where challenges can be created / modified by users themselves, with tools provided by the app.
+ 
+Problem Solved:
+This game doesn't solve anything, instead it creates more problems, more challenges, and might even give anxiety to its users. In fact, this will be frustrating to them. But it does help everyone train their brain by solving given challenges, and if you are smart enough, create one yourself to challenge your friends and foes.
+ 
+Functions:
+ In short : 
+- Minimal animated visual IQ challenges.
+- Social Site Integration (don't worry, we don't access your private photos)
+- Tools for users to create their own set of IQ challenges/tournaments.
+- Interactive single/ multi-user game that can also be played online. 
+- Elite Badges and gifts for users with highest points.
+ 
+ 
+Targeted audience:
+ Its for anyone with a mobile phone that supports our app. Sorry, Nokia 3310 users. And also, may not be that useful for tinder users but who knows. 
+ 
+Main Benefits:
+Its simple, they get to play this thing (for free):  
+- Users are given a set of IQ challenges that they have to complete in order to gain points.
+ 
+- Users can then share their points to challenge their friends on social sites (ya, not real friends). This feature is there for users who would want to show off, or rather, for us developers, help advertise it for free.
+ 
+- Users (Let's say wannabe Nerds) can also create their own challenges, to play multi-user online game, or challenge their friends and gain further points. 
+ 
+- Nerds with the highest weekly points will gain an elite badge and receive gifts from the developer. 
+ 
+-Users can also create local tournaments from presets to add/play with their friends, eventually knocking them out to win the finals. Yay!
+ 
+ 
+ 
+Platform: Android, iOS, Windows phone  
+
+

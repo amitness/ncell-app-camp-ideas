@@ -1,0 +1,45 @@
+YOUTO
+
+Submitted on:  September 19, 2015 - 11:14pm 
+ 
+Idea:
+  
+ 
+Conferences, Scholarships, Job Vacancies, Exchange Program, Competitions and Opportunities all at one alert.
+ 
+ 
+Problem Solved:
+ 
+The flow of information about opportunities is very misleading among the Nepali society. YOUTO solves this problem and brings all the opportunities in one alert because when people know that there's an opportunity that fits them the best, they can grab it.
+For example: The scholarship opportunity from Ministry of Education is only limited to their website and those who only go through it knows about it and grab the opportunity.
+YOUTO will bring the opportunity among the people with relavant information. This will make people easier to grab the opportunity. The app will help to connect opportunity seekers with opportunities. 
+ 
+ 
+ 
+Functions:
+  
+ 
+The app will contain the opportunities along with the following details:
+1. Infomation details of the opportunity.
+2. Timeline of the opportunity.
+3. Eligibility criteria to apply for the opportunity.
+4. Application Procedure of the opportunity.
+5. Original souce link at the end of the opportunity details.
+ 
+ 
+Targeted audience:
+  
+The target audience is all age group of people. Young people aged between 16-30 will be the most targeted. College students, university students and recent graduates will use the app to get most benefit of it. 
+
+ 
+ 
+Main Benefits:
+ 
+The benefits that the user can grab is:
+1. They will get an insight of opportunities and learn about it that are available worldwide.
+2. The information that will be delivered is going to be accurate, so users will not be misleaded. The app is going to deliver the opportunity along with the details of deadline, eligibility, application procedure and the original source of the opportunity.
+ 
+ 
+Platform: Android  
+
+

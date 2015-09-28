@@ -1,0 +1,29 @@
+EasyRead
+
+Submitted on:  September 19, 2015 - 5:28am 
+ 
+Idea:
+ App to know the second hand books available for exchange or sale.
+ 
+Problem Solved:
+Our country is an economically backward nation. This is because of lack of wise use of resources and money. Students(Entrance Preparing or other regular students) have to spend a lot of money in buying new books. But if these books were available for exchange or second hand then they could save a lot of money which could be used for other tasks like entertainment, tuition fee,etc.
+Our app will allow users to contact those people who are interested in exchanging , buying or selling used books.
+Hence our app will indirectly solve economic problems of the students or readers.
+ 
+Functions:
+ Our app will allow the user to post the information of the books they want to sell/exchange or view the details of the books they want to buy/exchange. Our app will also give the detailed information about the seller or buyer to the user(ex: phone number, address,etc)
+ 
+Targeted audience:
+ Our target audiences are all the students and readers who want to make wise use of money.
+ 
+Main Benefits:
+The main benifits of the users are:
+1. They will no more have to contact the brokers for buying second hand books.
+2. They can get the best deals in the book they want to buy.
+3. They can earn money by selling their used books to others and that money can be used in other important tasks.
+4. They can exchange their used books with others.
+ 
+ 
+Platform: Android  
+
+

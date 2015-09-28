@@ -1,0 +1,57 @@
+Rescue
+
+Submitted on:  September 18, 2015 - 11:09pm 
+ 
+Idea:
+ An app that lets users make anonymous reports of any suspicious event they observe.
+ 
+ 
+Problem Solved:
+Any sort of crimes. Separate provision for crimes that need immediate response and for crimes that can wait.
+The crimes may include:
+
+
+Human Trafficking
+
+
+Child labour
+
+
+Sexual Abuse
+
+
+Theft
+
+
+Goods smuggling
+
+
+Drugs administration/smuggling.
+
+
+As this  anonymous, people’s fear of getting involved is removed. People are more aware of what can be done in these cases and who to report to.
+ 
+Functions:
+ The app primarily consists of reporting functions. As this app is created for quick response, the process of reporting a suspicion is easily accessible. After entering the reporting section, the user can enter all the details of their suspicion like location, act, etc. The reporting sections is of two types, urjent (that needs to be handled right away) and normal reporting (that can be taken care of after the organization has time). The next section is the information section, it contains all the information about the initiative, the organizations involved and what a person can do if they want to volunteer or more. 
+The anonymous part is managed as every bit of information that the users send first comes to our secure server (like their ip address, phone numbers, etc) and only then is passed to the respective organization. In other words, according to the type of suspicion, the report is sent to organizations that deal with such activities. 
+ 
+Targeted audience:
+ Anyone willing to contribute to build an ideal society.
+ 
+Main Benefits:
+
+
+Active participation at citizen level in stopping crime.
+
+
+Reports are anonymous, so the reporting party doesn’t have to worry about identity disclosure or any subsequent threats after reporting.
+
+
+If implemented, can significantly contribute to lowering crime rate in the country.
+
+Can find significant application in border areas where trafficking is a huge problem.
+
+ 
+Platform: Android  
+
+

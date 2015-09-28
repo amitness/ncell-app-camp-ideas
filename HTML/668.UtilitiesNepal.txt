@@ -1,0 +1,35 @@
+UtilitiesNepal
+
+Submitted on:  August 26, 2015 - 1:51pm 
+ 
+Idea:
+ An app that uses timer for the texting or mailing. If I have to text someone Happy Birthday at 00:00 I don't have to wake up at midnight.
+ 
+Problem Solved:
+On a busy schedule people don't even have time to text or mail. And sometimes some important mails and text are to be sent at the very accurate time. Like some mails are to be sent at early hour in the morning as a reminder for some important task but due to work load you may forget or you may not be that "morning guy" who easily leaves his bed early.
+Or maybe you are working for an international company and you are writing a mail for your boss but the time zone creates a problem and you don't want your mail to be at the bottom of your boss's inbox. 
+For all the above mention problem we create this app, with this app you write the email when you are free and set the time at which the app shall send the mail or text to the user(s) you have selected so that you don't need any reminder and need not require to wake up at midnight or early morning. For instance, if your boss operates from a time zone +5 hrs than yours and you want your mail to be the first thing your Boss sees when he is at the office checking for mail, then you'll set the timing accordingly with this app and prove yourself a hard working employe.
+The other best feature of this app can be is for wishing people on their birthday, anniversary or such event(s). Who on Earth wouldn't like to be wished on their birthday at 00:00, but what if you can make people happy on their birthday without even disturbing your rest after that hectic day?
+ 
+Functions:
+ The app comes with two main or primary function that would be like "only remind" and "Direct Send".
+With this two feature we can categorise the mail or text sms to be sent. If the mail/sms does not require any verification or any modification and can be sent the user selects it on "direct send" so according to the timer the app sends the mail/ sms.
+Where as sometimes you will have to just add some latest news on your report or information on your email, so you select it as "only remind" so that it now works an reminder app and asks you if you want to edit or add something before you send.
+ 
+Targeted audience:
+ Our target audiences will include every age group as it would be an light app with very low space consuming everyone will like to use it on their phone.
+Youth can use it for texting their friends for reminders using the timer, or wish them on their birthday.
+People at office can use it for sending their mail at the correct timing. 
+Even old people would love the app, because they don't want to give their brain an extra burden of remembering things at that age and so, if they'll have to remind their grandchildren to pick them up from the park at particular time the app would have already sent the text as a reminder to grandchildren and they would be happy to see their grandchildren on time to recieve them.
+ 
+Main Benefits:
+1. saves your time
+2. useful for office work
+3. no more reminders apps and alarm required
+4. user friendly and easy to use
+5. works for email as well as text messages
+6. very useful app to send mails/sms with timer.
+ 
+Platform: Android, iOS, Windows phone, SMS, Others()  
+
+

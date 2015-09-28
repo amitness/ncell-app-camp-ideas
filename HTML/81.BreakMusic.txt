@@ -1,0 +1,29 @@
+BreakMusic
+
+Submitted on:  September 20, 2015 - 12:04am 
+ 
+Idea:
+ an app that plays you a random song after one takes break from long work or study
+ 
+Problem Solved:
+relaxes the stressed mind
+option of choosing genre of songs
+ 
+ 
+Functions:
+ plays audio file
+analyse music depending from user to user
+ 
+Targeted audience:
+ for the students who studies continous hour and needs break
+for the worker who work continously for period of time and wants some relaxing mood
+for the hectic person for relaxing after hectic jobs
+ 
+Main Benefits:
+mind relaxation
+better productivity
+stress management
+ 
+Platform: Android  
+
+

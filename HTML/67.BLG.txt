@@ -1,0 +1,29 @@
+BLG
+
+Submitted on:  August 19, 2015 - 2:24pm 
+ 
+Idea:
+ An Apps that assists people to get urgent information and contact number of Schools, Hospitals, Banks, Cinemas etc. inside Ktm Valley
+ 
+Problem Solved:
+This app offers the instant information and contact number of different institutions use in daily life like hospitals,schools,colleges,banks,hotels,cinemas etc via offline services in a single app.furthermore it saves our time, money and energy.
+ 
+Functions:
+  1) This app list down the contact information of different sectors.
+  2) User can find their desired institution and their contact information by searching name or location. 
+  3) This app is offline and have smaller in size. 
+ 
+Targeted audience:
+ Anyone those who are in Kathmandu Valley (Kathmandu, Bhaktapur and Lalitpur) can use this app.
+ 
+ 
+Main Benefits:
+It provide users to find contact information (Phone number, Email, Website and Location) of various sectors use in day to day life like colleges, banks, public toilet, emergency numbers, hostels, hospitals and many more. 
+ > Thousands of contact number with proper locations.
+ > This is an offline app so no need of internet access. 
+ > User friendly and time saving. 
+ 
+ 
+Platform: Android  
+
+

@@ -1,0 +1,47 @@
+8byteVirtualVisit
+
+Submitted on:  September 20, 2015 - 6:54am 
+ 
+Idea:
+ Virtual-visit new places, monuments and exotic places (virtually) using a PhotoSphere, or in virtual reality (eg. google cardboard)
+ 
+Problem Solved:
+First, people who love to see different places but can’t go there instantly can visit such places virtually with virtually zero cost and no time.
+Also, prospective tourists can see what they can expect and see in the destination of their choice. 
+ 
+Functions:
+ 
+
+User can experience a virtual visit of any place with the app.
+
+
+Virtual Reality device support (eg. Google Cardboard)
+
+
+Even without virtual reality device, a nice scrollable PhotoSphere.
+
+
+Share photos and moments with other people over the globe.
+
+
+Share photos and moments on social networks
+
+Like, comment and share others’ photos and moments within the app or on social networks
+
+ 
+Targeted audience:
+ Any user who have smart phone and is willing to experience the virtual world.
+ 
+ 
+Main Benefits:
+
+
+User can experience Virtual Reality.
+
+Share their experience of visiting different places with others virtually.
+See others' experiences on exotic places without going to the place itself.
+
+ 
+Platform: Android  
+
+

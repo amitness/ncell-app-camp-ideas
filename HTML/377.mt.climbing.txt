@@ -1,0 +1,22 @@
+mt.climbing
+
+Submitted on:  September 6, 2015 - 6:22pm 
+ 
+Idea:
+ it's a game where the user climbs the mountain with increasing difficulty.
+ 
+Problem Solved:
+it's just amusing game.
+ 
+Functions:
+ users go on mountain climbing and face different interesting difficultys.
+ 
+Targeted audience:
+ all age users.
+ 
+Main Benefits:
+full entertainment to the user.
+ 
+Platform: Android  
+
+

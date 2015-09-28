@@ -1,0 +1,22 @@
+Discount
+
+Submitted on:  September 19, 2015 - 4:45pm 
+ 
+Idea:
+ Know where the deals and discounts are
+ 
+Problem Solved:
+People buy clothes and accessories and wonder if they got a better deal or not. Our app can provide where the better deals and discounts are, so that users can save money.
+ 
+Functions:
+ - provide the deals and discounts on cloths and accessories with the shop location- generate discount coupons to the user
+ 
+Targeted audience:
+ middle class family
+ 
+Main Benefits:
+users can get the better deals and discounts while purchasing clothes and accessories
+ 
+Platform: Android  
+
+

@@ -1,0 +1,30 @@
+Wonderful_Life
+
+Submitted on:  August 27, 2015 - 11:28am 
+ 
+Idea:
+ this is an app that helps people find rooms easily where users put in their identity,type of room they want,location etc and other users offer rooms.
+ 
+Problem Solved:
+Searching for rooms has been a tedious task especially in city regions like kathmandu.Our app helps mitigate the arduous task by helping people find rooms in the desired location.Our app provides facility for viewing rooms(photos),location of home and other other facilites(if provided by the owner).
+Any user who wants a room logs in our app and then gives an inquiry, other users see the inquiry and if they know the rooms in the desired location they forward the inquiry to other people. If such rooms found, the user contacts with the owner.
+ 
+Functions:
+ the main functions include:
+placing inquiries about rooms
+placing one's identity(citizenship or any official document that characterizes a person)
+placing the rooms(photos),location and contacting with the person who has placed an inquiry(this is for owners)(note that any user in our app can be an owner)
+making ratings of rooms for reference..etc
+ 
+ 
+Targeted audience:
+ the target audience are the general people who are not the permanent residents of city areas but who have been staying there for studies,business,etc and who are in desperate search of rooms for a temporary stay in a particular location.
+ 
+Main Benefits:
+the main benefits for the user are:
+users do not need to roam every corner of valley(or other cities) searching for rooms.
+even the users who do not have any relatives(who can search rooms for them) can be benefited by this app.
+ 
+Platform: Android  
+
+

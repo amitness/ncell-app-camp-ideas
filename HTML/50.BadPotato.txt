@@ -1,0 +1,28 @@
+BadPotato
+
+Submitted on:  September 16, 2015 - 4:45pm 
+ 
+Idea:
+ Simple gaming app based on nepali saying . (एउटा कुहिएको आलु ले सबै आलु ले कुहाउछ ) 
+ 
+Problem Solved:
+This app can increase the concerntration power of the gamer who loves to play games in a more suspance way . And obviously it is familiar concet for Nepali user because they all know this saying . And it can fully entertain the user . 
+ 
+Functions:
+ this app can unlock the next level with the increasing the difficulties .
+here major character is the rotten potato but its like a villian so user need to avoid it and save other good potatos .
+thats it. 
+ 
+Targeted audience:
+ there is no any specific target audience cause everyone can enjoy playing this game.
+but since it is based on the nepali saying so most of the nepali user will be interested on this . otherwise its for everyone like children , adult , and so on.
+ 
+Main Benefits:
+Increases the logical ideas with the increase of difficulty.
+ovbiously it wont be a boring app .
+can increase the imagination power of the user .
+they may be able to take a quick decision .
+ 
+Platform: Android  
+
+

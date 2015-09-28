@@ -1,0 +1,24 @@
+Himal
+
+Submitted on:  September 3, 2015 - 10:14am 
+ 
+Idea:
+ This app provides information about mountains to the users and also about mountains that can be viewed based on the current position of the user.
+ 
+Problem Solved:
+Nepal is a country full of beautiful mountains. We have the highest peak in the world and many peaks that come under top 10 in the world. Although Mount Everest is easily recognizable there are many mountains which we have no idea about. This app would provide information about mountains, their location and their heights. It would also use the users current location using GPS and based on that the app would show mountains in their region.
+ 
+Functions:
+ The app locates the current location of the user and lists the mountains that can be seen from their region. It also would include a search option from where people can search about a specific mountain. Various features such as picture of the day which would show a beautiful picture of a mountain or mountain of the day which shows a short description and info about it. It would also provide travel agencies from where they can  book the trip to climb those mountains.
+ 
+Targeted audience:
+ The main target audience are tourists who come to visit Nepal. Those people who are in love with nature. Also everyday people who may want to know more about mountains.
+ 
+Main Benefits:
+1. Easy to search information about mountains.
+2. Provide information about various trekking agencies from where they can climb the mountains.
+3. View beautiful pictures of mountain's which can be downloaded.
+ 
+Platform: Android, iOS  
+
+

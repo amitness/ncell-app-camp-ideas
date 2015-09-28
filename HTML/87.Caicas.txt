@@ -1,0 +1,23 @@
+Caicas
+
+Submitted on:  September 19, 2015 - 5:16pm 
+ 
+Idea:
+ Connect and communicate with your home appliances.
+ 
+Problem Solved:
+Excess use of electric energy, hardship to manage energy consumption and unability to interact with appliances.
+ 
+Functions:
+ 1. Hardware(Sensors and Switches) 
+2. Application to contorl and monitor the hardware system
+ 
+Targeted audience:
+ Manufacturing Industries, Holels and Resturants, Housing Companies, Schools/Colleges, Smart House Owners
+ 
+Main Benefits:
+Easy Control,  Remote Monitoring, Energy monitoring
+ 
+Platform: Android, SMS  
+
+

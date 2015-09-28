@@ -1,0 +1,24 @@
+SelfGuidedTour
+
+Submitted on:  September 20, 2015 - 10:57am 
+ 
+Idea:
+ Location dependent, mapping application based on a location identifier such as a beacon.
+ 
+Problem Solved:
+The historical or religious importances of the places may not be known to everyone. The domestic or foreign tourists may visit the places but may be unware of its religious, cultural or historical importances. To visit the place and know the informations related to it, they may face the hassle of carrying around a map and a tour guide.With the help pf this application, they will be able to guide themselves to the place and come across the various myths and legends related to the site. Apart from that they will also be able to look into other neaby sites, restaurants, shopping malls and other places which might interest them.
+ 
+Functions:
+ 1. Users are able to view all the detailed information about the places just by scanning the QR Code or beacon located at the site.
+2. Users are able to browse through the nearby places, malls, resturants, events  etc.
+ 
+ 
+Targeted audience:
+ This application will be a big help to the domestic and foreign tourists. It will also be helpful to the people who habe seen various religious and historical sites but are unaware of the myths, legends and history related to it.
+ 
+Main Benefits:
+This application will benefit the domestic and the foreign tourists as well as the local people who want to learn more about the significance of the sites. They will also be able to locate other important locations around the place and business areas around the place. They will also be able to browse through the deals, current and upcoming events and happenings around the place.
+ 
+Platform: Android  
+
+

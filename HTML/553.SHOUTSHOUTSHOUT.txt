@@ -1,0 +1,24 @@
+SHOUTSHOUTSHOUT
+
+Submitted on:  September 20, 2015 - 10:45am 
+ 
+Idea:
+ An app where you can throw out your depressions and frustration in the of sound and text.
+ 
+Problem Solved:
+The life is too hectic. Things don't go as expected. You can't express those frustrations. Frustrating publicly will degrade your image. This app is platform where you throw out your frustrations with out being indentified in limited time.
+ 
+Functions:
+ -library for storing messages
+-communication tools
+-listen tools
+ 
+Targeted audience:
+ Everyone who is disturbed from the schedule.
+ 
+Main Benefits:
+Relives from stress
+ 
+Platform: Android  
+
+

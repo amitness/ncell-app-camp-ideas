@@ -1,0 +1,28 @@
+MyRoadMate
+
+Submitted on:  September 19, 2015 - 12:56pm 
+ 
+Idea:
+ App helping to meet vehicle owner wanting to share vehicle and someone wanting lift, shares same road,and benefits both.
+ 
+Problem Solved:
+Search person with vehicle travelling the same road or search someone who wants lift and help them negotiate for both gaining benefit from the deal.
+ 
+Functions:
+ Person can select the distance and time of travel
+Person can see who are seeking lift
+Person can see who are providing lift
+Person can contact them through the app and negotiate
+ 
+Targeted audience:
+ Office personnel who share the same road and destination can benefit most from it since it is routined and time also matches but it is not limited to it anybody can post distance or find person in the road that shares the distance
+ 
+Main Benefits:
+People can save travelling cost
+Maximum utilization of vehicle
+No need to worry about the pack public vehicle and multiple vehicle use for reaching a destination
+ 
+ 
+Platform: Android  
+
+

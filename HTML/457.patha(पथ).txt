@@ -1,0 +1,30 @@
+patha(पथ)
+
+Submitted on:  September 17, 2015 - 8:30am 
+ 
+Idea:
+ A social app for Tourists which allows to connect and communicate to tourists, people, villages, hotels nearby.
+ 
+Problem Solved:
+Tourism is adventure, far from city tourists may be in a lonely place and sometimes be in some problems like sickness, injury, food shortage, or even worse. Our project will help them with these and make the tour a lot fun.
+ 
+Functions:
+ 1. Connection with the other tourists nearby,
+2. Track and follow someone in the connection,
+3. Star people to know where they are, follow them,
+4. Broadcast help message in need of emergency,
+5. Location information of nearby homes, hotels or villages and path to them,
+6. Single button broadcast which automatically sends gps info and location to the nearby apps.
+ 
+Targeted audience:
+ Most useful to tourists in rural regions, the app is suitable for other people who are in the similar field.
+ 
+Main Benefits:
+1. Users will know people who are nearby although they are travelling alone, they will not be alone,
+2. Users will be able to follow people who are marching to the same destination making them easy to find the path,
+3. They will be able to communicate with the people nearby,
+4. They will be able to find any kind of help with the help of  simple broadcast meassage facility.
+ 
+Platform: Android, SMS  
+
+

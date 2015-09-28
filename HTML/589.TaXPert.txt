@@ -1,0 +1,52 @@
+TaXPert
+
+Submitted on:  August 29, 2015 - 3:58pm 
+ 
+Idea:
+ A dynamic mobile application which solves all type of tax issues of nepal  with recent tax policy.
+ 
+Problem Solved:
+It solves
+-Tax related queries
+-Salary tax calculation
+-TDS amount calculation
+-Notification of new Tax Announcement
+-Tax and Business related news
+-Automatic Tax Reminder with notification of TDS,TAx return file and PAN and VAT submission date and time
+-Downloads of different application formats like company registration format,Tax return format,act,directive,circular etc.
+-Ask TaxExpert section for the mailing of depth queries and their response through mail
+-Tax Discussion Forum
+-For newer user,one section for basic knowledge of tax in "I am new" menu
+ 
+ 
+Functions:
+ https://www.facebook.com/NepalTaxExpert?fref=ts
+This is our taxpert page,we will updating our features in a regular way.
+our main function of elements are as follows:
+1)Tax query searching
+2)Salary tax calculation
+3)TDS calculation
+4)Business an tax news
+5)Downloads of tax related format like company registration format,Tax return format,act,directive,circular etc.
+ 
+ 
+Targeted audience:
+ Our target audience are
+-All Job holder
+-All business person
+-All NGO/Ingos
+-Banking organization
+-Companys
+-There is no any person/organization outside the tax of government those all of them are our targeted audiences
+ 
+Main Benefits:
+Understanding of tax and rule of government is very difficult for business person so with one click a person can get right answer and can conduct his business smoothly.
+A job holder is being cheated with accountant with wrong calculation of salary so it helps to avoid that problem
+ 
+Tds calculation for organization is also difficult due to extreme varieties of percentage on tds types
+Forgetting of tax return file,tds submission date people and organization are paying extreme volume of money 
+etc.
+ 
+Platform: Android, iOS, Others(web)  
+
+

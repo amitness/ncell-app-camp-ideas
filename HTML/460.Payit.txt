@@ -1,0 +1,29 @@
+Payit
+
+Submitted on:  September 2, 2015 - 6:42pm 
+ 
+Idea:
+ An app that lets you  electronically transact  money with in Nepal like Paypal does internationally . 
+ 
+Problem Solved:
+Since there are no apps and websites that let users do an online transaction (like paypal does) task here in the context of Nepal this app concerned with an official website of it say (www.payit.com.np) will let our users do an online transaction . Suppose one of the registered users does a business of import and export of goods throughout the country or lets assume if someone wants to launch a website, say freelancer where developers can buy and sell projects . Or lets say parents making college fee payment through that .Obviously in all of the scenarios transactions are needed . So , users do not need to go to bank, be in queue and fill off the form and all those hecks . They just need to register into the website and the app and website do the rest. The  app can be integrated into large scopes too like buying from Kaymu through payit , buying online books through payit and lots more . This does not only solve the problems of e-transaction faced in Nepal but also brings new opportunities for our growing nepali minds to get started with to embark on their journey . In future we try to introduce a feature of connecting credit cards and debit cards to our website to make fund transfering , fund fetching easier. So , it will be a smarter way to play with money in Nepal . 
+ 
+Functions:
+ To stick to the app the main functions of the integrated app will be
+1)The app will provide details information about transaction and inform the sender if the payment has been received .
+2)On fault or mistaken transaction the transacted amount can be fetched back upon request .
+3)Best suit to be bug free and security reliable app. 
+ 
+Targeted audience:
+ The target audiences will be upgrowing students  , teachers , business men , various organizations and educational institutions who feel the needs and importances of online transaction . 
+ 
+Main Benefits:
+The integrated website and app will be beneficial for our users in the following ways :1)Send and fetch money electronically through a less than a minute login .
+2)Load funds from various banks (in future )
+3)Can connect debit or credit card (in future)
+4)Make an online transaction through SMS .
+In future many features can be added like reserving cinema seats through payit , reserving bus tickets , reserving plane tickets e.t.c. 
+ 
+Platform: Android, SMS, Others(Website)  
+
+

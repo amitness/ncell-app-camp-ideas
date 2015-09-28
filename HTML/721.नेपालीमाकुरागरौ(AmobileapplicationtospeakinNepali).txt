@@ -1,0 +1,25 @@
+नेपालीमाकुरागरौ(AmobileapplicationtospeakinNepali)
+
+Submitted on:  September 16, 2015 - 9:48pm 
+ 
+Idea:
+ A mobile application that will speak in Nepali
+ 
+Problem Solved:
+It will solve communication problem between tourist and Nepali(who cant speak english).
+Person who wants to communicate in Nepali Language will type in English  and our application will translate it to Nepali and speak out loud in Nepali.
+ 
+Functions:
+ Basically it will solve communication problem
+1.Travelers can communicate to general Nepali people who cant speak or understand  English such as bus drivers, shopkeepers etc.
+2.They can express their view in Local language so people around can understand the person.
+ 
+Targeted audience:
+ Targeted audience would be tourists who cant Speak Nepali
+ 
+Main Benefits:
+Tourist can communicate to local persons in their language. This will solve communication problem.
+ 
+Platform: Others()  
+
+

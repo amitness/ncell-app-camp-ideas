@@ -1,0 +1,27 @@
+Verloren
+
+Submitted on:  September 19, 2015 - 7:08pm 
+ 
+Idea:
+ A game based on the story of a child who loses his consciousness after the earthquake, and on waking up, goes on a quest to find his parents.
+ 
+Problem Solved:
+Promotes Nepal's exciting tourism sites
+ 
+ 
+Functions:
+ 1. Runner+fighting+puzzle game with a purpose
+2. Each stage is based at a different location in Nepal
+3. At the end of each stage , the player must solve a puzzle and then fight the villain , to proceed to the next stage
+ 
+Targeted audience:
+ 1.Youngsters
+2. People interested in learning about Nepal
+ 
+Main Benefits:
+1. Kills boredom
+2. Improves problem-solving skils
+ 
+Platform: Android  
+
+

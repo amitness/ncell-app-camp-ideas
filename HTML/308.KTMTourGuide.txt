@@ -1,0 +1,35 @@
+KTMTourGuide
+
+Submitted on:  September 14, 2015 - 1:20pm 
+ 
+Idea:
+ KTM Tour Guide provides information about all  tourist destination as well as essential places at Kathmandu and guides through google map.
+ 
+Problem Solved:
+KTM Tour guide is not only targeted to tourist visiting Kathmandu but local people here are also the target user. It gives detail information of top tourist destination ,hotels,restaurants,hospitals,police-station,banks,bus and taxi station and shopping centers.It guides through google map finding shortest path to the destination from the user location by locating through GPS.
+ 
+Functions:
+ 1)Separate section for different categories like heritage sites, hotels, restaurants,hospitals,shopping centers and essentail destination for easy search for user.
+2)Locates the destinations in the map.
+3)Finds the shortest path to the target destination.
+4)Provide detail information of the selected place with rating and feedback from other user who have visited there as well as contact info.
+5)Material Design interface.
+6)Allow user to provide feedback to the visited area.
+ 
+Targeted audience:
+ Our target user are tourist visting Kathmandu as well as local people living in Kathmandu also.
+Tourist especially targeted so that they easily find the top tourist area, hotels etc and they don't need to depend on their guide to roam around the different places.
+Local people are also target user because there many places which makes them confusing to visit  or haven't visited although they have been living here. For those user it will be fruitful. For example : There are some hospitals we have heard about it but haven't visited or don't know the path to get there so in that case the application will help to reach the destination.
+ 
+ 
+Main Benefits:
+1)The user can easily search different tourist area, hotels and restaurants and all the essential places as required by them. The appliation locates all the destiantion nearby the user.
+Example : If the user is searching for the restaurants then  the application shows all the top restaurants at Kathmandu and locates the nearby restaurant to the user in the map. It also maps the path to the destination.
+2)It allow user to provide feedback to visited destination.
+3)Maps the destination in the google map.
+4)Finds the shortest path to the destination.
+5)Tourist do not have to hiar guide with this application.
+ 
+Platform: Android  
+
+

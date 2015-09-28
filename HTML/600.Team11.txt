@@ -1,0 +1,22 @@
+Team11
+
+Submitted on:  September 17, 2015 - 9:02pm 
+ 
+Idea:
+ An application that allows user to build an image of a football team's formation where each player is represented by a football kit.
+ 
+Problem Solved:
+Often during the discussions and analysis of a football match in social networks or in a group, it is always difficult to explain the tactical approach of a team without the image of the formation the team may embrace.Similarly, the post-match analysis of a team's performance would be better if you had an image representing the particular formation the manager adapted along with the players in their respective position.Thus, the problem of lack of image depicting the team's formation is solved by this app.
+ 
+Functions:
+ -Ability to build an image of a football team's formation where each player is represented by a football shirt.-Provides the full squad and jersey of the clubs from top European league so that users can build an image of their favourite team's formation with ease and the jersey of the respective club adding clarity to the image.-A custom formation with custom players and custom shirt with any number of players can be built which can be helpful for local community football matches.
+ 
+Targeted audience:
+ -A football enthusiastic and analyst who shares his ideas on tactical approach of the game, how the game may unfold and the final result of the game, for which the team's formation is indispensable, among friends, social networks or a television program.-Local football players who want to build the formation of their local team and instruct his fellow players to play in the specific role.
+ 
+Main Benefits:
+-Saves time and effort for user to depict a football team's formation from the app rather following some unconvincing ways.-Provides the full squad along with jersey of the clubs from top European leagues.-Custom formation with custom players can be helpful for unprofessional footballers.
+ 
+Platform: Android  
+
+

@@ -1,0 +1,29 @@
+InterestedIN
+
+Submitted on:  September 8, 2015 - 9:07pm 
+ 
+Idea:
+ Interested IN is an app that connects the people together having common interest and objectives.
+ 
+Problem Solved:
+Many people especially young ones are alone in this world. Their mind is hungry to get connected with others. But they have no any idea on how to get connected to right ones. Their hobbies and interest must match to each other. For example Ram has some business idea about something. If he needs partner it will be very difficult to search even one. This app simply helps to find his right partner.
+ 
+Functions:
+ The mains functions and elements:
+1. Users can login on app and post their interest, hobbies or ideas to share.
+2. Users can search the whole recorded database previously posted by others to find their common interest, hobbies or ideas. Or they can post their own.
+3. Also users can can search through interest categories like business, games, health, music, etc.
+ 
+Targeted audience:
+ All people like teenagers and adults who are searching for someone having common interest are the target audience of this app.
+ 
+Main Benefits:
+Main Benefits:
+1. People don't have to search physically to find people having common interest.
+2. Helps people to get the right friends.
+3. Helps people not to feel alone.
+4. Unite people together to focus on one aim if that aim is common. This helps to share their ideas to each other.
+ 
+Platform: Android  
+
+

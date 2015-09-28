@@ -1,0 +1,33 @@
+PedalInsight
+
+Submitted on:  September 17, 2015 - 10:40am 
+ 
+Idea:
+ App where users can receive information about cycling routes  (urban and rural ), relevant shops and interact with fellow cyclists.
+ 
+Problem Solved:
+Although general information about cycling routes in Nepal is readily available, it is difficult to find exact routes. 
+The second problem it solves is that it is hard to find possible short and effective routes when traveling through urban areas. 
+Finally, the problem of finding out the best places to acquire the necessary equipment is also solved by the application.
+So, as a whole, the app tries to promote cycling in Nepal as well as interaction between cyclists and at the same time project Nepal as a cycle-friendly nation.
+ 
+Functions:
+ 1) Shows start and end points, the average time required, pictures, and all other relevant details on cycle trails for tourists and also allows discussions on the topics.
+2) Shows short paths for cyclists in urban area so as to avoid having to take the main roads among the larger vehicles, leading to a less stressful and dangerous ride. 
+3) Displays locations of shops and stores that sell cycling gears and other necessary equipment. 
+ 
+Targeted audience:
+ Three major target audience for our application would be:
+1) Tourists looking for great cycling trails. 
+2) People who generally pick cycles as their preferred mode of transportation.
+3) Cycling enthusiasts. 
+ 
+Main Benefits:
+1. Get informed about awesome cycle trails in and around the valley as well as exotic mountain trails all around the nation.
+2. Learn about short and effective cycle routes for easier, shorter and safer ride. 
+3. Find out about shops, stores and other relevant places a cyclist needs to know about.
+4. Interact with other cyclists about the trails, stores, etc.
+ 
+Platform: Android  
+
+

@@ -1,0 +1,29 @@
+Medicart
+
+Submitted on:  September 17, 2015 - 11:58am 
+ 
+Idea:
+ Application to help deliver medicines to the patients in medication depending upon the prescription uploaded and regular follow up for medication.
+ 
+Problem Solved:
+The app will help the people in medication get the required medicine as per the prescription provided by the doctors and will help get the required medicines delivered right to them. The application will mainly focuses on making the required medicine available to mainly the old peoples and the people who cannot give required time to their health due to work and keep track of the medicines they need to take regularly. Our app will help to get the required medicines without much effort and follow the medication process regularly without needing to miss purchasing the required medicines for continuation as well.
+ 
+Functions:
+ The Primary functions of the application are as follows:
+- Provide the users with the delivery of the required Medicines.
+- Provide notification before certain interval to the user before completion of their medication.
+ 
+Extra features:
+- Provision for buying First Aid Kit depending on the need of the user.
+- Information about the hospitals, blood banks with required contact Information.
+ 
+Targeted audience:
+ The main target audiences for the application will be the consumers in medication. For Eg. The patient in medication for Blood Pressure, Sugar etc. who need to keep taking the medicines for very long period of time. Similarly other audiences will be the busy people who couldn’t give required time to keep following the required medication as per the prescription. Apart from these, the application will be covering for all the people since everyone gets sick and requires the medication and other medical resources.
+ 
+Main Benefits:
+With the prescription provided by the users, users can be assured that the required set of resources need will be delivered to them with certain interval. The application tends to follow up with users regularly and send them notification regarding completion of their medicine so users can be assured of being notified before completion of their medication period. Moreover the delivery will be done along with the required bill from the medical stores with licensed vendor, users can rest assured of the genuine medical product. 
+Along with these, the application will also provide the facility of buying the needed product mainly First Aid kit depending on the need of the user. Regular Medical tips will also provide to the users in the form of Notification which can be viewed inside the application. Also the app will also contain the feedback section for sending the feedback.
+ 
+Platform: Android  
+
+

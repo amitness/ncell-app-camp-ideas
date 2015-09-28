@@ -1,0 +1,47 @@
+Unit
+
+Submitted on:  September 19, 2015 - 10:12pm 
+ 
+Idea:
+ Unit app facilitate users to book hotel rooms anytime and anywhere throughout the country  according to their price and facility preferences.
+ 
+Problem Solved:
+Booking Hotel Rooms in Nepal is very difficult. Travellers are concerned about price, location and various deals each hotel offer. Even when we search on internet there are very few hotel sites that have put price for nepalese tourist, but none of these site provide facility to book rooms. Our app will help domestic tourist to find best hotel rooms as per their budget plus any offer provided by hotel. Also they can book hotel rooms  of any particular destination they plan to visit.
+ 
+Functions:
+ 
+
+This app can provide detail information about price, offers/discounts of hotel/lodge/homestay room of various locations
+
+
+Travellers can book immediately from anywhere 
+
+
+App can also list down hotels on the basis of price preference. 
+
+Emergency contacts addresses of Nepal Police and Hospital in the destination location will also be available
+
+ 
+Targeted audience:
+ Specific users- Travellers
+ 
+Target market- Local travellers
+ 
+The local travellers that we are targeting are classified into high income earners, middle income earners , low income earners and the students.
+ 
+High income earners can compare the facility of different hotels  and decide for their vacation and business trips
+ 
+Middle and low income earners can compare the prices and select hotel on the basis of their price preferences
+ 
+Students while planning for trip generally prefer hotels that are economical. Now, they can compare prices, facilities and plan economical trip.
+ 
+Main Benefits:
+
+Easy to locate and book hotel rooms, lodge and other accommodations on the basis of real time information.
+Hotel Service Providers, Home stay entrepreneurs could market their offering to wide range of people.
+Easy for people to find new hotels in different locations, get offers/discounts.
+
+ 
+Platform: Android, iOS  
+
+

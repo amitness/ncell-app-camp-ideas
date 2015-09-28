@@ -1,0 +1,22 @@
+LET'SROLLL
+
+Submitted on:  August 28, 2015 - 3:15pm 
+ 
+Idea:
+ we travel ,we roll,let's rolll
+ 
+Problem Solved:
+let's look into our life, either you learn(in school, university) or you work. when do you travel like you see in one of your favourite movie? and how you manage for travelling ? We know places like mustang, kagbeni, rara, shukla phatan etc. We know their attractions. But getting to know that doesn't mean you can go. You need a plan. you need "let's rolll" app.Wait. we don't plan for our user. They will do for themselves with their best buddies or stranger buddies through our app. We help them to plan their dream adventure. We help them to start the adventure.
+ 
+Functions:
+ 1. users can plan for their trip in a group 2. it will be easy for financial work through this app.(detail record of finances) 3. searching holidays and suggesting best trip in that days.4. feedbacks from previous user's trip and their planning detail. So that new user can plan better.5.detail of any places.main function is to start the adventure. start the thrill. that need a plan and that's what it do.
+ 
+Targeted audience:
+  We are students. we are targetting for students. from fund collecting part to searching holiday in calender. it will be easier for them from this app.beside this, all the travel lover in Nepal who can't fix time or plan for their trip.
+ 
+Main Benefits:
+1. they can do all planning and discussion from this app2. they can choose or invite their team mebers in app3. planning is much more easier, you will get the feedback from previous user's planning(yes, we valued our old users)4. detail knowledge required for trip(yes, no need of other app)
+ 
+Platform: Android, Windows phone  
+
+

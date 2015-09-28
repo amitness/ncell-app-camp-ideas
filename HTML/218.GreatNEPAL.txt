@@ -1,0 +1,22 @@
+GreatNEPAL
+
+Submitted on:  August 24, 2015 - 4:13pm 
+ 
+Idea:
+ Translate some of the language to Nepali language and vice versa
+ 
+Problem Solved:
+Most of the tourist are having communication problem while visiting to different places due to language problem for tht our app will help them to communicate
+ 
+Functions:
+ This app will convert the text written in one language to another language ...we are working on the recording the sounding and after the translating those sounds in the required language which is nt fixed yet
+ 
+Targeted audience:
+ Tourists
+ 
+Main Benefits:
+Helps in communicating with different people by solving the problems tht arises due to language problem.
+ 
+Platform: Android  
+
+

@@ -1,0 +1,40 @@
+Bitknit
+
+Submitted on:  August 26, 2015 - 5:38pm 
+ 
+Idea:
+ An app to solve all the problems related to buses in Nepal. :)
+ 
+Problem Solved:
+The status of public transportation in Nepal is quite poor. Specially for the students and office-going people, this has become a nuisance. Our app will help the users to spend their travel in bus quite cozily, and will also not have to wait in long queues for the buses to arrive.
+ 
+Functions:
+ The following are the features of the app:
+1. The app, on first run, sets your route and then periodically notifies you of the bus's arrival at a given location.
+2. App sends out notification if a bus to your destination is in a radius of 1,000 meters.
+3. App allows the users to book tickets for long-range travel right from their smartphones.
+4. Users can see the exact location of the upcoming bus and the ETA for that bus.
+5. College students and office-goers can reserve a seat for themselves previously on the bus.
+6. Users can find the detailed information related to buses running on different routes with the Kathmandu Valley ( will be expanded soon... ).
+7. Users can find the buses to their destination from their current location.
+ 
+Targeted audience:
+ 1. For college students who have trouble commuting everyday.
+2. For the daily office-going people who have a hard time during their travel.
+3. For people in new places who can't figure out how to get back home.
+4. For the users who are travelling far away on long routes.
+5. For the users who are tired of waiting for buses all the time.
+And this is just a small list. This app is for everyone who has to go through the tedious travel in buses and bargaining with drivers for unfair fares.
+ 
+Main Benefits:
+1. Easy to find buses that run on a particular route.
+2. Easy to find the exact location of a particular set bus.
+3. Easy to book tickets for the bus
+4. Easy to reserve a spot on the bus.
+5. Easy to get in touch with the owner and driver of the bus.
+6. Users won't have to wait for buses any more.
+7. Users won't have to undergo the uncertainity of finding means of public transport at a given location at a given time.
+ 
+Platform: Android, Windows phone, Others(Blackberry)  
+
+

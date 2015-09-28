@@ -1,0 +1,22 @@
+PresentationControl
+
+Submitted on:  September 7, 2015 - 3:51pm 
+ 
+Idea:
+ The app will control your presentation slides using bluetooth connection.
+ 
+Problem Solved:
+When you don't have pointer to control slides, you have to change or scroll the slides by yourself. Also, sometimes you need others help to change the slides or scroll it when you are giving presentation. On doing so you will lose your valuable time. So, this app helps you to save your time by controlling slides just by using your own mobile. 
+ 
+Functions:
+ This app will run over Bluetooth. You have to connect your mobile with laptop first by using Bluetooth and then you can easily use this app to control slides in that PC/Laptop. You can change your slides, scroll it down or write a specific page to go to that slide number and more.
+ 
+Targeted audience:
+ Students, Teachers, Business people or anyone who need to give presentation on their working places.
+ 
+Main Benefits:
+There are many people who have to give presentation on daily basis but they don't have a pointer. Also people who have one sometimes forgot to take it with them. But, when you have this app in your mobile you don't need pointer. You can easily control your slides by using this app. And the main thing is that you never forgot to take mobile with yourself.
+ 
+Platform: Android, iOS  
+
+

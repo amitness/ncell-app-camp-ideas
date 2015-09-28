@@ -1,0 +1,45 @@
+Baas(HomeStayNepal)
+
+Submitted on:  September 19, 2015 - 7:14pm 
+ 
+Idea:
+ Location specific peer-to-peer short term homestay service for internal and external tourist(a Community Marketplace)
+ 
+Problem Solved:
+Location specific homestay listings would help traveller find appropriate host on destination, whereas hosting a homestay allows host family to make use of unused place or share place to make income.
+ 
+Functions:
+ 
+
+A host with a verified user profile lists availability for homestay service at his/her place which can be complete family experience to a basic single room rental. For a host to list his/her place would be free of charge and they decide how much to charge per day, per week or per month of a time.
+
+
+Host promotes their place by listing details, pictures of places with captions from which potential guests get to know details about the place before booking also the review and ratings by a guest on host profile would help future potential guests.
+
+Traveller/guest searches from the listings of available hosts relating to when and where they would like to travel. Further refinement in search by price, accommodation type(Complete family experience / basic room / apartment), host language and likeso. Travellers can contact the host via messaging. Reservation making functionality for travellers and confirmation by host. 
+
+ 
+Targeted audience:
+ Apps specific users are travellers looking for homestay and host who offers a homestay at his/her place. Travellers looking for cross-cultural living, to experience completely divergent family lifestyle. A place owner who want’s to make use of unused/place or share a place and make income.
+ 
+Main Benefits:
+Traveller (guest) user
+
+
+Pre-book a place by searching and sorting from the list of available host for when and where they would like to travel.
+
+
+Complete family experience to a basic room rental service
+
+
+Host user
+
+
+Make use of unused place/ share a place to make income
+
+Helps in development of local tourism
+
+ 
+Platform: Android, iOS, Windows phone, Others(Web)  
+
+

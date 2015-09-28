@@ -1,0 +1,22 @@
+MathsForNepal
+
+Submitted on:  August 21, 2015 - 10:03pm 
+ 
+Idea:
+ The Maths For Nepal app is an app for the Nepali students to learn maths and become an expert in maths to build their career.
+ 
+Problem Solved:
+The App helps the students to learn complicated mathematics in an easy way.
+ 
+Functions:
+ It will be like a real teacher, It is an app that will be able to solve mathematical problems,explain it step by step and test the maths skills of students.
+ 
+Targeted audience:
+ This app will be built for students for all level of mathematics.
+ 
+Main Benefits:
+The users can learn mathematics easily,it will make the students experts at maths and helps students to understand maths step by step
+ 
+Platform: Android, iOS, Windows phone, Others(Symbian mobiles and even windows PCs)  
+
+

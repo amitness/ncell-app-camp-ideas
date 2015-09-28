@@ -1,0 +1,25 @@
+NewPlanetThiefHunter
+
+Submitted on:  September 11, 2015 - 4:13pm 
+ 
+Idea:
+ An adventurous, third person 3D game where the hero steps up again the thugs and saves the valuable statues from our local temples..
+ 
+Problem Solved:
+- Entertainment & Adventure
+ 
+Functions:
+ - The main storyline starts with thiefs and thugs taking over our local temples and stealing the valuable resources and status. The game is all about retrieving it back and saving the site using close combat and traps.. Scoring more points and loots while saving the resources will be the main target of the user/player.
+ 
+Targeted audience:
+ -People who enjoys adventure genre gaming 
+ 
+Main Benefits:
+-Engaging story line
+-Combat 
+-Strategy making to score highest points.
+-Also explore the local temple areas in 3D.
+ 
+Platform: Android  
+
+

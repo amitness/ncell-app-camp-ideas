@@ -1,0 +1,22 @@
+ClansOfNepal
+
+Submitted on:  August 23, 2015 - 3:04pm 
+ 
+Idea:
+ Payrent
+ 
+Problem Solved:
+This application will solve the problem of people who live in rent and who give their house on rent. It will solve problem by letting them pay their rent online. And house owner don't have to ask for rent.
+ 
+Functions:
+ To pay rents of people living on rents
+ 
+Targeted audience:
+ People who give their house and flats on rent and the peoples who lives on rent
+ 
+Main Benefits:
+The user won't have to go banks to take money and pay their rents. So time will be saved. And people don't have to bother about making changes.
+ 
+Platform: Android  
+
+

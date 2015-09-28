@@ -1,0 +1,54 @@
+Technocrats
+
+Submitted on:  August 24, 2015 - 4:33pm 
+ 
+Idea:
+ e-NoteKaapi:A utility app that facilitates learners with free ebooks as well as the notes from concerning universities(Nepal+Foreign)
+ 
+Problem Solved:
+
+Bachelor students have difficulties in preparing their notes from the exam point of view.
+Education institutes lacking sufficient tutorials and notes
+Finding the good answers of question.
+Unable to communicate with the teachers of other colleges for question discussion
+Lack  of platform for discussion with learners of similar faculty and interest
+Limited sharing of knowledge/ information online
+lack of research based learning
+Low education status in the remote areas with inadequate educative materials
+
+ 
+Functions:
+ 
+Lets you choose the categories: University->College->Semester/Year->Subject
+Gives class notes/ reference notes of the particular college prepared by the student or the teacher themselves.
+Communication interface that lets student ask their queries which could be answered by a teacher or students.
+Works like a forum for question/ answer with thread for similar kind of discussion
+Students can rate the answer, i.e.  give Marks to the answer
+View college ratings. College can post their ads as well
+Recommend most popular eBooks. Free eBooks download
+
+ 
+Targeted audience:
+ 1.Students (Mainly Bachelor Students)
+2. Learners
+ 
+Main Benefits:
+
+All faculties course’s notes compiled in one app.
+Students have ease in preparing the notes according to the prescribed syllabus of the universities.
+Can download most popular free eBooks
+Interactive communication forum between students, or student and teacher of any college.
+Learners can get answers of their posted question and select best one among them.
+sharing of Information I.e notes
+promotes e-learning
+promotes e-classroom
+promotes self learning
+targetting remote areas for education upliftment
+promotes learning subject that interest learners
+freedom to education
+cost efficient learning
+
+ 
+Platform: Android  
+
+

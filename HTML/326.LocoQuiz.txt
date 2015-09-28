@@ -1,0 +1,45 @@
+LocoQuiz
+
+Submitted on:  September 17, 2015 - 11:16pm 
+ 
+Idea:
+ LocoQuiz will allow users to lively interact with a place in Nepal via Quiz in one touch.
+ 
+Problem Solved:
+Major Problems solved by LocoQuiz are as follows:
+- Reduces the necessity of a guide to travel around the city in case of foreign tourists.
+- Trouble faced during travel regarding uncertain weather and traffic is minimized.
+- It makes it easy for enthusiastic people who have trouble in knowing about a place of interest.
+- Users can wish-list wanted places only and get information as necessary.
+- It eliminates the need to install several apps and visit websites.
+- Helps Tourist for further study & research on Culture and Diveristy of the Place visited or wishlisted with help of Website dedicated to LocoQuiz.
+ 
+ 
+Functions:
+ Main Functions & Elements of LocoQuiz are :
+-Entertainment via Quiz game, along with useful information about places in Nepal and other Countries.
+-Direct access to a particular location on Google map
+-Provides weather and climate updates regarding the places.
+-Enlists the transportation options to go to any place of interest.
+-It helps to completely explore a selected place with its culture, events and transportation.
+-Wish-list for marking favored locations inside the app.
+ 
+Targeted audience:
+ Target audiences of LocoQuiz are:
+- National & Foriegn Tourist
+- People interested in Tourism.
+- Common Quiz Lover.
+ 
+Main Benefits:
+Main Benefits for the users of LocoQuiz :
+-Helps make people passionate about tourism.
+-Notifications of wish-listed places and locations allow being in touch with the latest happenings.
+-It lets people know about their places of interest.
+-It allows users to go to wiki and website to look up further detailed information about a place.
+-Weather information about favorite place eases the trouble faced during visit.
+-Updates about transportation and traffic make it convenient for people to travel.
+- Access to Full-Feldge website dedicated for user for other services & resources not included on LocoQuiz App.
+ 
+Platform: Android  
+
+

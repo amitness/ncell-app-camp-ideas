@@ -1,0 +1,24 @@
+ArcubeGames&Animation
+
+Submitted on:  August 14, 2015 - 8:32am 
+ 
+Idea:
+ A 3D Endless Runner Game based on Social, Cultural, Political and Natural aspects of Nepal.
+ 
+Problem Solved:
+# Our game is intended purely for fun..# Raises awareness in social, political situations in the country# Raises awareness of cultural and natural possibilities in the country# Promotes 3D Game Development in Nepal by showing good games can be built even with little resources
+ 
+ 
+Functions:
+ # Full fledge 3D game with character build up and growth# Play as a politician and embark upon the journey to ultimately become the President of the country# Missions and Challenges# Build your Status, Unlock and Upgrade Skills, Gather Powerups, Artifacts, Treasures and many more..# Beautiful 3D Graphics# Gorgeous Environments# Beautiful Settlements# Different Obstacles and Powerups for entertaining and challenging gameplay# Have fun customizing your character# And Socialize by competing with Friends and Gamers throughout the Country and Globe
+ 
+Targeted audience:
+ # Neplese Youngsters who are crazy of mobile games interested in action adventure genre# Foreigners interested in visiting Nepal can get glimpses of the different aspects of country
+ 
+Main Benefits:
+# Play a game which you can relate with your daily environment# Promotes Cultural as well as Natural Heritages of Nepal through beautiful scenaries and settlements# Trivia information about Nepalese history, culture, religion, vegetation# Promotes internal and external tourism
+ 
+ 
+Platform: Android  
+
+

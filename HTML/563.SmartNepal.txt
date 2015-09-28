@@ -1,0 +1,70 @@
+SmartNepal
+
+Submitted on:  September 17, 2015 - 11:30pm 
+ 
+Idea:
+ This app will make Nepalese people aware of randomness of price of vegetables, transportation fare, daily updates of share price , exchange rates, pe
+ 
+Problem Solved:
+This app helps people to be smart by tracking all updated price of grocery items, transportation fare, exchange rates and petroleum price fetching data from GOVERNMENT OF NEPAL MINISTRY OF PHYSICAL INFRASTRUCTURE AND TRANSPORT DEPARTMENT OF TRANSPORT MANAGEMENT and Nepal Rastra Bank. Department of Transport of Nepal are supporting us  for people to complain in telephone number 01-4474767 or email: hellodotm@dotm.gov.np or can sms to 1111 or can complain to near traffic police station if anyone charging high bus fare than allocated. People can directly complain through app if anybody charging high rates of grocery items and exchange rates too.This can solve the randomness of price which  people are facing.
+ 
+This app will provide the daily updated Share price by fetching official data from Nepal stock Exchange which helps people to know daily share value of their Traded Companies.
+ 
+We are facing very  high bandwidth charges of data using online maps and we are facing lots of problem of network availability everywhere to use maps so this  is somehow solved by approximate offline location of different hospitals, bank and its ATM and different types of hotels and restaurants.
+This app will provide the details of hotels according to stars and provide the rating of hotels powered by  TripAdvisor.
+ 
+Functions:
+ 
+
+Aware people by providing the daily rates of vegetables, transportation fare, exchange rates and petroleum price.
+
+
+The problem caused by high bandwidth charge using online maps is somehow solved by approximate offline location of different hospitals, bank and its ATM and different types of hotels and restaurants.
+
+
+.Provide the schedule of Load shedding and  water supply.
+
+
+Provide the details of hotels according to stars and provide the rating of hotels powered by  TripAdvisor.
+
+
+Make easy way to  access urgent  telephone number like police, ambulance etc which is very useful in daily life.
+
+
+Daily share price of different Traded Companies.
+
+
+Help to  find the bank and its branch and ATM machine  all around Nepal.
+
+
+Database of hospitals around Nepal .
+
+
+ 
+ 
+Targeted audience:
+ Our target audience is all people who want daily updates of daily needed things. like share price, grocery items price, public transport fare etc. 
+ 
+ 
+Main Benefits:
+
+
+Daily updated price of  basic need items like vegetables, petroleum, transport etc.
+
+
+Daily updated share price of different traded companies.
+
+
+Schedule of load shedding and water supply.
+
+
+Offline approximate location of hospitals, bank and ATMs of all bank.
+
+
+Database of urgents telephone number and hospitals.
+
+
+ 
+Platform: Android  
+
+

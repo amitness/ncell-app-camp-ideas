@@ -1,0 +1,28 @@
+GUIDER
+
+Submitted on:  September 18, 2015 - 1:20pm 
+ 
+Idea:
+ Helping tourist to guide themself during their visit in nepal .
+ 
+ 
+Problem Solved:
+Finding the desired destination for tourist without helper is difficult as well as knowing the historical,religious and other related information of that place is tough.Both those problem can be solved by this app.
+ 
+Functions:
+ 1.User can search their desired destination and get overall informations.
+2.User can find best destinations accroding to their desire.It meansthat  there will be menu of destination according to their intrest or purpose of visit.
+3.User can get information about hotels,resturants,lodge which are near to that searched destination. 
+ 
+Targeted audience:
+ Its for tourist who visit nepal.
+ 
+Main Benefits:
+1.Easy for tourist to visit places being self dependent.
+2.Tourist can know different places from app even if they did not visit.
+3.Tourist can suggest the places to visit to their friends and vice versa. 
+4.Tourist can directly contact to hotels,resturant,lodges.
+ 
+Platform: Android  
+
+

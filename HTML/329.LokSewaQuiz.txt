@@ -1,0 +1,22 @@
+LokSewaQuiz
+
+Submitted on:  September 14, 2015 - 8:11am 
+ 
+Idea:
+ LokSewa Quiz is an app in which two or more than two person can participate to play the quiz related to lok sewa exam questions.
+ 
+Problem Solved:
+You don't need another person(physically) to ask you questions.Due to this app, You can test your knowledge with others.Helps you to gain confidence.
+ 
+Functions:
+ Users can create their account and login into the app to  take part in quiz.Users can also see the latest updates about lok sewa exams or they can post their own updates.Users can see the latest available questions there.Users can see other avaiable person who are online and can invite them to play quiz.Also Winners will be given points.And that points can be viewed by anyone so that winners can have good impression.
+ 
+Targeted audience:
+ It targets all the people who are going to give theirlok sewa exams.
+ 
+Main Benefits:
+Helps you to prepare your lok sewa exam in funny manner.Helps you to get rid of boredom from reading.Helps you to learn the things in effective and creative way. 
+ 
+Platform: Android  
+
+

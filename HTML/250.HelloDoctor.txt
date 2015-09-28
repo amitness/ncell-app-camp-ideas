@@ -1,0 +1,38 @@
+HelloDoctor
+
+Submitted on:  September 11, 2015 - 11:28am 
+ 
+Idea:
+ Hello Doctor is a  mobile app that empowers people to control their health. It allows users to easily aggregate all of their medical records.
+ 
+Problem Solved:
+Hello Doctor  that empowers people to control their health. It allows users to easily aggregate all of their medical records (paper or digital) on their mobile device and help them access any one of them from any where.
+Hello Doctor save paper document like from being lost.
+Hello Doctor helps to track and understand your blood pressure so you can solve your heart risk and improve your condition .use medication reminder to help you stay on track.
+pills reminder helps user to take which pills in which time
+ 
+ 
+Functions:
+ Uploading documents  just use your device’s camera send a scanned document to the server. You can even organize your documents into categories for easy navigation.
+BP tracker :Learn if your blood pressure is too high by tracking it manually  and see your readings graphed in your Dashboard. Set reminders to help you remember to keep track of your BP level. Get a weekly report of your blood pressure progress and learn what it means
+Daily Personalized Insights:Get personal tips and insights tailored to help you understand, manage and improve your condition
+Medication and Pill reminder :If you are on prescription medication for high BP we'll make sure you remember to take them on time with our medication reminders.
+ 
+ 
+ 
+ 
+ 
+Targeted audience:
+ We highly believe that patient safety should come before all, so Hello Doctors uses bank level security measures - SSL, encryption and the security 
+All Paatient
+ 
+Main Benefits:
+It allows users to easily aggregate all of their medical records (paper or digital) on their mobile device and help them access any one of them in 2 taps. 
+Share your medical records with your doctor via email or fax. Then take notes directly on the documents so you don't forget or lose any important information.
+User can solve their heart risk by tracking ther blood pressure and understad what does it mean
+ 
+ 
+ 
+Platform: Android  
+
+

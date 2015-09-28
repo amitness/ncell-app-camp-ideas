@@ -1,0 +1,31 @@
+BlindCare
+
+Submitted on:  September 16, 2015 - 12:28pm 
+ 
+Idea:
+ An app to help sightless and visionless (blind) people by providing easy sound and graphics interface which they can understand and get help easily.
+ 
+Problem Solved:
+1.blind students didnot getting education even common things like alphabet or numbers also they dont know so it gives learning power with sound interface.
+2.Contacting to specific doctor is dificult for blind people so using our app blind people can contact to specific doctor by simple touch.
+3.if blind people need any kind of help like contacting to their relatives it will be easy to contact their relatives etc
+ 
+Functions:
+ 1.The app can provide easy sound and graphics interface for eg-if they need any kind of help from nerby people then they can simply touch on screen or button then the sound is produced on smartphone and other people can understand that they need help.
+2.It will provide eye hospital location.
+3.It will provide easy contact to specific doctor or eye specialist.
+4.Blind students can learn many more things using our app.
+5.It will provide about different eye diseases and how to be protect from these diseases.
+ 
+Targeted audience:
+ Our apps will be useful for sightless and visionless people and it is also useful for non blind people or common people to know about different eye diseases.
+ 
+Main Benefits:
+1.Easy to locate eye hospital mapsfrom all over nepal through GPS system.
+2.Easy to contact eye specialists through simple click.
+3.Easy to know how to protect eyes from different eye dieases.
+4.Sound learning and easy symbolic interface and many more
+ 
+Platform: Android  
+
+

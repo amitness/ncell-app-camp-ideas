@@ -1,0 +1,29 @@
+RainMaker
+
+Submitted on:  August 23, 2015 - 1:13pm 
+ 
+Idea:
+ Convenient rent search and support service.
+ 
+Problem Solved:
+1. Tedious and exhausting search of places to rent for customers.
+2. Lack of easy advertisement for rent provider.
+ 
+ 
+Functions:
+ 1. The app lists down the rental places as per demand.
+2. The app allows rental provider to post their space in a convenient way.
+3. The app pins down the location based on customers interest.
+ 
+Targeted audience:
+ 1. Family, students, companies, etc who are in need of rental space.
+2. People eager to provide space for rent.
+ 
+Main Benefits:
+1. Easy ways to find places for rent.
+2. Large scope of advertisement of rental space by rent provider.
+ 
+ 
+Platform: Android, Others(Web application)  
+
+

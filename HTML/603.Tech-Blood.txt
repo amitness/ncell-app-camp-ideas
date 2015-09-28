@@ -1,0 +1,27 @@
+Tech-Blood
+
+Submitted on:  September 17, 2015 - 3:30pm 
+ 
+Idea:
+ Android app that list the blood donors and their nearer location from your current location and reach to them via Call/SMS.
+ 
+Problem Solved:
+This app aims at bringing the blood donors under one roof so that they can easily be searched and contacted at the time of emergency by any user.
+ 
+Functions:
+ 1. User sign up to the system along with their Mobile Number. The Mobile number is confirmed using Call/SMS.
+2. User can search and request for Blood when required. The server after receiving this request,responds to the possible donor according to their current location about the requirement.
+3. All mobile numbers are verified because the motive of this app is to be operated in emergencies.
+4. All mobile numbers are hidden so as to avoid unnecessary calls one may receive (when their number is made publicly visible).
+5. Donor's who've donated blood in less than 90 days will not be shown. This is because a person can donate blood only once every 12-16 weeks.
+ 
+Targeted audience:
+ We have target almost all people as anyone can be in need of blood at anytime.
+ 
+Main Benefits:
+1. Users can easily search the donor through nearest location feature and contact them. 
+2. The details of the donors are kept secured in the database and are not viewable in public keeping their privacy in mind.
+ 
+Platform: Android, SMS, Others(Web Portal)  
+
+

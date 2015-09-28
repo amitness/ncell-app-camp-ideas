@@ -1,0 +1,41 @@
+Intercept
+
+Submitted on:  September 11, 2015 - 5:25pm 
+ 
+Idea:
+ Mobile Launcher App that analyses user behavior to manage icons(apps & buttons) placements and adaptive design.
+ 
+Problem Solved:
+We are moving into an era of bigger sized smartphones.
+Our live is consumed by app that make us more productive, and they are in large numbers. We just can't deny a bigger phone and less apps.
+The problem with bigger phones is we can rarely use it with a single hand. Typing with both hands is normal, we got adapted with physical keyboards. But in general use, opening apps, swiping between tasks. It's still quite uneasy.
+A lot of apps means a lot of icons to access apps. It sometimes literally gets lost in the drawer.
+Intercept App analyses user interaction with their apps hence places those apps in home screen. The better part of the app is how it analyses which part of the screen is more accessible to your use. The app icons are arranged smartly to those areas as your priority order. Also the app drawer that lists all apps is much adapted to your personal usage cycle. So you find your apps easily.
+Steve Jobs famously said in the iPhone 1 launch - Not all apps are same, so should not be the buttons. iPhones do not have a button other the home button. They made sure their software had them all.
+Intercept app makes sure there is a software access available for almost all hardware options in users' phone - back buttons, options menu, volume controller and many more.
+ 
+Functions:
+ -Arranges icons of apps based on analysis considering usage time, launch count, name, user location(home, office).
+-Offline device data search.
+-Offline app search.
+-Customizable gestures.
+-Customizable Interface.
+-User Adaptable Launcher.
+ 
+Targeted audience:
+ -Bigger screen mobile device users.
+-Users using a lot of apps.
+-Users who want their device to be used single handedly.
+-Users interested in trying personalized adaptive environment.
+-Physically retarded users.
+ 
+Main Benefits:
+-Smart Placements of icons of apps and buttons.
+-Ease in locating and accessing apps.
+-Single handed use of bigger screen phones.
+-Personalized, behavior and usage cycle based design and placements.
+-Device data search.
+ 
+Platform: Android  
+
+

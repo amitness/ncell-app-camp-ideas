@@ -1,0 +1,29 @@
+JourneyInNepal
+
+Submitted on:  September 18, 2015 - 9:36am 
+ 
+Idea:
+ Due to Big Disaster Tourists are afraid,This app will provide All Informations that Nepal is fully safe to be visited with full of natural heritages.
+ 
+Problem Solved:
+Nepal has faced a big disaster (Earth Quake), And its direct impact is in Tourism Industry because International tourists are afraid that Nepal is not safe to Visit. But we all know the reality that Nepal is fully safe to visit with full of Natural Heritages.
+Our App will provide all the Infromations about which place is opened and safe to visit and which place is not allowed to visit. 
+It also provide some general informations like : Which hotel is safe and good to stay with infromations of all facility provided by that particullar hotel(eg. price,food quality,swiming,etc). 
+Provides the historical background behind each place tourists wish to visit.
+ 
+Functions:
+ 1. App will Provide the Real informations about Nepal and its Historical Natural Heritages that it is fully safe to visit. 
+2. User can give rating as well as feed back to the particalr place they visited so that other user can get the reality about that particulat place. 
+3. User can get the detail about the hotels around the particular place they wish to go so that they can choose safe and good hotels. 
+4. User can get the historical Back ground behind each place they visit. 
+ 
+Targeted audience:
+ National And International Tourists. 
+ 
+Main Benefits:
+First but most important benefit for user is that They can get the real informations that which place is safe to visit and which is not allowed to visit. 
+Other benefits are : informatins about hotels, historical backgroun about each heritage. 
+ 
+Platform: Android, Others(Web Application)  
+
+

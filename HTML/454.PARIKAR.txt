@@ -1,0 +1,31 @@
+PARIKAR
+
+Submitted on:  August 30, 2015 - 6:13pm 
+ 
+Idea:
+ PARIKAR helps consumers save money and reduce food waste by suggesting recipes based on the ingredients they have.
+ 
+Problem Solved:
+Some fact you may not know(Problem)
+-Did you know over 30% of the food and drink we buy is thrown away?
+-The average household cooks the same 5-7 meals weeks in,weak out.
+-Did you know most of nepalies people don't  know how to cook our famous nepali food "Gundruk".and "Gundruk" is disappearing from nepali food due to lack  of recipe.
+PARIKAR helps to solve these problem by giving diffeerent recipe of food(eg. Gundruk...etc)
+ 
+ 
+Functions:
+ -Find recipes using food they’ve already got – so they don’t need to buy more• Find recipes using food they may otherwise throw away• Browse great recipe ideasThe app also includes a variety of features like filtering for dietary preference or speed of preparation, rating of recipes, and the ability to post photos of your culinary masterpiece to Facebook or Twitter! .
+- For Creative cook facilitis of sharing their own recipe around the world.
+ 
+ 
+Targeted audience:
+ House-wife,student,Hotel management researcher, and all those who love to cook food.
+ 
+Main Benefits:
+-user can save their money and time 
+-user get new taste without wasting their food ingredients that they have
+-user can share their own recipe around the world
+ 
+Platform: Android  
+
+

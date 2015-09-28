@@ -1,0 +1,26 @@
+NMus
+
+Submitted on:  August 22, 2015 - 10:31pm 
+ 
+Idea:
+ Listening and watching Nepali songs
+ 
+Problem Solved:
+We have different cultures and different songs but we don't know where to find them. Our application will have all the nepali songs (either may be newari, lok dhoari, bhojpuri, etc) they will be included and people can find it in a click.
+ 
+Functions:
+ This app lists down the music in different categories. Moreover, end user can find the detail of the song such as who wrote the song, what was the album etc. 
+ 
+ 
+Targeted audience:
+ Our app target to all the people that like to listen nepali music.
+ 
+Main Benefits:
+1. Find the nepali songs they want to hear.
+2. Download or Save the playlist of the song. 
+3. Upload any songs they have. 
+ 
+ 
+Platform: Android  
+
+

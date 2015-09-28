@@ -1,0 +1,22 @@
+RentMandu
+
+Submitted on:  September 16, 2015 - 9:32am 
+ 
+Idea:
+ A solution to find and provide a place to rent.
+ 
+Problem Solved:
+          In the hustle-bustle of modern day Kathmandu, finding a good place to live is hard. Home Owners don't let just anyone live in their homes and tenants have their own needs. To solve this, RentMandu has been created. It lets both renters and tenants find their ideal counterparts with specific criteria. For example, if A has a flat which he will only rent to a family of 3, another tenant looking for a flat who matches the needs of A,(lets call them B) will be matched and connected with each other. In this scenario another tenant (say C) who is a single student, will not be matched.   This saves time, effort and money spent on travelling and personally inquiring with home owners.
+ 
+Functions:
+ An algorithm to match home owners to tenants specifically with boths' needs in mind. If criteria of both home owners and tenants match, they both get a notification and can contact each other.In case of lack of 100% match, best alternatives will be displayed.Contact and personal information will be displayed only between related parties and only in case of a match.A function to chat between matched parties.
+ 
+Targeted audience:
+ We have two end-users:1) Home owners:           Middle aged, married home owners who have extra space to rent and make some money. 2) Tenants:        College students from age 18 to 30 yrs, savvy with tech who don't own their own homes in Kathmandu.
+ 
+Main Benefits:
+1) No need to personally travel and meet the homeowner or tenant.2) View images of your home-to-be to ensure that you are getting a fair deal.3) Connect with the homeowner or tenant through the in-built chat function.4) Find reviews about the home or tenant from past users.5) Specify time period you want to rent.
+ 
+Platform: Android  
+
+

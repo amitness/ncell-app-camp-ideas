@@ -1,0 +1,42 @@
+RunforFun
+
+Submitted on:  September 17, 2015 - 2:38pm 
+ 
+Idea:
+ App that motivates people to run by tracking and translating their actual runs into progress in a virtual world/Nepal.
+ 
+Problem Solved:
+The immense health benefits of running (both physical and mental) are well documented and known to all. 
+However, it is really hard to find the motivation to run regularly and it's even harder to sustain it. This is because the alternative is so very enticing - the warm bed, an extra hour of sleep and so on. Basically, it is easy to view running as a hassle - a boring chore, which is problematic as (stated again for emphasis!) running is good for us.
+So, that is the problem our application tries to solve - it saves us from our own laziness by motivating us to make that extra effort of jumping out of bed, putting on our shoes and heading straight out the door. 
+How does it do that? It does so by making running more fun and engaging by gamifying the act of running. We believe in the power of fun and that if the addition of a little bit of it can induce people to take stairs over escalators, then it can motivate people to run too. 
+Apps like Habitica use the principle in habit formation while Zombies, Run! does immensely well in getting people up and running. 
+Our app is, in general, based on the same underlying concept but will have a simpler gameplay and an element of localization for better adoption in Nepal.
+ 
+Functions:
+ The application tracks the run of users and then converts the actual distance covered into a virtual distance covered such that the user has travelled to another location in the virtual world. 
+As an example, if you ran 3 km today, it is amplified by a factor (say 5) into the virtual distance travelled of 15 km. So, if you keep it up for 2 weeks, you have travelled from Kathmandu to Pokhara. 
+However, to inspire regular running without missing a day, the amplification factor is incremented by 0.5 for each day you run without leaving out a day. So, if you manage a long enough streak (say of 30 days), your 3 km gets translated to 60 virtual km allowing you to travel between locations quicker. 
+Users earn badges and unlock different abilities as they keep up the running habit. 
+Crossroads are placed at certain intervals where the user gets to choose the place they would like to run to next. One of the key features, a map, displays the progress of the user (of places the user has virtually run to), the current virtual location of the user and the virtual location of other fellow runners. 
+So, the motivation for the users is to virtually travel to various parts of the country and also meet up with other runners, all the while tracking the amount of actual running they do. 
+Finally, a sharing feature would allow the user to share his/her progress on various social networks.
+ 
+Targeted audience:
+ 1) Seasoned runners looking to spice up their monotonous routines.
+2) Casual runners looking for ways to stay motivated.
+3) People who ought to be out there in the morning but aren't. 
+In terms of the age demographic, anyone between 12-50 would be the prime target. 
+ 
+Main Benefits:
+1) Source of motivation to run.
+2) Helps sustain the motivation over time.
+3) Track the amount of running you do.
+4) Interact with other runners leading to the formation of a running community, further reinforcing the motivation.
+5) From above points, all the benefits of running itself, culminating in a healthier body and mind. 
+6) Prevention of diseases in the long run (no pun intended).
+ 
+ 
+Platform: Android  
+
+

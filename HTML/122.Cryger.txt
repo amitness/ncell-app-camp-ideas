@@ -1,0 +1,30 @@
+Cryger
+
+Submitted on:  September 20, 2015 - 11:48am 
+ 
+Idea:
+ This is about a quest of a young warrior to reunit with his lover, who is kidnapped by an Evil Wizard.
+ 
+Problem Solved:
+This will provide funtime to users.
+Makes spare time enjoyable.
+ 
+Functions:
+ Generic 2d platform game.
+Based on reward system.
+Player will pass through different levels to complete his quest.
+As the level increases the player will get power ups.
+Enemies also will become more stronger as the level  increases.
+ 
+ 
+Targeted audience:
+ Youngsters.
+Those who love playing oldschool platform game.
+ 
+Main Benefits:
+User will be able to kill thier boredom.
+Improve problem solving skills of user by interacting with diferent game elements.
+ 
+Platform: Android  
+
+

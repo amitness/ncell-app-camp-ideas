@@ -1,0 +1,22 @@
+BloodBankNepal
+
+Submitted on:  September 17, 2015 - 12:11pm 
+ 
+Idea:
+ App to increase blood donors in nepal to provide immediate access of required blood type nearby.
+ 
+Problem Solved:
+In nepal there is huge scarcity of blood in hospitals, especially the rare blood types. Peoples are dying in hospitals because blood bank of hospitals do not have enough blood of required type. In order to address this problem our mobile app encourages its user to register them as interested blood donors. Interested donor will fill up an online form mentioning their blood type, their location and other relevant data. In this way we can act as a supportive mediator between blood donors and receivers.
+ 
+Functions:
+ The app list down blood donors according to their blood groups and the donors nearly location displaying first. There will be two main items in home page of app.. namely 'I want to donate ' and 'I want to receive '.
+ 
+Targeted audience:
+ All healthy person inside the country who are willing to donate blood and all people needing blood as soon as possible are the target audience of this app.
+ 
+Main Benefits:
+Peoples can get the required blood type donors around them immediately. This will be much more effective at the time of natural disasters like earthquake where there is high demand of blood for injuring people.
+ 
+Platform: Android  
+
+

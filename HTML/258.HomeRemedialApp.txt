@@ -1,0 +1,28 @@
+HomeRemedialApp
+
+Submitted on:  August 22, 2015 - 7:12pm 
+ 
+Idea:
+  
+App that will give working home remedial suggestions for the most of the diseases according to the symptoms.
+ 
+Problem Solved:
+Our ancestor have developed many homemade cure for many diseases. They are being lost due to lesser use of the methods or due to lack of sharing this to common people. Thus we have to depend on those medicine prescribed by doctors. The intention of this app is not to replace this method rather it is for sharing these methods to all commoners and enlighten them about those methods. This app will provide them a brief knowledge provides by our ancestor to cure those diseases just by using material that are available in the house. This app will list all the probable disease according to the symptoms provided and try to find out the best home remedial application along with the cause and some information of the disease.
+ 
+Functions:
+ This app will provide a brief information about the disease, symptoms and home remedial. This app is also helpful for people who want their home remedial to be known to all the people  so as to share their/ their family home remedial method.
+ 
+Targeted audience:
+ This app is most useful to all housewives who are interested in using home remedial method for their children who are prone to many common diseases. This app is also useful for people who want to use natural remedies than using medicines all the time which for prolonged use may be harmful.
+ 
+ 
+Main Benefits:
+1. Easy to get a brief information about the probable disease.
+2. Don't have to go to hospitals for common diseases that can be cured easily from the house.
+3. Proper utilization of available resources in the house.
+4. User can add their own home remedial methods so that they are shared to all and everyone will to available with this knowledge.
+5. As all these medices are home made so there are no any side effects.
+ 
+Platform: Android  
+
+

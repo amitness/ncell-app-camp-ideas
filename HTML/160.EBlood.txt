@@ -1,0 +1,22 @@
+EBlood
+
+Submitted on:  September 9, 2015 - 9:42pm 
+ 
+Idea:
+ This app is based on providing emergency blood of required blood group type which is searched on basis of profile create by the users of this app.
+ 
+Problem Solved:
+This app tries to solve the emergency blood donation problem of our country by providing the contact info donar of the required blood group type.
+ 
+Functions:
+ The app users will create profile with thier blood group type, location,contact info and eligibility of donating blood. Users will search on basis of blood group type and location and this app will recommend the matching donar based on the blood group type, location and eligibility of the people. So people can contact the donar easily and faster for emergency need.
+ 
+Targeted audience:
+ The main target audiences are those people who have blood group which are difficult to get such as O+,O- etc. Similarly, this app is for all people who might face problem of blood deficiency.
+ 
+Main Benefits:
+Users can easily get required blood group donar's contact info around him/her by simple searching for required blood group and location. 
+ 
+Platform: Android  
+
+

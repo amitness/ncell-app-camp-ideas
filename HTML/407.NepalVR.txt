@@ -1,0 +1,27 @@
+NepalVR
+
+Submitted on:  September 18, 2015 - 1:30pm 
+ 
+Idea:
+ Providing Virtual Reality Tourism experience of Nepal using Google Cardboard.
+ 
+Problem Solved:
+1.  Number of tourists arriving in Nepal has been decreasing due to earthquake because of the misconception that infrastructures here are completely destroyed. Our app will help remove this misconception.
+2. There is no virtual reality app to promote the beauty and diversity in Nepal. Hence this app will be first of it's kind.
+3. Websites or other media advertisements limit the true experience of actually being there which is the main essence for business like cafes or even art galleries. Virtual Reality can provide the closest experience of actually being at a place without being there. This will also allow global visibility to local business based around tourist destinations.
+ 
+Functions:
+ 1. Virtual tour of tourist destinations with or without Google Cardboard.2. Browser based 360 virtual tour web application with WebVR capability.3. Virtual tour of selected businesses based in those areas.4. Descriptions, facts and information of the tourist sites and the businesses.5. Google Map based navigation to the Tourist Destinations.
+ 
+Targeted audience:
+ Primary Audience:
+1. People who are planning to visit Nepal and would like to check out local places.                 2. Anyone who would like to visit but yet not able to visit Nepal.
+Secondary Audience:
+1. Anyone with Google Cardboard who would like to embrace the ecstatic beauty of Nepal.     
+ 
+Main Benefits:
+1. Users get a virtual tour of places in Nepal.2. Users get descriptions, facts and informations of the places.3. Users can checkout the local business/shops around the area.4. Map integration will help tourists to self guide and reach destinations. 5. Users without Cardboard or VR compatible phones will also be able to experience 360 virtual tours. 
+ 
+Platform: Android, Others(Browser Based with WebVR compatibity)  
+
+

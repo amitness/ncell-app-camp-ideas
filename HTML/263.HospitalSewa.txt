@@ -1,0 +1,33 @@
+HospitalSewa
+
+Submitted on:  September 5, 2015 - 10:30am 
+ 
+Idea:
+ Our "Hospital Sewa" is a android app provide all hospital details ,health tips,telemedicine service  & local ayurved medicine.
+ 
+Problem Solved:
+For normal as well as emergency health problems,our "hospital sewa" will provide location of near by  hospital,hospital details,ambulance service availability(contact),direct doctor contact in emergency conditions,telemedicine for remote patient,hospital types,hospital charges also basic health tips including local herbs,local ayurved medicine etc.
+ 
+Functions:
+ Main function  & elements includes:
+* details about ambulance service in a unknown place
+* Near by hospital ,details and type of hospital.
+*hospital charges comparisions.
+*hospital capacity(normal bed,cabin room,emergency bed etc).
+*Doctor availability (days,time)
+*Entry fee (Entry time,date validation)
+*All charges datails(cabin,nomal bed,emergency,lab,canten)
+*Telemedicine for remote patient.
+*Direct doctors contact.
+*hospital review,doctors review by old patients.
+*other emergency contact( like red cross for emergency blood)
+ 
+Targeted audience:
+ Target audiences are all type of people who don't know details about availability of hospital in a city, remote patient ,who don't know about local ayurved medicine / treatment.
+ 
+Main Benefits:
+Main benefits of this app is helps to find hospital details at unknown place including emergency as well as normal condition of patient,telemedicine service for remote patient.
+ 
+Platform: Android  
+
+

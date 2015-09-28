@@ -1,0 +1,29 @@
+HealthApp
+
+Submitted on:  August 21, 2015 - 10:54pm 
+ 
+Idea:
+ HealthApp is an online clinic and all in one health companion app.
+ 
+Problem Solved:
+HealthApp saves thousands of money of user by recommending cheaper medicines instead of expensive medicines with same generic name. It recommends appropriate exercise and dietary habits to patients with diseases like Diabetes, Hypertension, Obesity, etc. It gives people scientific information about various common health problems of Nepal in non-medical and local language ( eg Nepali ). It also has various life-saving first aid information that may come handy (like what to give to a patient with heart attack before taking to hospital if the hospital is a bit far away). It helps user to get not-so-common blood groups like O and A from the database created by users only. Users wont have problems to know nearby specialist doctors, hospital, ambulance, etc. User can get informations on abortion , child growth, sexual health, etc whose idea is vague among local people. It also provides an online consultation to people where accessing a doctor is either difficult or is too busy to meet a doctor and will get prescibed with 24 hours.
+ 
+Functions:
+ HealthApp provides online consultation, lists all the trade name and prices of the generic name of commonly used medicines and has offline information on various health related topics and common diseases of Nepal. It will also have the database of people willing to donate blood along with their gps location. 
+ 
+Targeted audience:
+ People of Nepal who need any sort of health information or diseased people who need special diet-lifestyle or people who buy medicines regularly.
+ 
+Main Benefits:
+User will know price of medicines available in Nepal and compare between same generic name medicine of different brands,so that they can buy the cheaper one and save thousands of their monthly medical expenditure,
+This app will help users who are either too busy or have minor health problems or have any health curiosity to consult real doctors and get his prescription online within 24 hours.User can also send snaps of their medical reports and affected body organs,
+User will get authentic offline information about the most common communicable and non-communicable diseases of Nepal as well as necessary life saving First-Aid in an easy to understand non-medical language and also with an option to switch to local language,
+User will know the minimum exercise and dietary habits they should have on the basis of their diseases ( for eg Diabetes), and will also know the risks they're having from disease and how to prevent them,
+Users can know about nearest specialist doctors, ambulances, hospitals, etc based on their gps location.
+User who are willing to donate blood can register their blood group along with their gps location from the app which will create a database of blood group and whenever someone needs any blood group nearest users with matching blood group will be notified.
+ 
+And lastly user will get info on various important health related topics like which contraceptive to use, pregnancy care, abortion , child nutrition, vaccines schedule,sexual health,etc.
+ 
+Platform: Android  
+
+

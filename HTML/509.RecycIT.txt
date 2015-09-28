@@ -1,0 +1,32 @@
+RecycIT
+
+Submitted on:  September 19, 2015 - 9:14pm 
+ 
+Idea:
+ RecycIT provides ideas to users on recycling domestic wastes and ultimately promotes recyling.
+ 
+Problem Solved:
+1. Domestic litters often make households polluted and stinky; which can be managed by recycling.
+2. Covers of vegetables, plastics, metals can be utilized and recycled into useful products.
+3. People specially in rural areas generally have nothing vital to do during their free time, which they can utilize in making recycled products.
+4. There are not much recycle industries in Nepal, they can be promoted with this concept and unaware people get aware.
+ 
+Functions:
+ 1. RecycIT can provide recycling techniques and theories in a simplified manner.
+2. Interesting videos within app to provide detailed information.
+3. Sharing of recycled products in social medias.
+4. Communication between interested buyers and sellers of shared recycled products via social networking sites.
+ 
+Targeted audience:
+ This app will be useful for everyone in every household.
+ 
+Main Benefits:
+1. Recycling industries can be fluorished widely.
+2. Utilization of wasted products litters at houses.
+3. Formation of a pollution free enviroment since wastes can be properly managed.
+4. People stop throwing wastes and start recycling. So, civilization can be improved.
+5. Most people still don't know about recycling specially in rural areas, this can be improved by RecycIT.
+ 
+Platform: Android  
+
+

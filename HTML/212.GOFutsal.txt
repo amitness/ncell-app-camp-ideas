@@ -1,0 +1,29 @@
+GOFutsal
+
+Submitted on:  September 2, 2015 - 9:07pm 
+ 
+Idea:
+ App giving recommendation and information on futsal grounds based on location,price,avaliability,condition of ground,tounaments for futsal fanatics. 
+ 
+Problem Solved:
+Finding futsal ground is quite a headache nowadays. We help them search the ground nearby them or as per their requirement of price, condition and tournamet participation also registration,payment for the game can be done through the app. In short it is a complete futsal package for players and futsal ground mangers.
+ 
+Functions:
+ The app helps the user to locate the futsal ground as per their requirement and also register in advance and pay for the game.
+ 
+Targeted audience:
+ Well, its football. From school boys and girls to college graduates and corporate people.
+ 
+Main Benefits:
+1. Know about the futsal grounds available.
+2. Choose ground according to price.
+3.Choose ground as per location feaseable to you.
+4.Pre-register for the game as per available time,pre-registration may need money transaction through app.
+5.Know about the tournaments and participate in it.
+6.Pay for the game in advance of after the game.
+7.Advertise the tournament and speciall offers from futsal ground manager side.
+ 
+ 
+Platform: Android  
+
+

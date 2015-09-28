@@ -1,0 +1,22 @@
+WhatsMyTokenNo.
+
+Submitted on:  September 9, 2015 - 8:44am 
+ 
+Idea:
+ App that takes the token for you and reserve the seat.
+ 
+Problem Solved:
+This app will remove the waiting of people for their turn and directly go to related place when their turn comes. Anyone can take their token from this app.
+ 
+Functions:
+ The app registers a token number and shows what token number is being processed and informs accordingly the time left.
+ 
+Targeted audience:
+ People who needs to wait for their token number to arrive while doing any transaction.
+ 
+Main Benefits:
+1. Anyone can have their token sitting in home rather than going and waiting in queue.
+ 
+Platform: Android, Windows phone  
+
+

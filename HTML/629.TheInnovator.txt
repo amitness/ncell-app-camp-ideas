@@ -1,0 +1,32 @@
+TheInnovator
+
+Submitted on:  September 19, 2015 - 9:04pm 
+ 
+Idea:
+ A tourism app that enclose all information about place, activity, routes (i.e. cycling,trekking), food, culture and history around user location
+ 
+Problem Solved:
+Last year I and my colleague had visited Annapurna Trekking Circuit. We got a chance to interact with international tourist in our short journey. Lot of them are carrying paper list of the place and thing to do around in that place. Some of them are even asking local people about the trekking route and time schedule. I get a chance to interact with a girl from Arizona who mention me about lack of proper information in internet about the places and routes and exact time for these local routes for tourist who don’t want to spend money on tourist guide. At the end of talk she told me “No plan is good plan.”
+Problems Plan:
+·         An apps that handle database about the location, historical background, routes (i.e. cycling routes, trekking routes) approximate timing etc.
+·         A guiding apps that make list of stuff you must do around your location.
+ 
+Functions:
+ Main Functional Element Are: 
+Google map that is modified with routes.
+An information editing element for updating information about location. Local people can update information about their places.
+A list of Places and Activity around user location.
+Special food and culture around user location.
+An apps that bring all about you location in one place.
+ 
+ 
+Targeted audience:
+ International tourists
+ 
+Main Benefits:
+ 
+This app make direct benefit to all local and international tourist who is seeking for information and activity around there location while staying in different places of Nepal.
+ 
+Platform: Android  
+
+

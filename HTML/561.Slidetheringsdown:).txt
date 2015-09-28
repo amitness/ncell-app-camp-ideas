@@ -1,0 +1,23 @@
+Slidetheringsdown:)
+
+Submitted on:  September 17, 2015 - 10:25pm 
+ 
+Idea:
+ This is a game that lets the user to slide the coloured rings in a pole opposing the force of the water with the help of pressure of air bubble.
+ 
+Problem Solved:
+This app makes the user more focused while playing game increasing the concentration of the user and focus of the user. Moreover since it is just a game it doesnt solve any problem it provides the  user entertainment.
+ 
+Functions:
+ There will basically be two poles elevated in an upright position. The mobile acts as square box filled with water. There will be numerous coloured rings where the user have to let the rings go to the poles and slide them in a specific coloured pattern within a given time frame. If the colour patterns are in an order then rings in the pole gets dissolved creating space for coming new rings. On getting a desired sequence of color of rings on both the poles the game gives special power ups for getting more score. 
+This game basically works on pushing an air bubble inside water that makes the rings move in the water in a path. There will be two push buttons on the screens for creating air bubbles for moving the coloured rings arounds the screen. By pushing the push buttons it determines the path of the rings making it go to the poles and slidding them in.
+ 
+Targeted audience:
+ All the users who are willing to get entertained and like to play a bit of tricky games.
+ 
+Main Benefits:
+This game is of entertainment catogery so the user gets entertainment from this game.
+ 
+Platform: Android  
+
+

@@ -1,0 +1,25 @@
+IAMSAFE
+
+Submitted on:  September 18, 2015 - 3:55pm 
+ 
+Idea:
+ It is a kind of family private network application where family memeber can communicate with each other and can trace their family member location dur
+ 
+Problem Solved:
+It helps to know if any family member is safe in certain condition within a single click.
+ 
+Functions:
+ -It is a private family network application.
+-Family member can interact with each other,share moment and location among themselves.
+-It contains a alert button which is activated when the user shakes the mobile in case of emergency to ask for help whenever they are in trouble.It sends all the other family member message along with gps location.
+-During disaster within a single click any family member can track the location & measure distance between their family members and also can mark them as safe so that their family members needs not to be worried.
+ 
+Targeted audience:
+ everyone
+ 
+Main Benefits:
+It helps to keep track of family member and their condition and helps the family member to keep in touch whenever they go.
+ 
+Platform: Android  
+
+

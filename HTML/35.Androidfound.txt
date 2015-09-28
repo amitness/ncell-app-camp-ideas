@@ -1,0 +1,22 @@
+Androidfound
+
+Submitted on:  September 2, 2015 - 2:49pm 
+ 
+Idea:
+ App to find your lost android Phone.
+ 
+Problem Solved:
+Finding the lost or stolen mobile is not easy, Our app will help to find it.
+ 
+Functions:
+ The app captures the picture and current location of the one who is trying to unlock the pattern illegally or changes SIM and  mobile battery and send the information to the secondary mobile of the mobile owner.Additionally it sets the mobile to ringing mood even if it was in silent mood.
+ 
+Targeted audience:
+ There is no any gurantee who is going to loose his/her mobile at any time.So all the android users can be benefited from our app
+ 
+Main Benefits:
+Getting one's lost or stolen mobile is itself the boon.
+ 
+Platform: Android  
+
+

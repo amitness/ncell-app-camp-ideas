@@ -1,0 +1,31 @@
+IaminNepal
+
+Submitted on:  August 31, 2015 - 12:10pm 
+ 
+Idea:
+ Multilingual app that helps tourists ease their visit in Nepal,with required local material /info / utilities, making their stay an unforgettable one.
+ 
+Problem Solved:
+"I am in Nepal" app will help tourists visiting Nepal, to easily guide themselves within the country in an entertaining way and in the language they choose, essentially eliminating the need of personal guide/assistant.
+ 
+Functions:
+ -Since the app is multilingual, it will help its users to get around using the app, in the language they are most comfortable in.
+-Major Utilities include Currency converter and Local Taxi Rate, backed up with updated database of local travel rates.
+-Provides instructions and information based on user location, with user input allowed.
+-Notifications and suggestions about on-going local events, festivals and other activities based on user's travel dates and location.
+-Virtual Tour Walk-through of major tourist sites.
+-Allows users to keep track of their travel essentials such as passports, hotel cards, phone numbers etc in a utility section, termed travel bag.
+-Allows users to connect via social media logins, like Facebook and twitter.
+-Allows users to share contents such as images, videos or other info about their visit with their friends and family, from the moment they arrive in the country.
+-Animated and user-friendly interface 
+ 
+Targeted audience:
+ As the name "I am in Nepal" suggests, the app  is targeted towards anyone who is on a visit in Nepal. This includes both internal and external tourists.
+ 
+Main Benefits:
+"I am in Nepal" is a multilingual app that is designed to help tourists ease their visit in Nepal, assisting them throughout the journey from the moment they arrive in the airport to their travel-back, with required local materials and information, to make their stay an unforgettable one.
+"I am in Nepal" app assists any tourists throughout their visit in Nepal, primarily based on their location, keeping themselves and their friends/families informed about all the necessary updates.
+ 
+Platform: Android  
+
+

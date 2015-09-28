@@ -1,0 +1,41 @@
+Room2Rent
+
+Submitted on:  September 20, 2015 - 9:03am 
+ 
+Idea:
+ Location-Based Android Application to find vacant rooms/houses all around the country from anywhere and anytime.
+ 
+Problem Solved:
+Our application solves the following problems:
+1.It eases the time requirements and expenses for searching vacant        rooms/house to stay. 
+2. At the same moment, any authorized house owner willing to lend his          house can mark his house TO-LET from anywhere.
+  
+ 
+Functions:
+ Elements:
+Google maps with markers (Green) showing vacant rooms/houses.
+One draggable and Clickable marker(red) for authorized house owner.
+ 
+Functions:
+Owner: The house owner drags the draggable marker to his house location.
+Once he sets that marker to his house location, he clicks that marker and an activity is opened.
+Activity allows the owner to fill his informations(Name,Contact,Email,House Description).
+After the submission,the owner information is registered to the database with updated marker (Green) on Google Map showing TO-LET.
+ 
+Tenant:Other users can simply Touch all the markers(Green) showing TO-LET .
+When any marker(Green) is clicked an activity is opened showing House owner's informations.
+The user can view the distance between his location and the place of need.
+ 
+Targeted audience:
+ The targeted audiences includes:
+  1. House Owner who wants to register their house TO-LET.
+  2. Tenants(Mainly students,Employee,Public) who seeks for vacant rooms.
+  
+ 
+Main Benefits:
+1.At any instance, user can view all the registered vacant rooms/houses using google map.
+2.Locate the area of want and the distance of reach to available Houses.
+ 
+Platform: Android  
+
+

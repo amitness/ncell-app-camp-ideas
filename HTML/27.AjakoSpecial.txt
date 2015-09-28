@@ -1,0 +1,26 @@
+AjakoSpecial
+
+Submitted on:  August 26, 2015 - 6:28pm 
+ 
+Idea:
+ AjakoSpecial is a mobile app which helps restaurants around Kathmandu to share and promote their special food items/services among people/food lovers.
+ 
+Problem Solved:
+For people and spcially food lovers, figuring out which restaurant/food cafe specialize in which food item/cuisine always been a hurdle and for restaurants and cafes, there is no innovatinve way of telling people what they specialize in food items and services, so AjakoSpecial is a breakthriugh solutiion which helps restaurant/food cafe to tell people and promote their specialization in food and drinks and services, also it provides people/food lovers a hassle free way of haunting and finding their favorite food and drink and services.
+ 
+Functions:
+ The main functions and elements of my application are:
+-people can find out what special food items restaurants/cafes are serveing today.
+-Restaurant/food cafe owners can share and promote their special item of the day and also can promote their other unique services
+-its helps in business growth.
+-its helps people to save a lot time  by providing the unique way of  finding and picking their perfect restaurant and food items.
+ 
+Targeted audience:
+ The target audiences are people who often eat outside and food lovers and people who loves to eat best of their favorite dishes or anyone who find it very difficult to find and pick their restaurant.
+ 
+Main Benefits:
+With busy life of kathmandu, hustle bustle and all as well as the changing food behaviour of the people, Finding one's favorite food item or the service they like is so difficult, for people, figuring out which restaurant specializes on which food items and picking the restaurant is such a hurdle. AjakoSpecial is the innovative way of helping people to find out  best of what they like (food item, drinks and other services) and helping business owners to promote and share whats special about them.
+ 
+Platform: Android  
+
+

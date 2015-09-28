@@ -1,0 +1,22 @@
+NotifyMe
+
+Submitted on:  September 19, 2015 - 1:32pm 
+ 
+Idea:
+ <p><span style="color: rgb(55, 62, 77); font-family: helvetica, arial, sans-serif; font-size: 12px; line-height: 15.36px; white-space: pre-wrap; background-color: rgb(246, 247, 248);">This app notify the user from diferent form</span></p><p><span style="color: rgb(55, 62, 77); font-family: helvetica, arial, sans-serif; font-size: 12px; line-height: 15.36px; white-space: pre-wrap; background-color: rgb(246, 247, 248);">It sends the notification , just like some viral news, technological event news, FB and Twitter news feeds.</span></p>
+ 
+Problem Solved:
+missing the near by events, important messages, news and notifications will be erased 
+ 
+Functions:
+ Teenagers are seems to spending a lot of time on crawling the internet searching for the news, this app will allow teenagers to select which type of news they want to read and provides the news as well as they can have notifications from social media also Business Person who have to attend a huge no of meetings but willing to grab all the news for strategical status just use Notify Me and have a look at the short bytes of news.
+ 
+Targeted audience:
+ #teenagers#business personnel 
+ 
+Main Benefits:
+It helps the user to check out the news and events without wasting the time watching the T.V or reading the newspapers.Just get the notifications by "Notify Me".
+ 
+Platform: Android, SMS  
+
+

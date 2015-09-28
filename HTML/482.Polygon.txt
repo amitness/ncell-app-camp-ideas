@@ -1,0 +1,40 @@
+Polygon
+
+Submitted on:  September 10, 2015 - 12:34pm 
+ 
+Idea:
+ -Mind game targeting mental speed and sequence tracking where circular regions of polygon corners are touched for a number of time at a time limit.
+ 
+Problem Solved:
+-Humans conflict to their own motion decisions when they are to repeat an action, if they distribute their focus.
+-We lose accuracy as we try to gain speed.
+Mental health and exercise is a lot about practising and making it better. 
+Polygon Game helps people improve their speed, accuracy and response as a gameplay habit. It uniquely targets memory, control and sense of events that lasts for very small period. It deals with the mental active response towards a task that requires speed, accuracy and sequence.
+ 
+Functions:
+ -Polygon basically comprises of dual gameplay modes, Speed Mode and Sequence Mode.
+In Speed Mode, for example the player is to follow a square track with 4 circular corners, 10 times in 10 seconds.
+In Sequence Mode: the player follows a square track ABCD in a sequence ACDBACDB... for 10 times in 10 seconds.
+The dual mode targets to speed, accuracy, sequence response, instant memories and focus.
+-Levels increase as the polygons change from line to triangle followed by square, pentagon till hexagon.
+-Since the player has to be accurate in touching the circular regions of polygon corners, polygons are adaptive according to mobile screen size.
+-When targeting mind games, it is important we precisely target and deliver exercise for mental areas. So we have a clean design and responsive gameplay to less distract.
+-Mental health is a lot about connectedness, so the gameplay is set such that it behaves according to user response. (For eg. The background changes during gameplay to represent the timing, in speed mode. Similarly, the color of the polygon corners change to drive players to follow the correct track, in sequence mode.)
+ 
+Targeted audience:
+ -Casual and Social Gamers.
+-Mind and speed Gamers.
+-Small children whose speed, accuracy, memory, control, response and focus is to be improved.
+-People seeking quick refreshments.
+-People wanting instant mind state check.
+ 
+Main Benefits:
+-Simple Gameplay.
+-Socially competitive environment.
+-Targets areas of mind that requires exercise to improve.
+-Mental response tracking.
+-A mechanical version board game can also be marketed.
+ 
+Platform: Android  
+
+

@@ -1,0 +1,40 @@
+TechUpTeam
+
+Submitted on:  August 25, 2015 - 10:28pm 
+ 
+Idea:
+ A learn with fun based entertaining quiz game to teach users programming and web development languages.
+ 
+Problem Solved:
+People faces many problem while learning programming languages. Problems such as,
+1) finding good platform to learn.
+2) codes and syntax seems boring. 
+3) development of logic to develop unique and good program.
+4) Learning through game will develop user memory power.
+ 
+Functions:
+ The app contains almost all programming languages like1. Assembly2. C3. Java4. C# and many more
+Web development,web  programming and database handling languages like1. HTML2. CSS3. PHP4. JavaScript5. MySQL and many more
+There will be notes in a side and in other side there will ba game to test user's skill.
+A hangman type game will be taken by user after studing each chapter or without reading chapters.
+If user answers wrong many times then game will be ended and user loses points. If user answers the questions correctly then he/she wins the point and will be granted to play in another topic.
+Good graphics of both game and chapters will be good which will not make app boring.
+ 
+Targeted audience:
+ Targeted audience are world wide.
+Students,Teachers,or anyone interested to code are the targeted audience.
+ 
+Main Benefits:
+The app we are going to develop is going to beninit users in various ways. They are:
+1) An attractive user interface game to entertain the user in his/her free time.
+2) While playing user learns new things/logics in programming and web development languages.
+Beside leqarning and playing, users can get many benifits like"
+1) Make own website.
+2) Develop career in coding.
+3) Start business and earn.
+4) Understand how computer works. 
+5) Learning through game will develop user memory power.
+ 
+Platform: Android  
+
+

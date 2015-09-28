@@ -1,0 +1,25 @@
+FairTransportation
+
+Submitted on:  August 26, 2015 - 8:36pm 
+ 
+Idea:
+ This app will estimate the transportation cost of total distance travelled by the user from their phone.
+ 
+Problem Solved:
+Many of us being cheated on the fair in taxi or buses. To estimate the cost according to the total distance travelled in not fair. Thus this app will solve this problem and gives an estimated fair cost of the transportation.
+ 
+Functions:
+ This will list the total distance travelled along with the entry and exit location and the route travelled using GPS so this app is useful while offline. This app provides the cost estimation using the official rate list for taxi or for bus for commers, students, senior citizens.
+ 
+Targeted audience:
+ This app is targeted to all those who like to travel but often get cheated by the drivers or conductors(Khalasi).
+ 
+Main Benefits:
+1. User can choose if he is travelling through taxi or by bus and estimate cost according to it.
+2. User will be listed rate list for common people, for students and for senior citizens and total distance travelled along with the entry and exit places are also shown.
+3. All the rate list will be according to the data provided officially so there will be no conflicts among the passenger and driver.
+4. If there is some issue with the cost they can immediately call Nepal Police.
+ 
+Platform: Android  
+
+

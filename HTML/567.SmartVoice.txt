@@ -1,0 +1,32 @@
+SmartVoice
+
+Submitted on:  September 19, 2015 - 9:37pm 
+ 
+Idea:
+ app that  on voice command does calling, pick a call in loudspeaker,sending message and check  receivied messages from.
+ 
+Problem Solved:
+this app makes smart decision as instructed by users voice commanded such that user can access smart phone without even touching it
+ 
+Functions:
+  app works in background of phone  as long as voice command matcheswith   users voice
+for quick calling,pick a call in loudspreak,send draft message whenever user in mode  and check receivied message from particular peple 
+ 
+Targeted audience:
+ disabled people
+those who have been literally disabled from on going earthquake for such people ,can access  phone at least for calling or receving and check messages from particular person's phone number  through only voice command
+illiterate people:developing countries like Nepal has lot of
+illiterate people  who cannot even pick up the phone or call the  specific person they love but with this app it is possible
+ 
+Main Benefits:
+ 
+1.utilisation of phone in even difficult situation such as for handicapped people 
+2.too busy to answer phone even in unfavourable situation like, unable to pick the phone while taking bath this app makes favourable at that time just by voice 
+command 
+3.set to quick call without touching the phone
+4.quick send draft message by setting voice command
+5.Illiterate people can use smart phone through voice command
+ 
+Platform: Android  
+
+

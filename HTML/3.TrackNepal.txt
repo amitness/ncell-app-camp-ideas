@@ -1,0 +1,29 @@
+TrackNepal
+
+Submitted on:  September 19, 2015 - 10:57pm 
+ 
+Idea:
+ This helps to track all pathway of Nepal through available vehicles with their stations & cost required to reach one's desired destination.
+ 
+Problem Solved:
+This application will solve problem for people who are unknown about the pathway to reach their destination with vehicles and stations of vehicles in Nepal especially tourists with exact amout of cost/fair which can save one's time. 
+ 
+Functions:
+ Total Distance of destination.
+Route highlight of destination. 
+Charge taken by public vehicle to reach one's destination.
+Stations of all available vehicle’s.
+Finally, Information of Transportation agencies of Nepal.
+ 
+Targeted audience:
+ Targeted audience are public of Nepal and tourists visiting Nepal. 
+ 
+Main Benefits:
+User can track their destination effectively via path highlight function.
+Stations can be pointed to nearest area of user. 
+Fair/cost required can't be manipulated through our cost charge details for evey vechiles.
+User can get transportation agencies information in detail.
+ 
+Platform: Android  
+
+

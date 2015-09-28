@@ -1,0 +1,22 @@
+Amb+
+
+Submitted on:  September 13, 2015 - 7:33pm 
+ 
+Idea:
+ App to find the nearest-vaccant-Ambulance, so that people need not to wait for the one they have called , because every few second matters.
+ 
+Problem Solved:
+it may save time, save lives either.
+ 
+Functions:
+ it will make contact between ambulance-hospital-patient.
+ 
+Targeted audience:
+ people of all different ages...... simply injured/casualties/health-patients
+ 
+Main Benefits:
+it may save time, save lives either.
+ 
+Platform: Android  
+
+

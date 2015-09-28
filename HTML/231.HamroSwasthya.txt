@@ -1,0 +1,30 @@
+HamroSwasthya
+
+Submitted on:  August 29, 2015 - 10:37am 
+ 
+Idea:
+ This app mainly focuses on giving informatoin about heath related problems with their diagnosis and remedy. 
+ 
+Problem Solved:
+This app mainly solves the problem of getting health related information of any type. This app will give you the detail information about the type of health problems or health related disorder you are having. It also lets you know about the possible causes or reasons of the disorder or the disease you are having let you know about how to cure the illiness wheather it is by taking home made remedies or by taking the best medicines available in the local market or by visiting the best medical store. For some patients who need only the specific type of medicines it also gives the idea of the composition of the medicines that you are consuming making it easier for removing the confusions about what type and what composition of medicines you are consuming. Depending on the case of illiness it also prescibes you the best medicines.
+It solves the problems of taking the medicines i.e it gives the direction for taking medicines( before and after food, before sleep etc). It also gives the time interval for taking medicines i.e 6 hrs interval 12 hrs interval along with an reminder feature of giving you idea at what time to have that sepcific medicine.Apart from that it also warns you about the possible problems that may arise due overdoses of the medicines also letting you know about what things are to be avoided and what not during the period of sickness. Along with that it also gives you the possibility of locating a medical store and hospital near by your place along with the list of health services available in that hospital. Furthermore it also lets you know about the prices of hospitals and the fees of the doctors in that hospital and the prices of their available services there. Moreover it also suggets you the best place for you treatment for e.g it you are having problems related to cardiovascular system then it suggests you to visit Shaid Gangala Memorial Hospital, Basbari along with their contact address.
+ 
+Functions:
+ Help to choose best medinies for the disease along with the course of medicine to be taken making it easier to cure the disease in best possible way.
+ 
+Targeted audience:
+ This app is targeted for all the people who want to know about their heath related problem and best possible way for getting cure. 
+ 
+Main Benefits:
+1. The user can have idea about the type of disorder they are having and possible causes and reasons for their disorder.
+ 2. The user can know about the types of medicines they can consume for the type of illiness.
+4. The user dont have to worry about the time to take the medicine its unique alarm feature will let you know when to have medicine.
+5. The user can know about the side effects and problems from consuming overdose of medicines.
+6. The user can know about the best possible way for curing the disease.
+7. They can know about the availability medical stores and hospitals near by their place.
+8. The user can get to know about which hospital for the best possible treatment of the disease.
+ 
+ 
+Platform: Android  
+
+

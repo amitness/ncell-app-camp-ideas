@@ -1,0 +1,32 @@
+BoulderDash-Aakaar
+
+Submitted on:  September 17, 2015 - 6:50pm 
+ 
+Idea:
+ A game where you play a boulder that rolls down an infinite hill avoiding the obtacles with various poweups
+ 
+Problem Solved:
+Boredom and craving for challenge in people
+ 
+Functions:
+ -a game has 3d view of the sloping hill with a small boulder
+-the boulder starts to roll down and increases in size gradually
+-there are various obstacles that it needs to avoid which the user does by tilting his mobile phone
+- game can incorporate various game dynamics like (ramp for jumping, slides, immunity mode, sppedups etc etc)
+-level can increase with increased difficulty in maneauvering and frequency of obstacles etc
+concept art:
+https://www.dropbox.com/s/edv0epfk06yjwuj/boulderdash.png?dl=0
+ 
+Targeted audience:
+ mobile gamers who like infinite runner games like temple run , flappy bird and  such
+Those who like simple games but can be played indefinately with various levels and upgrades
+ 
+Main Benefits:
+-It will provide them with challenging obstacles with great game dynamics to allure the playes to the game for hours.
+-Their obstacle avoidance reflex will increase.
+-They will feel happy playing the game
+-There will be positive feeling of achievement
+ 
+Platform: Android  
+
+

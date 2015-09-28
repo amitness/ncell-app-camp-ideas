@@ -1,0 +1,22 @@
+AfairyCoderIndependentme
+
+Submitted on:  August 30, 2015 - 5:37pm 
+ 
+Idea:
+ Foreign will pay the correct price for what they are buying and public transportation will be available to every nook digitially.
+ 
+Problem Solved:
+Many foreign are charged high for travel fairs, Handicraft product. They dont know if they are being charged a good price for what they are buying. Taxi fair is charged beyond limit. Using public transportations is a chalange .They dont have idea where and when to get on and off. Our app will be help to tackle the both.
+ 
+Functions:
+ key features. 1.Online information regarding price of tourist produce(Selected and popular one) including travel fairs. 2.gps neviagation for searching destination. 3.A complete Interface of kathmandu and pokhara map with top listed tourist ares where user can chose a shortest path for jouney. 4.gps neviagation for local transportation getting off to destination accurately and areas to get a local vehicals digitially. 5.gps naviation for taxi fair where distance is automatically meaured with high accuracy and providing travel cost in neplese currency.
+ 
+Targeted audience:
+ National and International Tourist. mainly, Tourist from outside the country are prioritized. They can save money , time and enjoy on their own. beyond that local nepalese people can also be benificial interms of online map, local bus station routes.Mainly pokhara and Kathmandu are focused.
+ 
+Main Benefits:
+1. User will pay the correct price for what they are buying. 2.Specific handicraft product ,tools for treeking, travel agency will be available on a single touch with less effort and at a true specific cost. 3.They can enjoy local transportation . Cost will be definitely will be low. 4.Can chose the shortest path to destination from present location. 5.No need to pay seperate amount for guide.Dependent on their own with all the information on the hand 6.Time is the main essense . It is saved and managed.
+ 
+Platform: Android, iOS  
+
+

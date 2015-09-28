@@ -1,0 +1,34 @@
+Nepal360
+
+Submitted on:  September 17, 2015 - 7:25pm 
+ 
+Idea:
+ Gives a 360 panaromic view of various beautiful places in Nepal from different angles for online viewing and especially for alluring tourists
+ 
+Problem Solved:
+Solve the delima of chose of traveling to different places.
+It will help lure tourists to various different places.
+tourists will then want to visit such places, thus it will help tourism.
+it will also help popularise the place and eventually the country due to virtual tourism.
+It will help those who cannot actually travel to the places to bath in natural beauty of our country.
+ 
+ 
+Functions:
+ provide various popular and not so popular destinations which can be choosen and seen from different points and angles.
+each selected point will have 360 degree panaromic view of the place form that point
+it will utilise the gryo of the mobile to help users see the place thru the window of their phone
+they can zoom in and out and go to different points aroung the place and along the route and take in the beauty of the place.
+ 
+Targeted audience:
+ National and international tourists
+who want to travel Nepal and want to go to the place of their liking. and would like to know the place before they decide to visit.
+guides and conslulting agents for tourists.
+ 
+Main Benefits:
+It will help tourists choose places for their travel and decide if that is the places that they wouldl like to visit
+With the rotatable panaroma, it will give the user the feeling of being in the place.They can know beforehand how the place looks like and get the overall feeling for the place.
+They can travel virtually to places from their own room and look around and get a 360 panaromic view.
+ 
+Platform: Android  
+
+

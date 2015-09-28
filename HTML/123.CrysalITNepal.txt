@@ -1,0 +1,23 @@
+CrysalITNepal
+
+Submitted on:  August 17, 2015 - 2:33pm 
+ 
+Idea:
+ To provide the facility to calculate and maintain the records of different services like telephone bill, electricity bill, drinking water bill etc.
+ 
+Problem Solved:
+User can calculate to pay and maintain all the records.
+ 
+Functions:
+ It provides to enter the current values and date, after which the application calculates total amount itself and provides facility to save. also to know the rates and calculation method. later it can provide facility to pay all the bills by this app using credit card or e-banking service or any online pay service.
+ 
+Targeted audience:
+ All the user who maintains the financial transactions at the home or office.
+ 
+Main Benefits:
+User can make the plan of budget and check the previous records for any mistake later.
+after the implementation of payment system it makes easy to pay all the bills from anywhere anytime.
+ 
+Platform: Android  
+
+

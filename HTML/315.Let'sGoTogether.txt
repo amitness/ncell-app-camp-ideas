@@ -1,0 +1,22 @@
+Let'sGoTogether
+
+Submitted on:  September 19, 2015 - 9:30pm 
+ 
+Idea:
+ An app which connects the person in need of a ride with a driver/rider with their own vehicle who has common route as the user
+ 
+Problem Solved:
+Every person who uses a public transport in Kathmandu is well aware of the over crowded and slow transportortation systems. Specially during the office hours, it becomes very tiring and exhausting to travel in the public transportation. Our app will connect the person in need of a ride with the vehicle owners and the person using the service can pay some fare to the vehicle owner after reaching their destination. This way the person can reach the desination faster and can avoid the over crowded and slow bus service.On top of that this app will let other private and public vehicles owners and taxi owners to list their service along with their gps location so people in need of taxi's and transport service can track them and make contact for the service.  
+ 
+Functions:
+ Riders/Drivers can list their information and route in the app. Users will browse through the list about the drivers/riders and they can request the ride with the appropriate match. Drivers will get the notification from the user as a request to ride and if they want to give them ride they will accept their proposal and be on time at the destination proposed. When the rider/driver drops off the person on their destination, the user will have to pay the fare as specified by the rider/driver on the app and they can give each other ratings based on their interaction and service.Every rider who provides their copy of Bike/Car license document on signing up will get the verified icon on their profiles. So the user requesting the ride can decide to request the ride or not. Riders getting very bad reviews and ratings will be automatically disabled from the system and will not be able to give ride to the users. 
+ 
+Targeted audience:
+ The main target audience of this app are those people who have to use the public transportation, specially during the office hours. Instead of waiting for the over crowded bus, they can simply browse through the list of riders/drivers who are going towards the same destination and simply give them a call via app and get a easy ride with them. Another group of audience can be taxi owners or any kind of private vehicle owner who can list their service along with their location so people in need of their service can make contact. 
+ 
+Main Benefits:
+Users can have a very pleasant and fast ride to their destination. On top of that, users with their own vehicle can sign up as a rider/driver and earn some extra cash by dropping people off at their destination. Taxi drivers can sign up and notify about their location and people in need of the service can make contact to the taxi driver and use the service. 
+ 
+Platform: Android  
+
+

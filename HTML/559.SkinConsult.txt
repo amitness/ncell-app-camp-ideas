@@ -1,0 +1,22 @@
+SkinConsult
+
+Submitted on:  August 20, 2015 - 11:22pm 
+ 
+Idea:
+ Diagnose and treat skin diseases through pictures posted in the app with few information including parient particulars, symptoms.
+ 
+Problem Solved:
+Diagnose and treat skin diseases without visiting hospital.
+ 
+Functions:
+ Picture of a skin problem, mention symptoms, site of body involved, patient age, gender.
+ 
+Targeted audience:
+ Health care professionals (mbbs, health assistant, nurses) working in remote areas as well as general public.
+ 
+Main Benefits:
+Helps in diagnosis and treatment of skin diseases specially for patients and even health care providers in remote areas.
+ 
+Platform: Android, iOS, Windows phone  
+
+

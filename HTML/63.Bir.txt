@@ -1,0 +1,26 @@
+Bir
+
+Submitted on:  August 23, 2015 - 10:37am 
+ 
+Idea:
+ App that help you to find out the information about the relationship and bio-details of the member in the family chain or herity.
+ 
+Problem Solved:
+It's been really hard to knew the relations and relationship status in the herity family due to the lack of communication and in result, our relationship get lost with our ancestors.
+So, our app can solve this problem by providing suitable platform to place family records in systematic way.
+ 
+Functions:
+ It help user to find out the information ( relationship, contact, address, location, email etc. ) about members in a family chain.
+ 
+Targeted audience:
+ Anyone can use this app, as specially targeted for family members.
+ 
+Main Benefits:
+1. Herity can be found, as all the family members can live in a good relationship by being in touch with everyone in a family chain.
+2. Members can get bio-details of any members in his/her herity family.
+3. It play an important role for reminding an important date like birthrate, anniversary with in family chain.
+4. Relation status can be pointed out based on any member in a family chain.
+ 
+Platform: Android  
+
+

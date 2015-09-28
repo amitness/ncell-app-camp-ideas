@@ -1,0 +1,30 @@
+QuizNepal
+
+Submitted on:  August 26, 2015 - 4:05pm 
+ 
+Idea:
+ Competitive challenging  brainy game, from simple GK to tricky questions to coding challenges
+ 
+Problem Solved:
+Personally, I dont find challenging brainy stuff happening regularly in Nepal, Its not fun to join Global stuffs.
+A platform to play, challenge, use brain, test memory, as well as fun, all at once is missing, just trying to sum all
+ 
+Functions:
+ #train the brain
+#take part in competition
+#compete with friends
+#organise a competition
+#levels and scores
+#winners and more
+ 
+Targeted audience:
+ any who are interested in solving problems, finding tricky solutions, loves challengine brainy stuffs
+(interested once can join us on fb page > https://www.facebook.com/quizdaily.nepal)
+ 
+Main Benefits:
+#1. Standalone application> Gives a way to be part of competitive games, helps one in increasing IQ, GK and thinkability
+#2. platform > helps community or organisations like schools, colleges or tv competition to organise quiz like question based games/competition
+ 
+Platform: Android  
+
+

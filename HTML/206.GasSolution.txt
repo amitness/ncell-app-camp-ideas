@@ -1,0 +1,33 @@
+GasSolution
+
+Submitted on:  August 23, 2015 - 12:04pm 
+ 
+Idea:
+ An android app which displays the current gas cylinder rate and sends gas cylinder request to desired gas cylinder providers.
+ 
+Problem Solved:
+ 1. Roaming different places in search of gas cylinder providers.
+2. Fraud in the name of availability of gas cylinders.
+3. No business in strikes specially called as 'Banda'. 
+ 
+ 
+ 
+Functions:
+ 1. To display the present gas cylinder rate all over Nepal.
+2. To search all the nearby gas cylinder providers within the range of 5 km distance.
+3. To directly communicate with the gas cylinder providers. 
+ 
+Targeted audience:
+ People all over the country who are facing the problem of gas cylinders. 
+ 
+ 
+ 
+Main Benefits:
+1. Users can search all the nearby gas cylinder providers anytime anywhere.
+2. Users can receive information about the present gas cylinder rate all over nepal.
+3. Users can directly communicate with the gas cylinder providers.
+4. Most importantly, business is not affected during 'Banda' (s).
+ 
+Platform: Android  
+
+

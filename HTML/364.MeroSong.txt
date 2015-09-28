@@ -1,0 +1,28 @@
+MeroSong
+
+Submitted on:  September 10, 2015 - 5:31pm 
+ 
+Idea:
+ An android app which helps to record your voice with track of your favourite songs.
+ 
+Problem Solved:
+Most of the singing lovers want their song to be recorded. Actually, money matters. This idea solves the problem. This is a great entertaining app which helps you to record your voice with numbers of your favourite music tracks.
+ 
+Functions:
+ 1. Users choose a music track from numbers of available music tracks on the main page.
+2. After selecting the desired music track, users can start playing the track and record along with the music played.
+3. Finally, the recorded song is saved in the device's storage.
+4. Users can also play the recorded song from the same app and share it to different social networks.
+ 
+Targeted audience:
+  
+Singing lovers all over the world.
+ 
+Main Benefits:
+1. Users can view a lots of music tracks in a single click.
+2. Users can record their voice along with the music track played.
+3. Users can also play their recorded songs from the same app.
+ 
+Platform: Android  
+
+

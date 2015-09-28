@@ -1,0 +1,26 @@
+PuzzleTime
+
+Submitted on:  September 8, 2015 - 6:28pm 
+ 
+Idea:
+ Give user puzzle as a form of entertainment which in turn let's you know how smart you are.
+ 
+Problem Solved:
+People are using their brains less everyday(They use calculator to solve the most basic math problems.). Gives user interactive puzzle to solve which helps users sharpen their brains.
+ 
+Functions:
+ User can find how smart they are based on the score calculated.
+The app gives user ideas about how to solve the puzzle which in term helps them how to think.
+Scores are posted on a score board where users can compete against each other.
+ 
+Targeted audience:
+ People who want to become smarter/ People who think they have become dull.
+ 
+Main Benefits:
+User can become smarter by using their brain on solving the puzzle.
+User can find out how smart s/he is based on time taken to complete the puzzle and other conditions.
+User can learn to tackle problems from different perspective as puzzle gives must be looked from different perspective.
+ 
+Platform: Android  
+
+

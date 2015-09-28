@@ -1,0 +1,22 @@
+WRCroboDisasteralertsystem
+
+Submitted on:  September 16, 2015 - 7:01am 
+ 
+Idea:
+ The app will provide awareness about disaster, notify the user about current disaster (like flood, earthquake, landslide) with location based services
+ 
+Problem Solved:
+the app will reduce high cost for disaster management programmes with awareness and will also help user to know about the disaster that is happenning or is going to exist in near future.
+ 
+Functions:
+ The location based disaster alert system, real time notifications about disaster conditions, android application for android device users and GSM based services for non- android phone users.
+ 
+Targeted audience:
+ All the people using the app can benefit. however the target audience will be nepali residents.
+ 
+Main Benefits:
+User can get awareness about disasters. they can also make better plan to minimize the risks of disasters as users will get notification a bit earlier than the existence of disaster (For flood and landslide only).
+ 
+Platform: Android, SMS  
+
+

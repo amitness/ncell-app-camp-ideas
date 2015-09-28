@@ -1,0 +1,24 @@
+LocalBhaau
+
+Submitted on:  September 20, 2015 - 11:10am 
+ 
+Idea:
+ An app which shares the price of local products like vegetables,fruits etc.
+ 
+Problem Solved:
+It helps to give the cheapest price of the product. A customer can share the price of the product he just bought.( products are fruits, vegetables, grains) etc.
+ 
+Functions:
+ Details of the product prices
+Grocery planner.
+ 
+Targeted audience:
+ Customers, Local people.
+ 
+Main Benefits:
+The user will get to know the price.
+No conflict in price.
+ 
+Platform: Android  
+
+

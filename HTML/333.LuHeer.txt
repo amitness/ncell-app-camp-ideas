@@ -1,0 +1,24 @@
+LuHeer
+
+Submitted on:  September 20, 2015 - 10:37am 
+ 
+Idea:
+ This app helps to make friend while visiting new places and notify if old friend is nearby.
+ 
+Problem Solved:
+making friend online is easy but making one in real life in new places is difficult.
+ 
+ 
+Functions:
+ use existing wifi , mobile hotspot, gps
+ 
+ 
+Targeted audience:
+ all who can use smart phone
+ 
+Main Benefits:
+easily make friend, get help
+ 
+Platform: Android  
+
+

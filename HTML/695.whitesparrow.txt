@@ -1,0 +1,30 @@
+whitesparrow
+
+Submitted on:  September 1, 2015 - 12:28am 
+ 
+Idea:
+ This app provides instant public review of the things users want to buy or know about, just by taking picture of the product from their mobile phone.
+ 
+Problem Solved:
+ 
+when we need to buy something like books or electronic products we have to go through various brands, titles which we sometimes had never heard about. Its quite difficult to decide which one is good.
+        This app solves the problem of buying unproductive things by letting users know other people opinions on that product. It also saves valuable time and money of the users.
+Apart from this, the app also shows prices in different stores. so users can easily access to that shop and get their products in economical price.
+ 
+Functions:
+ The main function is to help users to see the reviews from other users. It engages both the users and reviewers. It shows the real time review of the product by just clicking photos from mobile phone.
+ 
+Targeted audience:
+  
+Anyone who goes through day to day buying process Shopkeepers, Students, Teachers, local people.
+This app will be of much benefit to tourists who buy many valuable books and products when they are travelling.
+ 
+Main Benefits:
+It help users to invest their money confidently in the products they want to buy.
+It help users from Be Cheated in price as they can check the prices of products in different stores from this app.
+Also, users can switch to another alternative products based on suggestions in reviews.
+ Users can make valid decision and also give their reviews from this app.
+ 
+Platform: Android  
+
+

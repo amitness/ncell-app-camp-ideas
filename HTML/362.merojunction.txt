@@ -1,0 +1,56 @@
+merojunction
+
+Submitted on:  September 20, 2015 - 4:12am 
+ 
+Idea:
+ An app which give all in one information i.e:Transportation fares,Flight schedule, fuel,gold,money exchange,government office,rashifal and many more.
+ 
+Problem Solved:
+1. Update and Accurate info.
+ 
+2.  Fare of bus, Auto , Taxi and plane.
+ 
+3.  Provides Schedules of boarding plane,delayed plane information.
+ 
+4. Get Theater wise list of latest movies shows.
+ 
+5. Get location and Address of Government office.
+ 
+6. Provides Job And recent news.
+ 
+6. Hospital, Ambulance,Blood bank, Air lines,Fire Brigade contact no and i     info.
+ 
+7. Update and Accurate value of Gold, Share market and fuel.
+ 
+ 
+Functions:
+ 1. Bus,Auto and taxi fares.
+
+2. Plane fares and Flight Schedule.
+3. Government office info.
+4. Emergency number.
+5. Money exchange
+6. Gold and silver
+7. Fules
+8. share market
+9. Movies Showtime and price.
+10. Job and Breaking News
+11. Loadsheding
+12. Calendar
+13. Rashifal
+14. Date Converter
+
+ 
+ 
+Targeted audience:
+ Every Human beings..
+ 
+Main Benefits:
+1. All in one information app.
+2. Not need to install multiple app.
+3. Auto update and accurate.
+4. Time saving .
+ 
+Platform: Android  
+
+

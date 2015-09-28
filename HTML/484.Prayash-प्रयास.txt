@@ -1,0 +1,43 @@
+Prayash-प्रयास
+
+Submitted on:  September 8, 2015 - 3:59pm 
+ 
+Idea:
+ Plea different facilites for patients undergoing different medical condition and help them generate campaigns and organizational interests.
+ 
+Problem Solved:
+(Story about the app idea(This part can be Skipped): When we went to meet kids in the oncology ward at Kanti bal aspatal we had a little chit-chat with the parents there about their problems here. Most of them were from outside valley and their major concern was accomodation as the hospital had less beds and increasing number of patients. They were searching for a cheap place near the hospital to live and continue treatment. As it was getting increasingly difficult to sustain eating hotel food and residing there and also continuing the cost-heavy treatment.
+1: Connect People/Organization who need help with the people/organization that are willing to help
+2:Help Health related Campaigns that need crowdsourced funds or similar needed things
+3:Promote Campaigns ideas and fund raising idea
+4:Help needy people through variable methods according to their need
+ 
+Functions:
+ - Creating Campaign / Database
+- Messaging/ Chat between helper and help seeker
+- Personal Profile
+- Campaign Feeds (Upvoting a Campaign) and Campaign completion    badges
+- Online Charity Shop // In app Purchase
+- Campaign in Focus
+- Gps to know about campaigns near you or help seekers near you 
+ 
+ 
+Targeted audience:
+ 1:People Coming to Cities for treatement from far away with accomodation and other facilites at affordable cost.
+2:People who need larger sum of money for a prolonged period of time for diesase that takes longer interval for treatment like Cancer and kidney failure.
+3:Youths who are trying to solve a problem.
+4:People and organization that are trying to help.
+5:People and organization who believe in giving.
+ 
+Main Benefits:
+-Help User plea for support 
+-Help other Users reach the ones that plea for support
+-Help User Join campaigns and crowdsource or Volunteer the campaign they like personally.
+-Help Users by promoting the campaigns they have listed and make them and their efforts seen.
+ 
+Online charity shop to sell t-shirts and other accessories to raise funds by ourselves which would also be a way to sustain ourselves.
+ 
+ 
+Platform: Android, Others(Web application)  
+
+

@@ -1,0 +1,25 @@
+doctoronlinefed
+
+Submitted on:  September 18, 2015 - 1:58pm 
+ 
+Idea:
+ Apps to trace the doctor where he is and hospital,clinic,pharmacy,nursing home,specialist,ambulance service with phone number.
+ 
+Problem Solved:
+My application would solve the problem to find doctor in an emergency case .
+It would give the details of specialist doctor or physican near their locality.It also find the hospital,clinic , nursing home ,pharmacy shop,ambulance service near their locality. 
+ 
+Functions:
+ This app has list down all the specialist doctors ,hospital,clinic , nursing home ,pharmacy shop,ambulance service nearby. 
+ 
+Targeted audience:
+ All nepali citizen who can save their patient life in short span of time in an enmergency case . 
+ 
+Main Benefits:
+easy to know the doctors,hospital,clinic , nursing home ,pharmacy shop,ambulance service who are available near their locality.
+easy to know the specialist who are available in their locality .
+easy to know the ambulance services near their locality.
+ 
+Platform: Android  
+
+

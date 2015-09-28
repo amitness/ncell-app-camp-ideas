@@ -1,0 +1,26 @@
+DinnerWare
+
+Submitted on:  August 20, 2015 - 6:13pm 
+ 
+Idea:
+ App to know nearby restaurants and their amazing deals and events you always wanted to go.
+ 
+Problem Solved:
+Searching a nearby restaurants is not an easy task because in order to find a suitable destination we need to have some references and that is when our app comes in handy, for choosing the best food destination according to your desire. You want the best dishes made, you can get it. You want the most economical place, you can get it. On top of that it is also necessary to not miss some events or offers they are providing which can be easily tackled by our app.
+ 
+Functions:
+ The app lists down the nearby restaurants and event based on the location users are in. The app provides detailed information of each restaurents which has its unique profile that contains the dishes, their events and offers and even an order can be made with the restaurants that digitize their data and has a link with we developers (that can be made). The entire database will be structured  uniquely such that the most trending places and dishes (on the basis of the app users captions) can be easily achieved along with other search modes. Using GPS and Google Maps, app can loacte nearby restaurents with their events being organised. 
+ 
+Targeted audience:
+ For college students who can save few bucks and enjoy the delicacies of restaurants. To people who are new to a place and want to enjoy a dish in an affordable place. Tourists who are not well known with places around to find the suitable food place. And to anyone and everyone who wants to get updated or refered to a good and better place to enjoy with food.
+ 
+Main Benefits:
+1. Easy to locate restaurants and events nearby where you are.
+2. Easy to locate restaurents where the dish you want is being served or is economical to you
+3. Easy to learn about trending places and trending dishes
+4. Share your thoughts on which place is better and why, using a share caption among the app user
+5. Easy to get updates about the food world around you. 
+ 
+Platform: Android  
+
+

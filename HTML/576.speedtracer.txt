@@ -1,0 +1,34 @@
+speedtracer
+
+Submitted on:  August 21, 2015 - 5:06pm 
+ 
+Idea:
+ can track your vehicle real time loaction and speed(read from vehicle speedometer) .
+ 
+Problem Solved:
+Monitoring vehicle's location and speed is a difficult task for traffic and vehicle owner. Our app will help to monitor vehicle's real time location and speed which as a result will help to minimize the rate of road accidents due to overspeeding vehicle . As far as normal users are concerned they don't have to spend more time waiting for particular vehicle in bus-stop.
+ 
+Functions:
+ To get speed of vehicle from vehicle's speedometer.To show vehicle's current location to traffic and owner.
+Tools require to our system :
+1. arduino uno (ATMEGA16 microprocessor),2. android device (One at every vehicle and other at user side ),
+3. vehicle speed sensor (if we want to use our own speed sensor's signal rather then vehicle's speedometer speed signal ).
+4. HC-05 bluetooth module.
+5. server / space on cloud to host our database and webservices.
+ 
+ 
+ 
+ 
+Targeted audience:
+ 1. Traffic for tracking vehicle location and it's speed.
+2. Owner for tracking their vehicle's location and it's speed.
+3. Public to know the expected arrival time  nearby public vehicle.
+ 
+Main Benefits:
+1. Help traffic to track overspeeding vehicle.
+2. Help vehicle owner to monitor their vehicle whereabout.
+3. Help public to know the expected arrivial time and current location of nearby public vehicle.
+ 
+Platform: Android, Others(Web)  
+
+

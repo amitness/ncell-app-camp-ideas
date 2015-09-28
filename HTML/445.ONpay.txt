@@ -1,0 +1,26 @@
+ONpay
+
+Submitted on:  September 20, 2015 - 11:47am 
+ 
+Idea:
+ Online payment gateway for Nepali consumers and businesses.
+ 
+Problem Solved:
+It solves the payment problem in Nepal.Users can now pay through digital wallets online directly. The transactions are free of cost for both the consumers and merchants forever.
+ 
+Functions:
+ We top up credits from bank accounts and provide a platform to pay through digital wallet.Users can transact even in offline environment.We also provide totem which can be used to pay the merchants.Bills and utility payment,recharge card are also available in our app.
+ 
+Targeted audience:
+ We target the people using smartphones with internet connectivity.Teen agers and college students.
+ 
+Main Benefits:
+Users can securely pay the price for products and services.
+pay the utility bills.
+pay/borrow from/ their friends
+easy to use
+guaranteed refund for false transacactions.
+ 
+Platform: Android  
+
+

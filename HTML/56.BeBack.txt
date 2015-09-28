@@ -1,0 +1,22 @@
+BeBack
+
+Submitted on:  August 14, 2015 - 10:44pm 
+ 
+Idea:
+ App that allows people with hearing disability to contact specific persons through mobile.
+ 
+Problem Solved:
+Our app will help people with hearing disability to communicate through mobile beside video calling.
+ 
+Functions:
+ This app will generate sentences spoken by dialer so that call reciever can read the message on screen and can reply immediately vice-versa.
+ 
+Targeted audience:
+ Differently abled peoples.
+ 
+Main Benefits:
+1. Can use mobile to communicate
+ 
+Platform: Android, iOS, Windows phone  
+
+

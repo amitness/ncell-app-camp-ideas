@@ -1,0 +1,29 @@
+TheDeltaFinders
+
+Submitted on:  August 24, 2015 - 10:07am 
+ 
+Idea:
+ An application that shows the public vehicle fare within the country and allows ticket booking for long distance travel.
+ 
+Problem Solved:
+At times there arises serious altercation or even physical tussle between public vehicle traveller and vehicle staffs on the matter of fare.  There is even no uniformity among fare of vehicle of same route. Public traveller can use this app to verify the actual official fare through this app. Also the student discount rate are not properly conceded which this application will correctly show and help the public travelling students.
+People have to stay in queue for long time especially during festivals to book ticket, with this app public can book ticket easily on priority basis of booking time once the booking starts.
+ 
+Functions:
+ This app lets the user select the public vehicle route and displays the official fare rates.
+Gives proper calculation of fare after different discount offered to students, elderly people, disabled by the government of nepal.
+Allows to book ticket.
+ 
+ 
+Targeted audience:
+ Common public who travel on public transport. Public transportation offices can use it as a authentic application to show public notices to travellers and advertise their service.
+ 
+Main Benefits:
+Uniformity of the fare in all routes.
+No possibility of being tricked by bus staffs.
+End of long tussle to get ticket during festival in a tedious queue.
+Users get authentic information about the fare.
+ 
+Platform: Android  
+
+

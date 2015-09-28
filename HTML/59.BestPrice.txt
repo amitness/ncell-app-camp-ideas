@@ -1,0 +1,28 @@
+BestPrice
+
+Submitted on:  September 19, 2015 - 9:00am 
+ 
+Idea:
+ Best price for any product you want to buy.
+ 
+Problem Solved:
+It shows people the comparision between the prices from different online retailers for the product they are longing to buy and helps them to buy from the one with resonable price and good service.
+ 
+Functions:
+ The app shows the price of the searched product from almost all available online retailers and the user can sort them in ascending or descending order according to their price.They can also see the reliability of the retailer and the product throught other people's comment and their rating.
+ 
+Targeted audience:
+ -Everyone.
+-Man,women,adults,teenagers.
+-From normal gate keeper to CEO,presidents.
+-Just everybody who have need to buy anything.
+ 
+Main Benefits:
+-It saves their money by directing them towards the retailer with resonable price.
+-It also saves their time by helping them to do their shopping just from home or just anyplace they desire.
+-It protects them from scammer.
+-It helps them to buy last minute gifts for various occasions in an instant.
+ 
+Platform: Android  
+
+

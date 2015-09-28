@@ -1,0 +1,22 @@
+Noviny
+
+Submitted on:  August 31, 2015 - 10:22am 
+ 
+Idea:
+ An android apps where user can read all local newspapers  of Nepal.
+ 
+Problem Solved:
+Doesn't need to install separate newspaper Apps of publication company.
+ 
+Functions:
+ User can view daily newspaper and advertisement.
+ 
+Targeted audience:
+ Remote and Urban Area.
+ 
+Main Benefits:
+It will be common platform where user can view all publication company newspapers into single android  application as well as website application.
+ 
+Platform: Android, Others(Web Application)  
+
+

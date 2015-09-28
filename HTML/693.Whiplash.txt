@@ -1,0 +1,24 @@
+Whiplash
+
+Submitted on:  September 20, 2015 - 11:49am 
+ 
+Idea:
+ A fast-paced gesture based retro multiplayer game where players try to whip gems out of each other.
+ 
+Problem Solved:
+The app aims to attract casual gamers to experience the competitive multiplayer genre.
+ 
+Functions:
+ The game features multiplayer action, that means multiple players can join and immediately fight out with numerous other players.
+The controls will be gesture based which lets the player control his/her character with smoothness and precision.
+ 
+Targeted audience:
+ This game is intended for all those looking for fast action fun.
+ 
+Main Benefits:
+1. The speedy pace of the game and the gesture based controls allow the user to develop better in-game awareness and reaction.
+2. Players may be able to network and meet like-minded gamers.
+ 
+Platform: Android  
+
+

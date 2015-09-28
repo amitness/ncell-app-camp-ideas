@@ -1,0 +1,27 @@
+iMED
+
+Submitted on:  September 19, 2015 - 6:55pm 
+ 
+Idea:
+ Development of a mobile app for collaborating patients and doctors for health problems and prescriptions via internet. 
+ 
+Problem Solved:
+Reduce the problem of health patients who are unable to meet the doctors via physical appointment.
+ 
+Functions:
+ 1) Doctors/Patients can create their own profile (Where doctors need verification by their NMC reg no)
+2) Patients can search for doctors according to their problem/speciality
+3) Patients can submit their health problem details to the doctors whereas doctors can receive it and review the details, and give online presciptions.
+ 
+ 
+Targeted audience:
+ 1) All the Valid Doctors of Nepal (Verified by NMC)
+2) All nepali citizens especially people from far region who cannot meet top speciality doctors in City Areas.
+ 
+Main Benefits:
+1) Busy doctors can give health related adive via the application.
+2) Patients unable to reach the doctors can discuss their health problem via the app and recieve prescription online.
+ 
+Platform: Android  
+
+

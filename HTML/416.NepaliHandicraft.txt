@@ -1,0 +1,26 @@
+NepaliHandicraft
+
+Submitted on:  September 18, 2015 - 6:03pm 
+ 
+Idea:
+ Providing a medium to buy the original nepali product with minimum price
+ 
+Problem Solved:
+While buying Nepali handicrafts many tourists face problems such as very high priced products, quack product, etc. So the goal of our app is to provide information about product beforehand to make it easier for tourist to buy nepali handicraft. Its a one stop destination to buy nepali handicraf
+ 
+Functions:
+ E - Showroom
+ 
+Targeted audience:
+ - International tourist with less knowledge of Nepali Handicraft
+- tourist who have less time for window shopping
+- art lovers
+ 
+Main Benefits:
+- Providing info about all nepali handicrafts in a click of a button 
+- Genuine product with minimum price 
+- Online order (if possible delivery too)
+ 
+Platform: Android, Others(web application)  
+
+

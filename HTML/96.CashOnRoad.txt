@@ -1,0 +1,56 @@
+CashOnRoad
+
+Submitted on:  September 19, 2015 - 12:56pm 
+ 
+Idea:
+ You see deals/discounts scattered throughout the city on a map then go to those locations and grab them using the app before anybody else does.
+ 
+Problem Solved:
+Business-owners want to advertise their business as well as attract and retain customers.
+On the other hand, customers are looking for sweet deals on products they want. 
+Our app caters to both these groups, and helps them solve their respective problems in an engaging, competitive and fun way. 
+We envision it as a gamified advertising platform. 
+ 
+ 
+Functions:
+ 
+
+When you start CashOnRoad, you see a map with your current location and deals scattered around you.  
+
+
+You then need to travel to these locations and when you’re within a certain radius of the deal, you can grab it. 
+
+
+Deals appear as green dots, and they may also be moving. 
+
+
+The size of a dot is proportional to the amount of the discount offered.  
+
+
+There are also missions that you need to complete and puzzles you need to solve that give you access to bigger discounts. You might need to collaborate with other people to grab the biggest discounts.  
+
+
+If you get a discount that you don’t want, you can put it up for exchange in the app’s marketplace. Other people who have some other type of discount will contact you and you can exchange your discount with them.  
+
+
+You can log in with your Facebook account and brag about the discounts you just grabbed. 
+
+
+ 
+Targeted audience:
+ We’re mainly targeting urban youth who have smartphones and like playing games that have a social as well as competitive element.
+On the other side are business-owners who want a competitive edge and are willing to give out some discounts for customer acquisition purposes. 
+ 
+ 
+Main Benefits:
+For the business-owners:
+They get a lot of advertisement and an opportunity to get their name out there. It’s also a way to attract customers away from one's competitors by literally putting better deals on the map. 
+For regular people:
+It’s a fun way to grab great deals that appear on the streets. You can go to the shops and use these discounts. Or you can even exchange discounts you grab with other people in the app’s marketplace. 
+For the app creators:
+We’re essentially creating a fun and engaging advertising platform. We can charge business-owners for putting their deals on the map. It’s also a great way to generate customer leads for businesses. For example, if someone grabs a deal for a kurta salwar, but states in the marketplace that he's willing to exchange it for a laptop deal, we have a great potential customer for someone who sells laptops. These leads can then be sold. So, we can make money off of that as well.
+ 
+ 
+Platform: Android  
+
+

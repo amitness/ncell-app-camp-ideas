@@ -1,0 +1,27 @@
+HealthGuide
+
+Submitted on:  September 19, 2015 - 8:28pm 
+ 
+Idea:
+ A patients handbook with health profile, hospitals-doctors search, appointments, recommendations, locations, statistics, reminders & many more.
+ 
+Problem Solved:
+A patient will be seeking help and guidance by any means possible. Since there's a whole lot of choices and possibilites in the market. One may be confused with the best solution they can refer to; this is problematic.Health guide will be a medium where they can get recommendation according to their health issues. Best hospitals for particular issues, its details and the technology available. An interface to show doctors presence, qualification and thus make appointment. Furthermore, the app can show the closest hospitals/health centers using GPS and this can be a huge help for people away from the capital.Next, a problem we face day to day is keeping track of our own health; which meds to take? When to take? How many dosage left? Making statistics of temperature, blood pressure, LFT, Blood reports and more.   HealthGuide will be the solution for all such problems where a patient can store their personal health information, keep track of medicines; so they get reminders to be punctual and healthy. In addition, a patient can digitize reports hence keep record of their personal health.Lastly in the near future add a feature like real time interaction between doctor and patient. Add user reviews comments and rating for hospitals as a public voice.
+ 
+Functions:
+ > Give hospital-doctor information, location> Recommend best hospital-doctor for thier particular health issues.   (for example: tilganga hospital for eyes)> Make appointments > Blood donors information> Information of diseases, symptoms, causes, prevention and treatment. > Alarm and reminders (med tracker)> Statistic providers> Help me (for emergency cases)> Health news according to their interest> Personalized conversation with doctors> Public voice and rating for hospitals
+ 
+Targeted audience:
+ Our target audience would be specifically those with the health problems living anywhere in the country either the urban areas or the rural areas.For those who are seeking best option possible can get recommendation.For those who want - to keep track of their health reports.- to get medicine reminders.- to make a doctors appointment via the app.- to make queries to a particular doctor.
+ 
+Main Benefits:
+> Help patients to choose amongst the best possible hospital-doctor according to their health issues.
+> Knowledge about the hospitals-doctors and technology available.
+> Digitized health records
+> Save time and money 
+> Share queries personally 
+> Personalized med tracker 
+ 
+Platform: Android  
+
+

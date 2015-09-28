@@ -1,0 +1,22 @@
+CityCab
+
+Submitted on:  September 20, 2015 - 9:30am 
+ 
+Idea:
+ The idea is to connect the passangers and the nearby taxi drivers.
+ 
+Problem Solved:
+It makes it easier for people to find a taxi nearby. The possibilities are endless.
+ 
+Functions:
+ the main function is to collaborate with the Nepal Meter Taxi Assoication and to provide the seamleass taxi service for the costumers.
+ 
+Targeted audience:
+ Just about everyone in need of  a taxi.
+ 
+Main Benefits:
+users won't need to go out looking for a taxi after using this app. they can order the taxi right on their location.
+ 
+Platform: Android  
+
+

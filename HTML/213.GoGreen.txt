@@ -1,0 +1,38 @@
+GoGreen
+
+Submitted on:  September 11, 2015 - 10:22pm 
+ 
+Idea:
+ Make your home and surrounding healthier and greener .
+ 
+Problem Solved:
+-> inspiring people to "go green" right from their home.
+-> planting and gardening ideas .
+-> waste management and recycling tips .
+-> saving  water, electricity , energy techniques.
+-> help develope clean energy ideas .
+ 
+ 
+Functions:
+ Planting and gardening tips .
+Waste and recycling and reusing tips .
+Tips to save water and electricity and other resources .
+Tracking the   green and clean  habit  of user  and inspire to improve .
+And many more functionality step by step   , making it an app  for those who are looking for  all  in one "go green " " clean energy " , " resource saving "  and " recycling" 
+That is our dream about this project 
+ 
+Targeted audience:
+ Everybody who are concerned about making environment healthier and greener .
+Who loves greenary .
+Who needs tips and guidance  about saving bill of water , electricity and other resources .
+ 
+ 
+Main Benefits:
+-> Clean and Green Home.
+-> minimizing  water , electricity and other energy and resource usage.
+->Recycling wastes to make something good and scientific solution for waste management.
+-> Become  healthy and productive by making good environment in room , home ,office , yard , sorrunding so on ..
+ 
+Platform: Android  
+
+

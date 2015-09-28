@@ -1,0 +1,23 @@
+HamroBusapp
+
+Submitted on:  September 18, 2015 - 8:44am 
+ 
+Idea:
+ An app that details all the public transportation routes in the city.
+ 
+Problem Solved:
+It saves time and effort to reach your destination. It will also help increase public transportation use and decrease traffic congestation and hopefully, air pollution.
+ 
+Functions:
+ 1. Detail the bus routes that goes from your current position to your destination.
+2. Show you places  that can cater to your needs according to your purpose for going to your destination.
+ 
+Targeted audience:
+ Teenagers mostly. Those who don't have their bikes (or cars) yet. People new to the city. And people who are just plain bad at remembering things. Friend groups that do not have enough bikes to go for an outing. 
+ 
+Main Benefits:
+Users will save time and effort that can used for other purposes. Those who are new to the city don't have to be confused regarding how to reach their destination. Even those who have been living in the city for a long time don't have to be confused regarding how to reach their destination.
+ 
+Platform: Android, Windows phone  
+
+

@@ -1,0 +1,26 @@
+YatayatNepal
+
+Submitted on:  August 22, 2015 - 8:13pm 
+ 
+Idea:
+ In our app, you can get the location of running buses, their approx. distance and duration of arrival so that you can get ready to get the bus.
+ 
+Problem Solved:
+Where's the bus running? Is it running on schedule? Did I miss my bus? If I could have had my lunch instead of waiting here for 30 min? Now get the answers of these usual questions with our app.
+ 
+Functions:
+ The app will show the locations of buses based on the location of user and will provide approximated time and distance to reach to his/her stop.
+ 
+ 
+Targeted audience:
+ Middle-class people whose daily life is based on bus transport.
+Students and other officer who are always worried whether they had missed their college/office bus or not.
+ 
+Main Benefits:
+Passenger can save their valueable time which they use to spend waiting at busstop.
+They can get the location of their daily buses and know whether they have missed the bus or not.
+Bus committee can regulate their bus service efficiently.
+ 
+Platform: Android  
+
+

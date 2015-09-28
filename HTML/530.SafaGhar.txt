@@ -1,0 +1,24 @@
+SafaGhar
+
+Submitted on:  August 28, 2015 - 11:36pm 
+ 
+Idea:
+ maintaining the garbage system 
+ 
+Problem Solved:
+Now a days it has been great challenge to maintain the garbage system where ever it is either urban areas or the rural areas .this app will helps to maintain the garbage system and make environment clean 
+ 
+Functions:
+ There will be two login screen for the garbage collector and the customer .
+When the sign to the collector in done then the sceern contain  list of the customers ,theirs accounts and msgs of different messages will be appear from where the collector member can know about thier customers (as  remaining balances,their messages etc)
+when the user of this app is sign in to the customer then the screen containing the three elements (full,medium,empty) will appear along with the another extra elements that is sugestions (which will provide the information about the garbage  they can be resuse and how .after clickinng among full,medium and empty the message will b send to the collector .according to which the collector the go for the collection of the garbage 
+ 
+Targeted audience:
+ Intially this app is targeted for kathmandu and pokhara city..further more we will expand into different urban and the rural areas ..
+ 
+Main Benefits:
+We all know the most of the people are suffering from various disesase due to polluted environment which is the result of unmanaged garbage system.Taking an example of kathmandu city we have to face various problem while viisting the different places of this city because of unmanaged garbage system ..so after using this app user will know about the managing the garbage ...
+ 
+Platform: Android  
+
+

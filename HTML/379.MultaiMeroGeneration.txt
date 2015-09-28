@@ -1,0 +1,32 @@
+MultaiMeroGeneration
+
+Submitted on:  September 19, 2015 - 8:53pm 
+ 
+Idea:
+ Mero Generation is the app that keeps the records of your ansestors ,comming generation records and find the relation linked between different people.
+ 
+Problem Solved:
+1. Keeps the complete records of your ancestor.
+2. Adding the upcoming generation reocords for future use.
+3.One generation record is used for another generation.
+4. Shows all the linked people of your generation
+5. People can know from which chain we are connected
+6. Helps to find out the relation if you are the branch of same tree.
+7. Helps people to find out their relatives and family members
+ 
+Functions:
+ 1. Every once will know about their ancestor.
+2. It will  be helpful for comming generation people
+3. Find  how the people are connected if they are of same branch.
+4.  This app will be help ful from one generation to another generation.
+5. Helps people to find out their relatives and family members.
+ 
+Targeted audience:
+ All the people wants to know about their ancestor.  This application is useful for every people  to show they are linked with each other so that they can create good community and brings them together, sharing love, feeling of brotherhood and caring.
+ 
+Main Benefits:
+we can keep our ancestor records and this will be done from one generation to another. Short out the peoples whether they are linked up from which chain. Simillary we can find relation between peoples.
+ 
+Platform: Android  
+
+

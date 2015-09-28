@@ -1,0 +1,30 @@
+<Alerto!>
+
+Submitted on:  September 11, 2015 - 12:43pm 
+ 
+Idea:
+ An app that sends out alerts to close family, friends or personal doctor in case of any health emergency like labor, asthma or cardiac arrest.
+ 
+Problem Solved:
+Users do not have to fumble over the phone to look for contacts during health emergency and explain their situation. The app will have pre-written message for certain health problems the patients are facing. The user will simply prepare their message in the settings. During emergency, the user will simply open the app and tap the alert button to let the contacts know that the he/she is in trouble. This could be life-saving in some cases!
+ 
+Functions:
+ -Create custom alert message.
+- Alert contacts with the tap of a button. (SMS, Email, Facebook, Viber)
+-Add multiple contacts.
+-Add emergency numbers.
+-Geo-location tracking request and approval
+-Send out updates after emergency is resolved and share location of the hospital user is admitted to.
+- Clean design and easy to use.
+ 
+ 
+Targeted audience:
+ - Patients with chronic diseases, heart patients, pregnant women (basically everyone with recurring health problems or expect a health problem/emergency in the future)
+ 
+Main Benefits:
+-Users will be able to send out distress signals during emergency and get immediate medical attention with the push of a button.
+-They could update their contacts about their health scenario after receiving medical attention.
+ 
+Platform: Android  
+
+

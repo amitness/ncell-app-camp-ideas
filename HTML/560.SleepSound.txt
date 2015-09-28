@@ -1,0 +1,34 @@
+SleepSound
+
+Submitted on:  September 17, 2015 - 7:48pm 
+ 
+Idea:
+ It helps users to have a sound sleep by tracking various signals, and providing utilites and guidance towards better sleep
+ 
+Problem Solved:
+sound and healty sleep is a vital thing for a person's health. Lack of good sleep creates various helth problems in people.
+there are various causes of inappropriate sleep habit : some people cant get to sleep. Some snore during sleep. some stay awake for long working in computer. etc
+This application gives all the utilites and services of different aspects to help its users get good sleep.
+ 
+Functions:
+ it will track the ambient light for brightness during sleep. And notify to turn lights off if youre awake.
+It will periodically track snoring sounds and play alarm to notify to sleep in easier position.
+Play harmonious sounds which have beein scientifically proved to relax the mind and induce sleep.
+Calculate your sleeping and waking time by use of light sensor and ambient sound and give you suggestions.
+Calculate the period of yor REM sleep from the data and help to put alram at best hours so that you feel better when you wake at that moment.
+Provide various helpful tips for better sleep habits.
+ 
+Targeted audience:
+ People with diffifulty in sleeping.
+People with snoring habits.
+People with non routine sleeping routine.
+People who cannot wake up by the alram and experience sleep hangover.
+And general people who want to track their sleep and want to improve their sleep habits.
+ 
+Main Benefits:
+Users can maintain good sleep habits so that they remain healthy and become more productive in their daily life.
+Sleep disorder has been linked to hypertension, heart disease, fatigue, depression etc. Thus users can reap great benifits of better sleep.
+ 
+Platform: Android  
+
+

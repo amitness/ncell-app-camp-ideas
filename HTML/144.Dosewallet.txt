@@ -1,0 +1,32 @@
+Dosewallet
+
+Submitted on:  September 14, 2015 - 9:01pm 
+ 
+Idea:
+ A complete dictionary of the medicines you consume in your mobile with whole new dyanamics of what, how and where you buy your medicines.
+ 
+Problem Solved:
+The research shows that we tend to pay more than an actual medicine cost which exceeds from 25%-80%, we dont get the discounts available or know anything about the medicines we consume(specially medicine manufactured in local market) and even search engines like google or bing cannot retrieve all the medicine's information that user should learn about before purchasing medincines and users sometimes have difficulties finding the prescribed medicines and run to every store in every street which takes a lot of time. Taking a good look at these problems which we neglect most of the time, yet makes big difference in our life Dosewallet is developed to bring a little changes in people's life which will have great impact because Dosewallet helps users understand their dose better.
+ 
+Functions:
+ Medicine:
+                Dosewallet provide all the information about the medicines needed like price, side effects, substitutes (referred by doctors) and discounts that are available in the market.
+Location:
+                Dosewallet make sure users don’t get in trouble and waste a lot of time while searching for the medicines, so it locates all the nearby medical shops near users where the medicines they are searching for is available. Now, users don’t have to run into every street searching for medicines or purchase it in high price.
+Alarm:
+                Dosewallet will keep the record of users medicines as per their command and reminds them to take and purchase their medicines on time.
+ 
+Targeted audience:
+ Dosewallet covers all the people who consumes medicines(in the daily basis specially), since it awares people with all the information regarding medicines and saves them from paying high price then its actual price So our target the group of people who has to purchase medicines in bulk or consume in regular basis. Our targeted age groups is divided into 1-14, 15-45, 45 and above.
+ 
+Main Benefits:
+ 
+Dosewallet will benefit the users in the following way:
+·         Medicine’s information will be in user's pocket every time          including its price, discount and substitutes.
+·         Medicines can be easily searched nearby, just with one click.
+·         Easy to remember and purchase the medicine on time.
+·         No fear of losing prescription, it will always be in their pocket.
+ 
+Platform: Android, Windows phone  
+
+

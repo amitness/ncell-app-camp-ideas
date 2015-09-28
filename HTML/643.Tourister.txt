@@ -1,0 +1,22 @@
+Tourister
+
+Submitted on:  September 10, 2015 - 12:16am 
+ 
+Idea:
+ Upload photos of tourist sites and let other rate it. make group to visit top rated sites with contact information. Be top adventure lover.
+ 
+Problem Solved:
+Help to encourage tourist through photography and help them to take decision and friends.
+ 
+Functions:
+ Upload photo of tourist sites. Ranked them. Make Groups.Download photos that are shared.
+ 
+Targeted audience:
+ Whole world tourist.
+ 
+Main Benefits:
+Can upload photos and make group of common interest. can show their photography to the world.
+ 
+Platform: Android  
+
+

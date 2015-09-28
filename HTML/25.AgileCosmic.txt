@@ -1,0 +1,33 @@
+AgileCosmic
+
+Submitted on:  September 20, 2015 - 11:11am 
+ 
+Idea:
+ A game to ride bike in supersonic speed!
+ 
+Problem Solved:
+There are no proper bike racing games for android phones. We want to build a best mobile bike racing game.
+ 
+Functions:
+ Riding object: DIfferent Bikes
+Places:Differet locations in map
+Competitors: Other players, self record
+Mission: Finish all maps, be top of leaderboard, improve own record, collect coins , upgrade bikes , etc.
+ 
+The main element will be a motorbike. It will be used for racing. There will be several play modes like freestyle, competition ,city ride, etc. There will be traffic police in some modes. Controls will be from motion sensor and on-screen buttons. As the game progresses on, the bikes and locations will be unlocked. Bikes can also be upgraded. As the players improve their skills, they can compete with other players around world. Many events will be added from time to time and players can participate in them.
+ 
+ 
+ 
+Targeted audience:
+ All gamers who use android phones running capable android phones.
+From children aged 15 to old people, all can use our game for entertainment.
+ 
+Main Benefits:
+The benefits are:
+-Endless fun
+-Knowledge about traffic rules
+-Riding through various famous locations around the world
+ 
+Platform: Android, Others(Later in Windows 10 devices. (phone and laptops).)  
+
+

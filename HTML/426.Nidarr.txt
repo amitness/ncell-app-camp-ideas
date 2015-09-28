@@ -1,0 +1,38 @@
+Nidarr
+
+Submitted on:  September 17, 2015 - 1:14pm 
+ 
+Idea:
+ Nidarr is a self help app designed to provide secure and private platform to report gender based violence and access needed information instantly.
+ 
+Problem Solved:
+Nidarr is designed to cretae a platform where individuals especially women and girls can report any incidents related to gender based help and reach out for help immediately without the fear of being stigmatized or retaliated from their perpetators. 
+Nidarr will help the victims of GBV in reporting the incidents, seeking immediate help, and accessing needed information using cell phones. It aims to maximize the safety of vulnerable groups, women, girls, and children in the community. By downloading the tool on their cell phones individuals can easily report GBV, call and text for help, and access the information of the needed services in their area/region for support and help. Thus, Nidarr is a user-friendly and responsive tool designed to provide fast and direct reporting, and quick access to the service directory to mitigate GBV in an effective and efficient manner.
+ 
+Functions:
+ 5. The main functions of the application are:
+1. Geo-tagging via text message and reporting service: Every time the user sends a text message or reports an incident online, the application geo tags the user's current location and sends it to the receiver. There is no limitation on the number of people the user can send the message to.
+2. Geo-mapping of service: Through the application the users will also be able to access a service directory that contains information about the organizations and services working against gender based violence. A significant feature about this is that all the services are geo-mapped and the list appears based on near proximity of the user's location. For example, services closer to the user's location appear on the top of the service directory list.
+4. Direct calling from the service directory: Users can call the organization listed on the service directory directly through one click. The users will also be able to access brief information about the organization on their phone.
+3. Alert button: Alert person is an unique feature in the app. Users can set their Alert button to three different functionality based on their needs and preferences. The users can either set it to call a specific number, send texts to specific numbers, or set a false alarm to alert their surroundings.
+ 
+ 
+Targeted audience:
+ Our target audience is anyone who is the victim of gender base violence. However, it will be more useful to:
+●      Women, girls, minors and children
+●      Vulnerable groups including single women, displaced population, individuals with disabilities, and Dalits
+●      Population in lower socio-economic strata 
+ 
+Main Benefits:
+●      Individuals will be able to easily download the system on their cell phones and access information through the system
+●      Individuals can seek help by pushing only one button. Users can set the button to send a text, call to a specific number, or set a false alarm. This button delivers the set preference in one click
+●      Individuals will be able to seek immediate help in risky situations through phone call, text message, and online reporting
+●      When the user sends text messages and online reporting system the application geo-tags the user’s location and sends it to the receiver
+●      Individuals can covertly report incidents of GBV - minimizing society’s stigmatization and retaliation from the perpetrators
+●      Individuals can easily access information about various organizations and help groups working against GBV in their geographical region
+●      Collect and update information about services provided by various agencies working in GBV
+●      Track the actual location of the victim to facilitate rapid response/services 
+ 
+Platform: Android  
+
+

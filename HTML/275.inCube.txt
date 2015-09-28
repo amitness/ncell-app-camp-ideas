@@ -1,0 +1,41 @@
+inCube
+
+Submitted on:  September 10, 2015 - 4:36pm 
+ 
+Idea:
+ An App to guide and help tourists in different aspects of their journey.
+ 
+Problem Solved:
+Tourists, with them carry a lot of needs that are to be fulfilled during the travel. And on trying to realize those needs, they tend to face a lot of problems. So this is the kind of app that focuses on providing one-app solution to those general problems/obligations that the tourists come upon on their travel. Some basic problems the App looks into are:
+            - Booking/Rental
+            - Finding Information
+            - Maps/location
+            - Tour planning and packages
+ 
+Functions:
+ It is an one-app tour solutions. So,  the main functions and elements of this app tends to solve the general problems tourists face.
+-Service: Provide information (places, events)
+                 Booking/rental services (Hotels, transportations etc)
+                 Information sharing
+                 Tour planning, tour package selection etc.
+ 
+-Memory lane: Social networking has been a integral part of today's world. People have the sheer desire to share their experience and stories. So this app is also a networking platform for people who want to explore, travel and share. Memory lane allows user to share their travel photos and videos along with their stories and location. The app keeps track of the users movement and determines the route they travelled and also tracks the time along with location that makes syncing picture with location and time very easy. And it also allows the users to share their route. It provides registered users with "limited time-according to users travel plan" online storage facility for their pictures and videos that they take during their travel. It uses features like tags, follow, like, share, search and etc.
+ 
+-Online Store: The need of tourists to buy the local products as a souvenir or any other use at  a reasonable price without all the struggle is a problem. So this app also acts as online store for their convenience, where local suppliers can put their products and the buyer can buy and the  app acts as the  mediator. This will encourage e-commerce/m-commerce practice and also provide benefit to the local products.
+ 
+-Favorites: This app provides the ability to save any content or the information in the app by marking them as favorite. Doing so provides the ability to offline view the saved contents later on, whenever necessary.
+ 
+Targeted audience:
+ As this app can be a convenient travel guide and also a source of information, all the internal and external tourists and travelers are the targeted audience of this App.
+ 
+Main Benefits:
+Main benefits of the app:
+            - One-app tour solution
+            -Networking/Sharing
+            -Online store
+            -Informative
+            -User friendly and service oriented app
+ 
+Platform: Android  
+
+

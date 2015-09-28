@@ -1,0 +1,29 @@
+MediAPP
+
+Submitted on:  September 9, 2015 - 5:46pm 
+ 
+Idea:
+ Price and information(Ingredients) medicine for,address of pharmacies and hospitals(if possible even online register) near you.
+ 
+Problem Solved:
+People can understand the exact price of medicine and get the address of near by pharmacies.It helps to make the standarization of medicine and help to understant the purpose of medicine.People can contact nearby pharmacy and hospital which consume time even if possible we can make the online payment system for registeration in Hospital and time or visiting the doctors on certain hospitals.
+We can see the reviews of the medicine used by others and even doctors.
+Alert the patients in the right time for  taking medicine if they are on the Doc options of the app.
+ 
+ 
+Functions:
+ All the data of the medicine,hospitals,pharmicies
+User need only name and number to register
+They get alerts about the health program
+They can comment about the hospitals,pharmicies and medicine they used.
+ 
+ 
+Targeted audience:
+ Those who want to buy the medicine ,looking for the near by hospitals or pharmacy,want to know about the medicine its reviews from others
+ 
+Main Benefits:
+User can understand the standard price of medicine proper use of medicine,Can contact the hospitals nearby and can communicate with the doctors.
+ 
+Platform: Android  
+
+

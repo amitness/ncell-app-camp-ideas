@@ -1,0 +1,53 @@
+Ajambari
+
+Submitted on:  September 4, 2015 - 11:03am 
+ 
+Idea:
+ App that makes tourists familiar with Nepali culture (dress, food, festivals, dance and music).
+ 
+Problem Solved:
+Due to language differences, tourists usually find it difficult to communicate with Nepalese. Our app tries to bridge the gap to help tourists get familiarized with the Nepalese society and its culture. This application gives tourists basic information regarding Nepali food, clothing, festivities, cultural dances, music and artists.
+ 
+ 
+Functions:
+ 
+
+Basic information on Nepali culture ( food, dress,  dance, musical instrument and festival ).
+
+
+Pictures of the related food, musical instrument, dance and festival.
+
+
+In food section app provides the basic ingredients, communities it is special to (if any),  how it tastes ( spicy, sweet, etc), and where it can be found.
+
+
+In the clothing section, app provides the background, material of the clothes, place and occasion to wear them, and the places to find them.
+
+
+In the dance section, app provides the background, significance, occasion of dance and where it is performed.
+
+
+In music section app, provides information on the types of music, musical instruments and musicians.
+
+
+In festival section, app provides the history, significance of the festival, occasion and location of where it is celebrated.
+
+
+Users can rate and comment on the things they tried and those with higher ratings will be displayed as the things that shouldn’t be missed while in Nepal.
+
+
+Users can add things to their wish list and a checklist will be made out of the accomplished ones.
+
+
+ 
+Targeted audience:
+ Tourists (international and domestic)
+ 
+ 
+Main Benefits:
+Users can get information on Nepali culture. They can have idea on various types of food and dresses. So, they can try the food they like, experience festivals, go to places they find interesting and exciting.  For example, tourists can learn about Nepali dishes and can avoid very spicy dishes, or try the ones with interesting ingredients. They can learn about the history and value of various festivals, dances, music, popular musicians and musical instruments. They can know about the kind of music popular, musical instruments unique and special to the place, and the popular artists they might want to listen to. Users can plan what they want to try and create a list and rate them. Users get idea on the popular items based on ratings.
+ 
+ 
+Platform: Android  
+
+

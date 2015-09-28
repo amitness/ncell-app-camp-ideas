@@ -1,0 +1,28 @@
+WeCare
+
+Submitted on:  September 19, 2015 - 11:46am 
+ 
+Idea:
+ App to care about ourselves and bring us closer to the hospital and doctors.
+ 
+Problem Solved:
+Searching for hospitals nearby us, know about the medicines we are using, want to know which hospital/doctor to visit for the problems we are currently having, know about the time table for our medication, know about the blood donors around us in a single app. 
+ 
+Functions:
+ This is an app which tends to help the user to get the information about the the type of health service he/she is seeking.
+The main feature of function would be that every person might not have an idea what to do if he/she encounters any health related problems. For example a person might have some bumps on the skin of his face. This function would recommend him to visit a dermatologist and would give a bunch of options about the dermatologists/skin hospitals around the along with their details.
+ 
+Targeted audience:
+ Any normal person who is in need of health services inside the coverage area.
+ 
+Main Benefits:
+1. Search for the details about the hospitals nearby the user.
+2. Know the details about the medicines that the user is currently using which makes the user well aware about the details how he is being treated.
+3. Save the type of medication that the user is currently being given and get the regular notifications so that the user won't forget.
+4. Know the details of blood donors around in case if needed.
+5. The user might have some health related problems, answer some questionnaire and get a bunch of solutions for your problem.
+6. Contact the nearby hospital or ambulance service in case of emergency.
+ 
+Platform: Android  
+
+

@@ -1,0 +1,25 @@
+barajyu
+
+Submitted on:  August 16, 2015 - 4:20pm 
+ 
+Idea:
+ My idea is to implement the bluetooth bandwidth for making phone call and texting.
+ 
+Problem Solved:
+This application can solve problems by making contact (calling or texting)with the people in close range but out of human sight(eg: people in the jungle;people stucked under the house after earthquake;people lost in new place or kids lost in crowd can take advantage by calling there freinds and guardians respectively.Also; since the mobile cell is inclusive of bluetooth device; the network jamming or the absence ot telephone network is spared. 
+ 
+Functions:
+ The main features of this app are to make a call to nearby friends when we are lost in new place or in natural calimaty.
+ 
+Targeted audience:
+ I believe every people with smart phone are my target audience. Beacause there is a significant chance of people getting lost in new places or be in the natural calimaty where the mobile phone signal may or may not work.
+ 
+Main Benefits:
+The benefits of this app is:
+1.make contact(voice calling or texting) withe the people buried under the infrastructures like house.
+2.make contact with the lost child(assuming that the child has the android phone with this app installed) or adult person lost in new place.
+3.Provided that the range of bluetooth signal is roughly 10 metre; by using this app one can certify that the target person is not in the if the app shows no result.Hence the searching for the lost person is time saving and efficiant. 
+ 
+Platform: Android, SMS  
+
+

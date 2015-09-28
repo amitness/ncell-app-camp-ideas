@@ -1,0 +1,29 @@
+RubbleDodgerAR
+
+Submitted on:  September 20, 2015 - 7:26am 
+ 
+Idea:
+ Rubble Dodger is a 2D side scrolling infinite runner based on AR tech where your have to dodge rubbles and obstackes, compete with frns in social site
+ 
+Problem Solved:
+Combines the actual and virtual world to spend your leisure time and allows the user to share their screenshots and score to their social site for fun and competition. The game is based on Augmented Reality which is a completely new experience unlike present games where users can use their real environment for playing game, this  adds real and ynique experiece dor users playing game.
+ 
+Functions:
+ -Play offline anywhere anytime
+-Fun and addictive gameplay
+-Compete with your friends on social sharing sites
+-Customize your character with loads of skins, costumes to give it a unique look
+-Use different powerups to help through your adventure
+-Different achievements to aquire to keep gameplay engaging
+ 
+Targeted audience:
+ This app is targeted to all those people while like to have a quick gametime. This is also for those people who like to compete with their freinds.
+ 
+Main Benefits:
+-Ability to play offline anywhere anytime
+-Share your scores and compete with your freinds online 
+-Make your character you own by customizing it to the last detial.
+ 
+Platform: Android  
+
+

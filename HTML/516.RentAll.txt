@@ -1,0 +1,24 @@
+RentAll
+
+Submitted on:  September 17, 2015 - 12:42pm 
+ 
+Idea:
+ Find suitable room, flat, apartment etc. for and to rent at selected location, pay rent as well.
+ 
+Problem Solved:
+Finding suitable place to live or open office is hard in busy schedule, this app will search you a place that you are looking for at prior location with reasonable price.
+ 
+Functions:
+ This app lists the vacant spaces around for rent.
+Rent can be paid.
+ 
+ 
+Targeted audience:
+ Those who are searching for room, flats & apartment for living, business etc. And landlords looking for tenants
+ 
+Main Benefits:
+Easily locate vacant space that suits you and your budget
+ 
+Platform: Android  
+
+

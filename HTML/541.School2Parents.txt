@@ -1,0 +1,42 @@
+School2Parents
+
+Submitted on:  August 12, 2015 - 5:02pm 
+ 
+Idea:
+ School2Parents is the mobile app solution for communication between school administration and parents.
+ 
+Problem Solved:
+People nowadays are busy and they don't have a time to visit their pupil's school to grab information about their pupil's activities,attendance,academic performance,their fees to pay,events of their school,events their pupils are participating in and more.
+It wll be a easy solution for such people if our idea can be build.On the other hand,School administration can prove themself as a quality service provider among their parents since they are sending their pupil's attendance record,fees to be paid,activities, academic performance,school events and more information.
+ 
+ 
+Functions:
+ There are basically two  elements of our application. In other word our application have two clients. Web client and a mobile client. Web client is for the school so that it is easy to manage the datas  related to students, parents, fees, academic performance, events, attendance and more in a web server. It is for data entry. Web server stores all our data. Our mobile app communicates to the web server for data. Mobile app is for all communication purposes. School send the information through mobile app, but they manage those informations as a data through web app. Parents use mobile app for communication with school.
+ 
+Targeted audience:
+ *Schools
+*Colleges
+*Academic institutions
+*Parents(Any one who have their child as a student)
+ 
+Main Benefits:
+Our app have  benefits both for the parents and schools.
+For Parents:
+*Parents can know how much fee he has to pay for the current month
+*Parents can pay the school fee by mobile
+*Parents can know the academic performance of his or her pupil
+*Parents can know the attendance of  pupil
+*Parents can know the information about the school events and the events their pupil are participating
+*Parents can send the  absence  letter on behalf of his/her pupil to the school by mobile.
+*Parents can send the mesage to school regarding  fees to be paid late or a general message
+For Schools:
+*School can prove themself as a quality service provider among parents which can facilate to be at the top among school competitors
+*School  can manage the data of students,parents,fees,academic performance,events,attendance and more in a single system. 
+*School can send  the datas form the system to parents.
+*School can receive the parents letter on student's absence , fees to be paid late or a general message.
+*School can collect the school fees through the app.
+ 
+ 
+Platform: Android  
+
+

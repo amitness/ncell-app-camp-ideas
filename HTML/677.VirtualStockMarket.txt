@@ -1,0 +1,24 @@
+VirtualStockMarket
+
+Submitted on:  September 16, 2015 - 12:07am 
+ 
+Idea:
+ App to buy/sell stocks virtually and, learn the fundamental terms to evaluate stocks and process of buying/selling stocks in Nepal
+ 
+Problem Solved:
+Making some investments for future security is essential, but people are unaware of the process of buying stocks and the basic financial ratios that can help them select/purchase stocks of good companies, due to which many new investors in the market are cheated or bear loss while following the rumors. As a result of which, their journey in the stock market ends before even starting well, hence, they get demotivated to make further investments and pass on negative information about the market.      Our app will help users to know the legal procedure of buying/selling stocks and learn the fundamental financial ratios which help them select stocks of good companies. Furthermore, user can trade stocks in the Virtual Market.
+ 
+Functions:
+ 1. Bank Account - initially featuring one million rupees to all users, the amount from sales of stock and cash dividend are added while amount of the purchase of stock is deducted.
+This way user will gain profit or bear loss depending on their trading decisions.
+2. Demat Account - featuring all stocks that the user holds.   3. Broker Office - to buy/sell shares.   4. Market Depth - to view all (pending) buying and selling orders   placed by all users.5. Knowledge Center - it contains   a) knowledge of the basic financial ratios like Price/Earning ratio, Earning per share, Net worth per share,etc and process of evaluating stock.    b) knowledge of the basic terms of stock market like , Cash dividend, Stock dividend (Bonus share), Right Share, etc.    c) the legal procedures of buying/selling stocks in Nepal.     6. Leader Board - lists all users in descending order of their Net Worth, where Net Worth = present cash value of all stocks that the user holds + cash at bank     
+ 
+Targeted audience:
+ Youths/college going students who are said to be face of the nation. If they learn about the fundamentals of stock market at their early life then they can start making investments by saving their pocket money or a portion of their salary.          Many people are unaware of the benefits of investing in stock market. Warren Buffett (American investor, Chairman and C.E.O. of Berkshire Hathaway and also ranked as the third wealthiest person in 2015 by Forbes Magazine) started investing in stock market when he was 11 years old.
+ 
+Main Benefits:
+1. User can learn the legal procedure of buying/selling stocks in a very interactive way.       2. They can learn about the basic financial ratios in a interactive way with real life examples.       3. They can decide if the stock of a company is fundamentally strong or weak all by themselves.     4. User can learn to diversify their portfolio on their own without any expert advice. (Don't put all your eggs/investments in one basket, diversify investments, diversify risk.)            5. User can be familiar with the trends and fluctuations that effect stock market, for example : as soon as the fiscal quarter ends, companies start publishing their quarterly reports which effect price of their stock, either positively or negatively, depending on the performance of companies. 
+ 
+Platform: Android  
+
+

@@ -1,0 +1,30 @@
+GroupChess
+
+Submitted on:  September 19, 2015 - 10:50pm 
+ 
+Idea:
+ GroupChess as codename will be the Chess game/app playing by 1 certain group as singleplayer VS an/other certain group as per timeset for move piece/s
+ 
+Problem Solved:
+As already mark this app as in Games & Entertainment Category, surely for the fun but in a new way of chunking massive multiplayer gaming.
+ 
+ 
+Functions:
+ The new version here is majority group move of  piece/s will be valid as per time set by - in one single piece and if one IP player fail to move his idea piece/s in (set) time move be invalid. Even as the minority will be there even in same envn chessboard.
+Therefore it's all about game brain data creation.
+#chunking the time
+ 
+ 
+Targeted audience:
+ All the earth audience having internet (even slow) will be playing in a much waited massive multiplayer gaming as creating/entering  group as like:
+Country Group Vs Country Group ex:Nepal VS USA State Group Vs State Group Ethnicity vs Any other group Own Group etc etc we can name here in. May there be powerfull competition among countries people.
+ 
+ 
+ 
+Main Benefits:
+We know the world made under the vast competition, so be this app/game Chess be. We know the  benefits of the game Chess. If listed even more than these:-1. It can raise your IQ  2. It helps prevent Alzheimer's 3. It exercises both sides of the brain 4. It increases your creativity 5. It improves your memory 6. It increases problem-solving skills 7. It improves reading skills 8. It improves concentration 9. It grows dendrites 10. It teaches planning and foresight
+ 
+ 
+Platform: Android, iOS, Windows phone, SMS, Others()  
+
+

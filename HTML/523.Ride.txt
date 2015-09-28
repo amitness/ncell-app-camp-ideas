@@ -1,0 +1,23 @@
+Ride
+
+Submitted on:  August 14, 2015 - 2:38pm 
+ 
+Idea:
+ Rider will give you the bike ride service. Free bike user are notified by the app if anyone around the place need the bike ride.
+ 
+Problem Solved:
+Our app "Ride" will solve the hesitation of uncomfortable and time consuming bus service to the people who quickly needs to get to another place. Those who usually ride single on their bike to go to their job will provide the ride.
+ 
+Functions:
+ The app will use the GPS location service to locate the user location from where he needs ride and the free riders who are nearest to the user. The user defines for how much time for which he needs the ride and the destination as well as if he needs the returning ride. As the free riders around the location of the user are notified if they can give the service. and the nearest one who desire to give the service will pick up the user in that place and then take him to his destination.
+The bike rider will be awarded as mentioned above.
+ 
+Targeted audience:
+ The app is targeted toward students and freelance workers who have to frequently travel within short distances for short time.
+ 
+Main Benefits:
+User will be able be free from the hesitation to stick with the time consuming bus service to travel for short time. They will be able to make new relations with the new riders. Bike rider will be awarded points according to the time he give to travel and distance travelled, gift coupons, restaurant meals and payment too.
+ 
+Platform: Android  
+
+

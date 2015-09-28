@@ -1,0 +1,32 @@
+#RamiloZindagi
+
+Submitted on:  September 1, 2015 - 1:09pm 
+ 
+Idea:
+ Application to take photos and search for nearby places where you can spend your quality time
+ 
+Problem Solved:
+Our application will help the users to search for nearby places and hangout with friends to the most happening places, relief stress and live in the moment. Our application also provides opportunities for organizations to take a step furthur in their popularity.
+ 
+Functions:
+ 1. The application provides information about the organization and their events with feedbacks and reviews
+2. The application gives you an opportunity to snap pictures and post them among your friends.
+3. The application helps you in finding places according to your mood and number of places.
+4. The application has a camera filter, which lets you add effects.
+ 
+Targeted audience:
+ 1. College students to know about the happening places and events in town, which helps them save some rupees as well as enjoy the moment.
+2. Tourist who are looking for different cuisines to try, places to be and things to do.
+3. Firms to promote their events and products.
+ 
+Main Benefits:
+1. Sharing photos with friends to tell them about the organization.
+2. Promotion of organizations
+3. Easy location of happening places and events
+4. Removes confusion about places to be
+5. Know better about the places that you are going with reviews and feedbacks
+6. Per-head budget estimation  
+ 
+Platform: Android  
+
+

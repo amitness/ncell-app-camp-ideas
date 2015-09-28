@@ -1,0 +1,25 @@
+BusSchedule
+
+Submitted on:  September 19, 2015 - 7:13pm 
+ 
+Idea:
+ This app gives people information about bus departure time of different bus service provider in main cities of nepal.
+ 
+Problem Solved:
+This application avoids unnecessary call to bus service provider and sometimes phone is found to be bg in most needed condition.
+ 
+Functions:
+ Bus service provider
+destination with departure time with bus fare.
+ 
+ 
+Targeted audience:
+ All off the android user nepali who travell to different places and specially people residing in ktm valley who have their house outside valley.
+ 
+Main Benefits:
+>Avoids unnecessary call to bus service provider
+>Give bus departure time in places if we are for the first time.
+ 
+Platform: Android  
+
+

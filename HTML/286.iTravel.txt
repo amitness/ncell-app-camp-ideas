@@ -1,0 +1,27 @@
+iTravel
+
+Submitted on:  September 10, 2015 - 9:23pm 
+ 
+Idea:
+ An app which helps making tourism in Nepal more safer, easier and prompt tourism.
+ 
+Problem Solved:
+1. Unsafe Travelling : Without knowing anything about the destination may be unsafe while travelling. Constant guide is necessary for safer travel.
+2. Unorganized and Unplanned Travelling : Travelling may not be fruiteful without planning. This app also focus on this problem.
+3. Promotion of Tourism : Continuous growth of tourism cannot be achieved without prompts.
+ 
+Functions:
+ This app help tourist feel safe by constantly helping them on demand. This app also focus on making travelling easier by giving details information about the destination place. It also helps in planning and schedueling. It prompts tourism by sharing tourist travelling experiences with their friends and family. 
+ 
+Targeted audience:
+ Our target audience are international tourists.
+ 
+Main Benefits:
+1. Make tourist safe by constantly guiding them.
+2. Tourist can get emergency help.
+3. Organized and planned their travelling site and schedueling.
+4. Help tourist to share their travelling experience with their friend and family.
+ 
+Platform: Android  
+
+

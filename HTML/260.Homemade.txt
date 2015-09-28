@@ -1,0 +1,37 @@
+Homemade
+
+Submitted on:  September 13, 2015 - 12:59am 
+ 
+Idea:
+ Homemade helps every homemaker in the country become an entrepreneur by allowing them to use their kitchen as an asset to cook and sell homemade food.
+ 
+Problem Solved:
+There are thousands of women (homemakers) who are not part of the Nepalese workforce due to constraints such as household chores, high barriers of entry in establishing new businesses and an inability to work in a structured office from 10am – 6pm. This application aims to solve this very problem by providing every homemaker with a platform to start their very own business and providing them employment on their own terms.
+One of Homemade’s core missions is thus Women Empowerment. It seeks to instil independence, self-esteem and economic well-being among all homemakers who are predominantly women in our society.
+ 
+Homemade is also an attempt at providing strong stimulus to revive economic activity in Nepal following the Great Earthquake. By bringing women into the mainstream economy, this application intends to contribute to the declining Gross Domestic Product.   
+ 
+ 
+Functions:
+ The application fundamentally works on the basis of consumer as well as producer generated demand. That is, if a consumer wants homemade food he/she uses the app to order from a seller of his choice.  On the other hand, sellers will also have the opportunity to send notifications and post updates on what they’re currently offering. The application therefore provides a marketplace through which consumers and producers can interact to carry out transactions pertaining to only homemade products. 
+Homemade uses two separate Android apps currently:
+
+The consumers will use the ‘Homemade Consumer App’. On the consumer app individuals will be able to search for a particular product. The app will then display a list of offerings by different sellers. The consumer will choose which seller to buy from depending on the price/reviews/delivery time.  The seller will be notified on their app of a new order. In the future we will add support for tracking order and order history. 
+The ‘Homemade Provider App,’ is a platform that enables homemakers i.e. sellers to list the products that they will offer. They can determine the price of the product and specify how long it will take to make the particular product. Each product will also have a rating based on user reviews. The seller will be able to update their product as and when required.  In the future we will add support for tracking order and order history.  Additionally if the seller logs out they are indicating that they are not currently available to take any orders. This is important since homemakers might have conflicts on a particular day. 
+
+ 
+Targeted audience:
+ As a market place for homemade goods, this application intends to target an audience ranging from the students, young working professionals as well as every typical household in the country. 
+ 
+ 
+Main Benefits:
+Homemade is an application that caters to a wide target audience, and thus the benefit for every type of user also varies. Homemade allows every consumer to have access to freshly cooked homemade food. 
+For a student who has settled in Kathmandu and is pursuing his/her college education, and does not have access to healthy and homely food, ordering from Homemade proves ideal.  Similarly, young working professionals will be able to order home cooked food through Homemade. 
+ 
+On the provider end, Homemade will also develop an entrepreneurial drive among women in the country. It allows them to use their skills to earn a living, spend their free time productively and make themselves known.
+ 
+In the future we plan to expand out product range to include a multitude of homemade utility products, which are primarily non-perishable in nature such as handicraft products, envelopes, clothing, etc.
+ 
+Platform: Android  
+
+

@@ -1,0 +1,22 @@
+Phoenix
+
+Submitted on:  September 20, 2015 - 11:52am 
+ 
+Idea:
+ App to create live music by connectin android devices in a network where each user can select an instument and play in a group.
+ 
+Problem Solved:
+Individuals and music enthusiast often donot get to discover and explore their creativity in their group. Our app solves the problem and creates link between music band and an individual.
+ 
+Functions:
+ App connect music players to a network to create live music.
+ 
+Targeted audience:
+ Individuals and music enthusiast exploring their creativity.
+ 
+Main Benefits:
+Easy and instant access to create live music from a group of individuals.
+ 
+Platform: Android  
+
+

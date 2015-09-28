@@ -1,0 +1,30 @@
+foodNepal
+
+Submitted on:  September 20, 2015 - 8:34am 
+ 
+Idea:
+ App that lets food loving tourists know about different cuisines of Nepal, specific to culture and region along with their history(if any) and recipe.
+ 
+Problem Solved:
+Many people visit Nepal because of its rich and diverse culture. The knowledge of the culture and lifestyle of people won't be complete until we know about their cuisines. Food varieties of different cultural groups(eg: thakali food of thakalis), different geographical regions(eg: tungba of himalayas, jujudhau of bhaktapur)  and season/festivals (eg: yomari in yomari punhi) have made Nepal rich in cuisines.
+Our app will allow the users to know about the different foods specific to culture, geographical region and seasons, along with their recipe and cultural/religious significance. 
+In addition, it notifies the user about the cuisine specific to that area wherever s/he goes and cuisine specific to season/time.
+This app will also list out some major places/restaurants where tourists can enjoy these cuisines.
+ 
+Functions:
+ Our app will provide informations regarding different cuisines of Nepal, specific to culture, region and season. It will provide the recipe and significance of the food variety. It will list some major places where the foods can be found. It will also notify the users about the special food in the certain location and time (by gps tracking).
+ 
+Targeted audience:
+ It is mainly targeted to cultural tourists and food lovers who are interested to know about different cuisines of Nepal and enjoy it.
+It can also be helpful to the local tourists who want know about other cultures and try different foods.
+ 
+Main Benefits:
+The main benefits to the users are:
+1. Cultural tourists will no more have to wander here and there to know about different cuisines of Nepal, along with their cultural significance..
+2. Food lovers can enjoy different cuisines by knowing about the foods.
+3. They will be notified about the special foods of the area (wherever they are) and of the specific season/festival.
+4. They can learn the recipe of different cuisines and help them spread in foreign countries.
+ 
+Platform: Android  
+
+

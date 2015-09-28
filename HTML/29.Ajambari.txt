@@ -1,0 +1,41 @@
+Ajambari
+
+Submitted on:  August 24, 2015 - 12:52pm 
+ 
+Idea:
+ App that reminds user of his medicine, gives information on medicine and nearby clinics, hospitals and pharmacies.
+ 
+ 
+Problem Solved:
+People tend to forget taking medicines on time. So, this application reminds people of their medicines also providing basic information about what should be eaten or avoided during the medication.
+ 
+Moreover, this app informs people about certain common over-the-counter medicine (like paracetamol) which might be helpful to people in case of ailments. 
+ 
+Along with medicine, information like contact number and location of nearby pharmacies, clinics and hospitals are also listed in this app which will help in case of emergencies.
+ 
+ 
+Functions:
+ 1. Reminds user of his medicine
+2. Information about the medicine of user (safe dosage, counter medicine, necessary precautions like what to eat or avoid during medication)
+ 
+3. Information about the over-the-counter medicine (like safe dosage of paracetamol)
+ 
+4. Information on general health issues
+5.Contact information and location of nearby clinics, pharmacies and hospitals.
+ 
+Targeted audience:
+ Adults under medication.
+Adults who own a smartphone can use this app to get knowledge on basic health issues.
+ 
+ 
+Main Benefits:
+1. User takes medicine on time
+2. Basic information on the medicine they are consuming.
+3. Information on what should be eaten or avoided during the course.
+4. Solution to general health issues.
+5. Information on common medicine like paracetamol, cough syrup.
+6. List of hospitals, clinics and pharmacies in case of emergencies.
+ 
+Platform: Android  
+
+

@@ -1,0 +1,24 @@
+GameUpdate
+
+Submitted on:  September 20, 2015 - 11:42am 
+ 
+Idea:
+ Provide updates for all national games updates via sms and android application and International World Cups
+ 
+Problem Solved:
+1. It provide platform where all national games of Nepal and Top International games update will be done
+ 
+Functions:
+ Targeted to all game lovers
+Anyone can get the updates of latest national and international games updates via sms or android app and even the latest updates about the upcoming games updates. People can get the updates from anywhere with simple one sms and the updates in their way. This app also encompass all the important reviews of the International World Cups and other big events
+ 
+Targeted audience:
+ All youth and everyone
+ 
+Main Benefits:
+1. They will have updates about currents games
+2. Information about upcoming games
+ 
+Platform: Android, iOS, Windows phone, SMS  
+
+

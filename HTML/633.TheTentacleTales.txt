@@ -1,0 +1,27 @@
+TheTentacleTales
+
+Submitted on:  September 16, 2015 - 1:12pm 
+ 
+Idea:
+ Switch between alternate characters to escape a junk filled world; but all you can do is recycle.
+ 
+Problem Solved:
+Boredom.
+Minimizing pollution by encouraging people through ingame lore.
+ 
+Functions:
+ Play your hero and try and beat it using your villian.
+High quality sprites.
+Fast paced side-scrolling adventurous game with informative trivia.
+Immersive world.
+ 
+Targeted audience:
+ All age groups.
+ 
+Main Benefits:
+Entertainment and fun.
+Information about effects of pollution and its control methods using interesting gameplay.
+ 
+Platform: Android  
+
+

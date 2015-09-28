@@ -1,0 +1,28 @@
+EasyOffice
+
+Submitted on:  August 23, 2015 - 9:32am 
+ 
+Idea:
+ This application will help the users to find necessary information required in order to complete their work in governmental offices of Nepal
+ 
+Problem Solved:
+often, we have faced the problem of long queues and misgudance when we go to government offices. If we could get all the information required necessary to complete our work in the government offices, this would obviously save a lot of time and turmoil. So, focusing on that aspect, this application would solve the problem of misguidance, improper/incomplete information while we go to the government offices to do a particular work.
+ 
+Functions:
+ Main Functions and Elements:
+- Maps for location of government offices
+- Information about the necessary documentation and procedures in government offices of Nepal
+- Friendly UI
+ 
+Targeted audience:
+ The target audience of the application are Nepali citizens who go to government offices for certain work. Using our application, they will have an easy information about neccessary documentation and underlying procedures for easy completion of their task in the offices.
+ 
+Main Benefits:
+The main benefits to the user are listed below:
+- Information about the necessary documents and procedures required to get a work done in governmental offices of Nepal will be with the user beforehand, hence saving their time and them from the turmoil.
+- Government Ofiices and their location, helps the users of the application find all, if not, most of the government offices and their location using their smart phone.
+ 
+ 
+Platform: Android  
+
+

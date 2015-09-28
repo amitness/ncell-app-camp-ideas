@@ -1,0 +1,46 @@
+CITYMUSICWORLD
+
+Submitted on:  September 20, 2015 - 12:00pm 
+ 
+Idea:
+ City Music World is an intuitive app that provides a common music platform where people can learn about unique or unheard musical tracks, etc.
+ 
+Problem Solved:
+Searching and getting unique music experience is difficult as most of the music charts are full of trending and already heard music lists. Therefore, our app will solve these problems by providing:
+1. Knowledge sharing platform for genre specific music.
+2. Collaborating with music lovers of common interests.
+ 
+Functions:
+ 
+
+Analyzing and Mining user generated data to find more unique or unheard music.
+
+
+Providing embedded video and wiki search tools for further research.
+
+
+ 
+Targeted audience:
+ 1. Listeners of all music.
+2. Users who wants to discover music other than popular or main stream music.
+ 
+Main Benefits:
+
+
+Provide a knowledge sharing platform for genre specific music
+
+
+Analyze and Mine user generated data to find more unique or unheard music
+
+
+Provide embedded video and wiki search tools for further research
+
+
+Provide user specific views based on their music preferences
+
+Bring together people of common music interests.
+
+ 
+Platform: Android  
+
+

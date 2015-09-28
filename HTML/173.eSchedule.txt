@@ -1,0 +1,22 @@
+eSchedule
+
+Submitted on:  August 19, 2015 - 12:34am 
+ 
+Idea:
+ App that gives schedules and info about TV, radio, events, concerts etc.
+ 
+Problem Solved:
+Gives instant schedules for what you have waiting for.maps, routes,date, time etc in case of events and concerts. Whole day schedule of TV and radio..
+ 
+Functions:
+ Gives you instant schedules and info of everything.
+ 
+Targeted audience:
+ All users who don't want to miss certain shows.
+ 
+Main Benefits:
+Get instant schedules and notifications if set.
+ 
+Platform: Android, iOS  
+
+

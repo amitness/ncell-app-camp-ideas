@@ -1,0 +1,26 @@
+'EnglishFilili'
+
+Submitted on:  September 3, 2015 - 9:18am 
+ 
+Idea:
+ "English filili" is a two way learning source, for nepalese to learn english and for foreigner to learn nepali language. 
+ 
+Problem Solved:
+There are many people who are struggling to learn english language.Though many such apps are present for other languages , none are present for Nepali language.This app can be benificial to those who want to learn nepali language too. The app has hidden mmotive of cultural prosperity i. e . prosperity of Nepali language.
+ 
+Functions:
+ 1. The app basically contains audio and text interfaces.It contains daily basis learning model for example: verbs, phrases, sentences , songs etc.
+ 
+ 
+Targeted audience:
+ 1. Many Nepalese who want to improve their english, the app can be source to various english learning materials that could be fun (songs , writings too)
+2. foreigners who want to learn nepali language.
+ 
+Main Benefits:
+1.Learning English language easy for those who are sturggling to get a grab of this language
+2. For foreigners who are here (for tourism purpose or any other ),it can be a fun as well as a teaching app for them.Since it is a dual language linked source.
+ 
+ 
+Platform: Android  
+
+

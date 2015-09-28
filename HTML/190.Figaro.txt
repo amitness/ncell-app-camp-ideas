@@ -1,0 +1,42 @@
+Figaro
+
+Submitted on:  September 9, 2015 - 5:05pm 
+ 
+Idea:
+ An app that creates the best user experience for working with financial data, one that empowers people to ask and answer complex investment questions
+ 
+Problem Solved:
+When we looked at the available technology in the Financial Management space, we saw products that were too rigid to handle simple problems, and custom systems that did not account for problems an investor faced on a daily basis.
+ 
+As a result, normal investors were having a hard time managing and looking after their investments. They could not easily quantify the returns or identify the risks, leading them to repeat the same costly investment mistakes.
+ 
+So we built Figaro.
+ 
+Figaro helps investors analyze their investments by identifying sources of their returns so that they can maximize them. Figaro also helps investors quantify their risk, so that they can manage them.   Figaro, in totality, helps investors take an active role in managing and growing their investments.
+ 
+Functions:
+ The main function of Figaro is to provide investors all the necessary tools to manage and to grow their investments with real-time and historical market data, news, research, lists, search, and more..
+ 
+Furthermore, Figaro not only allows investors to research various asset classes before making their investment decisions, but also assists investors to track their investment performance by identifying the sources of their returns and risks. Finally, Figaro enables investors to communicate among one another for trade/ Investment ideas .
+ 
+ 
+ 
+Targeted audience:
+ Currently Figaro caters to investors who have investments in the Stock market and the commodity markets. We plan to add foreign currencies and real estate asset classes in the near future.
+ 
+Currently, there are close to 60 lakh unique investors in the stock market. Those investors would be  the target clients for Figaro. 
+ 
+Main Benefits:
+We currently aim to provide four core benefits to our users:
+ 
+Investment Management: Figaro helps user easily track their investments by providing critical investment return and risk metrics.
+ 
+Investment decisions: Figaro provides fundamental and technical data so that investors can make sound investment decision  based on proven analysis.
+ 
+Investment Opportunity: Figaro enables investors to track their prospective investments before making their investment decision.
+ 
+Communication:  Figaro frees investors to communicate with other investors or market makers  to share  trade ideas .
+ 
+Platform: Android  
+
+

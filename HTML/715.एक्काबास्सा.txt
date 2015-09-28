@@ -1,0 +1,27 @@
+एक्काबास्सा
+
+Submitted on:  September 20, 2015 - 10:16am 
+ 
+Idea:
+ An addicting card game (all in one) that allows you to select a number of different nepali card games and enjoy both single and multiplayer.
+ 
+Problem Solved:
+एक्का बास्सा  provides a platform for playing almost any card game played widely in Nepal.
+We all love a decent card game that we are able to play and share our achievements with our friends via different social networking sites. But all those card games we come across on our android or ios devices are limited to a single game-play and eventually we drift apart from playing them. Human mind wants variety and endless entertainment. एक्का बास्सा  is the ultimate card game as it provides an 'all in one' experience. 
+ 
+ 
+Functions:
+ A novice player can learn how to play a particular card game via एक्का बास्सा . एक्का बास्सा  will be very helpful in killing the leisure time of the user rather than sitting idle.
+ 
+Targeted audience:
+ Our target audience is everyone. Users of all ages that own a android device can play the game.
+ 
+Main Benefits:
+1. Allows the user to select various card games within the app
+2. Provides endless entertainment and experience
+3. Helps the user to compete with his/her friends and share their achievements in the game
+4. Helps the user to learn a particular game
+ 
+Platform: Android  
+
+

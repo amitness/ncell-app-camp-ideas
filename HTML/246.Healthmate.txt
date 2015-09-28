@@ -1,0 +1,22 @@
+Healthmate
+
+Submitted on:  September 20, 2015 - 10:17am 
+ 
+Idea:
+ Healthmate is an app which provides user knowledge about the disease  by  knowing the symptoms, emergency cares and home remedies.
+ 
+Problem Solved:
+usually many people dont know the health problems. the problems are ignored. Many people are not willing to spend much more money on health services instead they search for home remedies When athey dont find any remedies they try to go to traditional means. this is not only a major problem but an obstackle in the development of health sector of nepal. this app helps to identifiy the disease on the basis of the symptoms they are facing and provides them with the knowledge of home remedies. user can get information about the best doctors practicing in their area. And can compare the health services that are available in the country.
+ 
+Functions:
+ the major function nof the element is to   be the friend of user in case of emergencies and help them to solve health related issues.
+ 
+Targeted audience:
+ the audience is mostly the population between 20-65.
+ 
+Main Benefits:
+Users can be able to identify the disease, find home remedies, emergency solutions , information about doctors practicing and comparison of health facilities.
+ 
+Platform: Android, iOS  
+
+

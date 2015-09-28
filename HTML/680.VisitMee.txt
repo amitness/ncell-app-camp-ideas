@@ -1,0 +1,35 @@
+VisitMee
+
+Submitted on:  September 15, 2015 - 3:20pm 
+ 
+Idea:
+ cheapest way to travel
+ 
+Problem Solved:
+It solves 2 problem:
+1.Budgeting problem for Budget travellers
+2. Pocket money for hosts.
+ 
+Functions:
+ The main function of the application is to provide the users with cheap alternative for fooding, living and travelling. The main elements are user type, payment system.
+User Type-
+-There are two user types, although a single user can switch modes, they are guest mode and host mode.  
+Payment System-
+-Company will take 20% from the user. 10% is kept by company and remaining 10% will be used in developmental works in Nepal & other third world country.
+ 
+Targeted audience:
+ Our target audience are the people who want to travel in ultra cheap way. And people who can share the life to people you never met before. We highly encourage people from remote area to use this application as this approach will highly increase the flow of tourist to remote areas. 
+So we can summarize the main target audience in 3 categories:
+1. Travellers
+2. Students
+3. Local Community People
+ 
+<!-- Travellers, students, general internet user who want to earn money. -->
+ 
+Main Benefits:
+The main benifits of using this application is that the travellers can travel in really cheap way and understand the place they are travelling from the view of local people. Also the hosts can earn some money and the main focus as hosts are students as they will also learn a lot of things due to cross culture interaction. 
+<!-- ultra cheap way to travel, earn some pocket money  -->
+ 
+Platform: Android, iOS, Windows phone, Others(Blackberry, Web Application)  
+
+

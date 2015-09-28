@@ -1,0 +1,30 @@
+Dristi
+
+Submitted on:  September 11, 2015 - 12:15pm 
+ 
+Idea:
+ An app that uses camera function to diagnose STD, eye and skin diseases and highly private consult with recommend highly qualified doctors instantly.
+ 
+Problem Solved:
+-Diagnose all eye,skin and STD disease.
+-Proper consult by experts within hours.
+-Prevents retina surgery, cancers ,etc.
+-Encourage STD patient for treatment.
+ 
+ 
+Functions:
+ It doesnot reqiure patient to have user account.The main function of this app is to capture image of symptom such as clicking image of infected eye retina or anyelse ,The image must be capture 15cm far and another one 2cm far.with help of image processing function we diagnose the disease and if we want we can send picture to expert and get suggestion on its cure and nearby clinic just we need is patient name ,gender and age.picture taken are super secure and private.
+ 
+Targeted audience:
+ All people who want to diagnose thier problem and get expert suggestion and especially app made for social heathcoworker helping rural area people.
+ 
+Main Benefits:
+-Private consult with experts.
+-Can diagnose what of disease it is at home.
+-Instant checkup and rural area people benefitted.
+-Experts providing suggestion instant without visiting.
+-Connect nearby clinic.
+ 
+Platform: Android, iOS, Windows phone, Others(web)  
+
+

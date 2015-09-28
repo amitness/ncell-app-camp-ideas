@@ -1,0 +1,22 @@
+DoctorNahuda
+
+Submitted on:  August 26, 2015 - 1:15pm 
+ 
+Idea:
+ Apps helps to get solution of the diseases when/where there is no doctor or before reach to the doctor.
+ 
+Problem Solved:
+Getting the basic information on what is to be done during the early stage of any disease and medical problem, before any reach to qualified medical help has always been a major problem. This app focuses on providing the users with home remedies of diseases as well as general information on early assistment in curing the disease. The major focus is on the people living in rural areas who are out of reach of early medical help in cases of emergency.
+ 
+Functions:
+ 1: List all the diseases with their symptoms and prevention.2: Home remedies of the diseses.3: Early assistment that can be given to the patient in case of emergency.4: general knowledges about common sickness.5: Recording the medical history of user that includes past diseses, checkup dates, medicines used and consulting doctor.(additional feature) Categories incuded:How to examine a sick person.How to take care of sick person.How to measure and give medicine.Ideas on First aids.Avoiding sickenss.Basic knowledge on common sickness( include: defination, symptoms and prevention)    a: Common Cold    b: Dehydration    c: Diarrhoea and dysentery    d: Vomiting    e: Headache etc.Serious illness (include: defination, symptoms and prevention)    a: Tuberculosis    b: Titanus    c: Malaria    d: Dengue    e: Rabies etc. Ideas on family planning.Inforamtion for mothers and midwives etc. All the contents will be in Nepali language.
+ 
+Targeted audience:
+ This app is targetted to people living in rural areas that are far from medical help and support. Also, to the people in general places where there are doctors but people need to take lead in their own helath care. Its for everyone who care.
+ 
+Main Benefits:
+1: Helps the people in rural areas to take the ealry steps in diseases.2: use of Nepali language makes it accessible to everyone.3: Helps people know about home remedies of commeon health problems.4: With no hesitation, people can know/learn about family planning.5: Users can save thier medical history for future reference.
+ 
+Platform: Android  
+
+

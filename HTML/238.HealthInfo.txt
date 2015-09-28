@@ -1,0 +1,49 @@
+HealthInfo
+
+Submitted on:  September 20, 2015 - 8:10am 
+ 
+Idea:
+ App to get complete information on Hospital, Doctors, Medical Labs & their offers with price comparison for brands of medicine and Pharmacy.
+ 
+Problem Solved:
+It provides easy access to the information on hospital, doctors, Medical Labs and Medicines.With the search feature for medicines, experts can utilize the search results to study the disseases prevaling in differnt parts of Nepal and medicine used to cure such diseases. Also, the price listing and brand comparison feature allows concerned authority to monitor the market easily.
+ 
+With all the major hospitals centerd in major cities it is costly to continue the health checkups due to transpotation and acomodation costs at such cities.With this app you can continue your follow up checkups by sending the medical reports digitally from medical lab at your place to the doctor you are seeing and receive treatment online.
+ 
+Medical Labs have least presence on the web and we cannot compare ones services to another for best choices.This app lets you search medical labs in your area and the services provided by them and their costs with facility to receive report online which saves time and money.
+ 
+Functions:
+ 1.Search function for users to search the required medicine and their prices.
+ 
+2.Pharmacies can create lists of medicine available at their shops enabling the app to show the pharmacies at which the medicne is available.
+ 
+3.Doctors, hospitals , medical labs can create profiles with detailed information about their services.
+ 
+4.Medical Labs can send reports to the patient which then patient forwards to the doctor.
+ 
+5.Users can give reivews to hospitals and medical labs.
+ 
+6.Notification features if any hospitals are providing free health checkups and various offers.
+ 
+7.Follow feature to get information on specific doctors with add button to add your consulting doctors to receive online treatment from them.
+ 
+8. Leaderboard for doctors according to the number of followers in different fields.
+ 
+9.Doctors can post small articles to provide health tips and advices to their followers.
+ 
+ 
+Targeted audience:
+ Doctors, Potential patients , Hospitals , Medical Labs ,Pharmacy.
+ 
+Main Benefits:
+Potential Patients:
+Can access information on health services and compare the services to make the best choice.Can get helath advices and tips form experts.Tools to keep track of their medicnes and the treatment history.
+ 
+Doctors:
+Provides an excellent platform to promote themselves and hepls to spread information on the services they provide.
+ 
+Hospitals, Medical Labs can advertise their services through the app.
+ 
+Platform: Android, iOS  
+
+

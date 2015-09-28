@@ -1,0 +1,30 @@
+LostandFound
+
+Submitted on:  September 3, 2015 - 10:32pm 
+ 
+Idea:
+ In this App a user can post his lost accessories and the app will circulate the post throughout its users to help the user find his lost accesories
+ 
+Problem Solved:
+People have hard timing finding his/her lost accessories. Once lost, only few post her advertisement in newspapers/radios/tv , with only few success rates.
+This app helps the user to find theirs lost accessories with minimal effort in posting his/her add in the app.This app will circulate through potential users that  have near/similar location to that of the lost location, and also easliy help them share this news in social networking sites.
+ 
+ 
+Functions:
+ Post the add in the app.
+Find users from the nearby location.
+Send notifications to the users.
+Get the information from the user who found the similar type of accessories/objects.
+Help both end users to meet eachother.
+ 
+Targeted audience:
+ Our target audience will be all our users,since each user's involvement is of utmost importance and valueable for the search.
+ 
+Main Benefits:
+The user can easily post his/her issue/problem in the app.
+It will share the post in the social networking site on one click.
+The user can post any of her lost accessories or his/her pets or belongings.
+ 
+Platform: Android  
+
+

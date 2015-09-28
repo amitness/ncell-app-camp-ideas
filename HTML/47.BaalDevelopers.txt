@@ -1,0 +1,39 @@
+BaalDevelopers
+
+Submitted on:  August 29, 2015 - 5:07pm 
+ 
+Idea:
+ App that shows different categories of prone diseases in Nepal with details, referred hospitals, doctors with list of healthy habits and safety ideas.
+ 
+Problem Solved:
+App helps in awaring people of diseases which are prone in Nepal.
+It also provides detailed information like causes, effects, precautions, symptoms, etc. along with the hospitals that treats the disease.
+Important emergency numbers are also listed.
+Healthy enviromental habits, Safety & First aid ideas also included.
+Concept of Nutrition also included.
+Included Nepali Language for Nepalis.
+Listed family planning suggestions.
+ 
+Functions:
+ Seperated categories for different types of diseases, first aid and safety ideas, nutrition.
+Also the way to make healthy enviroment.
+Available in both English and Nepali language.
+"Call" function and "SMS" function directly from mobile to reffered hospitals of that particular disease.
+People can share their disease experience or their suggestions regarding a disease.
+ 
+Targeted audience:
+ All smartphone users; mostly the people in rural areas of Nepal.
+To those who want to learn the healthy life by following different health tips and suggestions.
+ 
+Main Benefits:
+- Provides disease information like causes, effects, precautions, symptoms, etc.
+- Encourages the user to create awareness to local people.
+- Provides list of safety habits.
+- Provides concept of nutrition and how to make healthy enviroment.
+- Provides important telephone numbers.
+- Provides first aid ideas and situational safety measures.
+- Also provided in Nepali Language.
+ 
+Platform: Android  
+
+

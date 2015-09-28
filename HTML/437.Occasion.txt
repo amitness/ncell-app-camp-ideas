@@ -1,0 +1,23 @@
+Occasion
+
+Submitted on:  September 5, 2015 - 7:52pm 
+ 
+Idea:
+ Occasion is an app that has notifies users of upcoming event and has templates where user can choose to create semi-custom card for such occasion.
+ 
+Problem Solved:
+ Happiness is best when shared. True to the notion we have different occassion to share to our beloved one : be it birthday, aniversaries festivals or anything else. With each day being celebratred for a cause, we have abundance of occassion to celebtarate and sometimes we lose track of such occasion.Occasion is the solution for such problem. It provides templates for different occasion so that you can choose a template and chose a picture and create your own greeting card.
+Besides providing templates if greeting card it also provides templates of video so that you can share memories of any occasion with any one you want to.
+ 
+Functions:
+ The main function include: 1.notifier of near-by event.  2.templates for e-cards. 3.templates for videos. 4.link to share then through fb/viber/WhatsApp/through mms
+ 
+Targeted audience:
+ The target audience include all the people who enjoy celebrating occasions by sharing greeting with people around.
+ 
+Main Benefits:
+The main benefits include:A mean to celebrate occasion with greeting cards without spending money on it.A reminder for the events in you life(you can add your own events). You an share greetings/ past memoris with your close ones through the quick links to facebook, viber, whatsapp or MMS.
+ 
+Platform: Android  
+
+

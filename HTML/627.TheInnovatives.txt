@@ -1,0 +1,33 @@
+TheInnovatives
+
+Submitted on:  August 23, 2015 - 11:08pm 
+ 
+Idea:
+ Tackling common as well as uncommon health issues through support, home treatment and online approach covering both ayurveda and allopathic. 
+ 
+Problem Solved:
+Despite the availability of local medicinal herbs, most people prefer using drug oriented allopathic medicines. Our app will recommend the best ayurveda medicine on the basis of availability. Meanwhile we will suggest allopathic medicine as well. Other than medicine our app will include the medical content, online support as well as audio-visual aid. 
+Many of us are worried if we found few matching symptoms of any sort of disease. Using our app, you can get almost confirmed whether you are diseased or not as our app will be enriched will the offline medical content full of symptoms and many other medical support. 
+ 
+Functions:
+ The app has Support element that will be enriched with offline medical content viz. symptoms, remedies and precautions & online support feature as well. 
+This app has forum, to post the health issues where any registered user can have healthy discussion. 
+Our app lists almost all ayurvedic and allopathic medicinal approaches. Meanwhile, the app recommends for the ayurveda rather than drug oriented allopathic. 
+Schedule, is also the element of the app, that will bear the available health camps and programmes from local to national level. 
+ 
+ 
+Targeted audience:
+ 1. New generation youths who are willing to know the corresponding ayurvedic solution of all the health issue.
+2. Student, who are rarely aware about tackling the health issue. 
+3. All the mobile user, who wants online as well as offline medical support for any sort of problem. 
+4. Health workers. 
+ 
+Main Benefits:
+1. Users will get the list of symptoms of common and uncommon issues, home remedies and precautions. 
+2. User will know the local medicinal herbs around his/her periphery designed to cure his/her health issue. Further, the app will suggest the allopathic medicine too.
+3. We will be collaborating with local clinics or hospitals, health camp schedules and national health programmes.  
+4. As a plus point the user can get online health support and offline medical content.
+ 
+Platform: Android, Windows phone  
+
+

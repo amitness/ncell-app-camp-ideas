@@ -1,0 +1,34 @@
+Erudite
+
+Submitted on:  September 11, 2015 - 7:56pm 
+ 
+Idea:
+ An app that connects teachers to student and employers to employees!
+ 
+Problem Solved:
+As of now, our country has not established a proper service that makes it virtually possible and easy to look for the 'right person'. Let it be a teacher for your daughter's piano classes or a legal employee. 
+This app will help overcome the barrier, all that is required is for those who are interested; make an account and specify their area of expertise (or) the kind of skill they are looking for. 
+As soon as that is done, a list will show up that tallies with the keywords. This will help connect people better and reduce the time and energy wasted in 'looking' for the right person. 
+As a student myself, I know the pain of coming across the right teacher for your subject or a teacher who could teach you something other than academics. Therefore, I plan to establish this app that will help the nepalese students as well as the youth be informed about the chances and availibility of skills that could be put to use. 
+ 
+Functions:
+ The app will require for users to register themselves and make an account. Only their names and areas of interest will be available to others; however upon request the user can permit to give away his/her contact details. 
+The app will have no hand in later conversations/ transactions that take place between the two parties. It will only work as a platform that connects the two parties. 
+ 
+Targeted audience:
+ I mainly aim to target house-wives with children, the youth (students) and perhaps some new start-ups. 
+House-wives with children are constantly searching for teachers who could tutor their children (any feild) after or before school hours. Usually, teachers are identified through word-of-mouth however, this is a long process and can take up to several days or even months before one comes across the right teacher. This app just requires you to register and display your skills; instantly you can connect to many people who have been looking for your skill sets. 
+Today, all universities require for one to have some real-life experience. Be it teaching or working. Youths have been actively looking for something or the other to add to their CV. This page will help them find the right place where their existing skills could be put to use. 
+Start-ups always find it difficult to find the right person to hire. They are constantly advertising or giving lectures at Universities. This app could be the search engine of prospective employee. 
+The same basic information will be provided for all three; personal details to skill sets and areas of interest. 
+ 
+ 
+Main Benefits:
+It is a faster and easier way to connect with people whose interests tally with yours and cut down the long chain of communication. 
+The app will only act as a platform that connects the two users, other than that there will be no restriction or interference and therefore, the communication can be done without any limitaitions. 
+There could also be an online chat forum where users can first communicate without risking their personal details and then be assured and decide whether they are interested. 
+ 
+ 
+Platform: Android, iOS  
+
+

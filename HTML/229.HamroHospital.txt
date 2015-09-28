@@ -1,0 +1,35 @@
+HamroHospital
+
+Submitted on:  September 6, 2015 - 6:26pm 
+ 
+Idea:
+ It is a reliable app providing detail information about hospitals and doctors with appoinment facility.
+ 
+Problem Solved:
+1. It eliminates the hassel for the waiting in the line all day long for the appointment.
+2. It helps user to manage the appoinment time as per own needs.
+3. It helps in mass control in the hospital.
+4. It provides easy way to view previous health reports for better consultation.
+5. It provides the doctor availabilty time before taking appointment.
+6. It provides alarm service for appointment reminder as well as medicine intake time.
+ 
+Functions:
+ 1. Hospital details and location.
+2. Doctor specific details and thier availability.
+3. Alternative clinic information of specific doctor.
+4. Reminder for doctor appointment and medecine intake.
+5. Search doctor as per their speciality.
+ 
+Targeted audience:
+ All ages.
+ 
+Main Benefits:
+1. Does not have to wait for booking time as well as appointment.
+2. Provides quick information about hospitals and their doctors.
+3. Reminder service eases the appointment and the medicine intake time.
+4. Provides easy process for the communication with the doctor regarding the previous health consultation.
+5. Check doctor availability time.
+ 
+Platform: Android  
+
+

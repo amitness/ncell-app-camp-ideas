@@ -1,0 +1,26 @@
+PlayMood
+
+Submitted on:  September 20, 2015 - 8:39am 
+ 
+Idea:
+ Createst smart playlist from your album according to your mood.
+ 
+Problem Solved:
+Everybody with a smart phone have tons of music loaded on them but not every song is the what they want to listen every time, these tons of are actually for all their swinging moods so they can choose them they want to or choose the appropriate song when they like to. People usually choose their songs according to their mood but nobody wants to go to their albums search for the exact song they want add it to their playlist and go for another one similar. Such a way of creating a playlist is not only boring but it even degrades your mood and you might be in the mood as you were before searching for songs. 
+To overcome such tedious job a simple app that keeps track of what type of music you listen at which situation and when you need gives you the best list to match your mood all you need to do is tell the app what is your mood now.
+ 
+Functions:
+ 1. Creating different playlists according to your swinging modes is always a tedious job. With this app you can just tell it about your mood and it will create most suitable playlist that suits your request.
+2. Users are provided to rate the songs according to their mood rating is too pretty simple just add your selection to any corner of a 4*4 matrix with the moods labeled on it. It won't take more than few minutes to set it up but with what feedback it gives this is a total worth time.
+3. You can also enable the app to track what type of music you listen at your different moods and let it's AI to learn about you and make your music experience even better.
+4. Rate every smart playlist it gives to you for your specific  mood and it'll response with a even better smartlist next time you make a request.
+ 
+Targeted audience:
+ Music lovers not only music lovers everybody listens music and if a app can connect their music with their mood there is no way they won't give it a try.
+ 
+Main Benefits:
+User never need to bother about creating playlist or selecting songs to match their ever changing moods they just have to tell the app their mood and there will be music they want for their mood.
+ 
+Platform: Android, iOS  
+
+

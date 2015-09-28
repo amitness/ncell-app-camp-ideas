@@ -1,0 +1,25 @@
+TeamCoders
+
+Submitted on:  September 19, 2015 - 5:13pm 
+ 
+Idea:
+ An application that helps to trigger certain action with voice commands.
+ 
+Problem Solved:
+Our application will help users to easily perform task based on voice commands.
+If "voice command" then do "choosen task".
+ 
+Functions:
+ 1) Add voice commands to trigger some actions.
+2) Add multiple voice commands for the same actions.
+ 
+Targeted audience:
+ Any smartphone users that want to use voice command to triger some task.
+ 
+Main Benefits:
+User can set a command using voice for repetitive work and trigger that work using voice action.
+Eg: Saying "Delete document" will trigger action that will delete files chosen by the user.
+ 
+Platform: Android  
+
+

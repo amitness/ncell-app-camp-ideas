@@ -1,0 +1,29 @@
+LifeMadeEasy
+
+Submitted on:  September 20, 2015 - 11:46am 
+ 
+Idea:
+ This app is to remind people of the things to buy or do whenever they approach the respective places without the need of having active data connection
+ 
+Problem Solved:
+People are getting so busy these days that they generally forget the things they have to do at appropriate time i.e, fill petrol, buy groceries, recharge their mobiles, go to bank or atms, pay bills, visit a friend, etc. This common problem which can sometimes bring big troubles can now be solved by using "LifeMadeEasy" app. People can effectively utilise this app without having to worry about the trivial things and enjoy their tension free life.
+ 
+Functions:
+ "Main function of "LifeMadeEasy" is to remind people of the things to buy or do whenever they approach the respective places without the need of having active data connection.
+The main elements will be:
+1. Map to deal with the location part and navigation purpose.
+2. Database to save the location, date and purpose.
+ 
+ 
+Targeted audience:
+ Everyone can use "LifeMadeEasy" effectively to make their life simpler. There is no target audience for this app.
+ 
+Main Benefits:
+Users can set reminders for the works-to-do on a particular location with the preferred date range. They can set it once and if they want, they will get reminded on a periodic basis.
+Users need the data connectivity only to set the reminder and later they can use it offline. Hence, it saves the data usage as well as battery power consumed by data connectivity.
+Users can even manually save the location of their friend or any relative or any other important places and set reminder for that place.
+This app will show the distance range of the user's already set target locations from the current location.
+ 
+Platform: Android, iOS  
+
+

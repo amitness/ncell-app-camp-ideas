@@ -1,0 +1,22 @@
+MLYD(MyLocalityYourDestination)
+
+Submitted on:  September 17, 2015 - 7:38am 
+ 
+Idea:
+ It is an idea that promotes our local tourist places so that more tourist will come to visit their local places that are unknown for tourists.
+ 
+Problem Solved:
+If any new tourist wants to visit any country eg Nepal then which place they wants to visit? may be pokhara, sauraha, Solukhumbu and some historic places of kathmandu but there are many tourism places that most of the tourist and even Nepalese also don't know about these places so this app will help to promote thier places so that many tourist can come and visit there.
+ 
+Functions:
+ Our main function is to promote tourism by using this application such that new tourism places will be known to all the tourist who wants to visit new places.
+ 
+Targeted audience:
+ This targets those tourist who are visiting some place first time or more than once but wants to visit new places. user adds information about their local tourism places on the app with adding map on google map so that tourist wont get confused and also the hotels to stay and cost.
+ 
+Main Benefits:
+It will be very helpful for those internal and external tourist who wants to visit new places. If anyone goes to visit France then they only know about the Eiffel tower and they don't know more than this and won't visit other but using this app tourist will know the shadowed tourist places.
+ 
+Platform: Android  
+
+

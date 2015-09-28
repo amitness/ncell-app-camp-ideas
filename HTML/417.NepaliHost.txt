@@ -1,0 +1,22 @@
+NepaliHost
+
+Submitted on:  September 15, 2015 - 9:21am 
+ 
+Idea:
+ Find a host family to stay in Nepal.
+ 
+Problem Solved:
+My app solves the problems of thousands of tourist who are willing to stay with a nepali host families.
+ 
+Functions:
+ this app can provide detail information about the host family like, bedrooms, bathrooms, pets, internet facilites, and other. and the foreigner can choose which family to stay with
+ 
+Targeted audience:
+ My target audience are nepali people who offers as a host and foreigners who are searching for hosts.
+ 
+Main Benefits:
+the main benifits for the users are that they can learn so many things. finding a host family will never be such easy with our app. the can share their culture,cuisine, fashion, traditions etc. The true way of staying in Nepal. 
+ 
+Platform: Android, iOS, Windows phone  
+
+

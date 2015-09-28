@@ -1,0 +1,30 @@
+TradeNepal
+
+Submitted on:  September 18, 2015 - 4:52pm 
+ 
+Idea:
+ Fantasy stock market game that simulates live trading stocks, options and commodities of Nepal.
+ 
+Problem Solved:
+Nepali stock market are very vunerable for novice investors. Many novice investors are entering into the market and losing money everyday. So, now we have a plan to create an app which offsets the risks of investment, give novice investors espesially B-School students to learn about Nepali Market, without losing a rupee. We will have different charts and technique which our users can analyze at the game and invest,they will have a note bar which records all their findings, we have an alert where our users can get information about hot stocks in the market; we also facilitate our users with weekly tips and alerts with a goal to help our users to make correct decision. We also have an discussion board so that users can interact and learn from other user's experience.
+ 
+Functions:
+  It simulates live trading stocks, options and commodities of Nepal.
+You can build and manage your portfolio.
+Gives information about live stock and commodity prices.
+Discussion Forum where users can share thier maket experience.
+Information All is a menu which will circulate informations, news and predictions regarding listed companies and other market informations.
+The users will be provided virtual money of Rs.1,00,000 at the beginning and h/she must invest with that sum.
+Lots of in-app purchases.
+You can upgrade to premium version and unlock various options like increasing your capital, get daily alerts, you will get more patterns and  charts, and you can also invest in agricultual products and other various commodities.
+ 
+ 
+Targeted audience:
+ Business School Students, Novice Investors, Finance Enthusiasts, and all the people willing to experience Nepali Share Market.
+ 
+Main Benefits:
+Firstly, they can learn about Nepali Market without taking any risks. We had planned to add Tracker too so that our tracking device will notify our users about their current investments. We provide different charts and technique to forecast their investment which will help them to learn about forecasting and helps to foster their investment decision capacity.
+ 
+Platform: Android, iOS, Windows phone  
+
+

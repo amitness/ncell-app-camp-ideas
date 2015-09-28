@@ -1,0 +1,71 @@
+Falcon
+
+Submitted on:  September 2, 2015 - 9:19am 
+ 
+Idea:
+ An application to represent the call log (missed, dialed and received calls) in an attractive graphical representation, with a full summary details
+ 
+Problem Solved:
+1. Gives the full calls logs Information.
+2. User will be knowing  the amout of cost per call they used.
+3. History of call logs.
+ 
+Functions:
+ 
+
+Filter option like day, week, month and year with advanced filter like provided time, date,month year.
+
+
+Differ the calls graphical representation based on the telecom network provider.
+
+
+Representation of maximum, minimum amounts of calls on the basic of telecom network provider.
+
+
+Representation of calls rates as per the number used like total call cost on particular number per day, week, month or year. Is, it a Ncell or NTC ? etc...
+
+
+Message service of telecom network provider.
+
+
+Call service of telecom network provider.
+
+
+Free call and message service within the application users.
+
+
+Integration with Facebook and google Services.
+
+
+Sync contact list from google dialer.
+
+
+Upload photo to the contact list through gallery, camera, Facebook or google.
+
+
+ 
+Targeted audience:
+ Smart phone users
+ 
+Main Benefits:
+
+
+Interactive call logs details.
+
+
+Details like amount spend on particular number.
+
+
+Information of Total amount spend on NCELL numbers and NTC numbers.
+
+
+Easy to use.
+
+
+Offline.
+
+
+ 
+Platform: Android  
+
+

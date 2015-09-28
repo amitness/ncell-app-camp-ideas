@@ -1,0 +1,24 @@
+M-Cycle
+
+Submitted on:  September 20, 2015 - 10:15am 
+ 
+Idea:
+ App about Menstrual Cycle.
+ 
+Problem Solved:
+It helps to keep track on the menstrual cycle that females goes through once they enter into the puberty.
+ 
+Functions:
+ Keep record of the menstrual cycle.
+When and where it has been irregular.
+Any serious health issues.
+ 
+Targeted audience:
+ All aged females who have been menstruating.
+ 
+Main Benefits:
+It will help monitor the menstrual cycle, its nature and irregularities.
+ 
+Platform: Android  
+
+

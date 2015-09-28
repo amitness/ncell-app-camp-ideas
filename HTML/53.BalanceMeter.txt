@@ -1,0 +1,40 @@
+BalanceMeter
+
+Submitted on:  September 16, 2015 - 8:29pm 
+ 
+Idea:
+ An application to monitor and keep track of your phone balance.
+ 
+Problem Solved:
+Phone balance and its expense is anyone's issue. We usually don't know the exact cost of each call or SMS sent or data usage. We might want to review our expense over a period of time which we can't  due to lack of such mechanism and data.
+This app provides means to accomplish such tasks and help users to know their balance statistics over a extended period of time 
+ 
+ 
+Functions:
+ The main function and elements:
+ 
+- View all statistics of phone balance usage in graphical as well as non-graphical format
+ 
+- View expenses related to particular contact .
+ 
+-View balance spent of each day, week, month .
+ 
+-Recharge through the app and monitor the recharge frequency.
+ 
+Targeted audience:
+ -Mobile phone users.
+ 
+Main Benefits:
+The major benefits for the user are:
+ 
+- Cost of each individual transaction made since the time of installation can be viewed .
+ 
+-User can monitor the trend of expense of his/her phone balance.
+ 
+-Recharge balance through the app.
+ 
+- By evaluating one's expenses, he/she can control their expenditure in a smarter way.
+ 
+Platform: Android  
+
+

@@ -1,0 +1,26 @@
+BrickFall
+
+Submitted on:  September 7, 2015 - 8:17pm 
+ 
+Idea:
+ Brick fall is a android game in which a user tries to build a towers of bricks falling from above. user needs to balance the tower from falling.
+ 
+Problem Solved:
+It is for the entertainment and gaming.
+ 
+Functions:
+ This game is targeted for all age group for playing. 
+It has easy touch controls.
+Top scorer are listed and their high score can be linked in social websites for sharing.
+ 
+ 
+Targeted audience:
+ All age group are the target audience for this app.
+People who like games like angry bird, flappy bird, subway surfer will like this game.
+ 
+Main Benefits:
+The user can compete online with other users and beat the top scorer. There will be the short listing of top 5 playesrs.
+ 
+Platform: Android  
+
+

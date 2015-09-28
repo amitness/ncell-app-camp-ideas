@@ -1,0 +1,24 @@
+IRUSHNalapani
+
+Submitted on:  September 16, 2015 - 6:23pm 
+ 
+Idea:
+ Nalapani is MMO(massively multiplayer online), PvP, platformer(2D) and action game, depicting one of our historical battlefields.
+ 
+Problem Solved:
+Generally, a game solves boredom, if boredom counts as a problem. When you take a break from your work or have a small liesure time, games fill the vacuum created by boredom and are a main source entertainment. So, our game will also be a source of entertainment. A game should be simple like flappy bird, addicting like clash of clans and profitable like candy crush. We are trying to integrate this whole thing to make a great game. It is a game of our ancestors at the time of "Nalapani" battle. it is an action game. What is the best part of online game is: It connects people friendly. It would also help the conventional nepali gamers ,who play offline to advance toward online games, because it will have a less lag in loading. And lastly, our game will also be a first online game from Nepal, so we hope it work as a milestone for successors.
+ 
+Functions:
+ Main functions of our game are listed below. Creating your own character with a various a different specs. Fighting in the arena and a upgrading your character. You can actually interact with your character too like talking tom. Like in every RPG games, we'll have shop to upgrade your player characters, and it's accessories. But not like in every RPG games, we'll have championship mode where player can actually win real prizes. By the term action, our game will be some how similar to gladiator of Ancient Rome, where two warriors fight, but now it will be online and not in rome but in Nalapani
+Elements of our game are User defined playable character, Arena for PvP fights, and notification lists that keep you notifying about game notices, upgrades and High graphics locations of our ancient Nepal, approximately two century ahead.
+ 
+Targeted audience:
+ Games are played by everyone. And so are we developing this game, for everyone. Generally there are people who like hardcore games like God of War, but in context of Nepal and everywhere , not everyone prefer such games or can afford to play such games, this game will be simple for any one to pass the time. This game is for anyone with a pro Gamer to a naive player, a bacheloer student or a nine class boy. The more the world get entertain with this game, the better it would be. 
+ 
+Main Benefits:
+The main benifits for users will be this game will be simple. Our game will be simply connect and play.It will depict some part of our history as well, for fun and yeah player will get to know some of our history. It will have HD graphics , smooth control so that there will be no lag in gameplay, It will be a free game with IAP.
+We are also thinking of helding real championship for players from world, and thinking of keeping this game relevant for some years or more. We also have some plans like awarding the player, like DOTA does, but that is  a long run.
+ 
+Platform: Android  
+
+

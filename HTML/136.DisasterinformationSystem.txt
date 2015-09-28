@@ -1,0 +1,24 @@
+DisasterinformationSystem
+
+Submitted on:  September 20, 2015 - 9:34am 
+ 
+Idea:
+ Real time Disaster alert, notification and disaster assesment via smart devices using location based services.
+ 
+Problem Solved:
+1. Reduce the risk of lifes by pre disaster alert.
+2. Reduces disaster assesment cost real time disaster assesment by collecting informations from user.
+3. Mass public awareness about disasters with no cost.
+ 
+Functions:
+ The location based disaster alert system, real time notifications about disaster conditions, android application for android device users and GSM based services for non- android phone users. 
+ 
+Targeted audience:
+ All the people using the app can benefit, however the target audience will be nepalese residents. 
+ 
+Main Benefits:
+User can get alert and essential directions during disasters so that they can make better plans to save lives and moreover they can  send alerts for help to rescue units. Moreover they can report for missings and casulties.
+ 
+Platform: Android, SMS  
+
+

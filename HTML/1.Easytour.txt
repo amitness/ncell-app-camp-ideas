@@ -1,0 +1,32 @@
+Easytour
+
+Submitted on:  September 17, 2015 - 11:35pm 
+ 
+Idea:
+ App to create route to tourism area,show nearby services and convert nepali language to their home language and viceversa.
+ 
+Problem Solved:
+our app solve the main language problem for tourist by converting the nepali language to their home language and viceversa whether the language in written or in sound form.It is useful to find out the way for different  tourism area and services like hotel,restaurant,transportation facility and public toilet and it also notify the special things or places which lies in their route so that there will be no lack of entertainment.
+ 
+Functions:
+  
+1.Make the user familiar with the nepali words by converting nepali word in their respective language where we can give information of nepali words either in written form or by capturing its photos.
+ 
+2. create a tour that is in range of our budget,interest and suitable timing.
+ 
+Targeted audience:
+ 1.Tourists(indoor and outdoor) to visit in new places.
+2. students to arrange long tour.
+3.Hotel and restaurant manager to communicate with tourist.
+4.Guide to access services easily to their guests.
+ 
+Main Benefits:
+1. Easily Converts Nepali language to their home language,symbols in respective pictures and viceversa.
+2. Easy to Communicate with others anytime,anywhere.
+3.Easy access for most  emergency serives like toilet location, Police station, transportation etc 
+4. create their own route according to their timing and interest to visit anywhere.
+ 
+ 
+Platform: Windows phone  
+
+

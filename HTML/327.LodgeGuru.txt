@@ -1,0 +1,22 @@
+LodgeGuru
+
+Submitted on:  August 16, 2015 - 12:07pm 
+ 
+Idea:
+ Hotel booking aggregrator for the people who are looking to travel on a limited budget.
+ 
+Problem Solved:
+We are looking to solve the complication that user faces while looking for cheap and good hotels for their trip. We will be providing list of various hotel along with price comparison facility.
+ 
+Functions:
+ It will provide the list of hotel along with price comparison facility
+ 
+Targeted audience:
+ Traveller (Tourist)
+ 
+Main Benefits:
+User will get rid of travel agents along with other mediator. They will get chance to book their room on cheap rate along with comparing it to other hotel online.
+ 
+Platform: Android, iOS  
+
+

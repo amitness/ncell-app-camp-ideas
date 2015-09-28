@@ -1,0 +1,23 @@
+EasyWallet
+
+Submitted on:  September 20, 2015 - 1:07am 
+ 
+Idea:
+ Save your credit card details and transfer cash from one account or card to another (including transfer between national and international cards)
+ 
+Problem Solved:
+It can transfer your money from national accounts to international debit cards like master cards
+ 
+Functions:
+ You can save all the credit card information in one app
+ 
+Targeted audience:
+ Its useful for people who goes online specially for shopping and other related stuffs.
+ 
+Main Benefits:
+1.online shopping from anywhere
+2.you can merge international debit cards with local(national) ones
+ 
+Platform: Android  
+
+

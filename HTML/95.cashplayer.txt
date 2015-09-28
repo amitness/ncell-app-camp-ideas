@@ -1,0 +1,22 @@
+cashplayer
+
+Submitted on:  September 5, 2015 - 7:18pm 
+ 
+Idea:
+ Android online game that uses debit or credit card amount for coins and player wins game and coins increses and exchange them to cash.
+ 
+Problem Solved:
+cash prize for virtual game.
+ 
+Functions:
+ user can decide game entry coin and prize is according to coin use.
+ 
+Targeted audience:
+ people who want to win real prizes.
+ 
+Main Benefits:
+Win cash for winning game.
+ 
+Platform: Android  
+
+

@@ -1,0 +1,41 @@
+MyVoice
+
+Submitted on:  September 12, 2015 - 3:47pm 
+ 
+Idea:
+ My Voice, an app for children who stutter, to provide them with fluency shaping technique by connecting with speech pathologist and fellow stutters.
+ 
+Problem Solved:
+Around the world, almost 1% of the population has some sort of speech disorder. They can speak but their speech at certain times may not be considered as normal/fluent. The stuttering may onset at an early age and may accompany through adulthood. While some children get over it after sometimes, but everyone is not lucky enough. 
+Our app will provide solution to those children and teenagers who are being victim of continuous bullying and who view their life as a suffer and consider themself and their problem as a social stigma, the thought of which will ultimately make them lack in confidence. 
+Children and their parents from developing countries like Nepal may not know effective way to solve these issues and they may not be able to accept the disorder completely, let alone going for therapy or connecting with a speech pathologist or joining communication club around them. 
+My Voice, will solve all these issues and will help the children live their life just as a normal child does. 
+ 
+Functions:
+ My voice will help the children with stuttering issue to  deal with mental trauma by providing sufficient knowledge regarding their issue and will solve the problem by grasping the root of the cause i.e, how they acquired it. 
+To list, the main functions are below: 
+1. User will be required to fill a questionnaire which will determine the severity level of the stutter, how they acquired it and what method have already been taken to attain fluency(if any) etc. 
+2. The app will process the data and provide with sufficient self help techniques, ideas. tasks and ways to implement them. 
+3. My voice will send reminder through sms to remind the user of the task of the day.
+4. Our app will be able to track the progress level of the user based on the user's enthusiasm and daily voice recording samples  and will provide with a progress chart every week. 
+5. To take the app to the advance level, My voice will provide the user with most suitable and realibale option of speech centres and speech pathologist and recommend them to the user on the basis of their location, affordabilty, and severity of stuttering. 
+6.The app will also connect the user with speech pathologists and fellow stutters online. 
+ 
+ 
+Targeted audience:
+ My voice is specially targeted to children (age : 5 to 16) and their parents/guardian to help that special child with stuttering issue to deal and win through the emotional suffer. 
+ 
+Main Benefits:
+My Voice will act as a guardian, a friend and a mentor at the same time. To have a view of summary of the benefits, the following list can be considered. 
+1. Our app will provide information and update on stuttering associations and their events around the world. 
+2. Our app will provide with customized self-help learning and fluency shaping tools and techniques and the ways to implement them in a child friendly manner. (The tools and technique will be customized according to the disfluency and age of the child after the user fills the form of questionnaire.) 
+3. This app will send constant and unexpected reminder through sms to the user whether they have been implementing the learnt tools or not. 
+4. Our app will be able to record voices and provide with feedbacks and suggestions to the user. 
+5.This app will make the children realize their self worth and will constantly motivate them with quotes and inspiring stories to build up thei self-esteem once they log into the app.
+6.My Voice will help the children with stutter and their parents to view and analyze speech centres and speech pathologists around the world and near them to search for the best option and we will act as a bridge to connect with speech centres and speech pathologists. 
+7.Our app will help the child with stutter to face the real world as they approch adulthood. 
+ 8.My Voice will connect with fellow stutters and speech pathologist and will be able to organize a live video chat among them for interaction and motivation.
+ 
+Platform: Android, iOS, Windows phone  
+
+

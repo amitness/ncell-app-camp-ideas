@@ -1,0 +1,29 @@
+ExpenditureNotifier
+
+Submitted on:  September 18, 2015 - 10:22pm 
+ 
+Idea:
+ Expenditure Notifier is an app which keeps track of your daily as well as monthly expenditure, shows it in graphical format.
+ 
+Problem Solved:
+This app does motivate users to expend less and save more money by notifying them wheather they saved or expend more as per their income and shows complete 
+information where they spend more including textual and graphical format.
+ 
+Functions:
+ The app uses the monthly income of users and daily expenditure as an input. It performs different financial calculations such as expenditures
+and savings, percentage saving or expenditures etc in daily basis, weekly basis or monthly basis as per the users choice and shows them a complete expenditure
+list in textual and Graphical form. It notifies user wheather they spent more or saved more at the end of the day. If the user expend much then they had to, it notifies
+user like "Hey Buddy ! You are spending more. Do spend less." and something like that.  If the user saved money, it notifies user like "Hey Buddy ! It's Awesome. 
+You saved x% (lets say). Keep saving." and something like that. This app notifies user everyday and motivates them to save more.  
+ 
+Targeted audience:
+ The targeted audience is especially Middle class peoples, students and many of us who have difficulties in managing or saving money.
+ 
+ 
+Main Benefits:
+It's main benefits are it keeps track of money where they spend, how much they spend and motivates user to save money by notifying them. It keeps track of all the 
+expenditures allowing users to view a complete information in textual as well as Graphical format. 
+ 
+Platform: Android  
+
+

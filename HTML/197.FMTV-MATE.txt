@@ -1,0 +1,41 @@
+FMTV-MATE
+
+Submitted on:  September 20, 2015 - 8:22am 
+ 
+Idea:
+ Never Miss your favorite episode/channel
+ 
+Problem Solved:
+ 
+On a bg schedule ,You never know your favorite programs/episode is in the air/live.Our App helps user to remind their favorite programs/episode before hand.
+ 
+Functions:
+ 
+
+App provide a easy way to remind you about your favorite show
+
+
+App recommends TV shows based on your chosen categories as well as ratings provided
+
+App can help share schedule to social media
+
+ 
+Targeted audience:
+ Mostly everyone who use TV/FM as a source of entertainment
+ 
+Main Benefits:
+
+
+Browse programs / episode
+
+
+Search for programs
+
+
+Reminders for your favourite programs
+
+
+ 
+Platform: Android  
+
+

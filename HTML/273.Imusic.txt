@@ -1,0 +1,41 @@
+Imusic
+
+Submitted on:  September 18, 2015 - 10:55am 
+ 
+Idea:
+ listen any music anywhere anytime with just a click .
+ 
+Problem Solved:
+some of the problem that the application can solve it are listed below;
+1. music cant be downloaded and listened as needed as this application helps us to solve out such problem.
+2.cost problem can be solved as it is less costly.
+3.original songs is provided so that problem of ungenuine version is solved out.
+4.problem to get on time is solved out.
+5.for the music we need to ask friends or any other places to have music in our mobile but by the help of imusic we can listen the music from anywhere by a click.
+ 
+Functions:
+ provide the original songs
+place to store the music
+place to manage the music.
+easy available to buy the music. 
+relevant and easy accesible.
+  
+ 
+it required authentical user to get imusic store.for any user if they want to buy the music they have to pay certain cost like rs 2 per music or as the internet uses anywhere
+ 
+Targeted audience:
+ music lover can be targeted as they require the music anywhere and fast.
+students can also be targeted as for the music they need to ask many friends but this app allows them to get the music from anyplaces.
+travelers can be highly targeted because when we travel places we dont get the music which we required and travelers required to listen the music when they get bored or for the fun or for the enterntainment and they dnt get such mucis app so Imusic is benefited for them.
+ 
+Main Benefits:
+benefits:
+1. music can be listened anytime.
+2.music can be brought of the original version.
+3.can be saved and used for the further use.
+4.no repetitive cost for the already bought music.
+5.its easy and relaible for the music lover.
+ 
+Platform: Android, iOS  
+
+

@@ -1,0 +1,33 @@
+Gantabya(Destination)
+
+Submitted on:  August 22, 2015 - 11:30pm 
+ 
+Idea:
+ An app that recommends the tourists with the places depending upon their mood and affordability, then guide them in every possible way to get there.
+ 
+Problem Solved:
+Spending hours on the internet searching for places in a hope of finding the most suitable and affordable vacation sites isn't that simple. Moreover, finding the best deals for the vacation is even harder. This is the situtation where our app come in handy. Just describe your mood and the budget, then we offer you the vacation sites as well as a list of vacation packages or just transportation services to select from.
+ 
+Functions:
+ 
+1. Search: The app has a search function which ask the user a few simple questions to know about their mood and budget and then suggest them the suitable vacation sites.
+ 
+2. Best Package: The app lists down the best holiday packages provided by different Travels and Tourism companies.
+ 
+
+3. Post Ad (for Travels and Tourism Companies only): The company can post the ad of their offers in our official webpage.
+4. Review: A user can view the review of the vacation sites and the packages given by the other users. 
+ 
+Targeted audience:
+ Every single internal and international tourists who want to explore the natural beauty of Nepal at the best possible and affordable price.
+ 
+Main Benefits:
+1. Provides recommendations of the sites depending upon one's taste and affordability. 
+2.Easy to get the list of best holiday packages. 
+3.Easy to check out the reviews of the places as well as the holiday packages.
+4. One can simply enjoy the holidays without bothering about the payments.
+ 
+ 
+Platform: Android, Others(Web Platform)  
+
+

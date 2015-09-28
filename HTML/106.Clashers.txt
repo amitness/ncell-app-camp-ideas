@@ -1,0 +1,29 @@
+Clashers
+
+Submitted on:  August 29, 2015 - 8:57am 
+ 
+Idea:
+ Our app determines whether the person's eye is suffering from short sightedness or long sightedness or is in normal stage and suggests the power.
+ 
+Problem Solved:
+-provides the information what type of eye problem is he/she suffering from
+-suggests the power of lens to be used using snellen chart (not exact)
+-minimize problem of going to hospital
+-gives information what type of glass should be worn
+ 
+Functions:
+ It measure the near point of the user eye  compares to the near point of normal eye and shows whether the user is suffering from hypermyopia or normal.Also it measure where the person is suffering from myopia or not by testing far point.The near point of normal eye is 25cm and far point is infinity.The person suffering from myopia requires concave lens and hypermypia requires convex lens.Also by the help of snellen chart on the app it suggets the power of lens to be used.
+ 
+Targeted audience:
+ all people and especially for those who are suffering from eye problem
+ 
+Main Benefits:
+-provides the information what type of eye problem is he/she suffering from
+-suggests the power of lens to be used using snellen chart (not exact)
+-minimize problem of going to hospital
+-gives information what type of glass should be worn
+-instant eye test
+ 
+Platform: Android  
+
+

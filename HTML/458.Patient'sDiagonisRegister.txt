@@ -1,0 +1,30 @@
+Patient'sDiagonisRegister
+
+Submitted on:  September 17, 2015 - 10:50pm 
+ 
+Idea:
+ This application is used to add patient's diagonis detail data instead of using paper which can be more efficent and safe for data storing.
+ 
+Problem Solved:
+Efficeint and effective way of storing pateint's diagonis detail information.
+There are many health center of different hospitals in different districts or VDC so they cannnot send the detail information of pateint of their health center to its main hospital. In order to maintain that this application can be useful. All the data of different are maintained in one system.
+Instead of writing details in paper, the application helps to store the data in database which is accessible anytime anywhere.
+Useful for research study from the data stored.
+ 
+ 
+Functions:
+ Patients Detail information form.
+Allow to register the health center of respective hospital of different districts or VDC all around Nepal.
+ICD-10 code to register the patient diagonis.
+ 
+ 
+Targeted audience:
+ Our target auidence is doctors of different hospitals.
+Hospitals can use this application to store the detail information of the patient through the application. It is fast and most effective method of registration.
+ 
+Main Benefits:
+The application is targeted for doctors so that they can easily fill the detail information patient with help of the application. It is more effective for them.
+ 
+Platform: Android  
+
+

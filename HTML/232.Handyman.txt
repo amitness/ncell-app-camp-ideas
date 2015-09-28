@@ -1,0 +1,36 @@
+Handyman
+
+Submitted on:  August 14, 2015 - 3:16pm 
+ 
+Idea:
+ A handyman that connects local electricians, painters, plumbers, carpentars, computer technicians to you.
+ 
+Problem Solved:
+Handyman will allow you to connect to local handyman professionals for all your home improvement and repairing needs. If you need anything you need repairing at home you will no longer need to go through multiple channels to connect to a professional. One call and you will find the best professional in your area.
+ 
+ 
+Functions:
+ The application allows us to search handyman's to repair your home.
+Water Problems  - Hire a plumber!
+Electric Problems - Hire an electrician!
+Allows users to search for all of these professionals.
+Allow customers to rate professional on their skill so that it helps other people who are using the app.
+Allows users to call them or message them and fix an appointment with them right away.
+An easy and simple UI so everyone can use it.
+These features will be included in the Minimum Viable Product (MVP)
+ 
+ 
+Targeted audience:
+ People who are looking to have something repaired at home. Sometimes it is an emergency so you need to call a handyman at home right way! Handyman is here to help.
+Moreover, even professionals can connect themselves and get a contract together!
+ 
+ 
+ 
+Main Benefits:
+You can easily connect with professional who are ready to be hired and fix any problems at home. It will also allow you to hire professionals at a fair price, since you can contact so many professionals. 
+Handyman will allow you to connect to local handyman professionals for all your home improvement and repairing needs. If you need anything you need repairing at home you will no longer need to go through multiple channels to connect to a professional. One call and you will find the best professional in your area.
+ 
+ 
+Platform: Android, SMS, Others(Web, hence iOS and Windows Mobile.)  
+
+

@@ -1,0 +1,32 @@
+CureMe
+
+Submitted on:  September 10, 2015 - 9:43pm 
+ 
+Idea:
+ An android app which helps you to chat with all online doctors.
+ 
+Problem Solved:
+1. Lack of Doctors specially in remote areas.
+2. Unavailability of Doctors in required time.
+ 
+ 
+ 
+Functions:
+ 1. Doctors create an account in this app by sending their certificates.
+2. Those Doctors are verified by reviewing those datas.
+3. Users can view all the online Doctors and chat with them by the means of text, audio or video.
+ 
+Targeted audience:
+ People suffering from diseases of any kind.
+ 
+ 
+ 
+Main Benefits:
+1. Find all the online doctors just with a click.
+2. Chat with text, audio or video.
+3. Get yourself cured free of cost.
+4. No need to go to far places in search of good Doctors.
+ 
+Platform: Android  
+
+

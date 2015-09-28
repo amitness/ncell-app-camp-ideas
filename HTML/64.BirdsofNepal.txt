@@ -1,0 +1,28 @@
+BirdsofNepal
+
+Submitted on:  September 8, 2015 - 10:57am 
+ 
+Idea:
+ App would allows bird watchers to get the information about all the birds that are found in Nepal and allows to create note of bird watching trip
+ 
+Problem Solved:
+Nepal is famuous for bird watching in both global and local tourism. People around the world visits Nepal for bird watching. However, there is no easier way to get detailed information about birds,bird watching events and bird watching routes.
+ 
+Functions:
+ 1. This app would have detailed information of all the birds found in Nepal. e.g. Scientific name, local name, images, habitats etc.
+2. Give user feature of making checklist for bird watching trip.
+3. App allows to create trip note.
+4. GPS map that displays bird watching route.
+5. Give information on various bird watching events.
+ 
+Targeted audience:
+ 1. Local tourists/bird lovers
+2. International tourists/bird lovers
+3. Tourist guides
+ 
+Main Benefits:
+This app would help both local as well as global bird lovers to get detailed information about birds,bird watching events and bird watching routes of Nepal on their smartphone. Say good bye to traditional trip books.
+ 
+Platform: Android  
+
+

@@ -1,0 +1,25 @@
+TeamPeirama
+
+Submitted on:  September 17, 2015 - 1:33am 
+ 
+Idea:
+ An app that basically aggregates Story(News Story, Blogs, Opinions, Articles) of different categories from news portals based on users choice
+ 
+Problem Solved:
+Browsing through the web to read quality contents ( News Stories, Opinions, Blogs, Articles, Interviews ) that actually interest you has never been easy.With the mushrooming of the Media House and portals in Nepal and the Contents of one being fairly better than another on Specific Category , One has to Spend a lot Browsing through different portals Just to read a good Story. This is the situation where this app will come handy. Just Pick your the topic you are interested at and Our app will Curate the best Story for you.
+ 
+Functions:
+ Curates the Best Story on Area that Interest You
+Instant Push Notification for the Breaking Stories
+ 
+ 
+Targeted audience:
+ Every Guy who loves to go through Quality Stories Curated according to theirs areas of interest. 
+ 
+Main Benefits:
+Provides One Stop Solution to Read Quality Story ( News , Blogs, Opinions ) on User's Areas of Interest
+ 
+ 
+Platform: Android  
+
+

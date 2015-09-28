@@ -1,0 +1,25 @@
+Mapp
+
+Submitted on:  September 15, 2015 - 1:15pm 
+ 
+Idea:
+ Our idea is to develop an app that makes smart app search and tries to give the most relevant apps for the user to choose from.
+ 
+Problem Solved:
+It will help users get the right apps they are searching for. It will take in accout the user who is making the search as an important aspect of the search. This app tries to anticipate what the specific user is searching for and shows result accordingly. Each user will be special for this app and will have a special ID to store some useful details in the backend, which will be considered while making search for him/her.
+There are 1.6 millions + app available in Google Play alone. People don't try each and every one of those apps. People use apps that are familiar and relevent to them. Many times we are unaware of some of the most happening apps among our friends-circle. Nobody wants to miss that! Also, there are many useful apps user might be unawar of. Some of the most useful apps are developed locally here in Nepal but fails to reach large mass. Thus, managing all those useful but unknown products and making it easly accessible could mean a great deal. There are various factors that make an app useful for particular user and, this is where we are trying to acknowledge as many of those factors for rating apps and serving the users what they want. What we are trying here is to take a more holistic approach towards search by creating a interconnected network of app users. You can call it a smart search for smartphone apps.
+ 
+ 
+Functions:
+ This app will basically have a search section where user will type in search query. The search result will be a list of appropriate apps user is searching for. Along with this, our app will have a feature to recommend various relevent apps to the users.
+ 
+Targeted audience:
+ It is targeted to all smart phone users who use mobile apps as a part of their daily life.
+ 
+Main Benefits:
+The user will get the useful and relevant apps to choose from just by typing a single search query. Our app will help users get what they are searching for without having to test and try many apps available in the market. The search query need not be an actual App name rather a simple non technical language could be used such that every person could take the benefit.
+ 
+ 
+Platform: Android  
+
+

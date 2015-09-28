@@ -1,0 +1,30 @@
+MedicalNetwork
+
+Submitted on:  September 14, 2015 - 4:14pm 
+ 
+Idea:
+ A multi-user app to create a network among patient and doctors..
+ 
+Problem Solved:
+- The app helps to find doctors to address your health questions online.- The app will let users to give their opinions about hospitals, and doctors    with rating.- Incase of hesitation meeting doctors in person, user can always put up their queries without disclosing their identity.  - Users can look up for people with same disorder and communicate with them regarding their problems.- People with psychological disorder,depression can get guidance from psychologist and concerned doctors through chats itself .- People can find which hospital to go, and which doctor to see on with the help of different opinions of people. - People can look up for doctor's profile and get contact details of the concerned doctor . 
+ 
+Functions:
+ - Create user profile and update their concerned problems with/without disclosing identity (For patients)
+- Diagnosis of disease through set of queries.
+- Create user profile and update information like contact details , speaciality , available hours, working clinics etc. ( Doctors)
+-Contact details of Doctors / Hospitals
+- Online chat system.
+- Discussion forums.
+- Health tips. 
+ 
+Targeted audience:
+ -General patients
+-Doctors
+-Patients hesitating to meet doctor in person  ​ 
+ 
+Main Benefits:
+-Users can easily get advices from other users and patients.-Users can easily get the contact details of concered doctor.-Users can freely post their queries on sexology and psychology without disclosing the identity .-Users can help themselves diagnose their problems without needing to go to health centers.-Users can get the remedies consulting with people who've been treated with same disorder. 
+ 
+Platform: Android  
+
+

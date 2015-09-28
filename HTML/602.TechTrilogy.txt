@@ -1,0 +1,22 @@
+TechTrilogy
+
+Submitted on:  September 18, 2015 - 8:50am 
+ 
+Idea:
+ Our application will help the old peoples to remember their medicine and doctor visit schedule as well as get emergency help.
+ 
+Problem Solved:
+Aged sick peoples cannot remember their medicine schedules easily as well as need someone to be always there with them to take care. Our application will remind them of their schedules as well as provide them emergency help when they are alone.
+ 
+Functions:
+ The app will have reminder session and a emergency call session with the help of which the client will get help when they are even alone.
+ 
+Targeted audience:
+ Old aged peoples who cant remember their schedules easily and need someone always around to take care of their medicines and look after them all the time.
+ 
+Main Benefits:
+They will easily remember their medicine schedule as well as can be sure of getting help easily when they are even alone. So that they can feel secured about their health.
+ 
+Platform: Android  
+
+

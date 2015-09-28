@@ -1,0 +1,37 @@
+ShresthaNTravel
+
+Submitted on:  September 19, 2015 - 12:35pm 
+ 
+Idea:
+ Capture experience of travellers in multimedia form allowing viewer to decide their travelling destination according to others experience & rating
+ 
+Problem Solved:
+This app is focused on allowing users to post only their travelling experience. It requires users to create account and post their experience just like in facebook allowing others to view their posts (videos,photos,texts,voices) but in more organized way then ever before.
+They will be able to rate places according to their experience which will help other travellers to decide their next destination.
+Users will have ability to make their post public or private according to their wish.
+People will have much better idea before travelling if they are willing to travel new destination for the first time.
+Users can later view their own posts for renewing their old memories.
+We believe this will dramatically change the way people travel. this will revolutionarize travelling as a social activity. Hence, dramatially improving tourism.
+ 
+Functions:
+ Functions:
+1. socializing travelling.
+2. sharing experience to others.
+3. easy and faster decision making for next destination.
+4. neat and organized album of experiences.
+ 
+Elements:
+Different multimedias including text, audio, videos, photos and gps location
+ 
+Targeted audience:
+ Everyone who loves travelling is our targeted audience.
+ 
+Main Benefits:
+Users will have their own digital traveling album which they can access any time and any where through internet.
+They will be able to post more contents in their album as they travel.
+This will create very neatly arranged album(including multimedia like text,voice,photos,videos,location) of experience felt while travelling.
+ 
+ 
+Platform: Android  
+
+

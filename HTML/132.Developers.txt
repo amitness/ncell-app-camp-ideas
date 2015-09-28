@@ -1,0 +1,30 @@
+Developers
+
+Submitted on:  September 19, 2015 - 11:21pm 
+ 
+Idea:
+ An app that lets you know about the events, sale offers, restaurants, movies and more based within the radius of your current location.
+ 
+Problem Solved:
+Being in a new place cannot be the best experience.
+Our app tries to provide one the possible solution by listing him/her the list of places and events around so that he can explore as per the need. 
+The restaurants can have the opportunity to post specialities to attract the customers.
+The Clothing shops can post discounts and other related offers.
+Even small local parlors and whole sale shops can pin themselves from the app.
+ 
+Functions:
+ The user will be provided a map along with the markers of the places with events and more... 
+He/she can make comments/recommendations based on the experience.  
+In addition, the user could be notified of any good events when within a particular proximity.
+ 
+Targeted audience:
+ Tourists local and International
+Shopkeepers and Buyers
+ 
+Main Benefits:
+The user can benefit from the sorted information that is at his disposal. Hence, he can make the choice more on his benefit then a need as is the case.
+ 
+ 
+Platform: Android  
+
+

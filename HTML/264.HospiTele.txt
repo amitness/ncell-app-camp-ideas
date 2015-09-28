@@ -1,0 +1,37 @@
+HospiTele
+
+Submitted on:  September 20, 2015 - 10:41am 
+ 
+Idea:
+ Your home/app based medical solution.
+ 
+Problem Solved:
+1.Patients have to wait for hours in queue even for the usual/normal medical consultation, So with the help of this app they don't have to wait for hours and can access doctor from home.
+2.Medical Consultation can be accessed anywhere in Nepal.
+3.Solution for routine illness.
+4.Tourists seeking medical consultation in Nepal.
+ 
+Functions:
+ 1.Video Conference with doctor.
+2.Can set appointments.
+3.Appointments remainder.
+4.Electronic Prescription.
+5.Hospital/Pharmacies on map.
+ 
+ 
+Targeted audience:
+ Students,Old age homes,Orphanages,Hotels and tourists and General peoples.
+ 
+Main Benefits:
+1. Can book appointments with comfort of home.
+2. Less time consuming.
+3. Easy doctor access and 24/7 service.
+4. Electronic prescription.
+5. First free appointment
+6. Easy payment systems.
+7. Easy remainder and less expensive with respect to consultation.
+ 
+ 
+Platform: Android  
+
+

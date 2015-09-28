@@ -1,0 +1,26 @@
+Guid
+
+Submitted on:  August 27, 2015 - 4:54pm 
+ 
+Idea:
+ User friendly app which help to find out the tourism areas with present condition and events in that area
+ 
+Problem Solved:
+locating good tourism and trecking  area with full information about climates,hotels,geographical conditions,events, cultures and good traving agents is not that easy.Our app tackle this problems and helps to user to find good spot with expertise and good traving agents 
+ 
+Functions:
+ This app list down good restaurants with price. Gives information about geographical conditions with present climate. List down the traving and trecking office with full information about that office. List down the traving packages with price
+ 
+ 
+Targeted audience:
+ Peoples who loves to travelling and trekking in safe way with experts in guiding
+ 
+Main Benefits:
+1.Easy to locate traving  and trecking  areas easily with present condition and weather. 
+2.Easy to get in contact with good traveling agents 
+3.Easy to find events near that areas
+ 
+ 
+Platform: Android  
+
+

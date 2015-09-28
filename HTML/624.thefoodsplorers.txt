@@ -1,0 +1,27 @@
+thefoodsplorers
+
+Submitted on:  September 19, 2015 - 11:26am 
+ 
+Idea:
+ its an app which lets you discover new places and rate the dishes on a scale of 1-5, simple as that.
+ 
+Problem Solved:
+whenever we go out out for smthing to eat or just sit down and talk often we dont have the right information about the place, which ruins the fun. Our app will focus on this issue in a simple way. If any person goes out and finds the place cool and he can use the app to rate the food and the environment. We can use google maps or any other source for the location.
+ 
+Functions:
+ - rating the environemnt of the place
+- rating the food
+- discovering exotic locations for gatherings
+ 
+Targeted audience:
+ our target audience are the people who can travel on their own, between 15 onwards basically.
+ 
+Main Benefits:
+* Easy way to find a place with god environment and food.
+* last minute plannings can be way easier.
+ 
+ 
+ 
+Platform: Android, iOS  
+
+

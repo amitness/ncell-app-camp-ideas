@@ -1,0 +1,24 @@
+Kawadi
+
+Submitted on:  August 23, 2015 - 2:12pm 
+ 
+Idea:
+ Any one can Buy and sell goods (any goods that can be either first hand or second hand )
+ 
+Problem Solved:
+Most of the goods are becoming useless once they are used, though they can be reuse(eg:course books)..thus through this app anyone can sell the goods they hav no use for them bt may hav great value for others through this app at lower price ..
+ 
+Functions:
+ Seller will hav different login area where they can describe their goods and give there contact numbers
+Buyer will hav the different login area where they can see the goods and can contact the seller
+ 
+Targeted audience:
+ Students, technical persons
+ 
+Main Benefits:
+1.seller can make some cash from the goods that is worthless for them
+2.buy can get the goods at lower rate which helps them to save some money
+ 
+Platform: Android  
+
+

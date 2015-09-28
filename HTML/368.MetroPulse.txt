@@ -1,0 +1,32 @@
+MetroPulse
+
+Submitted on:  September 19, 2015 - 8:23am 
+ 
+Idea:
+ Metro Pulse helps you to find amazing events and things to do in cities, as it also plans your entire day for you.
+ 
+Problem Solved:
+
+p { margin-bottom: 0.1in; line-height: 120%; }
+This application solves the problem of not knowing what's happening nearby.
+Allows option for following an event organizer which keeps user updated about the events from a specific organizer so the user never misses one.
+A user can enjoy the recommendation feature to plan a day which would be based on his/her interest resolving the infinite seek for cool events.
+Resolves unfriendly user interface by adding easy to use feature for plotting events in map with freehand selection for showing events available in the selected area.
+ 
+Functions:
+ The application will provide events details for various categories, locations plotted on the map with a functionality to make a freehand selection of an area to display events within it including a recommendation system which plans a complete day or some hours for the user based on his/her interest (User's Facebook profile and previous actions on the application will serve as a major source for user's interest).
+ 
+Targeted audience:
+ 
+p { margin-bottom: 0.1in; line-height: 120%; }
+Event enthusiasts in various categories including but not limited to techno-meetups, pool parties, concerts. Applicable to every age group. As the application can plan an entire day for the user, it is also suitable for people with free time, but not sure what to do for the entire day i.e which places to visit, what things to see etc. You get to plan your day with your friends or loved ones.
+ 
+Main Benefits:
+1. Find events and happenings nearby.
+2. Get personalized recommendation. Our recommender system will learn your interest and recommend you events or places that suits your interests.
+3. Freehand selection on the map allows you to find events happening within the selected region.
+4. Plan your entire day / some free hours using the app as we will suggest you what events and places (restaurants, sight seeing etc) you can go to followed by other events and places.
+ 
+Platform: Android  
+
+

@@ -1,0 +1,32 @@
+Racoonकिंवदन्ती
+
+Submitted on:  September 17, 2015 - 2:15pm 
+ 
+Idea:
+ A treasure-trove of myths and history of culturally, religiously and socially venerated places, festivals and heritages for tourist guides and tourist
+ 
+Problem Solved:
+1)flourishing of misleading descriptions about touristic locations.
+2)In a country like Nepal, which is bestowed with rich  cultural and social heritages, the sharp decrease in the trend of story-telling presents a grim picture.So, we want to have all the stories(myth and history) to flow not only to this generation but to the many generation to come, directly from the senior-citizens who are our last source for those invaluable stories.
+3)It would be completely different experience for tourists when they get to know how and why, the cultural , social, religious and historical assets, have come to the state  as they are in front of their eye.
+ 
+Functions:
+ Functions: 
+Track the location and display the heritages along with their stories
+Elements:  
+Submit the stories, search by locations, request for unavailable stories
+ 
+ 
+Targeted audience:
+ Tourist guide: It is quite common that the tourist guide is not acquainted with the local stories of touristic locations, consequently they miss the opportunity to convey incredible stories to left the tourist spell-bound. 
+Tourist: Many tourists,nowadays, want to venture on a tour alone too.And in absence of a real guide, this app can act as a guide.
+ 
+ 
+ 
+Main Benefits:
+1)Comprehensive access to all the stories, they will always want to tell tourists they are guiding.
+2)Solve language barrier on the process of acquiring such stories from the locals.
+ 
+Platform: Android  
+
+

@@ -1,0 +1,22 @@
+Code4Change
+
+Submitted on:  September 19, 2015 - 4:34pm 
+ 
+Idea:
+ why to wait in line, if you can book the tickets online of the new movie released
+ 
+Problem Solved:
+- don't have to waste valueable time on queue- don't have to go through lots of newspaper and website for movies information- pre-information about the available movie tickets in theatres
+ 
+Functions:
+ - online ticket booking and payment- information about movies, theatres and ticket rates-  show movie trailers
+ 
+Targeted audience:
+ movie lovers
+ 
+Main Benefits:
+With single app user can view upcoming releases movie trailers, book and pay for movie tickets online
+ 
+Platform: Android  
+
+

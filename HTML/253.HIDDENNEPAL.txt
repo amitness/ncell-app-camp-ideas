@@ -1,0 +1,49 @@
+HIDDENNEPAL
+
+Submitted on:  August 30, 2015 - 7:30pm 
+ 
+Idea:
+ To know the hidden as well as popular tourism places of Nepal and tourist can reach there through this application.
+ 
+Problem Solved:
+ 
+This app can solve the following problems:-
+- To know about the hidden tourism places which are behind due to the lack of advertisement, e.g.: In Dolpa the famous place is Jagdula which is famous for yarsha gumba, snow leopard, hiking etc. but it is still behind due to lack of advertisement. 
+- It provides the description about hidden as well as popular tourism places which make the tourist able to make a destination for a tour.
+- It provides the location map and gives instructions how to reach at that place.
+-  It provides the information about local food, lodging and cultural activities of that place .e.g. local food like Gundruk and Dhedo.
+
+ 
+Functions:
+ Functions​:
+The app list down to find the hidden as well as popular tourism places and there available lodging and fooding with its details facilities based on the location. The apps provides the details information of transportatin, cultural activity and short description on that tourism place.
+Elements of apps  
+-Home: Short description and features about our application
+-Searching: The user can search the hidden as well as popular tourism places of Nepal.
+-Location map:
+-Sharing   
+-Others
+​​-Videos
+- Cultural Activity    
+-Contact list: Important phone numbers
+-About us:
+ 
+ 
+ 
+Targeted audience:
+ - Main focus on local and international tourist who want to visit the tourism places of Nepal.
+-Those person who want to know about the tourism places of Nepal.
+ 
+Main Benefits:
+ 
+The main benefits for the user are given below:-
+- It provides the description about hidden as well as popular tourism place.
+- Easy to search and choose the best tourism place.
+- It reduce the user time for searching the place.
+- Easy to fine the location of that tourism area.
+- Easy to know the lodging and fooding of that area.​​
+- Apps can provide videos link of  related tourism places.
+ 
+Platform: Android  
+
+

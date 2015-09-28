@@ -1,0 +1,36 @@
+Thopa
+
+Submitted on:  August 22, 2015 - 10:02pm 
+ 
+Idea:
+ 
+An app that links a patient with blood donors, can provide immediate help in fatal hazards and keeps you updated to diseases and health related events
+ 
+Problem Solved:
+Getting a matching blood group during emergencies is not an easy job, so our app maintains a group of people indeed of blood and people who are willing to donate. Suppose Mr. X has a health complication and is in need of a rare blood group (say O negative), for Mr. X to get blood he needs to get in link to a doctor who has a link or refer to some organizations which may not be appropriate if the person in need of the blood is in critical condition, that is when he can get someone from the app who are willing or are capable to donate blood by contacting them through our app. On the other hand, what are our ways when we are in a delicate situations of accidents or health hazards? Suppose you are walking somewhere and something tragic happened, Mr. Y had a terrible accident and requires an immediate treatment else it is going to be fatal. At such situations you are likely to be out of options about whom to call and where to take him, and it is not a 100% chance that someone has a contact to an ambulance or hospital and that is when you can get an aid from our app, it will give a number to the nearest ambulance or hospital service available.
+ 
+Functions:
+ 1.      Acts as a communication link between patients in need of blood and respective suitable donor willing to donate blood.
+2.      Provides with a lifesaving moment to users by providing emergency numbers during the situations when the time gap is just a boundary between life and death.
+3.      Provides with the information (contact number) of nearby hospitals and ambulance service.
+4.      Maintains a database of app users with their profile (unique with user name and password) that contains data (like name, age, phone number, sex, blood group, donation status: if s/he is fit for donation, etc.), so people can get a notification if someone is fighting for his/her life and is in need of blood.
+5.      Provides with a new column that has the listings of the events and health seminars happening with its details, venue and timing.
+6.      Provides an information column that includes various information on diseases, their causes and symptoms and a referral about the hospital and doctor where it  can be treated. 
+ 
+Targeted audience:
+ 1.      Anyone who is in need of blood ASAP.
+2.      Someone who has witnessed an accident or health hazards and willing to save the person’s life.
+3.      Students and Health personals who are willing to get updated about diseases, their curing places, various events and health seminars happening.
+4.      Hundreds of victims that are endangered because of a health hazards and accidents whose life can be saved.
+5.      Anyone who needs a contact number of a specific or nearby hospitals or ambulance service. 
+ 
+Main Benefits:
+1.      Saves time and effort required for the patients (their relatives) who are searching for a suitable donor.
+2. Many people become victim of a fatal accident or health hazards, their life can be saved within a limited timeframe.
+3.Get information on happening events and health seminars and get a chance to be a part of a world that simply believes in the idea “Thopa Thopa mili sagar banna sakcha”.
+4.Get information on specific hospital and ambulance services.
+5. Get information on some viral diseases, symptoms, remedies and where can it be treated and who can treat it in Nepal.
+ 
+Platform: Android  
+
+

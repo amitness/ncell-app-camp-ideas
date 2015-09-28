@@ -1,0 +1,25 @@
+OrganoFood
+
+Submitted on:  September 19, 2015 - 7:07am 
+ 
+Idea:
+ Shows the list of places for tourists where they can eat organic foods.
+ 
+Problem Solved:
+Many of tourists who visit our country want to eat organic food, not the company made, but the home made food. So our application show the places as well as the foods available there for tourists where they can eat organic food.
+ 
+Functions:
+ Shows places in Nepal where tourists can eat organic food along with the food they want to eat.
+ 
+Targeted audience:
+ Internal Tourists
+External Tourists
+ 
+Main Benefits:
+User can find places where they can eact good food.
+Information at their hands.
+Easy and feasible.
+ 
+Platform: Android  
+
+

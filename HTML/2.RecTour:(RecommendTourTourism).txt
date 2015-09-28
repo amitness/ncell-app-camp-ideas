@@ -1,0 +1,68 @@
+RecTour:(RecommendTourTourism)
+
+Submitted on:  September 7, 2015 - 9:49pm 
+ 
+Idea:
+ This application assist tourist perosnales in making decision with Recommended Solutions while visiting Nepal.
+ 
+ 
+Problem Solved:
+RecTour solves multiple problems such as :
+
+
+Helps in making decision for ,
+
+
+
+
+Time Estimation And Schedueling
+
+
+places , hotels , destinations, routes ....
+
+
+      2.  It helps audiences who are intending to visit or for those who are already in nepal for Time estimation and Scheduling with Notification.
+       3. It helps to explore the details of places and their related Agencies,Transport, Hotels, Culture, Events etc. according to their interest.
+       4. It helps  users to  find personales  with similar interest or destination for accompany.
+ 
+Functions:
+ The main function of our application is to give our audience the complete application that can be helpful in every step during their travel whether it is the places they search or the way they want to reach their destination.Not only our application helps tourists who are already in nepal also to those who are planning to visit nepal with loads of recomendations. we want to assist our user on every step in their journey to nepal in everyway possible. As in todays condition due to the earthquake lots of our historical places are in bad condition so in this situation our app will also represent these places in a way that the tourist will find them interesting to visit.
+ 
+Targeted audience:
+ The targeted audience are both International and Domestic Tourist.
+ 
+Main Benefits:
+Benifit for the user
+
+
+Short List Places, Hotels, Agencies,etc,. according to users interest and need.
+
+
+Proper Time Management with related Alerts.
+
+
+Choose proper destinations and routes monitoring the trails/footsteps of past users.
+
+
+Find nearby users by location
+
+
+Get details about lodging , fooding and transpotation
+
+
+Weather forecasting of chosen destintaion 
+
+
+Most Common English - Nepali word and sentences 
+
+
+General Map
+
+
+Event Notificaiton with places
+
+
+ 
+Platform: Android  
+
+

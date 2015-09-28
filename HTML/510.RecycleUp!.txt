@@ -1,0 +1,32 @@
+RecycleUp!
+
+Submitted on:  September 20, 2015 - 12:17am 
+ 
+Idea:
+ Creative ideas, methods and ways to come up to recycle and reuse our waste product & utilities & possibly monetize or economize them.
+ 
+Problem Solved:
+Lot of people are not aware of or don’t know how to recycle their daily waste product. They just dispose them to the municipality. They’ve no idea if it can ever save them some money or even earn some.
+For instance: The plastic bags - toxic to nature could be recycled, decayable waste materials could be turned into fertilizers & used for gardening, Plastic bottles could be reused to make decorable items etc. & lot more.
+We assume normal people have no or little idea about that and how to do that.
+We’ll help them solve these problems.
+ 
+ 
+Functions:
+ > Tips: Provide user idea and methods to use simple or creative ways to reuse the waste product.
+> Info: Tell user about recycling possibility, HOW & WHY.
+> Interaction : Connect recycling agents with households
+ 
+Targeted audience:
+ > Normal household people – who can contribute to eco-friendly environment.
+> housewife – who can monetize and economize the expenses.
+> Creative people – who can come up with creative recycled product like handicraft
+> Recycling agents – who can connect with these people
+ 
+Main Benefits:
+> separate the disposable & non-disposable waste products> Recycle those waste products.> Monetize or Economize by saving to re-buy products
+> Support Eco-Friendly Environment
+ 
+Platform: Android  
+
+

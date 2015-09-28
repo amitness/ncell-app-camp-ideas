@@ -1,0 +1,30 @@
+HealthRecommender
+
+Submitted on:  September 13, 2015 - 9:02pm 
+ 
+Idea:
+ probable disease recomender,based on information provided by the user with probable disease related doctor's and hospital's information
+ 
+Problem Solved:
+1.To provide a busy scheduled person ,means to know about their health condition from anywhere
+2.To provide health related service(information)
+3.To help find a proper hospital and a proper doctor
+ 
+Functions:
+ 1. User will have to give their general information such as: fullname,age and gender.
+2. then user will have to provide symptoms they might be having and pain they are feeling 
+3. our app will receive does data and proceed then give result i.e probable disease that they might be suffering from (though accuracy is limited)
+4. Also when probable disease are listed, doctor's and hospital's information related to the disease are provided.
+ 
+Targeted audience:
+ All Nepalese people with age 10 and higher.
+ 
+Main Benefits:
+1. User will have knowledge about probable disease user may have or suffering from.
+2. User will have proper information about doctors in nepal according to the disease.
+3. Busy scheduled personel may save their time using our app.
+ 
+ 
+Platform: Android  
+
+

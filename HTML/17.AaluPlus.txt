@@ -1,0 +1,24 @@
+AaluPlus
+
+Submitted on:  September 14, 2015 - 8:48am 
+ 
+Idea:
+ Game to play classic tic-tac-toe in mobile version.
+ 
+Problem Solved:
+It's an entertainment app, so it is basically a time-pass app, however, it can also boost your reasoning and logical skills.
+ 
+ 
+Functions:
+ The main function/ element of our application is a 3*3 box, where the users inputs Os or Xs. One who makes 3 Os or Xs wins the game.
+ 
+ 
+Targeted audience:
+ Everyone is our target audience, from nursery kids, to teenage boys/ girls, to college students and to grown-up. Everybody can play this game and get immense joy.
+ 
+Main Benefits:
+The users can play this simple game and feel nostalgic about their childhood. They can play this game and get relieved from the stress. User's can play this game with their friend and get immense joy.
+ 
+Platform: Android  
+
+

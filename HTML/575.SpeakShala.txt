@@ -1,0 +1,22 @@
+SpeakShala
+
+Submitted on:  August 31, 2015 - 10:49pm 
+ 
+Idea:
+ Pronounce the given English word or sentence correctly and score the points.
+ 
+Problem Solved:
+Speaking English correctly isn't an easy task. So lets learn to speak through the means of game.
+ 
+Functions:
+ User gets the word or sentence to pronounce and the pronunciation is checked and if it is wrong then our app will reside the pronunciation. User score and lose the points .
+ 
+Targeted audience:
+ Specially those who are weak in English and also small children.
+ 
+Main Benefits:
+People can practice their English speaking and get entertainment also.
+ 
+Platform: Android  
+
+

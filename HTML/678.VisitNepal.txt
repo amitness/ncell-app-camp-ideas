@@ -1,0 +1,22 @@
+VisitNepal
+
+Submitted on:  September 7, 2015 - 3:34pm 
+ 
+Idea:
+ The app encourages/attract tourists to visit nepal and help them to find their tourist guide in Nepal.
+ 
+Problem Solved:
+ When tourists visit Nepal, the major problem they face is where to go from the airport, whom to seek help as they dont know the nepali language. The major problem for any tourists is communication. So, this app helps you to find tourist guide from your nationalities in Nepal. so, that when you reached at the airport your guide will be there to help you in anyway.
+ 
+Functions:
+ The app contains all the tourist attraction center in nepal along with the photos. Also,The app contains details of available tourism offices in Nepal. On clicking, particular tourism office, it will shows available toursits guide along with the booking price. Inside, the tourism office page there will be a login page where tourists have to fill their details like name, their nationalities and when they are coming to Nepal. This will confirm their visit in Nepal and they will be welcome in the airport by their guides. Also, there will be a cancel button in case tourists want to cancel their booking for guide.
+ 
+Targeted audience:
+  This app will hugely attract Tourists to visit nepal.
+ 
+Main Benefits:
+1. Tourists can easily find tourists guide for them in Nepal.2. Tourists will not have to worry about their fooding, lodging and their stay      in nepal. 3. This app will help tourists to know about the tourist places in nepal like        trekking, bunjee jumping,etc.4. Tourists can read  the past experiences of other tourists in nepal,               this will help them to know more about Nepal.5. Tourists can share their experiences of Nepal through this app. 
+ 
+Platform: Android, iOS  
+
+

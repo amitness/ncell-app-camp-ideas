@@ -1,0 +1,22 @@
+Profileron
+
+Submitted on:  September 19, 2015 - 11:05am 
+ 
+Idea:
+ This App will create a lock screen and based on code inserted mobile will open in different modes hiding important informations,solving privacy issues
+ 
+Problem Solved:
+This App will solve the privacy concerns of the user.  Sometimes mobile owner is in situations where he/she must provide code to open mobile and all his informations get exposed. With this App user can enter multiple codes to enter in multiple mode and in some modes many informations are hidden and not excessible to the other.
+ 
+Functions:
+ The main functions of the App is to create a lock screen and user can set different codes to open the mobile in different modes . Elements of App will be a lockscreen and database which will store information and show the informations based on the code inserted.
+ 
+Targeted audience:
+ This App can be useful for all varieties of user who intend to not make their important informations accesible to others.
+ 
+Main Benefits:
+Solving of the privacy issues is the most important part of our lives.This is the main benefit for the user.
+ 
+Platform: Android  
+
+

@@ -1,0 +1,30 @@
+PATH(asingletouch)
+
+Submitted on:  August 27, 2015 - 12:53pm 
+ 
+Idea:
+ PATH a single touch app(public and the hospital) which would help to show right path to public in field of health sector through a single touch.
+ 
+Problem Solved:
+It will help general public in emergency at any where and in any situation to find hospitals,doctors of particular field at particular time.
+ 
+Functions:
+ -Easy to search nearest hospitals and doctors at particular time.
+-Alarming system which will help both doctors and patient to coordinate with each other.
+-Fast treatment.
+-Adds value to heath sector.
+-Saves life through a single touch.
+ 
+Targeted audience:
+ The target audience for app are all general public specially for the people who need emergency services.
+ 
+Main Benefits:
+- GPS location based nearest hospitals search(area)
+- One click registration through google account.
+-Show doctors  avaliable at particular time
+-Displays calculated nearest hospitals on map with approximate distance.
+ 
+ 
+Platform: Android  
+
+

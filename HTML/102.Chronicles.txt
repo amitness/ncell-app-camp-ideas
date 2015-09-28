@@ -1,0 +1,47 @@
+Chronicles
+
+Submitted on:  September 20, 2015 - 11:40am 
+ 
+Idea:
+ App that lets users share writings anonymously with fellow users who can act as editors and critics to help enhance.
+ 
+Problem Solved:
+We are all writers— of different calibers— sure, but we can all write. But every so often, we are not confident enough to share our piece of writing with our peers in the fear of being criticized.
+With Chronicles, users can share their essays, stories, poems, and such, anonymously, with a wide variety of audience and get suggestions on how they can edit and enhance their original scripts and strengthen their writing skills.
+Further, users can get suggestions from professionals on various formal writings such as CVs, job applications, personal essays and statements of purpose that can help them in their own professional lives.
+ 
+ 
+Functions:
+ 
+Various Elements of the app will be:
+
+Discussion section where users can share their pieces and read, review and rate fellow users’ writing
+Collaboration section where users of similar interests can write a single article hand in hand.
+Events section to notify users about various literary events happening around them.
+Tips and Tricks section to help users learn the rules and guidelines for better writing.
+
+
+
+ 
+Targeted audience:
+ 
+All writers and writing enthusiasts ranging from beginners to professionals.
+Everyone interested in reading good pieces of writings.
+
+ 
+Main Benefits:
+ 
+
+User identities are kept anonymous if the users opt to.
+Users can browse through a wide selection of stories, poems, essays and sample professional writings.
+The app provides users a platform to showcase and enhance their writing skills.
+Users can suggest titles, edits, proper sequencing and other aspects of writing to other users.
+The app will also ease users’ professional lives by helping them compose better formal and academic pieces of writing.
+User can write reviews and rank other users’ writings.
+The app will contain a section for multiple users to collaborate in unanimous writing.
+The app will also have a section for literary events so that users can get a chance to participate.
+
+ 
+Platform: Android  
+
+

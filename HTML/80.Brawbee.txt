@@ -1,0 +1,26 @@
+Brawbee
+
+Submitted on:  September 16, 2015 - 10:45pm 
+ 
+Idea:
+ Video wise location-based social discovery application that facilitates communication between mutually interested users.
+ 
+Problem Solved:
+Feel the Instant communication with the people you want to talk. Find the best match for your date.
+ 
+Functions:
+ dicover people around you within specified km/miles
+video introduction
+Chat with the favourited person
+video calls.
+If one of the people you like likes you back, bingo!
+ 
+Targeted audience:
+ all single people who want to find a date with someone.
+ 
+Main Benefits:
+The app allows users to chat with their matches and date with the like minded people by watching a video. 
+ 
+Platform: Android, iOS  
+
+

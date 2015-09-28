@@ -1,0 +1,22 @@
+buzzer!!!
+
+Submitted on:  August 19, 2015 - 9:43am 
+ 
+Idea:
+ A weather forecast theme launcher, working and displaying a motion wallpaper detailing about the current weather with measuring of temperatue.
+ 
+Problem Solved:
+It facinates people about gaining info n due to the visualization effect of the theme.
+ 
+Functions:
+ Unique display, technology theme, merged information
+ 
+Targeted audience:
+ Every people around nepal and if sucessful also neighbouring countries
+ 
+Main Benefits:
+They will have a good looking front screen,with detailing about the atmospheric temperature around them
+ 
+Platform: Android  
+
+

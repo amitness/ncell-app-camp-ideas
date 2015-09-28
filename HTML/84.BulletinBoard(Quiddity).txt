@@ -1,0 +1,88 @@
+BulletinBoard(Quiddity)
+
+Submitted on:  September 20, 2015 - 9:51am 
+ 
+Idea:
+ An application designed to share notes, notices and schedules within certain group of students and their respective teachers and colleges.
+ 
+Problem Solved:
+
+
+
+
+we've listed them as follows:
+
+
+As students we experienced difficulties in our college to get informed about the college notices, assignment deadlines and exam schedules. Whenever we encountered any problems in any subject matter it was difficult to have proper discussion will other students. There was a clear Communication gap between students, teachers and College. So we decided to solve all these problems in our app to help get the best out of the students, teachers and College.
+
+
+Notes can be categorised and shared in one common location so it eliminates the hassle of searching notes shared through different media, buried beneath posts.
+
+
+Students can be notified about assignment deadlines, date submission and lab schedules, exams , exam notices.
+
+
+Ex-students will most likely have no idea about what is going on in college. Important notices and events thus, can be missed. So, we look to sort out this problem.
+
+
+
+ 
+ 
+Functions:
+ 
+
+
+
+Automate in Notes , informations providing methodology
+
+
+Digitalization in informationShare notices, college activities, exam dates, assignments.
+
+
+Parallel information sharing
+
+
+Saves money - colleges dont need to xerox all the notes of different subjects to each and every students
+
+
+Get alert to plan and do your tasks
+
+
+Make students prepare for upcoming taks, exams and other college activities
+
+
+
+ 
+ 
+Targeted audience:
+ Since our application is sharing informations, notes, notices, we have major targets for this project as follows:
+Bachelors, +2 Colleges. 
+College Students, teachers
+Ex-students who stil needs some notices published (exam dates, routines, form fill ups, college programs)
+Currently enrolled new students.
+ 
+ 
+Main Benefits:
+Students can be upto date about college activities,
+
+
+
+
+1. Users are able to get shared notes direclty on their devices
+
+
+Notes can be shared either by teachers or college administration
+
+
+2. Shared college notices , programs , activities , events
+
+
+3. Shared assignments , deadline , labschedules, exam routines, even results .4. Efficient way to share and get informations5. Cost less
+
+
+
+Also colleges , teachers they can share their notices, to certain groups. 
+ 
+Platform: Android  
+
+

@@ -1,0 +1,37 @@
+GhumNepal
+
+Submitted on:  September 19, 2015 - 11:43pm 
+ 
+Idea:
+ GhumNepal will allow people to know about various places focusing on unrecognized ones and to establish communication among tourists worldwide.
+ 
+Problem Solved:
+1.People unfamiliar with a certain place can get any information about that place.
+2.Saves time by reducing the trouble of searching online in different websites.
+3.Eliminates the necessity to install several apps regarding travelling in Nepal.
+4.Tourists can get company of each other in visiting that place after communicating people who have bucket-listed that location via the contact details provided.
+5.After contacting people familiar with a certain place, users can know about the cost, transportation, the environment and problems in visiting that place.
+ 
+Functions:
+ 1.Wish-list facility allows users to mark a certain place they might want to visit.
+2.Communication among probable fellow travelers via email, phone, Facebook.
+3.Full-fledged information about latent places according to users’ wish.
+4.Social networks connectivity i.e, login via Facebook and other Medias.
+5.View of places on Google map as per the convenience.
+ 
+ 
+Targeted audience:
+ 1.National and international tourists
+2.People enthusiastic about travelling
+3.Archaeologists, anthropologists and researchers
+ 
+Main Benefits:
+1.It makes people enthusiastic in travelling and looking for hidden places in various parts of Nepal.
+2.It simplifies the task of researchers and archaeologists in finishing a complex investigation
+3.GhumNepal contributes hugely in promoting rural beauties and landmarks of Nepal.
+4.For tourists who are wishing to travel, but are uncertain about the situations there, they can contact other fellow travelers who have bucket listed the place.
+5.Through social media, commercialization can be introduced into the place such as foreign revenue, donations.
+ 
+Platform: Android  
+
+

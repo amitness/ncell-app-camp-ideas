@@ -1,0 +1,64 @@
+MeroDoctor
+
+Submitted on:  September 18, 2015 - 3:50pm 
+ 
+Idea:
+ A product that allows user to search for medical conditions based on symptoms, provide basic home remedies and recommend doctors, hospitals, clinics.
+ 
+Problem Solved:
+
+
+
+
+The application helps user search for all the possible medical conditions based on the selected symptom(s). Once the user identifies the condition, the application will provide simple home remedies for the condition, along with to-dos and not-to-dos if available. The application will also provide a list of suggested doctors, hospitals and clinics for the medical condition. 
+
+
+
+
+ 
+ 
+Functions:
+ 
+
+
+
+-  Selection of symptoms according to different departments like ENT, orthopedic, cardiac, ophthalmology, etc. 
+-  A shortlist of all the possible medical conditions based on the selected symptoms. 
+-  Provide basic home remedies if available, especially for conditions like common cold, muscle ache, etc.
+- Location-based doctor, hospital and clinic recommendation.
+- Featured doctors, hospitals and clinics references for paid services.
+
+
+
+
+ 
+ 
+Targeted audience:
+ 
+
+
+
+The application will be extremely useful for people of all age groups who are showing certain symptoms but unaware of the underlying medical condition. 
+
+
+
+
+ 
+ 
+Main Benefits:
+
+
+
+
+-  User will be able to list down all the possible medical conditions based on the symptoms. 
+-  User will be provided with a shortlist of all the doctors, hospitals and clinics specialized for that medical condition.
+-  User will also be provided with simple home remedies for the medical condition if available.
+
+
+
+
+ 
+ 
+Platform: Android, iOS  
+
+

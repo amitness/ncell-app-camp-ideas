@@ -1,0 +1,37 @@
+DeliveryBoy
+
+Submitted on:  September 19, 2015 - 7:53pm 
+ 
+Idea:
+ Reliable and instant delivery of product from online shopkeepers(facebook fanpage/e-commerce) with constant online checking or update of product route
+ 
+Problem Solved:
+The main problem solved by our application are:
+1.Online Buyers are convinced about their purchased product current position from online with time and location description.
+2.Online Seller are reliable about their product delivery process until their buyers gets product.
+3.Online seller/buyer needn't need to call constantly about location and time.
+4.People mainly from outside valley can easily shop online with reliability of products route and time.
+ 
+Functions:
+ The main functions and elements of our application are:
+1.Upto date GPS location of product delivery person.
+2.Full description of products starting and ending location.
+ 
+Targeted audience:
+ Our target audience are:
+1.E-commerce websites or facebook fanpages who sell product online.
+2.Online buyers who always want to be convinced about their purchased product's location and time.
+ 
+ 
+ 
+Main Benefits:
+There are three types of users who can take advantage from our application.
+They are:
+1.Online Shopkeepers(Facebook fanpage/E-commerce): They can deliver product instantly with constant update of product position or route with GPS location tracking, as they do not need to call about buyers location repeatedly.
+2.Buyers: They can get location and time update about their purchased product route .
+3. Anyone can create account in our application and deliver product and earn money.
+ 
+ 
+Platform: Android  
+
+

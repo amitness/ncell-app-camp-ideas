@@ -1,0 +1,31 @@
+Advely
+
+Submitted on:  September 20, 2015 - 10:03am 
+ 
+Idea:
+ Advely is a mobile advertising solution that enables the users to interact with static advertisements in magazines and newspapers.
+ 
+Problem Solved:
+The advertisements in magazines,newspapers and banners only provides  limited information to consumers. Knowing the product's or any services features,quality,price,performance, reviews, and place of purchase is very difficult.Our app bridges this gap by providing an easier access to the users.It enables the advertisers to reach a larger audience.
+ 
+Functions:
+ The app interacts with the static ads on magazine and postures redirecting the user to the official video advertisement of the products by processing the advertised image.
+It directs the user from an offline to online presence where further information can be accquired.(depends on the availability of information on the internet)
+ 
+Targeted audience:
+ Advertisers and brand endorsers can benefit by using our platform to reach a greater audeince.
+Our app will be targeted toward the android smartphone users aged above 16 years.
+Newspaper and magazine readers can make  informed decisions about the advertised products.
+Working women from city areas will be our specific users ,initially then we plan to acquire different userbase.
+ 
+Main Benefits:
+Users can
+1.get access to ads official promotional videos.
+2.get detailed information about the products
+3.get reviews from experts and other users.
+4.access contact information and pricing details.
+5.can access the official webpage for further info and transact online (if available)
+ 
+Platform: Android  
+
+

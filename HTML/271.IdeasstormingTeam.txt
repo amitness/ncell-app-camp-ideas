@@ -1,0 +1,43 @@
+IdeasstormingTeam
+
+Submitted on:  August 17, 2015 - 10:28pm 
+ 
+Idea:
+ Application where ideas and problems will be shared of any field and get solution of it from experts users
+ 
+Problem Solved:
+Its would be the application which seek solution for everything. Many people have many problem, for instance, students problem, health problem etc. People would be sharing their problems and also their ideas if any which can help other in tremendous ways, such as technique for improving writing skills in exam, research approach which can be helpful to anybody.
+We will be having numerous experts and our users who can contribute to solve the problem. The problem and solution would be verified from our technical group and would be shared. 
+We can also classify the users such as people related to technology, health, administration, politics and direct the queries through SMS and get its response through SMS itself.
+It can help many people such as students, people from villages and almost all. 
+ 
+Functions:
+ Our main function would be
+1. Idea sharing tools via SMS to App
+2. problem sharing tools via SMS to App
+3. Solving approach via SMS and updating it in App
+Elements would be
+1. Tools for problem writing in no more than 100 words and sharing it
+2. Website updating and application updating
+3. user registration in accordance with their profession and expertise 
+ 
+Targeted audience:
+ Firstly we will be focusing to
+1. Students
+2. Emergency Issues
+3. Medical problems
+and many more problems
+so our targeted audience would be those who will be in problem so all most all would be our targeted audiance. 
+ 
+Main Benefits:
+The benifits would be the application will have categories such as
+1. Education Related Issues
+2. Medical Issues
+3. Technology Issues
+4. Latest Ideas and Research 
+and many more which helps everyone to sent their ideas and problem and get its solution in the tip of their hand in very short time.
+We shall use SMS solution to forward the problem to the experts and even to the registered users and get its solution from SMS also. This Application would be the parents for all solutions as we will be linking the whole world slowly. 
+ 
+Platform: Android, iOS, Windows phone, SMS  
+
+

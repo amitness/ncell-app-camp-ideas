@@ -1,0 +1,29 @@
+UnBored
+
+Submitted on:  September 14, 2015 - 9:58pm 
+ 
+Idea:
+ "UnBored" is an AI app, whose single tap suggests you the best possible thing you can do, knows your context too and learns itself.
+ 
+Problem Solved:
+"UnBored" is a personal assitant which learns by itself, knows your context, help to find stuff to do when you are bored.
+Scene 1: you are travelling on a train and you are bored
+ suggestion: Read article on Fastest trains around the world
+Scene 2: You are at home, it's 8 pm and you are bored:
+ suggestion: HBO is showing "Transformer" watch it.
+and It continues to learn.
+ 
+ 
+ 
+Functions:
+ The main functions/element of the app is to provide the recommendation engine curated for the individual's best interest.
+ 
+Targeted audience:
+ Anyone who is eligible to carry a smartphone
+ 
+Main Benefits:
+"UnBored" is a well integrated app, which uses all the services provided by Google search, Google Places, IMDB, Facebook, Twitter. It customizes itself to provide the best suggestions. 
+ 
+Platform: Android, iOS  
+
+

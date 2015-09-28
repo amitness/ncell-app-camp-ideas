@@ -1,0 +1,22 @@
+Techtrilogy
+
+Submitted on:  September 17, 2015 - 10:23pm 
+ 
+Idea:
+ App that help tourist to book hotel room of their choice with detail information, cost and location.
+ 
+Problem Solved:
+It will help the tourist to search the hotel room with affordable cost and better location.
+ 
+Functions:
+ To help tourist to provide best accomodation.Hotel owner should update their room info and tourist can check the booking and contact to the hotel owner.
+ 
+Targeted audience:
+ Tourists who seek to visit places and wants best accomodation.
+ 
+Main Benefits:
+It will help tourist to book hotel room of their interest and budget.
+ 
+Platform: Android  
+
+

@@ -1,0 +1,31 @@
+OneUniNepal
+
+Submitted on:  September 18, 2015 - 12:27pm 
+ 
+Idea:
+ A cross university platform for Nepali students to share, work on projects and debate on sensational topics and showcase their skills.
+ 
+Problem Solved:
+The app is focussed on solving the inter-university barrier among students in Nepal. It will act as a platform for like minded students to work together.
+The app will enable people from several universities but same faculties to share their mutual knowledge , university based events , projects and help each other in lots of things.
+For example, A Computer Engineering student from IOE can gain information about new topics from a student of KUSOE. On a longer format , this will help the students to overcome all the short comings of their respective institute and create a good network outside of their respective Universities.
+ 
+ 
+Functions:
+ The app is more  of a social media for every student. It will give you detail of every university and colleges in Nepal and the feed backs from their students. The app will list out the interesting events , ideas , projects that student can work on and debate upon.
+ 
+Targeted audience:
+ This app is for all those students willing to learn more about their respective fields , new graduates searching for a college and a platform for youths to show case their projects and even gain sponsorships and even parents who wish to find a suitable college/university for their children.
+The range includes any common student to those student leaders who want to work in cross university projects.
+ 
+Main Benefits:
+Benefits:
+1) The user can create a good network outside of his college.
+2) The app enables to learn about any interesting event happening in other universities.
+3) The students can discuss on the shortcomings of their respective universities and work tigether to ensure the mutual development.
+4) A fresh high school graduate can as well choose which university would be best for him based upon the reviews and discussions.
+In short, this app is all about rising above institutional barrier and empowering students.
+ 
+Platform: Windows phone  
+
+

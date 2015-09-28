@@ -1,0 +1,23 @@
+Gogreen
+
+Submitted on:  August 16, 2015 - 8:34am 
+ 
+Idea:
+ It is all about helping Students to Remember during Exams periods important notes.
+ 
+Problem Solved:
+It helps the student to remember some important points that help to keep the good score during Exams.
+ 
+Functions:
+ Well, this application manages to keep the record long notes into one single piece of word. For Example during our school age, it was lot of difficult to remember all the sine formula..so our teacher taugh us to remeber "some people have curly brown hair turning permanently black".  So Here is my idea why don't we develop an app that will match the correct words of first letter with some known things or names. We do have a internet with piles of names and places and there is facebook too with names. So if we could possibily search the matching names with the one who enquired or searched about it with his first letter of his points and suggest him with some famous name, then he won't have to remember all those points. Like if we wanted to search for the keywords KBRCSL for Different National Parks in Nepal, we might suggest SLC BOARD KO RESULT, i.e shey-pokhsundu, Bara rara, khaptad National Park.
+It will not only help those one who seek good marks for Entrance Exam but also for those who have to spend a lots of time to remember long notes.
+ 
+Targeted audience:
+ Mainly for those preparing for Entrance Exams for medical or Engineering line or General Students who wanted to score Good Marks in Exams,
+ 
+Main Benefits:
+Everyone nowdays want to score a good marks in exams but there are some points which are worth remembering but due to lots of points to remeber, it's sort of hard to remember and this is where this application comes for rescue.
+ 
+Platform: Android  
+
+

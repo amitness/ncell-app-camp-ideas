@@ -1,0 +1,38 @@
+TUNGO
+
+Submitted on:  September 1, 2015 - 11:56pm 
+ 
+Idea:
+ App to remotely control certain emergency features (alarm, contacts, flash, profile etc.) of one phone from another phone using SMS control system.
+ 
+Problem Solved:
+Our app solves the problems listed below:
+It helps users to get notified about the urgent call and the message when the phone is in silent mode that otherwise would've remained unnoticed.
+In case of theft or losing phone beyond vicinity this app continuously sends message to the master phone revealing its new location after every 25 meters. This helps the user to know the current location of the phone.
+There are the cases when we can’t do anything about our lost phone and its valuable contents (contacts, messages) which may be worth lot more than the phone itself; we’ve solved this problem too. We can retrieve those contents from our lost phone.
+People are forgetful nowadays, they sometime leave their phone at home and go to work. They may have some important numbers to call, but unfortunately they’ve forgotten their phone at home, so in this case you can retrieve contact number of a specific person that you need to make call from this app.
+Lastly, most of the phone users share a common problem of misplacing a phone in a room in silent mode, they experience this situation mainly when they are in rush to go college, office or some other places, so in this case the situation may be time consuming, stressful and in some cases disastrous too. We have a solution for this problem too. You just need to click a button and change the misplaced phone profile from silent to general from next phone and make a call to the misplaced phone or you can also use the alarm or ringer feature of the phone from next phone, the alarm or ringer will be activated and you can hear ringing your phone. The problem is solved now, you can get the misplaced phone.
+ 
+Functions:
+ There are mainly four features in the application namely, profile, alarm, location, contacts. 
+Profile:- This feature enables the user to switch the profile of the another user's mobile phone within a circle to general, vibration or silent mode by accesing remotely, according to the requirements.
+Alarm:-This function allows user to find his misplaced phone. It commands the phone to ring and thereby notifies the user about the whereabouts of its position.
+It is of three types namely:
+Flash Alarm: Activates the flash.
+Ringer alarm: Rings the phone.
+Flash and Ringer alarm: It performs both of the above functions simultaneously
+Location:-This function allows user to track his/her phone's location and uses “Bread Crumb” technique which is an innovative way to reach/trace lost cell phones. It provides location of the phone to the user after every 25 meters of movement of the phone. 
+Contacts:- Lastly, this app also allows user to retrieve all or only important contacts from the mobile phone which is out of reach.This can be simply done by entering the mobile number of the lost phone and the password and hit the send button. Within a fraction of time the contacts are transferred to the user’s new phone. 
+NOTE: It performs every functions without any internet connectivity.
+ 
+Targeted audience:
+ All categories of people from techno-geeks to amateurs who owns smart phone.
+ 
+Main Benefits:
+We have introduced SMS control system through which one can easily locate and control its misplaced or lost phone remotely without any internet connection,so this app is impartial to techno-geeks and amateurs as well as to all categories of people who owns smart phone.
+ 
+ 
+ 
+Platform: Android  
+
+

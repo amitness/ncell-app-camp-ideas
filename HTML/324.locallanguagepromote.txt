@@ -1,0 +1,22 @@
+locallanguagepromote
+
+Submitted on:  September 14, 2015 - 5:55pm 
+ 
+Idea:
+ to promote local language of the country and made computer friendly which preserve the cultural and heritage of the country.
+ 
+Problem Solved:
+it will preserve and promote minority language and preserve the cultural property of the country. 
+ 
+Functions:
+ to make a system that accept different local languag of the country.
+ 
+Targeted audience:
+ THE minority people will be more beneficial and country will preserve it;s culture.
+ 
+Main Benefits:
+user familier to any language should't be backward due to language difficulty.
+ 
+Platform: Android  
+
+

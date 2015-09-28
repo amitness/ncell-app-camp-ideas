@@ -1,0 +1,23 @@
+HealthOnline
+
+Submitted on:  September 19, 2015 - 1:34pm 
+ 
+Idea:
+ This app helps to fill the appointment form  of hospital by mobile recharge .
+ 
+Problem Solved:
+This helps to those serious victim who are likely to dead due to lack of time . Person who is taking victim to hospital can submit the form on the way through android phone.
+ 
+Functions:
+ This app helps to have online appointment by filling the form of hospital through mobile recharge.
+ 
+Targeted audience:
+ Those victims which case is very dangerous and have to do operation or others in proper time.
+ 
+Main Benefits:
+Many people will get new life .
+Victims can have appointment with doctors directly.
+ 
+Platform: Android  
+
+

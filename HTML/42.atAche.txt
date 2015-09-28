@@ -1,0 +1,24 @@
+atAche
+
+Submitted on:  September 20, 2015 - 12:36am 
+ 
+Idea:
+ atAche is an Automatic call for help app, constantly monitoring your heart rate, attached to you at time of ache.
+ 
+Problem Solved:
+The application sends message to nearby help stations and well wishers when the user's heart beat is irregular. Nepal had nearly 1000 to 10000 deaths due to coronary heart diseases, according to the data provided by WHO, in 2002. Many of these deaths are due to untimely arrival of help. Similarly, eve teasing is also a serious problem where the females are subjected to harsh commentary, and in many cases, physical attacks. During the onset of these attacks, precious time is lost in thinking whom to call for help and actually calling for help. In many cases, it is very difficult for victim to ask for help by calling or messaging by himself. During this time, it might be too late for the user. Using "atAche", by monitoring the irregularity in the heart rate, data is correlated to the available data base related to heart conditions. Whenever the heart rate is irregular, it sends SOS message IMMEDIATELY and all this is done by the app automatically. 
+ 
+Functions:
+ The "atAche" app is installed in smartphones which is continuously connected to smart watch via bluetooth. The smart watch, which has heart rate monitor preinstalled in it, continuously transmits the data to the app. The data is correlated with the available data base available from various medical agencies and other survey data with diversity in age group, sex, ethnicity, work groups, etc. Based on the data output, during the event of any unforseen event, the SOS message is generated with users current location and sent to the help stations nearb. Furthermore, the message can also be sent to user's pre configured well wisher contacts.
+ 
+ 
+Targeted audience:
+ People with coronary heart diseases are ones to benefit from this application. They are most prone to a sudden onset of an attack and need immediate attention and help. Besides them, looking at a broader picture, the application can be used to call for help, not only during an onset of heart related problems but also, for dangerous situation as eve teasing, accident, etc. These are similar situations where the user are not in correct state of mind to call for help and need assistant.
+ 
+Main Benefits:
+ The best thing about the application is that the operation is AUTOMATIC once it is installed. At the time of upsetting event, may it be heart attack, eve teasing, accident or danger, the main thing is to brace oneself. The app automatically senses these irregularities using the smart watch and sends the SOS message, with location, to the nearby help stations and well wishers. All of this is without the user shuffling through the phone and thinking where to call for help.
+ 
+ 
+Platform: Android  
+
+

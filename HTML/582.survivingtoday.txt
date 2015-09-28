@@ -1,0 +1,22 @@
+survivingtoday
+
+Submitted on:  September 15, 2015 - 12:23pm 
+ 
+Idea:
+ Fight 1 on 1 with players around the world or create your team and fight with other teams in this arcade online game.also you can practice offline.
+ 
+Problem Solved:
+This game will let players around the world to communicate with each other.this game is the combination of arcade and online game.
+ 
+Functions:
+ This app is mainly focused on online game play. People will be able to connect with different people. This game is inspired by games such as mortal combat and street fighter..
+ 
+Targeted audience:
+ People who are interested in arcade and online gaming.
+ 
+Main Benefits:
+This game is mainly focused to people who are addicted to Arcade gaming. Its main focus is to have fun.
+ 
+Platform: Android  
+
+

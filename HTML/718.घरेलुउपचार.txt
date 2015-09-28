@@ -1,0 +1,27 @@
+घरेलुउपचार
+
+Submitted on:  August 26, 2015 - 10:19pm 
+ 
+Idea:
+ App to create a one-stop solution for traditional home remedies for various illness and promote Nepali crude drugs and Ayurveda medicines
+ 
+Problem Solved:
+Chemicals and modern medications could have unmentioned side effects and it is hard to know if we are taking the right medications without reffering to doctors. From medieval times, people have been looking up to natural cures for daily health problems and emergencies. Our app aims to provide techniques to use locally available herbs and products for providing home remedies.
+ 
+Functions:
+ 1.The app lists down Home Remedies (natural cure) for various ailments
+2. Users can submit their home remedies as well or submit their queries and add their favorites
+3. Details available in Nepali and English languages
+ 
+ 
+Targeted audience:
+ College students who are living far from their mothers and need to take care of themselves when they fall sick. 
+ 
+Main Benefits:
+1. easy to learn about home- medications, so that a common medical emergency can be solved without going to the hospital. 
+2. Users can gain knowledge about the advantages of local medicinal herbs and commonly found kitchen products 
+3. Detailed recipes and pictures along with descriptions in Nepali as well as English language will further accustom users to follow a healthy lifestyle
+ 
+Platform: Android  
+
+

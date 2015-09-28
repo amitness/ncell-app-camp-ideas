@@ -1,0 +1,27 @@
+crucialz
+
+Submitted on:  August 26, 2015 - 8:43pm 
+ 
+Idea:
+ this app use VPN 2 cnnct othr mobile n use its camera s cc camera n 2 use its temprature sensr 2 act s fire alarm n call the no. at emergncy aftr 1min
+ 
+Problem Solved:
+as we know the impotance of cc camera in banks and  for other fields and too the connection of it is bulky and costly but with this app every one can use their android mobile as cc camera .It uses vpn  to connect to camera of other mobile and uses its camera and provides the live video happening over there like we send the apps through various app like xender,share it etc its shares the live video similarly.And more over it uses the temperature sensor of mobile and act as fire alarm for certain time and after a certain time fixed by the user it automatically call the number set at the list by the user preceeding with emergency massage. Its main application fields are in banks ,spying and other offices etc 
+ 
+Functions:
+ 1.wireless cc camera (uses VPN to connect the camera of another mobile)
+2.fire alarm(uses temperature sensor of mobile)
+ 
+Targeted audience:
+ 1.bank
+2.offices
+3.spy
+4.normal people
+ 
+Main Benefits:
+1.no use of bulky and costly cc cameras
+2.automatic fire alarm and automatic amergency call
+ 
+Platform: Android  
+
+

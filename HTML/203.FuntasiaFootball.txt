@@ -1,0 +1,29 @@
+FuntasiaFootball
+
+Submitted on:  September 19, 2015 - 1:27pm 
+ 
+Idea:
+ Our idea is to develop a gaming application that simulates the career of a manager in football.
+ 
+Problem Solved:
+I guess the main problem that this app will solve is that it eliminates boredom. Other than that , this app brings the experience of being a manager of a football team into the virtual world.
+ 
+Functions:
+ Online game - Our game will be developed as an online game where the players compete against eachother . In other words, this game will be developed in the concept of clash of clans.
+Simulated Matches - The actual football in the match will be simulated and the winner will be declared based on the teams stats, tactics and strategies used among other factors
+Transfer Market - The game features a transfer market where buying, selling and loan of real players in the game.
+League Matches - Leagues  - premier league, Europa League will be included and the game will feature league matches . 
+Leaderboard - The game features a leaderboard where the top teams will be listed based on their team's statistics - Wins, Losses, Draws, GF, GA
+Betting System - The game also features a betting system where players can bet eachother on other matches within the game.
+In-App Purchases- This game supports in-app purchases of coins along with other elements in the game .
+Coin based game -  Our game is a coin based game which the players can buy through in-app purchase and also players are rewarded through matches, tournaments and betting system in the game. The accumulated coins can later be exchanged for money from the game itself
+ 
+Targeted audience:
+ Youths who have a huge craze towards the sport of Football 
+ 
+Main Benefits:
+This is an online gaming application that brings the experience of being a manager in the virtual world. The players can know more about the sport of football by playing this game. Also the players can win money by accumulating as much coins as possible.
+ 
+Platform: Android  
+
+

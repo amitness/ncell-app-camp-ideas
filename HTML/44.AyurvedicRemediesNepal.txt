@@ -1,0 +1,24 @@
+AyurvedicRemediesNepal
+
+Submitted on:  September 20, 2015 - 9:44am 
+ 
+Idea:
+ App to know ayurvedic home remedies for various diseases.
+ 
+Problem Solved:
+This app helps to motivate users to make use of ayurvedic remedies which have no side effects as compared to allopathic medicines.
+ 
+Functions:
+ 1. The app provides home remedies treatment for various diseases.
+2. It gives information and tips on healthy fooding style
+ 
+Targeted audience:
+ This app is targeted for people of all ages as it helps to make their lifestyle healthier.
+ 
+Main Benefits:
+1. Helps to guide users on how to perform ayurvedic treatment for various diseases. For e.g. headache can be treated using home remedies like drinking boiled mixture of water, salt, methi, timur and neem leaves.
+2. Nowadays people are having unhealthy fooding style which is the main cause for their illness and various diseases. Hence this app helps to provide information about healthy diets and fooding tips. For e.g. having meat mixed with mushroom can lead to serious illness which can even take life. Thus these kinds of mistakes on fooding style can be avoided using the app.
+ 
+Platform: Android  
+
+

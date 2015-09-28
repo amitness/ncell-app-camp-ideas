@@ -1,0 +1,27 @@
+hybridtracker
+
+Submitted on:  August 18, 2015 - 6:59pm 
+ 
+Idea:
+ track  any  person who are  trekking or on a way to climb mountains and those who are trapped in a place where they can lose life. 
+ 
+Problem Solved:
+In Nepal due to lack of development our rescue operation's are slow. So it helps to make rescue fast for those tourists and trekkers who cannot reach camp or who are in danger due to natural disaster, and those victim who are unconcious, lying on the ground but alive but trapped due to some disaster or unthought situation.
+ 
+Functions:
+ Hybrid tracker list of all possible trekking routes, trekkers, people who are in danger, group of trekkers or camps nearby you, provides a clear mapping of the victims who are badly affected.
+ 
+Targeted audience:
+ Every people on the world but targeted user are:
+trekkers, natural disaster rescue team, army, Nepal government.
+ 
+Main Benefits:
+If the person is lost in a route he/she can easily find the team.
+If he/she is in trouble rescue team can track, find and save the life.
+Info of the trekking route.
+In a disaster like of April, it helps government to find the most affected places and manage the rescue work.
+ 
+ 
+Platform: Android  
+
+

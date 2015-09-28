@@ -1,0 +1,29 @@
+SendonTime
+
+Submitted on:  September 14, 2015 - 9:56pm 
+ 
+Idea:
+ Have a mail, message or post to submit on time dont you worry because "Send on time" is here
+ 
+ 
+Problem Solved:
+For an instance you have a mail or message to send or a file to upload and a status to post and to wish someones borthday on a certain time all you have to do is set the time and you are ready to go :)
+ 
+Functions:
+ it will :
+-- allow the users to send gmail mail and upload a document by setting a time 
+-- also works with the sms of the mobile 
+-- also posts your status to facebook and twitter 
+and many more
+ 
+ 
+Targeted audience:
+ This is targated to the people of all ages who have something to send on a certain time 
+ 
+Main Benefits:
+The user can post the thing they wanna send and upload and do their other works and there is no chance of missing that time when you wanna uplod the product ..
+ 
+ 
+Platform: Android  
+
+

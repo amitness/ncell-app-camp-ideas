@@ -1,0 +1,64 @@
+Ajambari
+
+Submitted on:  September 1, 2015 - 9:49pm 
+ 
+Idea:
+ App that shows the possible routes to the destination along with information on available public transportation.
+ 
+Problem Solved:
+For people who find it difficult to reach new destinations, our app provides possible routes to that place along with information on various modes of transportation on those routes. Some information on transportation modes are name of the public transport, transport fare, time of arrival or departure (for long distance transportation)  and bus stops.
+ 
+Functions:
+ Our app provides:
+
+
+Possible routes to the user’s destination.
+
+
+Available modes of transportation to the destination.
+
+
+Availability of tickets for travelling
+
+
+Information on transportation fare.
+
+
+Information on location of bus stops. 
+
+
+Information regarding the time of arrival and departure of different long distance transportation.
+
+
+Information on operating hours of in local transportation( Kathmandu ).
+
+
+ 
+Targeted audience:
+ 1. Youths and adults (who are in unfamiliar places or need to go to new places ).
+2. Travelers and Tourists
+ 
+ 
+Main Benefits:
+ 
+ 
+Users can:
+
+
+Check the app to know the way to get to their destination quicker and more easily
+
+
+learn about prices so there are less chances of getting cheated with transportation fares
+
+
+Pre plan their travel
+
+
+Compare among various options and take the best route on comfortable price 
+
+
+ 
+ 
+Platform: Android  
+
+

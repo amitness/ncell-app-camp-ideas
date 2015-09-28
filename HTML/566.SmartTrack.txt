@@ -1,0 +1,57 @@
+SmartTrack
+
+Submitted on:  September 18, 2015 - 4:18pm 
+ 
+Idea:
+ All in one security and utility app which helps to find your lost smartphone and also helps you in emergency/dangerous situation.
+ 
+Problem Solved:
+ 
+Some problems that our application solves are ,
+a. If we lost our smartphone, searching and getting it is so difficult. So,With 3 tiered security model of our application, users could locate and search their smartphone on all of these 3 conditions. a). smartphone is lost /misplaced and still ON b)Smartphone is lost and  sim card changed and c) factory reset is done on lost smartphone.
+b. While in journey, sometime we may lost and forget the route to reach our destination. Our application's "I am Lost" feature helps the users to find out where they are currently and how to reach their destination with map shown and detailed path.
+c. When we are travelling to new places or we are in dangerous situation its difficult for others to know information about it. We might also encounter various security related threats in our life. "Emergency mode" of our app helps the users to be safe and stay connected with his/her closest ones. It automatically notifies our closest members saying we are in danger and helps them to reach us as fast as possible.
+d. Due to some medical conditions we might urgently need blood. "Help Me Blood" Feature helps us in that situation.
+e. Sometime in emergency condition like in disasters we need to call emergency numbers. Emergency contacts helps the users to easily access emergency contacts .
+ 
+Functions:
+ As we have said our application is the combination of many products. The features of each products are:
+ 
+1. Lost my Phone :
+- tracking geolocation of smartphone (using triangulation/GPS) (misplaced /lost)
+- remotely ring, lock , erase, and control smartphone
+- placing custom message on lockscreen
+- Privileged tracking helps to lock smartphone even if factory reset is done
+- tracking IMEI number and newly inserted sim number
+- forcing custom wallpaper remotely
+- snap picture remotely
+ 
+2. I am lost
+- Tracking current users location and showing users the way to reach their destination
+ 
+3. Emergency mode
+ 
+Enabling the emergency mode in users smartphone, the device will start to work like a spy device . It first sends "help me" message to 3 family/close members mentioned in app with users current location and also sends audio and image data from users smartphone silently to server, so that the closests member could check safety status of their loved ones.
+ 
+4.Emergency Contacts
+-  Access and Call Emergency phone number
+ 
+5.HelpMeBlood
+- Users could contact and know the peoples who could provide the blood...
+ 
+Targeted audience:
+ Our application is must have type of application for every android users because we can't predict when,where and who could lost their smartphone and they could be in dangerous situation . So that all smartphone users who are concerned about protection of them and their smartphone will be our target audiences.
+ 
+Main Benefits:
+The main benefit of our app is,
+ 
+1. Users could find/track their lost smartphone
+2. users could travel without getting lost
+3. Users could inform about their emergency situation immediately to their closest member.
+4. Users could easily access  emergency contact numbers
+5. Users could ask other peoples for blood in emergency situations
+ 
+ 
+Platform: Android  
+
+

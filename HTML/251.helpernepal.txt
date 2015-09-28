@@ -1,0 +1,28 @@
+helpernepal
+
+Submitted on:  August 13, 2015 - 2:48pm 
+ 
+Idea:
+ To provide the student hostel app in which they can find the hostels of their choice.
+ 
+Problem Solved:
+The student living inside valley or outside valley find many difficulties to find the place for living. Hence this app will provide them best way to find hostels of all category they want with the suitable price they can bear along with the different facilities they want.
+ 
+Functions:
+ The students of valley as well as outside valley. To provide the student modern app to decrease their time finding hostels
+ 
+Targeted audience:
+ Students who are in search of hostel for living.
+ 
+Main Benefits:
+1.Student can find the hostel in very less time.
+ 
+2.The student can find the hostel they can afford.
+ 
+3.Student can get room of their choice .
+ 
+4.Student can find the hostel of the facility they want
+ 
+Platform: Android  
+
+

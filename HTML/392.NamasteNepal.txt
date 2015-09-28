@@ -1,0 +1,33 @@
+NamasteNepal
+
+Submitted on:  September 19, 2015 - 11:48pm 
+ 
+Idea:
+ Apps provide Safety, Securities and Reliability to the tourist from any forgery, accident, lost and helping to boost local business. 
+ 
+Problem Solved:
+Undeniably, tourism can be the main source of revenue for a developing country Nepal which is full of historical places and natural beauty. Given the fact that, currently tourists in Nepal face problems such as forgery, getting lost, security owing to the lack of reliable information. Hence, a tourism app would be able to address the gap and provide important information whenever needed which would enable them to feel secure. Moreover, the local businesses could leverage potential of “Tourism app” to promote their products and services to the targeted audience. Certainly, the ubiquity of mobile devices make it the suitable platform for disseminating information as well as business promotion with the use of “Tourism app”.  
+ 
+Functions:
+ .1. It can be used in offline mode especially for the emergency propose
+2. It will show the authentic database of Tourism related Business.
+3. It will rate the local business Services 
+4. Informative for local and international tourist.
+5. It will highlight the top rating hotels, travel agency etc 
+6. The number will pop up in the screen during emergency  
+ 
+Targeted audience:
+ Target audience:Domestic and International Tourist.
+ 
+ 
+Main Benefits:
+Apps provide Safety, Securities and Reliability to the tourist from any forgery, accident, lost and helping to boost local business. There are various websites made by Travel,Trekking,Rafting agencies among them few are running without any legal Status or even creating the fake websites for forgery. In this regard the apps will work out as a yellow page with creating a tourism app which will be fed with trustworthy list of agencies.Meanwhile with the help of apps it is possible to get the nearest information, if it is connected with database. For instance, if I am standing in swoyambhunath it will show information about the nearest police station, supermarket, places to see, hospital in case of emergency. Likewise, it will show the local businesses, those who have registered their business in Tourism apps. Moreover, this app will function in offline mode too, so that it will be accessible anywhere and in any place.Even one can give rating to businesses and services in the proposed Tourism app which will promote the local businesses. 
+.1.It will concern with tourist safety and security of Tourist. 
+ 2. useful for everyone during emergency espsically for female who have their night office. 
+3. Promote the local business 
+4. Concern with Right information
+5. Motivate the entrepreneurs 
+ 
+Platform: Android, iOS  
+
+

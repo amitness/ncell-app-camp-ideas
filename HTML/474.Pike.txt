@@ -1,0 +1,32 @@
+Pike
+
+Submitted on:  September 19, 2015 - 10:25pm 
+ 
+Idea:
+ A strategy game with a negative role of virus which has to mutate and infect a human body to kill the human.
+ 
+Problem Solved:
+Many people are unaware of diseases that occur in human body and how the virus infects, attacks and destroys the body. The game allows people to learn these stuffs from the virus point of view.
+ 
+Functions:
+ 
+The game simulates the attack of a virus on human body and develops around it.
+The player plays as the virus (negative role) and tries to kill the human body.
+The human body, in order to survive, creates antibodies and tackles the virus.
+To succeed, the virus has to mutate and develop a strategy to tackle the antibodies produced by the human body.
+Difficulty levels can be included by increasing opposing forces such as vaccinations, immunity power of person, health, medicines, and others.
+
+ 
+Targeted audience:
+ 13+ people (mild maturity) who like strategy games and/or people who are interested in health and medicines.
+ 
+Main Benefits:
+
+Learn about disease and virus in a fun way.
+Learn the attacking methods of virus.
+Know the symptoms of diseases.
+
+ 
+Platform: Android  
+
+

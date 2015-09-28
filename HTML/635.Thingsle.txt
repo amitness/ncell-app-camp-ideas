@@ -1,0 +1,30 @@
+Thingsle
+
+Submitted on:  August 15, 2015 - 12:08am 
+ 
+Idea:
+ Todo list for your travel experience
+ 
+Problem Solved:
+For the travellers, it's really difficult to search for the to do list while travelling some country or place. Yet there's no any website or application that gives you true context on the basis of user reviews/votes. In simple, Thingsle is the reddit for travellers, product hunt for travellers.
+Go on google and search for things to do in a city or a country. Most of the times the list are curated by the owners of the website or a tour company to promote the promotions. 
+Wouldn't it be nice to get curated things to do from real fellow travelers that is only related to the destination that you're going to?
+With this application, we bring you most voted to do list from users around the world and let you choose what to do. It will really be easy to find out all the travel checklist.
+ 
+Functions:
+ Curated user generated contentBook hotels/restaurants nearby any places based on the list
+ 
+Targeted audience:
+ Travellers from around the worldTravel/Tour agenciesHotels/Restaurants
+ 
+ 
+Main Benefits:
+We only curate the list that are voted and posted by real users so expect to get the real tips and suggestions from real travellers.
+Easy to use
+Easy to get things done.Research less do more.Your trip planning will be less stressfulFind great experiences, trips & activities at fantastic prices.
+Get deals and offers from tour companiesGet rewards based on your karma 
+ 
+ 
+Platform: Android, Others(web)  
+
+

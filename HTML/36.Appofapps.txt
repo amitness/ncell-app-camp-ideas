@@ -1,0 +1,23 @@
+Appofapps
+
+Submitted on:  September 17, 2015 - 1:57pm 
+ 
+Idea:
+ An app that allows to acees any other app or act as a browser from a single app called app of apps.
+ 
+Problem Solved:
+We dont need to download different app,app of app can open any apps from it.
+For e.g if you are fond of watching youtube and using facebook ,then all of a sudden while watching movies in youtube,a message appears then you need to pause youtube app and go to facebook app but app of apps can go to fb within a single click in same app letting your youtube video constant.
+ 
+Functions:
+ The app will let you to be updated with your favourite app and notifications of any social networking sites you are logged in.
+ 
+Targeted audience:
+ It can be used by any person in any corner of the world.
+ 
+Main Benefits:
+It helps for easily accessing you favourite websites or any apps you want. example we dont need to go to facebook app and youtube app differently,from single app we can run both of them
+ 
+Platform: Android  
+
+

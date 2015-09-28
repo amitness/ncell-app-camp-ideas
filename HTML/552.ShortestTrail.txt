@@ -1,0 +1,30 @@
+ShortestTrail
+
+Submitted on:  September 18, 2015 - 10:05pm 
+ 
+Idea:
+ Find Shortest route to all locations you want to visit on the basis of cost,time(both or any other basis of your choice).
+ 
+Problem Solved:
+Most of us are familier with the travelling salesman problem. For those who are not familiar, it is about a salesman who wants to visit each city once but at the same time wants the shortest route possible. Similarly, a tourist as well wants to visit all the place s/he likes but at the same time they want to save either their time,money or sometimes ideally both. 
+ 
+Making a trail of our trip is a simple task but we don't seem to have any app to track our trail, at least not while we are halfway through the trip. Wouldn't it be amazing if photos we take during our trip would itself make a trail of the trip? i.e , if you visit a place and have several photos of tha trail, then our app will automatically trace the gps of the location of each photos and will suggest you the most feasible route on the basis of your choice for you to continue the trip or for your next visit. 
+ 
+ 
+Functions:
+ > Just mark the places you want to visit and :BOOM: there will be all posssible ways to get there and you can choose which one suits you most.( We'll provide every feasible way on the basis of budget, time, comfort and on the basis of your choice too.)
+>Make a trail of your trip not by gps tracking that uses lots of your battery but the photos you take 'cause our app will trace the actual location with the photos for you to enjoy every inch of your trail. 
+ 
+Targeted audience:
+ All internal and international tourists visiting Nepal with a smartphone on their pocket. 
+ 
+Main Benefits:
+1.Take out your smart phone(let it be real smart with our app), open the app and start marking the places you want to visit on the map .(If you have no clue on amazing places in Nepal, don't worry, our app has informations about those wonders too.) 
+After marking the places you want to visit ,you'll be given with the number of routes, among them some will be shortest on the basis of time, some will be the cheapest on the basis of money and  some be most feasible route on the basis of your choice or some route may even be suitable in every way. 
+2.That is something for the new visitors, but for those who want to trail their already visited trip or their currently going trip with photos and memories( don't worry we won't share them unless you allow us) , all you need to do is open the app and go to the trail option where you can trace the location to every pictures and your sweet memories.We'll also provide further feasible routes for you to lay your feet on.  ( This will also help us compare the possible routes.) 
+The routes get continously updated and get rated by the users too( on every basis: budget friendly, time savior and anything you choose) so as to provide always the most suitable route to offer you and every users. 
+ 
+ 
+Platform: Android, iOS, Windows phone  
+
+

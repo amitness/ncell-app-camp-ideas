@@ -1,0 +1,53 @@
+Mumma-Care
+
+Submitted on:  September 8, 2015 - 10:45pm 
+ 
+Idea:
+ This app collects information,disseminates data  and sends reminders to ensure safe and effective maternal and child health care.
+ 
+Problem Solved:
+To collect data from remote areas is a painstaking task requiring a number of resources. Our app will efffectively solve the problems regarding collection of information related to maternal and child health from the remotest of the places. 
+Pregnant women in rural areas are unaware of their Antenatal Care (ANC) visits. This app will notify them via SMS or app notifications (whichever feasible) regarding their ANC visits. This app will also solve the problem regarding storage and retrieval of information collected during those visits.
+After the delivery, mothers are sometimes unaware, at times forgetful about their child's vaccination schedules. This app will also send them a reminder for those dates.
+Growth curves and other information recorded in paper are liable to get wear and tear. This app helps to store and retrieve those information as required in a systematic way. 
+ 
+ 
+ 
+Functions:
+ This app is focused on two functions: Antenatal care of pregnant and Postnatal care of mother and child. 
+ 
+Antenatal care:
+During antenatal care, health care worker at PHC will record the informations like Name, age, cell no., weight and haemoglobin levels (Updated at each visit), next visit date (an app notification or an SMS will be sent few days before the next visit) and other findings (such as diseases like HIV, tetanus ) 
+ 
+Postnatal Care:
+During postnatal care, health care worker at PHC will record the information like date of birth of child, weight of the child at birth, weight (both mother and child) which will be updated at every visit based on which a WHO growth chart will be drawn by the app, immunisation schedule according to national standard for the child (which will be notified via app notification or an SMS).
+ 
+Besides these individual data, this app will also have a feature to store the collective informations like the mortality rate of child and mother of that area, viral diseases that are seen frequently in mother and child, the average weight of child born and other informations on the basis of which a chart will be made which will not only help to visualise the present condition of that area but will also help in centralising those data effectively during census and for other national and international records.
+ 
+This app will have a simple and user friendly UI. 
+ 
+ 
+Targeted audience:
+ This app targets: 
+Primary Health Care (PHC) centres who need to record the information
+Pregnant Women/ Post partum mother.
+People /Organisations involved in public health research.
+Government Agencies
+ 
+ 
+Main Benefits:
+1.This app will help in regularising ANC visits which in turn
+Prevents maternal and neonatal tetanus. 
+Prevents maternal anaemia and malnutrition.
+ 
+2.Helps to regularise child vaccination which will control infant mortality.
+ 
+3.Makes it easier for the health care worker to view the pregnant's ANC history and findings that will help in making rational medical decisions.
+ 
+4.After the birth of child, this app also records the child's growth on a WHO (World Health Organisation) growth chart.
+ 
+5.Hence recorded data can be accessed by concerned stakeholders such as Government agencies, people/organisations involved in public health research for making necessary arrangements to improve the current situation.
+ 
+Platform: Android, SMS  
+
+

@@ -1,0 +1,22 @@
+Care-O-meter
+
+Submitted on:  September 20, 2015 - 9:59am 
+ 
+Idea:
+ A health event calendar which lets people to about the health programs happening in their communities and intends to increase participation.
+ 
+Problem Solved:
+People who want to be involved in health programs like Pap smear test, blood donation programs, don't know when and where the programs might happen and some are even unware the benefits of these program. So, this application intends to notify people of these events in their community.
+ 
+Functions:
+ 1) Health event organizer can easily post events through the web/mobile application.2) User will be able to view these post through the mobile application and confirm their participation.
+ 
+Targeted audience:
+ Health programs organizers who intends to do such good things require less time for advertisements.Interested users who want to be involved in such cause.
+ 
+Main Benefits:
+ Interested user can get easy information about when and where the health programs take place and can easily be a part of it. The results will be fruitful as it increases number of participation which brings people closer to the community. 
+ 
+Platform: Android, Others(Web application)  
+
+

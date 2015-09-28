@@ -1,0 +1,32 @@
+TheGameMafia
+
+Submitted on:  August 15, 2015 - 10:47pm 
+ 
+Idea:
+ 3D Physics based game where a Rhino(Main Character) chase the people in town and score for hitting people, damaging and smashing object.
+ 
+Problem Solved:
+Entertainment; and most notably, users are unwittingly learning the basic of physics on trajectory, momentum and gravity.
+ 
+Functions:
+ 1 Real time 3D environment
+2 Multiplayer
+3 Physics based game
+4 Different Levels
+5 Different Maps where user can experience unique realtime environment.
+ 
+Targeted audience:
+ All age group
+ 
+Main Benefits:
+1 User can experience the unique 3D environment of the game.
+2 User will be collecting assets through out the game which will be useful to buy the new items for the game.
+3 User can pause the game and continue the game from the last state after closing the game also.
+4 User can sync the game through multiplatform devices. Their game data will be stored online and they can login from another device and start from their own level.
+5 Improvement of Cognitive Skills, improve their memory power, logic and reasoning, auditory processing and visual processing
+ 
+ 
+ 
+Platform: Android, iOS  
+
+

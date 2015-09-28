@@ -1,0 +1,37 @@
+PolicyNepal
+
+Submitted on:  August 21, 2015 - 11:58pm 
+ 
+Idea:
+ Allow user to campare various insurance plans and narrow down on the insurance policy that best suits their needs.
+ 
+Problem Solved:
+One of the key area which is not covered by local android application is finance. We do not have any local financial policy comprising application on the google play store. Which inspired to do this project Policy Nepal.
+The aim of this project is to develop a user friendly Android application which allows user to compare policy side by side in terms of price, quality and loan features. It will also allow user to calculate the EMI for loan.
+The core focus of this project is consumer awareness. The project allows any consumers buying a financial policy to go on the application and get all the information about the policy and also compare it with other available similar policies.
+ 
+Functions:
+ 1. Policy quotation
+2. Compare between two banks
+3. Chat with people/ User review
+4. Maps: Nearby Financial Institution.
+5. List all banks and finance
+6. Tips before purchasing
+7. Emi calculator
+ 
+Targeted audience:
+ Every smartphone user who has ever bought a financial policy knowingly or forcefully, like bike insurance, car insurance, loan etc.
+ 
+Main Benefits:
+1. Instant Comparison of financial policies in Nepal
+2. Buy financial policy online
+3. Keep an eye on all financial policy owned by a user at one place.
+4. Smart financial calculation               
+
+
+
+
+ 
+Platform: Android  
+
+

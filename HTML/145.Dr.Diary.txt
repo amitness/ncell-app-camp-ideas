@@ -1,0 +1,30 @@
+Dr.Diary
+
+Submitted on:  September 15, 2015 - 4:43pm 
+ 
+Idea:
+ This is the unique medical application that provides many features to save time for busy Doctors, specially for clinics.
+ 
+Problem Solved:
+1. Ease time management for Doctors.
+2. Easy patient reports veiwing.
+3. Easy to schedule appointment. 
+ 
+ 
+Functions:
+ 1. Add and view the patient information.
+2. Add and view the appointment.
+3.Add and view photo reports (X-ray, ECG).
+4.Add and view treatment details.
+ 
+Targeted audience:
+ All Categories Doctors.
+ 
+Main Benefits:
+1. Doctors can easily manage time.
+2. Previous reports on patient can be viewed upon needed.
+3. Schedule Doctor's appointment properly.
+ 
+Platform: Android  
+
+

@@ -1,0 +1,26 @@
+Alexia
+
+Submitted on:  September 3, 2015 - 5:36pm 
+ 
+Idea:
+ ​If a child does not learn the way we teach,
+we should teach the way they learn.
+ 
+Problem Solved:
+Dyslexia is a specific learning difficulty that primarily affects language. There are many different kinds of dyslexia: visual dyslexics have difficulty reading words or writing letters the correct way round (they may mistake 'b' for 'd', for example) whereas people with auditory dyslexia have trouble processing sounds and getting phonemes in the correct sequence when they try to write things down. Other difficulties associated with dyslexia include short-term memory problems, a weak attention span, and poor organisational skills.It is estimated that 1 in 10 people have dyslexia.In the game, there is a lead character , Alexia who represent a dyslexic patient. He is a normal person who face hard to tackle real world problem. In our game, User will control him. Help him to tackle many problem. This will make user learn to tackle his/her real world problem.Problems faced by dyslexic people are shown in benefits section.
+ 
+Functions:
+ 1. In word game section, there are letters meet cards, and it's your job to make the best words you can! Cards can only be moved if they form words or the start of a word, so careful building is required to make the longest words with the most difficult letters.2. There are many art, puzzle, in 3d images so they try to solve them placing in right order. it is under puzzle sections. we are designing the best puzzle we can make.right now we are focusing in only word section and puzzle section, as we can introduce many topic like detecting a letter, spelling , maths in it. later we want to contact with the official governing bodies for making an update in our game.
+ 
+Targeted audience:
+ It is estimated that 1 in 10 people have dyslexia.This sentence describe our audiences.But basically, people in Nepal doesn't know about the problem. So, they maynot count as a dyslexic people but as it is a fun game app, people loving games are aour target audienceAny age group can be our audience since it is not just a game but a game for a reason.
+ 
+Main Benefits:
+Dyslexia Games will be packed with learning activities that empower your student's brain with new abilities and new brain connections for literacy. Even older children, teens and adults who have been struggling for a long time can quickly build the mental skills needed to succeed in reading, writing and spelling!
+ 
+The games will be so intuitive that student will rarely need help from parents or teachers! This makes your job easy! After being fimilar with our game, We believe s/he will be able to move on to normal schoolwork without the mental confusion caused by Dyslexia.
+Using our fun therapy game at home or in the classroom. Now they can get to the root of 1. reading fatigue2. messy handwriting3. poor spelling4. letter reversals5. number confusion and6. symbol recognition problems!
+ 
+Platform: Android, Windows phone  
+
+

@@ -1,0 +1,25 @@
+TechDictionary
+
+Submitted on:  September 8, 2015 - 6:32pm 
+ 
+Idea:
+ Helps user find meaning of technical terms.
+ 
+Problem Solved:
+Gives user meaning of technical terms which are often hard to find and are hard to understand.
+ 
+Functions:
+ One click search for technical terms.
+Meanings are in easy and understandabl English.
+Feedback let's user improve the definition and submit better meanings.
+ 
+Targeted audience:
+ Students who have a hard time understanding what those 'techinical terms' mean.
+ 
+Main Benefits:
+User can find meaning of technical terms in easy and understandable english.
+One click search instead of having to search it over multiple sites.
+ 
+Platform: Android  
+
+

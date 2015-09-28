@@ -1,0 +1,27 @@
+TACTIKS
+
+Submitted on:  September 10, 2015 - 10:27pm 
+ 
+Idea:
+ An app where you can find the solutions of Large technical problem specially optimized for computers and mobile phones.
+ 
+Problem Solved:
+Most of the people of our country mainly bear the computer and mobile problem for which they take it the technical shop to main. Taking the advantage of that the maintainer charges high even for the minor problem. So this apps provide the various solutions related to your various devices problem specially focusing on the computer and mobile phones.
+ 
+ 
+Functions:
+ Searching for the solution and adding of the problems.
+ 
+Targeted audience:
+ All the user who use or are affected by the electronics devices.
+ 
+Main Benefits:
+1. People have to create an account or they can login from their facebook and can add their problem as well as the solutions.
+2. Large variety of solution will already be their in our apps like how to format your computer, how to jailbreak iphone, how to unlock phone , how to configure your router settings . etc.
+3. The problem that the people  add will be responded within 24 hr if they wont find the solution matching on our list.
+4. People can interact with each other and share their problems and solutions too.
+ 
+ 
+Platform: Android  
+
+

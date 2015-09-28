@@ -1,0 +1,26 @@
+PhotographyNepal
+
+Submitted on:  September 12, 2015 - 10:31am 
+ 
+Idea:
+ Promote only mobile photography not dslr or slr.. with weekly photo challenge.
+ 
+Problem Solved:
+Explores new places and hiddent tallents ..
+ 
+Functions:
+ The main function will be  as follows:
+1.user can upload their pictures..
+2.higest voted picture will be winner ..
+3.Apps will be integrated with facebook so that user can share and ask for votes..
+4.Edited and DSLR,SLR,Pocket cameras etc .. photo taken from there will not be accepted by apps...only few color adjustments can be done through apps itself ...
+ 
+Targeted audience:
+ Everyone interested ..
+ 
+Main Benefits:
+User can show their talentes .
+ 
+Platform: Android  
+
+

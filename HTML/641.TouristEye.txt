@@ -1,0 +1,33 @@
+TouristEye
+
+Submitted on:  September 19, 2015 - 12:22pm 
+ 
+Idea:
+ Platform for tourist to explore important places nearby them and place review for better development of sites.
+ 
+Problem Solved:
+Tourist eye helps tourism with recommended important places to visit nearby them.
+ 
+Encourage public people, social organizations and government to development and promote tourism in these sites. 
+ 
+Gives review about tourism site before tourist visits those places.
+ 
+ 
+ 
+Functions:
+ The main function of tourist app is to give tourist relavant informantion they want to know about important places nearby them. They can place their reviews on promotion of those sites, They can express their feeling being on those sites. Later on, Other tourist can view their reviews before they come to visit there. Public people, government and social organizations can analyze their review for better development of those sites. This appp will also submit their review to government, social organizations etc.
+ 
+ 
+Targeted audience:
+ Of course tourists are the main audience, along with them public people, social organizations and government can analyze reviews for better of those sites.
+ 
+Main Benefits:
+Tourist gets relevant informations and list about important sites nearby.
+ 
+Tourism industry will be promoted gradually.
+ 
+Tourist can place their review about their feelings, opinions & ideas for promotion of sites etc.
+ 
+Platform: Android  
+
+

@@ -1,0 +1,27 @@
+Money_exchange.
+
+Submitted on:  September 14, 2015 - 3:04pm 
+ 
+Idea:
+ This is two way app that makes user to exchange Nepali currency to dollars /.. .And tourist to exchange their currency to nepali currency.
+ 
+Problem Solved:
+This app is two way app that exchange Nepali currency to other currency and for tourist to exchange their currency to Nepali currency easily  with standard rates.
+      User can request to exchange their currency with specific purpose for exchanging and ask to deliver @ user location,in order to prevent user form misusing.
+ 
+Functions:
+ List out the money changer with their details and rates nearby and  exchange money online.
+ 
+Targeted audience:
+ Two way app targeting tourist to exchange their currency to Nepali and Nepali to exchange Nepali currency to other at standard rates.
+ 
+Main Benefits:
+User to exchange currency with standard rates.
+1.deliver exchanged currency @user location.
+2.display exchange rates.
+3.locate other money changer contact no.  and their rates  nearby.
+4.complain directly to authorized /concern authority if any wrong.
+ 
+Platform: Android  
+
+

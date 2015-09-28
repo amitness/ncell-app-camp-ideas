@@ -1,0 +1,34 @@
+OutToday
+
+Submitted on:  September 19, 2015 - 2:51pm 
+ 
+Idea:
+ Find a perfect place to eat or go out based on your location, budget, day, time and weather.
+ 
+Problem Solved:
+Finding a restaurant or a place to go can be a confusing and difficult task especially if you are under constrains.
+This app helps you to find your perfect destination under the constrains you choose.
+No need to search for a place as the location of the place will be shown in map.
+You can set various constraints such as Budget, Distance, Time, Day and Weather.
+If you are feeling lucky, let the app surprise you with a new place to go today!
+ 
+Functions:
+ The app will give you a list of restaurants and places for outings which you can filter according to your location, distance, budget, time, day and weather.
+You can also check the details of the place you choose and their location in a map.
+The app can suggest you places that would be appropriate for the current time.
+You can save places to go for later.
+ 
+ 
+Targeted audience:
+ This app will be extremely helpful for tourists without a fixed itinerary. The app also has huge potential to be used by the residents of Kathmandu on a regular basis for searching restaurants and places for outing suitable to the circumstances.
+ 
+Main Benefits:
+Extremely easy to find a place for your day out with your preferred distance and budget.
+No need to waste your time wondering where to go or where to eat.
+In case you want to try something new, this app can suggest you new places to go.
+No need to be worried if it's the right time to go some place or not. The app takes care of this problem.
+You can check the location of the suggested places in map within the app.
+ 
+Platform: Android  
+
+

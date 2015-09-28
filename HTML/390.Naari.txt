@@ -1,0 +1,27 @@
+Naari
+
+Submitted on:  September 19, 2015 - 11:21pm 
+ 
+Idea:
+ An app for HER (and anybody who cares for her) that will help her through every steps of her womanhood.
+ 
+Problem Solved:
+Even though we live in this modern era of development and advancement of technologies, the women of countries like ours are still held back due to insufficient knowledge and guidance through various periods of womanhood. 
+It is seen that women mostly hesitate to speak out their problems and are unable to find help to the most beautiful gifts bistowed by the nature (their first menstruation to being a mother for the first time)  Apart from this, it is seen that women don't have adequate sexual and reproductive health knowledge.
+Our team has kept this issue in mind and has a dedication to solve this problem to give a better present and future to the women of developing countries like ours. 
+ 
+ 
+Functions:
+ 1.Our app will have a sexual/reproductive health dictionary(for women) in two categories( according to age: one for age 10-16, the other for 17 to 35). The dictionary will contain information on everything they wish to know AND need to know. 
+2. Naari will guide through every steps of womanhood, i.e, according to the age of user and their stage in life,  example :- it will trace menstrual cycle scientifically, will suggest on their diet and to those who are pregnant, our app will actually act like a virtual doctor by providing inofrmation on their weight, what to expect on which month and so on. 
+ 
+Targeted audience:
+ Girls and women of age 10 to 35. 
+ 
+Main Benefits:
+The benefits are apprantely endless.Users( women) will get to know more about their body and what is happeing with them. They will not need to share some embarrassing moments with anyone anymore, all they will need to do is log in to our app. 
+Our app will have guidance to everthing( menstrual heath to care during every stages of pregnancy and after child birth too ( i.e both neonatal and postnatal care.)
+ 
+Platform: Android, iOS, Windows phone  
+
+

@@ -1,0 +1,32 @@
+MemeGenerator
+
+Submitted on:  September 20, 2015 - 10:12am 
+ 
+Idea:
+ Create your own memes and share them with your friends.
+ 
+Problem Solved:
+-> with motivational meme, people will begin to love their life.
+-> creates awareness against socail, cultural supertitious.
+->this applicantion can become the medium to raise a voice against   impartiality, discriminat
+->can become the medium for those who can't shared their ideas by direct interaction.
+ 
+Functions:
+ -> pick the image from gallery or take a picture from camera and write some sarcastic or motivational text over it.  And share the image through facebook, twitter and other social media.
+->- Use more than 20 fonts
+->- Adjust text color and size
+-> adding texture in images, increase brightness of images.
+ 
+Targeted audience:
+ -> college students can criticise or support the college administration.
+->Media persons can create slogan against/for goverment , social cultures.
+->Any user can create motivation meme to inspire any frustrated/hopeless people.
+ 
+Main Benefits:
+->Shared their wonderful ideas , sarcastic meme , motivational images over social media.
+->shared dissent slogon about goverment governance, cultural supertitious , media mafia etc.
+->express owns feelings, thoughts in the form of image and share it.
+ 
+Platform: Android  
+
+

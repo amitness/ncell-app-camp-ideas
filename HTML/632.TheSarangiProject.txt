@@ -1,0 +1,27 @@
+TheSarangiProject
+
+Submitted on:  September 19, 2015 - 4:02pm 
+ 
+Idea:
+ App specialised to learn Nepalese folk music and instrument and also deals with its sales and promotion.
+ 
+Problem Solved:
+Influence of western music and modern instruments has led Nepalese folk music scenario into phase of declination. So our app will help to sculpt a land of new hope to reignite our least prevalent folk music at a global stage.
+ 
+Functions:
+ The app provides detailed informations, video tutorials ,online lessons as well as expert guiadance about Nepalese folk music in a user freindly interface to provide best user experience.
+The app enables user to buy and sell their folk music and instruments also linking them in musical community.
+ 
+Targeted audience:
+ Linking passionate music lovers having keen interest in nepali folk music throughout globe who can interact and get an insight to its use and history.
+ 
+Main Benefits:
+1.It is 100% folk music oriented.
+2.Easy to find tutorials about folk music.
+3.Easy to buy or sell folk musical instruments.
+4.Linking users to communtiy of people sharing same passion about folk music.
+ 
+ 
+Platform: Android  
+
+

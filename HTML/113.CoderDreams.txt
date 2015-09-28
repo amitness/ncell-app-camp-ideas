@@ -1,0 +1,32 @@
+CoderDreams
+
+Submitted on:  September 15, 2015 - 9:47am 
+ 
+Idea:
+ A fitness APP with GPS tracker for workouts (eg. cycling and many) ,live health tips,reminders and detail report with calorie burn estimation.
+ 
+Problem Solved:
+We have seen many fitness APPs but our idea is to track daily workouts with GPS for outdoor and custom built device for indoor. Not only that, it will also bring daily tips from popular health websites like WebMD or similar external soureces in one place. and its built in reminder feature reminds your regular health checkup day,your medicine time, for immunization your baby in correct day, so this solves the lack of above features which are integrated in single APP.
+ 
+Functions:
+ Our All in one APP has following functional modules,
+1) Workout Tracker (GPS for outdoor, Custom made device for indoor) 
+2) Health Tips aggregation module from popular sources
+3) Reminder Function
+4) Important phone numbers
+5) Workout history with detail report
+ 
+Targeted audience:
+ It targets general people as fitness and workouts are the part of general health. Reminder feature can be used by any people and health tips are also necessary for everyone.
+ 
+Main Benefits:
+User will get following benifits:
+1) Can track many types of workouts like cycling, swimming, running etc
+2) Can use our custom made device which can track workout speed, distance for indoor cycling where GPS is not available.
+3) Can get daily health tips from popular sources
+4) Can set any type of reminders of different natures like regular health checkup(happens in months), taking medicine(happens many times a day)
+5) App also provides contact numbers of hospitals, ambulance
+ 
+Platform: Android  
+
+

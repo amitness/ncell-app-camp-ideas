@@ -1,0 +1,36 @@
+LicenceNepal
+
+Submitted on:  August 27, 2015 - 8:10pm 
+ 
+Idea:
+ app that helps intrested people get a driving license by informing schedule, location and provide enough knowledge to pass the driving license exam
+ 
+Problem Solved:
+1.       Knowing form submission deadlines, locations, schedules and requirements is still a tedious task.
+2.       Also it is difficult to find probable questions for written test within bulky books. And it is also difficult to carry a book all the time. it helps the user prepare for written exam through interactive tests.
+3.       It provides necessary pictures and video tutorials to the user to pass the driving trial.
+4.       It makes the  people aware about the traffic rules, symbols and their importance.
+5. it saves time and money.
+ 
+Functions:
+  
+1. It guides the user to fill up the form within deadline. It also notifies the user about locations, dates, schedules and requirements of the license written and trial exams.
+2. Provides sufficient knowledge to pass the written exam through sufficient  question answers preparation and interactive mock tests with model questions.
+3. Provides all the information of the trial track and necessary pictures and tutorial videos to pass the driving license trial.
+4. Online viewing of result of the written license exam.
+ 
+Targeted audience:
+ Around 700 people per day fill up the driving license form within the valley only. So imagine how high this number will reach when we talk about the whole country.  And other all publics who want to know the traffics rules, symbols and their significance.
+ 
+Main Benefits:
+1.       Easy access to location, deadline of form submission and schedules of license exam test.
+2.       User can achieve sufficient knowledge to pass the written exam by learning from varieties of model questions and interactive mock tests.
+3.       Easy learning with pictures and video tutorials to pass the driving trail exam.
+4.       It is really time saving.
+5.       It is one and only app to provide over all information of driving license.
+6.       Users are made aware of the traffic rules and symbols and hence they can avoid accidents and fines.
+ 
+ 
+Platform: Android  
+
+

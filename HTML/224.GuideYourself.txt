@@ -1,0 +1,23 @@
+GuideYourself
+
+Submitted on:  August 23, 2015 - 1:41pm 
+ 
+Idea:
+ know the tourist attractions near by you based on your location.
+ 
+Problem Solved:
+ 
+You can get best tourist attractions on our app for which you have to search internet before.
+ 
+Functions:
+ Our app will show the nearby tourist attraction like historic places, restaurents, tourism market and many others.
+ 
+Targeted audience:
+ Tourists who can reveal many tourist attraction and can enjoy those attraction or who like to visit alone.
+ 
+Main Benefits:
+Now you don't have to hire local guides while travelling as you can guide yourself through our app.
+ 
+Platform: Android  
+
+

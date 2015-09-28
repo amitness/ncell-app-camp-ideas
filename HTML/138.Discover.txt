@@ -1,0 +1,28 @@
+Discover
+
+Submitted on:  September 17, 2015 - 10:35pm 
+ 
+Idea:
+ Discover lets tourists get more out of their travel through new experiences along with bringing beautiful, interesting yet unknown places to exposure.
+ 
+Problem Solved:
+ - Lack of exposure to the places that aren’t included in travel books or aren’t easily known
+ - People are often unaware about things that can be experienced/done in the place of visit  and focus only on the scenery. This application attempts to address this problem
+ 
+Functions:
+ Discover guarantees that you won’t miss a thing wherever you go. With the system that works through user posting the places that they think is worth the time, the tourists get to experience more. They have more choices to decide on what places to visit through the feedbacks. The options are displayed according to users’ feedbacks and ratings and thus, this system acts as a recommender.
+ 
+There are two major contents: See and Experience. As the name suggests, ‘See’ displays the places that you may want to visit/explore, filtered according to your location, budget and preferences. The ‘Experience’ part contains all the different things you may want to do/experience there.  (We all have been in a situation where you visit a place, and you tell that to your friend, and he is like, “Did you do that, in that place?”, and you are like, “No, why?” and he says, “You wasted half of the time there by not doing that. It’s what that place is made for!” and you are now sad. So, the things that you must experience during the travel also counts as a major part of the whole travelling thing and thus this app emphasizes on it too. )
+ 
+Targeted audience:
+  - Explorers, tourists
+ - People who are always eager to experience new things
+ 
+Main Benefits:
+ - Exposes new places that are worth visiting and yet are unknown to the travellers
+ - Provides a chance for local tourism businesses to flourish in areas that aren’t commonly visited
+ - Serves as a public database that book-keeps the un-recorded travelling areas in Nepal
+ 
+Platform: Android  
+
+

@@ -1,0 +1,26 @@
+CreativCreesna
+
+Submitted on:  August 14, 2015 - 1:05pm 
+ 
+Idea:
+ Recharge in click
+ 
+Problem Solved:
+It helps to recharge balance account to  the pepole who have weak eye sight or not literate, as well as it helps to avoid mistake pin dialing during top up through recharge card.
+ 
+Functions:
+ My app uses camera function to scan the pin number printed on recharge card and uses network service to request recharge to the particular cellphone.
+ 
+Targeted audience:
+ People with weak eyesight
+illeterate people
+And all other
+ 
+Main Benefits:
+Saves time
+avoids mistake during top up and keeps exact recharge.
+Most useful to illeterate or people with weak eye sight to top up through recharge card.
+ 
+Platform: Android, iOS, Windows phone  
+
+

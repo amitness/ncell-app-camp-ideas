@@ -1,0 +1,64 @@
+CalorieMeter
+
+Submitted on:  September 7, 2015 - 12:49am 
+ 
+Idea:
+ Caloriemeter will takecare of you and what you take Now.
+ 
+Problem Solved:
+Most of the time people scare to take food because of their health related desease. Now with this application people can scan the food on the dish and can find out how much nutrition it contains like carbohydrate, vitamin , protien, fat e.t.c. This Application will subscribe the user how much they can eat or what they should exclude from the dish so that it will be under prescribed by the doctor.
+Apart from that this Application will contain the dieting and food list for the different disease, So that the people can directly get benifit.
+Also it will track the amount of the food they had consumed and notify the user if they had exceed and give them suggestion in smart way.
+In the case of emergency it will have the emergency button , so that it will notify the family doctor about the location and compelete detail of the patient via SMS and phone calls.
+ 
+Functions:
+ 
+
+have Smart scanning and find out the calories and protein contained in it.
+
+
+Location based tracking of the patient
+
+
+smart and intelligent advising algorithm to advice patient
+
+
+Alert notification
+
+
+ 
+Targeted audience:
+ 
+
+Patients
+
+
+Doctors
+
+No Location restriciton
+
+ 
+Main Benefits:
+
+
+ Users scan the food and get information about calories it contains
+
+
+Very productive for user for what to ignore and what to take
+
+
+notify them about the medicine time for patient 
+
+
+Help user to find the doctor and contact them
+
+
+Get information and newsletter on desired disease from the specialist.
+
+can share the problems and views with other patients and people to create health awareness.
+
+ 
+ 
+Platform: Android  
+
+

@@ -1,0 +1,25 @@
+KilltheBugs
+
+Submitted on:  September 17, 2015 - 12:28pm 
+ 
+Idea:
+ It's an awesome game with special provision for  music.
+ 
+Problem Solved:
+It's a game. So obviously it solves one problem, boredom. Users can play the game and enjoy their free time. When they are playing the game,  in the background the app will be checking and clearing the unwanted applications consuming the ram for no reason. 
+ 
+Functions:
+ The application will be a 2D shooting game with good quality graphics which will import music from the device sd card or music player. the music will be played while the user plays the game. so it will be a dual entertainment application. And while enjoying the game,  the applicatin will clear the RAM space in the background.  So there is not just fun,  some work is also done in the process. 
+ 
+Targeted audience:
+ since it is a game, the target audience is everyone. from kids to adults, anyone and everyone can enjoy the game.
+ 
+Main Benefits:
+the main benifits for the users are:
+1. The game will have great graphics at minimum system requirements as much as possible. so they can enjoy the game.
+2. the game will import the music from memory card. so while playing the game, users can listen their favourite songs at the same time. 
+3.  Since the app also Clears the unwanted applications consuming RAM space,  the users will have a boosted device after playing this game. &nbsp 
+ 
+Platform: Android  
+
+

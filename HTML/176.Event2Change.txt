@@ -1,0 +1,33 @@
+Event2Change
+
+Submitted on:  September 6, 2015 - 12:12pm 
+ 
+Idea:
+ App to know each and every event that are happening around Nepal. Like Concerts, Exhibitions,Festivals,Jatras-Community festivles,etc.
+ 
+Problem Solved:
+Tired or missing concerts,festivels,exhibitions?
+-It will provide you every details of all the events.
+-No more expenses to advertise in social media, newspaper, get it all here in one single app.
+ 
+ 
+Functions:
+ -The app can show you the lists of Events.
+-The app will notify you about the Events that you have choosen.
+-The app can help buy your ticket online.
+-The app will let you create your own Event.
+-The app will provide group chat functionality of particular event.
+ 
+ 
+Targeted audience:
+ Probably everyone, who like going to events.
+ 
+Main Benefits:
+1.Easy to locate events .
+2.Can buy ticket online if there is ticketing system.
+3.Get notified and never miss any event you like.
+4. No wasting of time surfing on the websites for the events.
+ 
+Platform: Android  
+
+

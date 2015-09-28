@@ -1,0 +1,32 @@
+ShangrilaCityRide
+
+Submitted on:  September 17, 2015 - 11:35pm 
+ 
+Idea:
+ A interactive and addictive car game, with tracks based on the city where the user/gamer lives.
+ 
+Problem Solved:
+CityRide will help user to get a better knowledge of the road of their own city as well as other cities.
+ 
+Functions:
+ elements :
+- cars.
+- road tracks.
+- real time track of the user's city, stored in the database.
+- scoreboard of the users.
+functions :
+- synchronization of the map of the city in the user's phone.
+- a basic car racing game.
+- manual systems, for effective car driving simulations.
+- users competing with eachother.
+- best one keep track of using the global and local scoreboards.
+ 
+Targeted audience:
+ The Gamers, and other Smartphone holders, who are looking to invest their time in knowledgeable things. CityRide is just the app for them.Playing a game in your phone and getting more knowledge abou the outside world, what can be more awesome than that ?
+ 
+Main Benefits:
+The main benifit is offcourse the better understanding of the city road.others include, a interactive game. and a real car simulation. (a better education even of driving.)
+ 
+Platform: Android, iOS  
+
+

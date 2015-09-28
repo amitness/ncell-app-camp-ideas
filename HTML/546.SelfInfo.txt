@@ -1,0 +1,26 @@
+SelfInfo
+
+Submitted on:  September 20, 2015 - 12:07pm 
+ 
+Idea:
+ It is a personal information management system to organize life's details information lik education , health ,social in digital form.
+ 
+Problem Solved:
+Carrying hard copies of different personal documents seems a tedious job for most of us. The application is designed to organizing and categorizes those documents in the needy time.
+ 
+Functions:
+  
+
+This application would makes the time line of all the activities of the personal information, categories the documents in digital format.   
+ 
+Targeted audience:
+  This application is targeted for all users.
+ 
+Main Benefits:
+ 
+
+Using this application, the users feels the security of loss and damage of paper documents while carrying those documents. If the users wish to record the date and activities, wants to keep the record of the health status, doctor appointments, medicine to take, invitations to programs and so on, this application would be beneficial.
+ 
+Platform: Android, iOS  
+
+

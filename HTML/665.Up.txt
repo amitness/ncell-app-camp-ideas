@@ -1,0 +1,23 @@
+Up
+
+Submitted on:  September 12, 2015 - 5:04pm 
+ 
+Idea:
+ Up is a Single player game, in which the player has to clear the path by rotating the discs with a groove lurking around the trajectory of a balloon.
+ 
+Problem Solved:
+Finding a right game for the spare time is still a frustrating task. Game which refreshes any kind of mood are hard to find. Up, as a challenging and any time mood refresher game, will help to bring some refreshment in peoples leisure time. People with concentration problem will be beneficial with this game as it requires a good level of concentration for clearing the levels.
+ 
+ 
+Functions:
+ Up is a single player-multi mode game. This game features 2D graphics with silk game play experience. Player will get coins for every hurdle they cross. The gameplay becomes more and more challenging and addicting after each hurdle. It also features a Leaderboard for score comparison. 
+ 
+Targeted audience:
+ This game targets all the arcade and strategic type game lovers with Android Smart Phones.
+ 
+Main Benefits:
+The main aim of this game is entertainment. This game will also help to boost the concentration level. As it is a single player game, it will help to pass lonely time with ease. 
+ 
+Platform: Android  
+
+

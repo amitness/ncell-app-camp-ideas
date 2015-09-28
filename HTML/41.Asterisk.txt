@@ -1,0 +1,35 @@
+Asterisk
+
+Submitted on:  September 11, 2015 - 6:07pm 
+ 
+Idea:
+ Mobile, web security app that provides and saves unique encrypted passwords & usernames for different web services' profiles.
+ 
+Problem Solved:
+We log in to a lot of web services, make profiles for the service that gets connected to our larger web domain(email, facebook, google+). As a smartphone generation we will be bound to take these services and a major trouble we invite is by using same passwords.  A lot of web profiles means a lot of passwords and we can't remember different unique password. Hence we compromise security over convenience. Having same  and more so, easy passwords provides loopholes for hackers to get into our vital data.
+Asterisk helps protect web content by assisting us to have a unique, strong passwords. We save those passwords for you encrypted within your device. Also, notify you instantly if any unauthorized access is done, due to the connectedness between a web service and your vital data.
+ 
+Functions:
+ -Saves user passwords securely.
+-Identifies the authenticity of web service.
+-Generates unique passwords for each web profiles.
+-Secures the primary personal web domain(email, facebook, google+)
+-Device embedded app functionality.
+-Allows saving user data beyond web profiles like bank account passwords.
+-Instantly inform about any mishandlings of your passwords or web connections.
+ 
+Targeted audience:
+ -Users taking a lot of web services.
+-Multiple web profiled users.
+-Users seeking strong passwords and convenience.
+-Corporate users who want personalized security for their users and data.
+ 
+Main Benefits:
+-Users can now conveniently choose strong passwords.
+-Users' passwords and usernames are kept private & embedded within their device.
+-An elite data and web security service that can be personalized.
+- Generated passwords are not saved to further infringe by the app server.
+ 
+Platform: Android  
+
+

@@ -1,0 +1,22 @@
+Kham
+
+Submitted on:  August 21, 2015 - 10:41pm 
+ 
+Idea:
+ This app give platform to solve problem regarding human resources or helper.
+ 
+Problem Solved:
+This app is developed to solve the problem of individual when he or she needs a help regarding any professional but is unknown where they can find them. For example if someone need mechanics and is in new place and doesnot have idea of that place then he or she will open app and search mechanics then list of nearby meachnics included in our system. Likewise it can also be used by company when they need certain type of manpower regarding any field.
+ 
+Functions:
+ It provide open platform to anyone who have certain talent and one who needs it. Sign up can be easily done by using gmail or facebook also along with email. Being an open platform it can be used in any part of the world and no one should control human directly beside database. People can be moved from one place to another so we provide location changing facility by using GPS and location can be changed in one click. It also provide chat facility between worker and user where they can talk and fix deal. It has privacy setting for phone number and blocking user system. It also provide user to rate worker. For the verification mark(which will be tick mark) worker need to provide us his or her government id card.
+ 
+Targeted audience:
+ It is targeted for people who doesnot have idea about that place he or she is living now but need someone to help him or her then it will be the best app to use for them.
+ 
+Main Benefits:
+It is open platform for both user and employee where both and sign up and can be helpful for each other. So, anyone can get access to any profession whenever they need them quickly and easily without going out and searching them.
+ 
+Platform: Android, iOS  
+
+

@@ -1,0 +1,29 @@
+TheInnovatives
+
+Submitted on:  September 1, 2015 - 9:45pm 
+ 
+Idea:
+ LegalRacer, the Racing App that allows the player to travel around after completing the built-in driving liscense trials. 
+ 
+Problem Solved:
+The app will include the natural and socio-cultural aspects of Nepali society through graphics. This promotes travelling, helping the tourism in long run. 
+Also, solves the problem regarding the unawareness of traffic rules while racing/travelling around the city. 
+ 
+Functions:
+ 1. Sufficient Graphics 
+2. Racing in real and dream laps of Nepali cities (initially in the laps of Kathmandu valley)
+3. Real-world problem i.e. Passing Driving Liscense, is also embeded in the game. 
+4. More features and elements to be added on the way of development, covering almost all socio-cultural and natural aspects of Nepali Roads.
+ 
+Targeted audience:
+ 1. Game Lovers
+2. Game Developers
+ 
+Main Benefits:
+The app provides relief to the game lover anytime when they prefer gaming. 
+Moreover, every new player are asked to pass the driving liscense trail before entering the race. This benefits the kids by making them aware about the legal procedure of driving. 
+App unveils the natural and socio-cultural aspects of Nepali society, that benefits the domestic tourism from any possible ways.  
+ 
+Platform: Android, Windows phone  
+
+

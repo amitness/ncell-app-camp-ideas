@@ -1,0 +1,22 @@
+FlipMe
+
+Submitted on:  September 14, 2015 - 3:02pm 
+ 
+Idea:
+ Game is simple,will be of small size and it will help to make active both sides of brain and fast reaction. 
+ 
+Problem Solved:
+It will help to solve problem of less use of both side of brain once and problem in quick reaction.
+ 
+Functions:
+ Game will pe in portrait mode. There will be two small  square in two side (left and right) side of screen moving in upward direction on a speed.Speed will increase with time. During this small blocks with random hights and width will come on their way in random time,random distance and in random side(left and right). Screen will be divide in two parts. Touching on left part will make jump and filp left square and touching right side will make jump and flip right square. We have to avoid blocks by making jump and flip to square. Number of blocks we avoid will be count as score.
+ 
+Targeted audience:
+ All types of audience.
+ 
+Main Benefits:
+Game will help in brain exercises. Game will be of small size,no internet required no more porcessing,ram and graphic required and easy to understand which will allowing people to use for the use and play for a fun,get energy then move on with their day and pick up their game later. 
+ 
+Platform: Android, iOS, Windows phone  
+
+

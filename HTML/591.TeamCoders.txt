@@ -1,0 +1,28 @@
+TeamCoders
+
+Submitted on:  September 19, 2015 - 4:54pm 
+ 
+Idea:
+ An appplication that will allow user to store their  personal medical history. 
+ 
+Problem Solved:
+Our will allow patients to store their medical report for easy viewing and sharing.
+Our application will help patients to easily view their past record, and also will alow them to find people will similar diseases/symtoms, get docter recommendation, and raise funds for the treatment through social media.
+ 
+Functions:
+ THe main functions of our application are:
+1) View all previous medical report and the action taken for the treatment without having to go through all the papers.
+2) Easily share your symptoms or keep them private and view people with simlar symptoms/diseases if they are publicly viewable.
+3) Start discussion about a particular health issues, get advice and get connected with people having the same issues.
+4) Helps to raise funds for treatment.
+ 
+Targeted audience:
+ Our target audience are those suffering from diseases or any one who like to keep track of their treament history.
+ 
+Main Benefits:
+The main benefits to the users is to help them keep track of their medical and treatment history without having to worry of loosing the medical papers and easily share them with others.
+ 
+ 
+Platform: Android  
+
+

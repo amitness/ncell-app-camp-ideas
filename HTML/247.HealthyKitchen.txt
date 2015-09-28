@@ -1,0 +1,24 @@
+HealthyKitchen
+
+Submitted on:  September 7, 2015 - 7:25pm 
+ 
+Idea:
+ Helps to find or upload healthy food recipe where app will calculate calories in recipe and all users can rate recipe based on taste and post comment
+ 
+Problem Solved:
+People tends to love junk foods these days specially childrens and teenagers. Junk food causes an array of problems in our body. This is a serious threat to our health. This app would help to find different healthy food recipes according to users taste. Users will able to find recipe that are healthy as well as tasty.
+ 
+Functions:
+ This app would list preloaded healthy food recipe. Each recipe would contain calories value and taste ranking (based on stars by other users). Users will themself able to upload new recipe and post comments and vote on recipes from other users.
+ 
+Targeted audience:
+ Parents can make quick healthy food using this app for their children or college students who stays on their own can use this app to cook healthy food instead of buying junk food from deparment store. This app will target all food lovers who wants to stay fit.
+ 
+Main Benefits:
+1. This app will help to to find new recipe that are quick to make and healthy as well as tasty
+2. This app will allow users to Uupload their own healthy food recipe so that world can enjoy
+3. Inbuilt calorie calculator would warn user based on calorie value of the recipe
+ 
+Platform: Android  
+
+

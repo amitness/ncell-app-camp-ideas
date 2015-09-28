@@ -1,0 +1,46 @@
+Ajambari
+
+Submitted on:  September 17, 2015 - 9:24pm 
+ 
+Idea:
+ Strategic game where you operate a public vehicle, collect and comfortably manage people in it and drive it around the city.
+ 
+ 
+Problem Solved:
+This game will make people realize of the poor situation of public transport in Nepal.
+This game will make people familiar with the problems of transport managers / owners face.
+The aim of this app is to go against the Nepali culture where public transport is mere business more than a public service. Here, users need to manage passengers comfortably in order to earn more points, rather than just crowding them inside the vehicle.
+This game encourages user to go against “bandhs and strikes”. 
+This game will provide entertainment to people.
+ 
+Functions:
+ The game simulates the public vehicle service in our country.
+ 
+Users get a public vehicle to operate on different routes. They need to collect passengers, as many as they can while taking care of their comfort. Failing to do so will cause reduction in points/ money they earn. The higher the points, the better it will be. 
+ 
+ 
+With higher points users can maintain their vehicles (i.e. fuel the vehicle, replace old parts, repair engine) and also upgrade to or buy more equipped vehicles and unlock new routes/maps. 
+ 
+ 
+An attempt to tempt users to earn more points is by making them drive their vehicles on bandhs and strikes (announced in the game itself). But indirectly the aim of the app is to discourage bandhs and strikes which have become a trend in Nepali culture.
+ 
+ 
+Other ways user may earn more points is by challenging other users and sharing the game on facebook for free points.
+ 
+ 
+Multi-player gaming and chatting facility; users can compete against each other and communicate with each other.
+ 
+ 
+Targeted audience:
+ Teenagers and Gamers
+ 
+ 
+Main Benefits:
+Entertainment
+Users can experience the environment of a real public transport in the game
+Multi player gaming, users can compete with their friends
+Users will be encouraged to civilize the existing public transport system 
+ 
+Platform: Android  
+
+

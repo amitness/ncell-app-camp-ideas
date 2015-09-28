@@ -1,0 +1,25 @@
+Yatra
+
+Submitted on:  September 9, 2015 - 9:57am 
+ 
+Idea:
+ This app is used to show various routes public transportation takes and their stations which helps users to find which one is suitable for them.
+ 
+Problem Solved:
+Getting to your destination is not easy if you don't have your own vehicle. Many people depend on public transport to get to their destination. Since there are many public transport vehicles that take various routes the people cannot know which one is more suitable for them to get to their desired location. This app helps user to solve this problem. For eg. If you want to get to a certain location then there are many public transport that may take you to that place but they may have different routes one may take longer time whereas other may take shorter time. This app would help users to select the best option.
+ 
+Functions:
+ The app takes in the location user wants to get to and shows a list of public transportation that go to that place like buses or micro buses. It shows their routes and the nearest station from the users location. Various information such as fares and distance are shown which helps user to choose the best option.
+ 
+Targeted audience:
+ The main target audiences are any people who use public transportation. It is also useful for tourist's who visit our country and may want to use public transportation.
+ 
+Main Benefits:
+1. Easy to find out which routes public transport takes
+2. it helps user to plan their trips ahead.
+3. It also provide information about fares they have to pay while using those public transportation.
+4. It also shows the nearest station from the users location.
+ 
+Platform: Android, iOS  
+
+

@@ -1,0 +1,27 @@
+Guide-Me
+
+Submitted on:  September 19, 2015 - 3:39pm 
+ 
+Idea:
+ This app lets you find the Lodge,Restaurant,Bars,Hotel,Motel near you.
+ 
+Problem Solved:
+It's solve the problem being unfamiliar to the surrounding to the person.At any place he is in, he will be able to find any types of hotel, restraurant he wants in no time.It will guide the person to his desired destination.
+ 
+Functions:
+ one swipe to find the hotels and restaurant.
+shows the way to the desired destination from current location.
+ The rating showing the restaurant and hotels popularity.
+Makes the person familiar with the surrounding.
+ 
+Targeted audience:
+ People who is travelling to different places and is not familiar with the place mainy foreigners.
+ 
+Main Benefits:
+One swipe to find the hotels and restaurants near you.
+Makes you familiar with the place by guiding the person to the destination.
+ 
+ 
+Platform: Android, Windows phone  
+
+

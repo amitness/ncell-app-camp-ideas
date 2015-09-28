@@ -1,0 +1,50 @@
+NepaliDevelopers
+
+Submitted on:  September 4, 2015 - 11:48pm 
+ 
+Idea:
+ This application is a complete tourism application which target Tourists, Travel Angencies and Nepal Tourism Board.
+ 
+Problem Solved:
+Problem that can be solved
+1. Travel agency can ensure security of their tourists by maintaining privacy of legally staying tourists.
+2. Help Nepal Tourism Board to keep track of legally and illegally staying tourists every year.
+3. Our application has place rating feature ,so Nepal Government can focus which place must me focused for tourism development in Nepal.
+4. Tourist must not invest more time for searching good travel agency in Nepal, all travel agency will be listed in single place in list.
+ 
+Functions:
+ Main functions and elements
+1. Location Tracking
+2. Lost Notification
+3. Blacklisted Tourists
+4. Rating of the places
+5. Travel Agencies of Nepal
+6. Calculating annual tourist rate
+ 
+Targeted audience:
+ Target auidence:
+1. Tourists
+2. Travel Agencies
+3. Nepal Tourism Board(NG)
+ 
+ 
+ 
+Main Benefits:
+Benefits 
+1.Tourists
+- Search better travel agency from single place.
+- Position tracking feature but only by their respective travel agency.
+- Lost feature by using single button, notification along with tourist location will be sent to respective travel agency.
+2. Travel Agencies
+- Advertisement of all travel agencies of Nepal affiliated with Tourism Board of Nepal.
+- Our application will just act as bridge between travel agencies and tourist. Our application will just set way for tourists towards travel agencies.
+- Our application will help travel agencies to ensure security of tourists.
+3. Nepal Government
+- Track number of  tourist entering in Nepal every year.
+- One of the most important feature of our application is to help Nepal Government to track the illegally staying tourists.
+- Once the tourist is considered illegal they are listed in blacklist and their location will be flashed using this application.
+- Track place in accordance to the rating of tourists, so that the place development can be focused more.
+ 
+Platform: Android  
+
+

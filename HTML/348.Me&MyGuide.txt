@@ -1,0 +1,31 @@
+Me&MyGuide
+
+Submitted on:  September 14, 2015 - 7:45am 
+ 
+Idea:
+ An app that creates the direct connection between a tourist and a guide.
+ 
+Problem Solved:
+Most of the times when a tourist tries to visit Nepal, he might not know about the local areas.And many of the cash is taken by the mediators/agents. So this app tries to connect all the registered guides with their contact information directly to tourist. New persons can also guide tourists and earn some for him/her by registering with us.
+ 
+Functions:
+ 1. Connect a tourist directly to a guide as soon as tourist lands in Nepal.
+2. Give some earning to talented and free people.
+3. Keeps flashing ad about various local products and other shops while the app is being used.
+4. Available in some other variable language to tourists.
+ 
+Targeted audience:
+ 1. The main target audience will be tourists  who are visiting nepal.
+2. Registered guides who can be connected directly by the tourists.
+3. Local person  can also earn some if they know about their locality and know a foreign language.
+4. Different type of shops can place their ad of their special products. So that tourist can see it and if interested can get that product.ie InApp Advertisements
+ 
+Main Benefits:
+1. It connects tourists directly to the guide. So tourist directly pay to the guide. No person to take commison as the mediator.
+2. It gives chance to those persons who are free, know about their locality,and know a foreign language; to earn some money. So you aint wasting your free time. Time is valuable. Its good to earn some.
+3. A newly arrived tourist can directly search guide through this app. Guide will be available to him as soon as he lands in the airport.
+ 
+ 
+Platform: Android  
+
+

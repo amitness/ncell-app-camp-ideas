@@ -1,0 +1,25 @@
+ResponsiveCommunity
+
+Submitted on:  September 18, 2015 - 9:10am 
+ 
+Idea:
+ The objective of this project is to create public discussion forum in the web, To support community for 'Wh questions' on Public sector servic
+ 
+Problem Solved:
+The objective of this project is to create public discussion forum in the web, To support community for 'Wh questions' regarding public services (Who serves ? How ? When ? With what conditions ? etc) and to help these people with legal provisions through easier mobile interface and effective search feature. 
+ 
+Functions:
+ The following functionalities would be supported.
+a. Easy user interface
+b. Effective search 
+c. Accessibility
+ 
+Targeted audience:
+ General public of Nepal who need public service or has query on arising issues related to public welfare. These people use mobile data services, mobile applications and could read/write/listen the web content.
+ 
+Main Benefits:
+Being a digital community member, an user would have sufficient information on several public services. And could post their experience to the public services that would help other members like service seekers, policy makers, government and researchers for effective public services.
+ 
+Platform: Android, SMS  
+
+

@@ -1,0 +1,37 @@
+Pike
+
+Submitted on:  September 19, 2015 - 11:14pm 
+ 
+Idea:
+ An app that tracks your nutrition intake, and analyze your health from what you eat.
+ 
+Problem Solved:
+
+Unbalanced nutrition intake.
+Health related problems caused by nutritional deficiency.
+
+ 
+Functions:
+ 
+User profile
+Information about nutritional values of food
+Graphical representation of user's eating habit , nutritional intake and health
+Health tips
+
+ 
+Targeted audience:
+ Almost all people having access to the app
+ 
+Main Benefits:
+
+Can get information about nutritional value of food you eat
+Users can track their eating habit
+Users can get recommendation about food they need to eat
+Users will get warned about health related issues caused by their eating habit
+Get suggested with domestic measures for health issues user might face
+Children and old will be more benefited as their eating habit and health be tracked
+
+ 
+Platform: Android  
+
+

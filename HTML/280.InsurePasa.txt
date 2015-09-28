@@ -1,0 +1,84 @@
+InsurePasa
+
+Submitted on:  August 13, 2015 - 10:06am 
+ 
+Idea:
+ Finds its users the best Insurance & Financial solutions across all options and delivers it to them.
+ 
+Problem Solved:
+
+
+Insurance agents have difficulty managing follow-ups to their customers.
+
+
+People sometimes miss to pay Insurance Premium or EMI because of mere lack of remainder.
+
+
+It is quite difficult to go through every insurer’s website and understand policies. Specially with no-one around to explain the details. Same problem for finding Bank’s plans.
+
+
+Almost everyone find it difficult to manage their finances. How small the amount may be, everyone needs to have a personal finance tool that is specially designed according to Nepali lifestyle and knows how everyone in this community can learn to invest and save the right way.
+
+
+ 
+ 
+Functions:
+ 
+
+Users can see their existing plans.
+
+
+Users can manage their personal finance.
+
+
+Users can Browse different policies or  get recommended.
+
+Users can contact their personal consultant right from the app or call or SMS them.
+
+ 
+Targeted audience:
+ 
+
+Small Business Owners.
+
+
+Just Graduated Interns.
+
+
+Government Workers.
+
+
+Small Shop Owners.
+
+
+Artists.
+
+
+Anyone with disposable income.
+
+
+Corporations who care for their emploees.
+
+
+ 
+Main Benefits:
+ 
+
+
+After-sales support. Access your policy information on your phone or web.
+
+
+Easily connect with your own Insurance Consultant.
+
+
+Notification on Premium/EMI payment date.
+
+Personal Finance Solutions that monitors and notifies you on your spending habit and generate their personal statement and balance sheet. After all, What gets measured, gets managed.
+
+ 
+ 
+ 
+ 
+Platform: Android, iOS  
+
+

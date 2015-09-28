@@ -1,0 +1,62 @@
+Omni-Utility
+
+Submitted on:  August 27, 2015 - 2:17pm 
+ 
+Idea:
+ It is an App that provides the user with all the day to day tools, all in one place.
+ 
+Problem Solved:
+This App contains many useful utilities to tackle the following problems:
+
+
+The problem of having to go online or search for a calculator, even for simple calculation.
+
+
+The problem of having to memorize long and complicated work schedules and Timetables.
+
+
+The problem of not having a proper reminder for taking medicine, drinking water, doing exercise, taking classes or meetings because we tend to forget many things due to hectic schedule.
+
+
+Problem of having to grind our brain just to convert from unit to unit, that we use almost everyday.
+
+
+Problem of having to trod during the dark nights of nepal during load shedding, without any light source.
+
+
+Problem of having to carry pen and paper, just to take quick notes about anything.
+
+Problem of having to solve all the above mentioned problems separately.
+
+ 
+Functions:
+ The app shows a simple interface with the the listed utilities. The user then selects any one utility from the list and it provides an environment for the user to do that particular utility related work.
+ 
+Targeted audience:
+ The target audience are the people who are so much busy in their work or studies that they don't have enough time to waste for minor problems. They are the people who search for one thing to solve all these small road blocks, instead of having to go through different methods and tackle them individually. 
+ 
+ 
+Main Benefits:
+The multi-purpose nature of this app will provide the user with many benefits which have been listed below:
+
+
+The user will be able to carry a calculator in this pocket wherever he goes, for solving simple day-to-day calculations.
+
+
+The user can now get easy access to their personal work schedules and timetables to maintain a well planned daily routine.
+
+
+The user will be remained properly at appropriate time, regarding their health habits ( Drinking water, exercise, basically anything ) or their daily life ( Upcoming birthdays, meetings, events, etc ) which will benefit their health as well as their social life.
+
+
+The user will be provided with an easy interface for day to day unit conversions.
+
+
+The user can easily carry a portable flashlight, utilizing that specific unused function of a smartphone.
+
+The user can make instant memos anywhere, with a large storing space.
+
+ 
+Platform: Android  
+
+

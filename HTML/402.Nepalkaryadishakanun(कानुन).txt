@@ -1,0 +1,22 @@
+Nepalkaryadishakanun(कानुन)
+
+Submitted on:  September 20, 2015 - 3:59am 
+ 
+Idea:
+ From this application layman to profesnol people can easily study & discission on Nepleas legal political system & issue with user log-in.
+ 
+Problem Solved:
+This application helps people to stand for their right.It helps people to decliear confusion about the legal issue.It makes easy acess to connect many legal related bodies.It makes connection to the Client & Advocate.
+ 
+Functions:
+ >Friendly UI >Specialized and well managed library:>Forum:>Easy connection:>User system: (To know more about this applicaton . Please visit this hyperlink ) 
+ 
+Targeted audience:
+ >More than 15,000 lawyer of Nepal.>Neplese citizan, NRN, Bhutnies migrant refuses and many other people who are in the confusion of legal service.>law student, Politician, Business man, journalist and many other people.
+ 
+Main Benefits:
+1. layman to profesnol people gets support to advocasy on their right.2. User can gets the infornmation about the all court, all government lawyer office, all Nepal Bar Assocition member Advocate infornmation and many other legal sector infornmaton.3. User can read many legal article, Constition and several Act & Regulation.
+ 
+Platform: Android, iOS, Windows phone, Others(Web page)  
+
+

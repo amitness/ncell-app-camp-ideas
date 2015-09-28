@@ -1,0 +1,23 @@
+QuakeSimulator
+
+Submitted on:  September 20, 2015 - 11:14am 
+ 
+Idea:
+ Quake simulator is earthquake simulation app which provides detailed response data than laboratory test results at a lower cost for civil engineering.
+ 
+Problem Solved:
+Earthquake destruction can cause massive death and expensive structural damage, which most often leads to business interruption, loss of housing, insurance instability and loss of jobs. When designing a building for a location prone to seismic activity, the potential for earthquakes guides much of what civil engineers need to consider in a design. Engineers have often relied on laboratory tests performed with scale models to try to predict how building designs will hold up in an earthquake and guide the optimization of the design. Since laboratory tests are time-consuming and expensive, Quake Simulator may not only reduce the need for multiple iterations of laboratory tests, but also provides more detailed response information than traditional laboratory sensors.
+ 
+Functions:
+ The application is designed to simulate the design of structures and test it for earthquake resistance. Not only that by changing the parameters, the application is able to test structure from different forces.
+ 
+ 
+Targeted audience:
+ This app can be used by Civil Engineers, Architectures and people around the world. 
+ 
+Main Benefits:
+ User can simulate their designs, earthquake risks can be minimized or totally prevented for housing structures. The cost of laboratory test can be reduced. It gives fastest response than laboratory test. The users could test their own design, changes the parameters and simulate it.
+ 
+Platform: Android, iOS  
+
+

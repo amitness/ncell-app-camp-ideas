@@ -1,0 +1,27 @@
+Pike
+
+Submitted on:  September 19, 2015 - 12:07am 
+ 
+Idea:
+ An app to provide tourists a means to know and plan their visits efficiently.
+ 
+Problem Solved:
+Problem of not knowing the nearby place to visit or place to stay, finding the shortest/cheapest route between two places. The app solves the problems by suggesting the places to visit and planning them according to requirements.
+ 
+Functions:
+ 1. Find the nearby places to visit based on current location of the person
+2. Visit planner according to the user’s specifications on allocated budget, time, area of visit
+3. Provide information about the requirements (including equipments, medications, prior knowledge) for the visit
+4. Cost estimation and lodge recommendation during the visit
+5. Ability to create a log of the visit
+6. Users can also suggest and update with some additional information of the places they have visited
+ 
+Targeted audience:
+ Local as well as foreign tourists who love to visit places
+ 
+Main Benefits:
+The app will suggest visiting locations based on current location of the user. The app will also help to know preferred places to visits according to season, festivals. It will find the shortest/cheapest route to destination. It will be helpful when visiting a new place without any person guide. It will also create a log of the places visited, time and photos taken during the visit for future memory.
+ 
+Platform: Android  
+
+

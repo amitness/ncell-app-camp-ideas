@@ -1,0 +1,41 @@
+TourNepal
+
+Submitted on:  September 19, 2015 - 5:58pm 
+ 
+Idea:
+ Tour Nepal provides all information required before, during and after your stay in any part of Nepal.
+ 
+Problem Solved:
+It is really complicated to find the appropriate travel destination, information about travel & accommodation facilities, costs and travel packages of the travel & tour agencies, etc while planning a tour. This app solves all these problems and in addition provides emergency contact numbers, public vehicles fares, and much more. You can also know about the local costumes, cultures and traditions of the place you are visiting. Finding a restaurant nearby or finding something to entertain matters much during a tour. We ensure that you enjoy, do not miss anything, stay safe and travel conveniently during your tour.
+ 
+Functions:
+ 
+The app provides category wise browsing of the places to visit and also a search field.
+After selection of the place, the app provides overall information of the place.
+Locating a nearby restaurant, mechanic or a police station.
+Emergency contact numbers
+Information about Travel agencies and tour packages.
+Public vehicle station and fares.
+Visa processing and costs.
+Link to Google map.
+
+ 
+Targeted audience:
+ This app targets all the users ranging from international visitors to domestic tourists, those planning a short stay or a long one or those who want to collect information about visiting Nepal.
+ 
+Main Benefits:
+the benefits for user are;
+
+If you have planned to travel but if you are uncertain about which place to visit, this app provides the lists of places by the categories of its specialty.
+User after selecting the place can know about the transport route, accommodation, living cost and local costumes of that place.
+The app highlights the interesting things to do and places to visit in that area.
+This app provides emergency contact numbers to contact police, Tourism board, Embassy, etc.
+ If the users want to plan their tour from a travel & tour agency we provide their contact information and the summary of their packages.
+This app also helps to locate the hotel, mechanic or police station nearby.
+This app also provides the information about the station & fares of public vehicle.
+In addition we provide the information about visa processing and related costs for foreign visitors.
+
+ 
+Platform: Android  
+
+

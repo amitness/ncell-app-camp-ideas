@@ -1,0 +1,22 @@
+Visit_nepal
+
+Submitted on:  August 19, 2015 - 5:31pm 
+ 
+Idea:
+ Tourist destination Nepal:Promote Nepal as destination of tourist.
+ 
+Problem Solved:
+Though Nepal is blessed with beauty of nature..but its has just an introduction as neighbor of China and India..Nepal is not known..every aspect of tourism is favoured in Nepal ..though Nepal is suitable for all type of tourism like religion tourism, adventure tourism and many more..but still it is hidden.The app will prompt Nepal's tourism.
+ 
+Functions:
+ The app uses user location and suggest nearby hotel and tourism spot.
+ 
+Targeted audience:
+ Tourist trying to visit NEPAL and make there journey safe and happy.
+ 
+Main Benefits:
+List of hotels, airport, and tourist spot in Nepal. Easy currency exchange. Hotels, tourist guide and private taxi booking easily and cheap. There they plan and upload photo to social network and app to promote NEPAL. Toursit who already visited Nepal can share their view and picture and suggest other tourist. Suggest Tourist to visit the places on basis of other tourist (who have already visited Nepal) Rate different places and hotel of Nepal, so that it make easy for tourist to choose Hotel and visit places. NEWS and offer of Hotels update daily so that it makes easy for tourist who trying to visit Nepal. For example:weather of Nepal, mount camping notice and offer, Hotels offer and discount and many more.
+ 
+Platform: Android, iOS, Windows phone  
+
+

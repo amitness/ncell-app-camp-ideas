@@ -1,0 +1,25 @@
+Phoenix
+
+Submitted on:  September 20, 2015 - 11:39am 
+ 
+Idea:
+ App to provide easy and flexible access to video feed from security cameras with notification of security breach, face detection and motion detection.
+ 
+Problem Solved:
+Security and surviellance has been a sector of major concern with growing urbanization. Furthermore, mobilizing personnel and installing security services are very expensive. Our app aims to bridge the gap between security and cost by using android technology.
+ 
+Functions:
+ App access video feed from all authorized device through LAN and internet.
+ 
+Targeted audience:
+ 1. Business houses, shopping complex, college, government offcies, companies and individuals who require high level security services
+2. General people
+ 
+Main Benefits:
+1. Reduction of cost for using security services.
+2. No need of extended hardware.
+3. High level services including face detection, motion detection and notification.
+ 
+Platform: Android  
+
+

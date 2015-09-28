@@ -1,0 +1,22 @@
+TheCity
+
+Submitted on:  September 20, 2015 - 11:55am 
+ 
+Idea:
+ TheCity provides precise and current information about your interests.
+ 
+Problem Solved:
+Too much information in Tourism apps that confuse you instead.
+ 
+Functions:
+ Lists down information based what your interests are.
+ 
+Targeted audience:
+ Tourists
+ 
+Main Benefits:
+Easy to find information based on your interests using social media.
+ 
+Platform: Android  
+
+

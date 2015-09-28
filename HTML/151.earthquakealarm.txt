@@ -1,0 +1,22 @@
+earthquakealarm
+
+Submitted on:  September 18, 2015 - 12:32am 
+ 
+Idea:
+ Alarm alert whenever there is earthquake. 
+ 
+Problem Solved:
+Gives pre notice of earthquake to people. 
+ 
+Functions:
+ To alert people about coming earthquake n rough calculation of dead.
+ 
+Targeted audience:
+ All
+ 
+Main Benefits:
+Get pre notice of earthquake. And also a option to indicate user is safe.
+ 
+Platform: Android  
+
+

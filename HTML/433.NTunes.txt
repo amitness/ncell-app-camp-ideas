@@ -1,0 +1,29 @@
+NTunes
+
+Submitted on:  September 3, 2015 - 3:18am 
+ 
+Idea:
+ Tunes of Nepal
+ 
+Problem Solved:
+Playing selected songs is not easy in Nepal, You most have CD player or tunein Radio to listen. But with "NTunes App" you can simple tap on your cell phone screen and there you have it. 
+"NTunes App" Also solves music piracy by allow users to stream from oldies to latest songs, where users don't have to pirate the music to listen to. 
+ 
+ 
+ 
+Functions:
+  Plays any sorts of music, online/offline. 
+ 
+ 
+Targeted audience:
+ NTunes researched and figured out that there are more than five million Nepalese residing in the various part of the world. In the initial stage of its project, NTunes plans to target audiences in the North America, Europe, Australia, and UAE. 
+ 
+Main Benefits:
+- Easy to find any kinds of music you wish to play with single tap. 
+- Easily create playlist of your own. 
+- Browse your favourite Artist/Bands 
+- Share your playlist with friends and many more....................
+ 
+Platform: Android, iOS  
+
+

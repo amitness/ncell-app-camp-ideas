@@ -1,0 +1,25 @@
+Mugshots
+
+Submitted on:  August 20, 2015 - 7:37am 
+ 
+Idea:
+ App to know whether the person you are dealing with has crime free status
+ 
+Problem Solved:
+The number of crime and people deceiving others for money and property are increasing. It is always difficult to know who the real person is behind their face. This app will collect data from the government sources all over the country and create a database of all the mugshots so people can easily search in the app to know whether the person they are dealing with has any kind of crime history or not, thereby alerting people to be safe.
+ 
+Functions:
+ 1. The app list the mugshots from all the police stations and prisons in the country. It will provide the charges the people are arrested for, the verdict, and any other related personal information
+ 
+Targeted audience:
+ 1. Common People who can prevent themselves from falling into the trap of criminals and frauds
+2. Business Person who can deal with others in a safe way and secure their business transactions
+ 
+Main Benefits:
+1. Easy to find out the crime history of any person
+2. Allows the people to be safe in any kind of relationship with other people
+3. Alert their friends and family regarding the strangers
+ 
+Platform: Android, iOS  
+
+

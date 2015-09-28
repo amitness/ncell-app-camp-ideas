@@ -1,0 +1,94 @@
+FindMe
+
+Submitted on:  September 20, 2015 - 10:19am 
+ 
+Idea:
+ Tourist don’t need to search the service provider but instead tourism service provider will approach to the tourist.
+ 
+Problem Solved:
+Once tourist post his/her plan of visit and services to be rendered in the app, the different service providers (hotels, travel agencies, paragliding) will contact the tourist offering the different discount packages. So, it solves the problem of both the tourist as well as the service provider.
+
+Current Problem: Tourist have to browse  website of each and every available service providers, compare the price and service . And finally contact with the service provider.
+Problem solved: Service providers will contact tourist and offer different discount packages. Tourist can bargain on price and service.Here, tourist will get the competitive price because every service providers will try to attract the tourist by giving special packages/discounts.
+ 
+Functions:
+ In this app we have two type of actors. 
+
+
+service providers (hotels, travel agencies, paragliding companies etc)
+
+
+tourist (Client)
+
+
+    First of all service providers and tourist should be registered in the app. 
+
+The tourist can logged in and post his/her plan.For  eg:
+Post: “we group of 10 people want to visit Nepal for 5 days”.
+Duration: From date - To dateServices : All / travel agencies/hotels/ mountain flight etc.)
+Location : Kathmandu
+Then the registered service providers located in Kathmandu will be notified that group of 10 people are visiting nepal on the given date.
+
+As the service provider get notice, they will try to contact the group with various medium (phone call, email, sms etc).  Different service provider try to offer different packages with the  competitive price.
+
+
+
+Travel agencies will offer different package (including hotel cost and mountain flight).
+
+
+Hotels will contact independently offering different package.
+
+
+Mountain flight companies also contact independently. etc.
+
+
+Finally, comparing the price and services offered by the different travel agencies, the group can easily select the best travel agency.
+
+So this app helps the tourist to get the quality service in competitive price. As well as service provider can easily find the customer.
+ 
+Targeted audience:
+ 
+
+Tourists
+
+
+Tourism Service Providers : All service providers including Travel agencies, Hotels, Mountain flight Companies, trekking companies etc.
+
+
+ 
+Main Benefits:
+Tourist Perspective:
+
+
+Good communication between the tourist and service providers
+
+
+Prevents fraud
+
+
+Single platform to find the service provider
+
+
+the service provider contact to the tourist to take their service. So, tourist have a chance to bargain and compare.
+
+
+Tourist can estimate the budget/cost.
+
+
+Service Provider Perspective:
+
+
+Reduce advertising cost.
+
+
+Single platform to find the tourist (customer).
+
+
+Service provider of all range (small, medium and large) will get equal opportunity to offer the tourist
+
+It removes the geographical barrier. Even the service provider of remote areas will have equal chance to attract the tourist/customer to get their service.
+
+ 
+Platform: Android  
+
+

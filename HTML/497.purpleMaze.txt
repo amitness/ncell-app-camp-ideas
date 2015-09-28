@@ -1,0 +1,39 @@
+purpleMaze
+
+Submitted on:  September 1, 2015 - 1:24pm 
+ 
+Idea:
+ A mobile version of the classic Ball in a Maze game in which player guides ball to centre of the maze using mobile motions.
+ 
+Problem Solved:
+BOREDOM!!!
+Bored? Do purpleMaze.
+Why? Because you forgot how awesome puzzles are. And they use different parts of your brain.
+ 
+Functions:
+ A mesmerizing User Interface which can entice you before the actual game starts.
+Simple yet perplexing mazes to engage most of your senses.
+Mazes are random geometric figures made by  lines and curves and ball, just a solid circle. 
+Realistic physics engine and complete realtime motion controlled ball.
+Different playing modes(arcade, endless, ...) , characters and theme-based levels for premium users.
+Different difficulty levels (touching the maze walls, not touching maze walls,....).
+Sketch Maze feature that allows user to challenge his or her friends with custom drawn mazes.
+ 
+ 
+ 
+Targeted audience:
+ A bored android user of any age group who loves to challenge his senses while killing spare time.
+ 
+Main Benefits:
+Unlimited entertainment.
+Simple and easy to grasp gameplay environment.
+Playable offline so you can play On-The-Go(anywhere, everywhere).
+Pleasant and refreshing mental workout .
+Custom design/sketch of the maze by user feature is present so that he or she can challenge their friends
+ 
+ 
+ 
+ 
+Platform: Android  
+
+

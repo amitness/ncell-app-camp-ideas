@@ -1,0 +1,41 @@
+Trail
+
+Submitted on:  September 19, 2015 - 11:36pm 
+ 
+Idea:
+ Trail is an social app which helps tourist in their journey by finding all available vendors (hotels, spa, guides) and chose suitable one.
+ 
+Problem Solved:
+Let's start with problem faced by tourism industry, first of all tourist are unaware of the available options and next things is they miss out on better options. Different tourist plan their journey differently, some seek adventure and some seek nature and some live because of tourism.
+
+App is a social link toward Tourist and vendors (local service provider). Vendors –-are may be hotels, restaurants, local baker, tour guide ,adventure company, gift seller ,yoga trainer or freelancer , who can help in their journey.
+Freelance tour guide can sign in as vendor, tourist can review and hire him. Tourist can review each vendor can choose the suitable one and we help them to find those information.
+Our app is a social network with vast information such as Where to go ? Which food to try? Where is the best accommodation? Where can be find accommodation in suitable range? Where can we find translator or tour guide? Where can we find best equipments for trek? What is the best adventure package deal? What season is best for trek?  
+
+ 
+We believe our solution provide a common platform to such tourist and vendors  to sort out best available deaals. As technology is emerging, idea of having a social network  helps not only to promote the economic side of tourism but it ensure every story to be shared. --We need to focus on sharing these stories to show the world what they are missing too. Tourism is all about experience, living the the moment , individuality in narrating the story and most of all sharing one's experience among people with same enthusiasm. Trail as an app, helps to develop a social link between such people with common interest, tourism, and helps them select best available option.
+ 
+Functions:
+ Main function of  this app is to help tourist find the all locally available option provided by registered vendors and service providers. App provides the information about the vendors such as their contact information, list of services. Rating and reviews of vendors can help tourist to chose among similar vendors.
+It provides platform for vendors to advertise themselves. Vendor and Service provider can provide their price range, service time and availability status. App can provide tourist flexibity and more option and helps vendor to promote themselves. Local events and offers are recommended for tourist. 
+Since tourism is all about experience using this app one can share their journey with others.Leaving a trails for others to continue. 
+ 
+ 
+Targeted audience:
+ Tourist ( natonal and international)
+Vendors and service provider ( local, start up or anyone one who can provide the service that tourist requires)
+ 
+Main Benefits:
+- Sharing experiences and stories among users
+- Connect link  between vendor and tourists
+- Rating based system to promote tourism 
+- Provide information about travel
+- Provide all available option of service
+- Connecting whole tourism market (inside and beyond boarder)
+- Management of portfolio and review of Vendors
+- helps to promote local and small scale business
+- Helps to promote startup and freelancers  
+ 
+Platform: Android  
+
+

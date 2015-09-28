@@ -1,0 +1,24 @@
+KinMel
+
+Submitted on:  September 11, 2015 - 9:51pm 
+ 
+Idea:
+ This is an app that will change the way you look at shopping. It will take shopping to whole new level; it will revolutionize shopping. 
+ 
+Problem Solved:
+For an instance everytime when u have to go for a shopping you are in a great dilemma of where to buy and how much to pay and you are also worried about the product details. And this app targets to solve the problem you face in shopping. What you have to do is select an item you wanna buy and under the item list u can see the review by different buyers as well as the sellers and you can navigate to the place throug the same apps navigation system . 
+ 
+Functions:
+ - It shows the review of the products via the seller and as well as the past experience of the buyers 
+-It navigates you to the place where you want to buy a product
+-You can sort down the produce according to the quality and the price 
+ 
+Targeted audience:
+ It is targeted to audience of all age groups who have a desire to shop.
+ 
+Main Benefits:
+It saves the time that a buyer spend while searching a good quality product of convinient price. And it ultimately saves time and money.
+ 
+Platform: Android  
+
+

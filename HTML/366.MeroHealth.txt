@@ -1,0 +1,23 @@
+MeroHealth
+
+Submitted on:  September 19, 2015 - 9:05pm 
+ 
+Idea:
+ 
+Mero Health is a mobile app that allows one to keep trace of long term changes in health parameters. 
+Problem Solved:
+
+Management of long term medical data and easy visualization of them. 
+Functions:
+ 
+
+A permanent user id will be generated that will allow each user to be uniquely identified across all health data capture, analysis and reporting points. Once id has been generated this id can be distributed to allow health data capture points to put in data. User will have to then accept the data before it truly becomes a part of their dataset. After this the user will be able to view a time series analysis of their health data as well as be able to forward the dataset to doctors for reviews. Doctors will be able to see the user's data on a "grant to see" basis. Powerful data analysis techniques will be used to allow users to get a 360 view of their data. MeroHealth is designed to be a wallet, instead of money, it will hold health related data. MeroHealth from the groundup will be designed to interact with and obtain data from addons to mobile devices as well as medical data sensors fitted to single board computers like raspberry pi, arduino and Intel Edison. It will also integrate methods to take environmental data to trace the environment where the user is taking data.  
+Targeted audience:
+ 
+Smart phone users from age group 35 onwards who require continuous monitoring of health data. Special focus on diabetics and people with high blood pressure. 
+Main Benefits:
+
+Health data management, integrated view of the data, health data available anytime anywhere. 
+Platform: Android, Others(Web)  
+
+

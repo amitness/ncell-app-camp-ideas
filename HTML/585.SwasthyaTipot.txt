@@ -1,0 +1,22 @@
+SwasthyaTipot
+
+Submitted on:  August 22, 2015 - 8:56pm 
+ 
+Idea:
+ App that keep track of all the medical report of the person along with the hospital and doctor info on every checkup.
+ 
+Problem Solved:
+Keeping all the medical reports safe of  every checkup can be annoying and some of the record may get lost. Our app will tackle both the problem by keeping the digital record and making it accessible anywhere.
+ 
+Functions:
+ The app shows the health report, undergone treatment and medicine taken by the person along with the doctor's info .It provides the detail information of person health.
+ 
+Targeted audience:
+ 1.People with unstable health condition who needs regular checkup.2.Admited patient undergoing multiple treatment. 
+ 
+Main Benefits:
+1.reduces the burden of keeping the individual health report safely.2.digitalize the health report and give easy  access to it.
+ 
+Platform: Android  
+
+

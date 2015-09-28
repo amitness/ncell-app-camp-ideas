@@ -1,0 +1,29 @@
+TVProgramReminder
+
+Submitted on:  September 9, 2015 - 7:51pm 
+ 
+Idea:
+ Free SMS or Android calendar integrated reminder for your favorite TV programs.
+ 
+Problem Solved:
+1.The app remind users about their favorite programs.
+2. Users never miss their favorite programs.
+3. Users will be upto date with their favorite programs.
+ 
+Functions:
+ The app contains two category(like hindi, Nepali). Users have to select the category and then they will provided with the list of channels. Users can go to the particular channel and add their favorite program in 'wishlist'. And then they will get notifications 10 min before the program starts.
+Also, you can rate your favourite program from this app.
+ 
+Targeted audience:
+ Pretty much everyone who watch TV programs. It includes every youngsters, adults, women, men.
+ 
+ 
+Main Benefits:
+1. User will never miss their favorite program.
+2. User can rate their favorite program.
+3. User can add their favorite program in wishlist and will get notified10min     before the program starts.
+4. Users can see others rating in the program and based on their interests      they can add to their wishlist and watch that program.
+ 
+Platform: Android, iOS  
+
+

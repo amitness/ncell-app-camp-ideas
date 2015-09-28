@@ -1,0 +1,31 @@
+Pike
+
+Submitted on:  September 19, 2015 - 4:08pm 
+ 
+Idea:
+ An app that provides information relating official (governmental) works and prepares necessary documents templates if required any.
+ 
+Problem Solved:
+Official (governmental) works can get quite confusing and troublesome when we do not know the details such as documents required, fees, letters, and others. Some examples of such works could be – at DOTM for license issue/renew; citizenship issue; applications for Loksewa exams; and so on. Even if some of the details are known beforehand, it is easy to miss a few things and returning back home to get the thing could be troublesome especially on a busy day. On top of it, the procedures for such works can change in time creating even more confusions and trouble. Our app tries to solve all these problems.
+ 
+Functions:
+ 
+The app can generate a letter template if the work requires one.
+The app lists down the documents required for the work.
+The app notifies the user of any updates that has arrived for the relating work.
+
+ 
+Targeted audience:
+ Nepali citizens who can get involved with governmental works.
+ 
+Main Benefits:
+
+Users can know beforehand the required details regarding the governmental work.
+A check list will allow users to not miss any of the documents required.
+Users can get updated procedures of the related work.
+Generate a letter template required for submission at the field if any is necessary.
+
+ 
+Platform: Android  
+
+

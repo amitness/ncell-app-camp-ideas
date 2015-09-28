@@ -1,0 +1,24 @@
+Khelsansar
+
+Submitted on:  September 20, 2015 - 12:05pm 
+ 
+Idea:
+ App that gives information on all the live fixtures on any tv channel
+ 
+Problem Solved:
+Solves problems of users who watch a lot of games live but do not know which game is live on which channel
+ 
+Functions:
+ Know all the live fixtures on any sporting events.
+Put a reminder of game and result notifications
+Applicable for all cable channel users
+ 
+Targeted audience:
+ All sports lover. Any sports lover
+ 
+Main Benefits:
+User can know which game they can watch at any time. User can put a reminder to remind them of the game
+ 
+Platform: Android  
+
+

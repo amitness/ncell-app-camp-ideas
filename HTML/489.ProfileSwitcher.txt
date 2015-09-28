@@ -1,0 +1,22 @@
+ProfileSwitcher
+
+Submitted on:  September 20, 2015 - 8:25am 
+ 
+Idea:
+ App that allows profile (including wifi, data) to switch automatically based on location,time etc.
+ 
+Problem Solved:
+Many of us have to change the profile, volume or brightness constantly throughout the day based on where we are. We may have even got a call during examination/meeting and felt embarrassed. This app automatically sets the profile based on where the user is. It also automatically sets the wifi on/off  and even sets the display brightness according to the preference based on location or time.
+ 
+Functions:
+ - It allows user to create and manage the profile which can contain ringer mode, ringtone or notification volume, media volume, alarm volume, wifi, mobile data, brightness, display time out etc.- It automatically sets those profile based on location or time.- It can also detect the headphone state and perform action like opening favourite music player when headphone is inserted.
+ 
+Targeted audience:
+ Anyone who are bored with changing their profile or adjusting volume, brightness constantly.
+ 
+Main Benefits:
+- Allows the profile to be automatically switched based on location or time.- Sets the wifi on/off when reaching/leaving home/office.- Automatically sets the display brightness of preference based on location or time.- Launches the music player when headphone is inserted.
+ 
+Platform: Android  
+
+

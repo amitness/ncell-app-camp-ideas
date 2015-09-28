@@ -1,0 +1,23 @@
+KHOJDABAI
+
+Submitted on:  September 13, 2015 - 8:31pm 
+ 
+Idea:
+ This app easily help to find the location where user can easily find the medicine he/she wanted.
+ 
+Problem Solved:
+for one medicine people spend hour for searching for it.this is beacuse we dont have any such app that help people to find the location and shop.with this app people can find the nearest location where medicine is find. 
+ 
+Functions:
+ provide the minimum  distance of the medicine shop.
+our app provide people with location of nearest location shop.
+ 
+Targeted audience:
+ patient whose medicine isnot found easily.
+ 
+Main Benefits:
+It saves time and money of the people.
+ 
+Platform: Android  
+
+

@@ -1,0 +1,24 @@
+HealerPath
+
+Submitted on:  September 17, 2015 - 12:12pm 
+ 
+Idea:
+ app that report the health, setting alarm time for the medicine, refer best hospital and doctor and their followup routine.
+ 
+Problem Solved:
+saves time, money and most of all save people from being their burden health. People without money and time with doubt about their health are suggested about the preliminary cure of diseases and refer to hospital without emptying their pocket.
+ 
+Functions:
+ Make aware for the users about their health not to be worsen thereafter. Suggest and make conscious about the diseases and health condition since Once health is worsen persons body will never be returned as same.
+ 
+Targeted audience:
+ Those persons who doubt about their health condition.
+Financial unsound people, Rural people who are drepived form easy access of health facility.
+ 
+ 
+Main Benefits:
+By their symptoms their health report including their diseases is predicted and hospital, doctor are referred and the medicine time and their followup doctor time is alarmed.
+ 
+Platform: Android  
+
+

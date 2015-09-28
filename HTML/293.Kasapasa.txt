@@ -1,0 +1,42 @@
+Kasapasa
+
+Submitted on:  September 17, 2015 - 4:32pm 
+ 
+Idea:
+ Kasapasa offers two way gaming experience with awesome social gaming for audience with game events management environment.
+ 
+ 
+Problem Solved:
+Organizers find problems organizing events like league, tournaments or even a single match of a particular game and finding players and audience for these events is even a tough job. 
+Kasapasa provides easy access for event management of both indoor and outdoor games like finding venue for the game, notify the interested users to become a player or a virtual audience.
+As Events being published, events are notified to the interested user.
+As events being organized, venues for football, paint ball, bowling, snooker, video games, archery etc are utilized to its fullest.
+As being a two way entertainment, player(s) can enjoy the participation and virtual audience can enjoy playing the “guess the result of the game” and challenge to their friends.
+Advertisement of the offers by organizers and venue providers can help increase interest for participation for both player(s) and virtual audience
+ 
+ 
+Functions:
+ The app notifies the game events to the users and they can request to participate either to be a player(s) or a virtual audience.
+Virtual audience can guess the result or the score of the game to earn reward points.
+Players can obtain reward points by wining a particular game.
+Organizers and venue providers can earn reward points on the basis  of reviews, players and virtual audience. 
+ 
+ 
+Targeted audience:
+ -Game Enthusiast
+-Players
+-Game Event Organizers
+-Venue Providers
+ 
+Main Benefits:
+1. Easy in serarching for events and participating.
+2. Updates of events and users participating as a player or as an audience can help organizers conduct a good event.
+3.Players participation in the events can help build strong fellowship and recognition.
+4. Audience who enjoy challenging their friends to score higher reward points get identification.
+5. Helps empty venues to its full utilization.
+6. Reward points earned by organizers, venue providers, players and virtual audience can be used for many purposes
+ 
+ 
+Platform: Android  
+
+

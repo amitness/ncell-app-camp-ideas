@@ -1,0 +1,33 @@
+MyDoctor
+
+Submitted on:  August 20, 2015 - 2:12am 
+ 
+Idea:
+ This app is centralizing hospital system, with give best personal heaths solution.
+ 
+Problem Solved:
+Reduce communication gaps between doctors and patient.
+Save time for searching hospitals and doctors.
+Easily get services from remote area.
+Help to find best hospitals and doctors.
+ 
+Functions:
+  Give information about hospitals and doctors.
+ Patient can directly communicate with doctors.
+ Auto suggests precaution and treatment.
+Take feedback with automated alarming system.
+ Priority base system depending on user feedback and doctor suggestion.
+ 
+Targeted audience:
+ This app is basically helps to those who have lack of time and not able to attend physically.
+This app is helpful for remote areas people.
+Mostly helpful for shy people.
+ 
+Main Benefits:
+Easily can access from anywhere.
+Save time for searching hospital.
+Get free information about doctors, hospitals and medicine.
+ 
+Platform: Android  
+
+

@@ -1,0 +1,33 @@
+Falcon
+
+Submitted on:  August 29, 2015 - 6:37pm 
+ 
+Idea:
+ An, ingenious app to address the pills alarm, notification or message for the person in medication
+ 
+ 
+Problem Solved:
+It help the person in medication to take the medicine in time or alarm them to take the medicine
+ 
+Functions:
+ 
+User will fill the form with medicine name, drug interval for a day or week, number of drug per day etc.. and can upload an image of the medicine.
+Based in the picture or Text details he/she can directly search about the drug details on internet (Integration of google search engine).
+Voice recording features to set the alarm tone.
+Language Nepali, English etc. ..
+A person can set alarm for his/her family member or friends who do not use smart phone and application will automatically alarm them by sending sms.
+multiple alarm can be set on same time for different users.
+ Integration of google image and text search facility to get the details of the drug.
+
+ 
+Targeted audience:
+ people who are in medication
+medical person(nurse)
+ 
+Main Benefits:
+auto notification and alarm system for the person to have the medicine in time and also for the medical people(nurse) who have to look after many sick people and has to give the medicine to them in time.
+it notifies busy people to take their medicine in time.
+ 
+Platform: Android  
+
+

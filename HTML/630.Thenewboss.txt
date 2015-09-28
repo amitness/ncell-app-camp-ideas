@@ -1,0 +1,31 @@
+Thenewboss
+
+Submitted on:  September 19, 2015 - 1:49pm 
+ 
+Idea:
+ Fulfil your destiny of ruling the world, one continent at a time. Clear tasks, levels, Challenge FB friends and defeat all the current bosses.
+ 
+Problem Solved:
+This game will be developed mainly for entertainment purposes. However, this game will provide the players a sense of real competition and excitement should they choose to challenge their facebook friends. This adds a social aspect to the game, a feature missing from most mobile games.
+Apart from this, the game can also enhance the cognitive abilities of the players.
+ 
+Functions:
+ The player has to progress through all the 7 continets, each continent containing 3 stages- Rookie, Intermediate and Expert.
+Each stage holds several tasks ranging from mathematical problems to minigames.
+The player needs to finish all the tasks and minigames, and how well the task is completed will reflect on how many points the player achieves.
+All the tasks must be completed and minimum number of points should be achieved to battle the current boss and ultimately unlock the next continent.
+If the points are not enough, the player can get more point by challenging a facebook friend for specific points or completing the tasks and minigames of same stage.
+Each stage will have a minimum of 5 tasks and minigames, totalling well over 105 tasks and minigames throughout  the course of the game.
+ 
+Targeted audience:
+ This game targets casual to mid-core gamers. The age group is generally from teenagers to 35 years.
+ 
+Main Benefits:
+Engaging and fun to play.
+Enhance your mathematical skills, logical skills and reflex speed.
+You can play solo and also challenge and play against your facebook friends.
+A good storyline.
+ 
+Platform: Android  
+
+

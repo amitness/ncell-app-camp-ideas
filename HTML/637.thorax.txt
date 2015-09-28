@@ -1,0 +1,24 @@
+thorax
+
+Submitted on:  September 19, 2015 - 2:15pm 
+ 
+Idea:
+ Apps to alert if you reached the destination while travelling on public transport.
+ 
+Problem Solved:
+Reaching new places on public transport is stressfull.
+And some people sleep on bus and miss the destination.
+ 
+Functions:
+ Gps, Maps, Alarm
+ 
+Targeted audience:
+ People visiting new places(tourists), people who travel at night, or people who feel asleep on bus
+ 
+ 
+Main Benefits:
+Reaching new places on public transport is stress free. And you can sleep on bus without worrying you will miss the destination. 
+ 
+Platform: Android  
+
+

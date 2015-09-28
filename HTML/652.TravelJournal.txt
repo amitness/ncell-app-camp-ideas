@@ -1,0 +1,22 @@
+TravelJournal
+
+Submitted on:  September 19, 2015 - 11:56pm 
+ 
+Idea:
+ App gives you the hotels location, price, rating and the tourism destinations, rating with their detailed descriptions 
+ 
+Problem Solved:
+The application will solve the problems of the tourist specially for the those who are visiting a new place without the knowlege of the place whether it be the tourist spots or the hotels in the area. The hotel booking, reservation information and the places for tourist visitations and tourist spots will also be given with detail. 
+ 
+Functions:
+ Gives the information of the hotels in the area of the tourist.Highlits the best known locations to be seen in the area.The best places to visit for a tourist are also highlighted.
+ 
+Targeted audience:
+ The main targeted audience are the tourists that visit Nepal and also the local tourists who are visiting the places within the country. 
+ 
+Main Benefits:
+Users can see all the details of the hotels and the quality of their services.The tourist spots will be highlighted with their details.The tourist will not have to be afraid to get lost and can visit any place with ease. 
+ 
+Platform: Android  
+
+

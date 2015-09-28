@@ -1,0 +1,30 @@
+CubicalTechnologies
+
+Submitted on:  September 15, 2015 - 8:00pm 
+ 
+Idea:
+ Help tourist to get any kind of information of location specified by them and get notified by events happening around them.
+ 
+Problem Solved:
+Usually people whenever visit some place as a tourist they do research the place and visit there. But the information they get cannot always be enough to explore the place they visit. There comes the help of Local people who are more knowledgeable about their places and surrounding.
+As Nepal is one of the great place for tourist to visit, we have come up with and idea where tourist can select a location and have a talk with the person or locals of selected place or they can create a discusson thread and get the information about that place. Tourist can also get any information whenever they want.
+The idea also includes that tourist will be getting notification about any event happening during their visit so that they can experience and enjoy their trip to the fullest.
+ 
+Functions:
+ The main features of our application is
+1) User can create thread or post any query whenever and whereever they are.
+2) The response that tourist will be getting will be from the people of the specified location.
+3) Tourist will be notified with different events happening or will be happening during their visit.
+ 
+Targeted audience:
+ People never gets chance to explore their own country properly. This app focus not only global tourist but also local people.
+ 
+Main Benefits:
+We normally see that tourist they usually visit Kathmandu, Pokhara and Chitwan but they do miss quite lot of things to explore.
+So the main benefit for the user is
+1)they can get detailed information about different places i.e the information that they request for.
+2)The tourist will be notified with different events happening around them during their visit.
+ 
+Platform: Android  
+
+

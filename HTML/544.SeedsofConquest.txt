@@ -1,0 +1,32 @@
+SeedsofConquest
+
+Submitted on:  September 17, 2015 - 8:17am 
+ 
+Idea:
+ A location-based game where players plant 'seeds', activate them and score points for the area covered and foreign seeds consumed.
+ 
+Problem Solved:
+There are lots of games available at our fingertips to give us our daily dose of fun and excitement, however for better or worse, location-based games haven't made much headway into the Nepali market.  So, with this game, we are not only trying to provide a new game but also open up the possibility of a fresh genre making its way into Nepal. 
+ 
+Functions:
+ Seeds of Conquest is a location-based game in which players plant seeds at their current locations and then activate them at any time they want to. An activated seed starts expanding at a certain rate and so the area it covers grows over time. 
+[A very crude  initial concept image.]
+However, when the area of influence of an activated seed collides with that of another player's seed, both seeds lose their active power. The seeds fade away after expanding for a certain time or when it loses all of its active power. 
+The main goal is to get maximum points before the seed fades out. (You only get to plant a limited number of seeds per day.)
+Points are scored for covering large areas and gobbling up dormant seeds of other players and/or seeds placed by the game itself. The longer a seed stays dormant, the more active power it accumulates. So, you are looking to keep your seed dormant for as long as possible but if you wait too long, you risk getting the seed eaten by other players. 
+As you play on, you get more powerful, versatile seeds and also unlock new abilities.
+ 
+ 
+Targeted audience:
+ As much as we would like to say that our target audience is across all ages, it's not. Being somewhere between a casual and mid-core game (inclined slightly towards the latter),  the trends make us believe that our main target group would be people in the 10-50 age demographic.
+Also, given the nature of the game (favoring local interactions) and target platform, it should appeal more to the urban populace. 
+The novelty of the game should ensure that the target audience get thoroughly interested. 
+And as our initial target is Nepal, the gameplay and requirements will be customized accordingly. 
+ 
+Main Benefits:
+As with any game, the primary benefit is entertainment - a way to add a bit of spark and enjoyment to some of those monotonous moments in life. 
+Also, it adds a sort of local feeling into the gameplay as players interact with their real-world surroundings and other players around them. 
+ 
+Platform: Android  
+
+

@@ -1,0 +1,22 @@
+Cyclepanti
+
+Submitted on:  September 18, 2015 - 8:52am 
+ 
+Idea:
+ A game that simulates cycling through iconic alleyways, monuments and natural beauty of Nepal.
+ 
+Problem Solved:
+Currently, there aren't many games that reflect Nepali uniqueness. This will help promote Nepal's unique sights and culture.
+ 
+Functions:
+ A cycling simulator that takes you through iconic locations in Nepal. It will have achievements for best time, longest route, etc.
+ 
+Targeted audience:
+ Teenagers. Kids. Adults. Everyone.
+ 
+Main Benefits:
+FUN.
+ 
+Platform: Android, iOS, Windows phone  
+
+

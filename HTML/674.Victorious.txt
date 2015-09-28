@@ -1,0 +1,27 @@
+Victorious
+
+Submitted on:  September 19, 2015 - 5:40pm 
+ 
+Idea:
+ An app that allows user to read stories in the form of text message/chat.
+ 
+Problem Solved:
+Our application increases the people interest in reading stories which are usually long.
+ 
+Functions:
+ Them main functions of our app are:
+1) Read stores in the form of chat/message containing emoticons and pictures.
+2) Create and share your own real or imaginary stories.
+3) Short stories of different genres.
+4) Share, favourite and add stories to wishlist.
+ 
+ 
+Targeted audience:
+ Everyone from children to adults who like reading their sms, fb messages, whatsapp message etc.
+ 
+Main Benefits:
+Read interesting real or user made stories in the form of text message. It simplifies and will change how the user reads the stories. Will encourage users to read more and learn more just like the way they read their normal messages.
+ 
+Platform: Android  
+
+

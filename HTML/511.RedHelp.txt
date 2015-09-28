@@ -1,0 +1,24 @@
+RedHelp
+
+Submitted on:  September 19, 2015 - 10:35pm 
+ 
+Idea:
+ App to create a communication bridge between blood donor and receiver.
+ 
+Problem Solved:
+Application will help those people who are in need of or who want to donate blood. Our app will act as a link between these two parties.
+ 
+Functions:
+ The application will help people communicate whenever an individual is in need of blood. The app will also help the donors to seek for blood deposition center. Various informations about nearby hospitals and health centers will be provided by the app. More functions can be added according to user's demands and suggestions.
+ 
+Targeted audience:
+ Every human being who is in need of blood and thus, a new life! The functionality, practicability and scope of the application can foster up if collaboration is done with the hospitals, blood bank or even the websites that focus on blood donation issues. We can have large database of blood donors and thus more audiences can use the application.
+ 
+Main Benefits:
+1) User can instantly communicate with the donor or the receiver.
+2) Easy to search for nearest individual who is ready to donate his/her blood.
+3) A database that helps people navigate and check out the potential donors.
+ 
+Platform: Android  
+
+

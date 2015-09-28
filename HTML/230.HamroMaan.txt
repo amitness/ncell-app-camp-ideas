@@ -1,0 +1,22 @@
+HamroMaan
+
+Submitted on:  September 15, 2015 - 9:11am 
+ 
+Idea:
+ Nepali Dating App.
+ 
+Problem Solved:
+this application may solve problems of Single girls and boys in nepal. ;) 
+ 
+Functions:
+ It's kind of like tinder, but not exactly like it. it will show any users who are near your location via GPS and will display in your mobile. foreign users cannot be member of this app. 
+ 
+Targeted audience:
+ my targeted audience must me single ladies and gents of nepal. 
+ 
+Main Benefits:
+the main benifit for the user is that they can meet new friends, link with different people based on their intrests and so on. May be they can meet the love of their life? who knows
+ 
+Platform: Android, iOS, Windows phone  
+
+

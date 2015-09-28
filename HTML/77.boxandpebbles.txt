@@ -1,0 +1,22 @@
+boxandpebbles
+
+Submitted on:  August 30, 2015 - 11:40am 
+ 
+Idea:
+ we want to convert a urban children's game to android apps which is played on the mud by making holes and putting pebbles.
+ 
+Problem Solved:
+it doesnot solve any problem it just gives entertainment to player. 
+ 
+Functions:
+ there are two players,10 holes (box) on two rows and five columns, where initially contains 5 pebbles      on each box. user takes the pebbles of one of the box and start to      put 1 pebble on each box in clockwise direction.If the pebbles on hand are      finished,then he takes the pebbles of next box.if next box is empty and another box      has pebbles he get the pebbles of that box.      otherwise he/she doesn't get any pebbles.    
+ 
+Targeted audience:
+ all the person in the world who are intersted to play the mobile game. 
+ 
+Main Benefits:
+get fulltime entertainment.
+ 
+Platform: Android  
+
+

@@ -1,0 +1,24 @@
+TourismSeasonNepal
+
+Submitted on:  August 26, 2015 - 7:28pm 
+ 
+Idea:
+ App to know best time to go visit around to know about Nepalese culture.
+ 
+Problem Solved:
+It is not an easy job to find the date on when some cultural festival will be held. To know about all these events along with their historical importace is even a tough job to do. Our app will solve this problem. 
+ 
+Functions:
+ This app list down the time of all the events that are organize every year so tourist can make a plan on that time to visit the place where the event is going to be held.
+ 
+Targeted audience:
+ This is for international tourists as well as internal tourists who want to have a taste of Nepalese traditions and culture.
+ 
+Main Benefits:
+1. User will get a list of Nepal's culture and traditions along with their brief description.
+2. User will be notified about all the events that are going to be orgainzed.
+3. User will have information about the event, their historical importance along with some other related informations.
+ 
+Platform: Android  
+
+

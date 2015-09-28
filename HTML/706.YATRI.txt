@@ -1,0 +1,39 @@
+YATRI
+
+Submitted on:  August 26, 2015 - 1:35pm 
+ 
+Idea:
+ Assist students in their visa application process and notification service of different events like seminar, competition, exhibition around the world.
+ 
+Problem Solved:
+Problrms targeted by this app:
+Students who wants to apply for abroad studies are victim of the rumor floating in the market, which makes application process difficult for them and follow wrong direction according to the rumor which waste money and the time of the student.
+College selection according to their desire, academic performance, scholarship, locality they want live in etc is difficult and most tend to mistake in this part.
+Financial planning is the one thing no one really care much but later on it makes difficult for students.
+It is difficult to look for standard exam preparation center by comparing service, cost etc.
+And for next part most of the student don’t know the facilities, seminars, Exhibition, Competition,  that are being provided by different organizations like embassy, NGOs, INGOs, Universities, Public organization, private organization, countries etc. there for most deserving student never got the info about such things.
+ 
+Functions:
+ Notification system according to setup done by user about what they want and what they are looking for.
+Application process tracking i.e. guiding students in each steps of the process with the percentage completion info i.e. from standard exam preparation to settlement process
+Feedback collecton.
+Rating system of countries, colleges, locality etc. with the help of feedback system, different standard data etc.
+Search facility and result is shown according to the different attributes of the search like GPA, standard exam score, field etc.
+Information of colleges, locality, education system of the countries.
+ 
+Targeted audience:
+  
+Students attending +2  or above, who are planning for foreign studies and looking for the platforms, where they can show their talent.
+ 
+Main Benefits:
+ 
+Track and assist in their visa application process with notification system.
+Help in planning and selecting colleges according to their grades and resume.
+Help in financial planning.
+With the help of the feedback from people been there, we would try to give information about the place they are applying as real as possible so that they can choose wisely.
+Notification services about different event like seminars competition exhibition conducted in different countries according to their field of interest and assist in application process.
+Different embassies, INGOs, NGOs has different program for students. It provides notification service of such programs to user according to their field of interest.
+ 
+Platform: Android  
+
+

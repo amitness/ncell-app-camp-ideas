@@ -1,0 +1,22 @@
+FootballNepal
+
+Submitted on:  September 20, 2015 - 11:31am 
+ 
+Idea:
+ This app provides informations and news regarding the domestic football league of Nepal.
+ 
+Problem Solved:
+Entertains the people by providing scores updates and news of football.
+ 
+Functions:
+ This will provide news, videos, photos and provides live score to the Football Fans.
+ 
+Targeted audience:
+ All football lovers and people who wants to uplift Nepali football.
+ 
+Main Benefits:
+They can still enjoy domestic league despite getting getting busy in their respective works.
+ 
+Platform: Android  
+
+

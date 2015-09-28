@@ -1,0 +1,44 @@
+NepaliCodersDirectCall
+
+Submitted on:  September 20, 2015 - 11:33am 
+ 
+Idea:
+ A simple app to make phone calls and send sms using your sim card even when you are outside the mobile network coverage.
+ 
+Problem Solved:
+1. Most of the Nepalese people fly abroad. It is always troublesome for them to have a sound communication with their family. Since international call charges are expensive and even if they try to make calls via viber or skype, the expensive internet charges and poor internet connection in rural part of Nepal brings barrier in between their communication. Using this app the caller can connect to mobile network through internet connection to make calls or send sms so that the receiver don't need internet connection to receive their calls.
+ 
+2. When the user is out of mobile network coverage but within the range of internet connection, they can still make calls or send sms through their mobile network through internet connection.
+ 
+3. Solves the problem of activating international roaming.
+ 
+Functions:
+ 1. At first, the users have to activate and verify their mobile sim in this app
+ 
+2. All the calls and sms can be made from mobile network (via internet connection) so that receivers don't need internet connection
+ 
+3. Charges for calls and sms will be reduced from mobile sim
+ 
+4. Users can recharge their balance using mobile recharge card
+ 
+5. Even if the users are out of mobile network coverage, they can receive call using this app which will connect them to mobile network through internet connection
+ 
+6. If the user is out of mobile coverage and out of internet connection then only their mobile is treated as switched off
+ 
+Targeted audience:
+ 1. Any people travelling abroad
+ 
+2. People outside mobile network coverage but within internet connection
+ 
+3. Business people
+ 
+Main Benefits:
+1. International calls can be made cheaper
+ 
+2. Users will be able to use their sim number even outside mobile network coverage
+ 
+3. Virtually increases the mobile network coverage area
+ 
+Platform: Android  
+
+

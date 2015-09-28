@@ -1,0 +1,22 @@
+e-Doctor
+
+Submitted on:  September 20, 2015 - 11:59am 
+ 
+Idea:
+ App that provides Prenatal and Postnatal information including proper medicine, diet, advises and many more facilities at finger tip
+ 
+Problem Solved:
+There are high rates of miscarriages and infant mortality rate due to lack of proper information and shyness of the pregnant mother. This app primarily focuses on reducing the mortality rate and miscarriages. Provides genuine information of proper medicines, diet, advises and many more facilities at fingertip. 
+ 
+Functions:
+ 1) Information of Pregnancy2) Diet Plan for Pregnant women & child3) Medicines suggestions4) Check-ups reminder and suggestions5) Direct contact with the doctor or the hospital6) Appointment through the phone
+ 
+Targeted audience:
+ 1) Pregnant Women 2) Families of Pregnant women & child below 3
+ 
+Main Benefits:
+1) Health at Home.2) Proper Diet Suggestion to both the mother and the child.3) Tie-up with your own hospital/ doctor4) Easy Access of information/ suggestions5) Reminder of Check-up, Medicine, Diet, etc
+ 
+Platform: Android  
+
+

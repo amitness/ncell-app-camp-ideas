@@ -1,0 +1,33 @@
+Junkiri
+
+Submitted on:  September 19, 2015 - 10:25am 
+ 
+Idea:
+ Considering the shy nature or feeling offended to share about the sexual related problems(specially females) this app will help them.
+ 
+Problem Solved:
+This application actually is being developed with a view to overcome the sexual related problem or disease that gets even bad since the people finds it very difficult to share and talk about it with someone else due to their shy nature. Like the difficulties during menstruation,any kinds of infections around genitals due to lack of hygiene are limited with in the woman and in about 80% cases they are unshared and remains uncured.
+So this app will try to suggest them the best they can do at those situations and helps solving such problems.If the case seems to be very serious or something then will recommend the nearest healthpost from his/her location .
+ 
+Functions:
+ The main Functions and elements of our app are explained below as:
+1.The main function is to somehow be effective for the people with sex related problems who finds odd to express themselves to other.
+2.The app will contain the lists of problems and solutions in a very well categorized manner. The main category will be "MALE" and "FEMALE" and then the problems related to them will be encountered.
+3.With the increasing number of problems the app will be updated accordingly from our web server.
+4.If the user dont find their problems in our listing then they can post it in a the Forum available being completely anonymous.After that as fast as possible  if our team finds it a appropriate problem it will be very soon updated with in the application.
+ 
+Targeted audience:
+ Our target audience/user will be the people of nepal and many more countries like nepal where people(women) still finds it difficult to share their problem related to sex-health.
+We believe this app somehow will be very much effective in the countries like Nepal. so People of such countries are our main target audience.
+ 
+Main Benefits:
+The main benefits are:
+1.the user can get the initial level solutions from the app before they see a physician.
+2.it will help people (especially women) since they dont share the sexual related problems very easily.
+3.This app even suggests the best hygiene to be concerned regularly.
+3.if any of the problems are not listed in the app or with in the range then the user can post their problem remaining anonymous as a male or female.
+4. this app will be very useful for the peoples in nepal where there are the availability of android phones but doctors are very limited in number and sex specialist are further less in number.
+ 
+Platform: Android  
+
+

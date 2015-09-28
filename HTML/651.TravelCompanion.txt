@@ -1,0 +1,43 @@
+TravelCompanion
+
+Submitted on:  September 10, 2015 - 10:05am 
+ 
+Idea:
+ A complete app for travellers with features like public transportation route generation, local language translater, air routes, taxi support,etc. 
+ 
+Problem Solved:
+Travel Companion solves multiple problems faced by the international and internal tourists :-
+1. Finding the local transportations from user's location to destination
+       Finding the routes from one location to another in a map might be easy but finding out the public vehicles that run on that route is difficult and is not available in any map services. This is where our app comes handy and list the public vehicles available from the source to destination. If there is no single vehicle that connects source to destination then the app will generate connecting routes and users can use this.
+2. Finding the Air routes
+    Our app will list all the air routes available from source to destination with the air fares and special packages available.
+
+3. Local Language Translator
+    Our app will have a language translator that will help tourist to convert their native language (like english, spanish) to nepali languages like nepali, newari,bhojpuri,etc. This will have a basic language conversion feature like basic day to day activities. This will even help to convert the local languages to the native lanugae of the user. This feature will enable a smooth communication between the toursit and local peoples.
+4. Anytime taxi support
+    Our app will list all the contact numbers of taxis available near to the user and availabel at the moment. 
+
+ 
+ 
+Functions:
+ 1. It provides all the transportation routes available from source to destination weather be with a single vehicle/flight or by connecting two vehicle/ flight.
+2. It provides language conversion feature from international languages to nepali languages and vice versa.
+3. It helps to book  a nearby taxi by just making a call to the taxi driver.
+ 
+Targeted audience:
+ The targeted audience will be both international and domestic tourist and the app will even be beneficial to other people who have to travel from one location to another within their city too. 
+ 
+ 
+Main Benefits:
+
+Benefits of the Applications to users1. Lists all the possible public transportation routes (either by a single bus or by connecting two or three vehicles) from source to destination.
+2. Provides the accurate transportation fare rate.
+3. Language conversion from/to the local language to assists the tourist to communicate with the local people.
+4. Displays the air flights available from source to destination
+5. Air flight booking.
+6. Anytime taxi booking.
+ 
+ 
+Platform: Android  
+
+

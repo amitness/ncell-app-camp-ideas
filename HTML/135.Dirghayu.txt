@@ -1,0 +1,46 @@
+Dirghayu
+
+Submitted on:  September 6, 2015 - 8:11pm 
+ 
+Idea:
+ Dirghayu app will provide complete solution for medical record management about the past checkup and drugs taken; for future analysis along with alter
+ 
+Problem Solved:
+Its almost difficult for us to remember all the medical history reports during checkups. Our cloud based app will make it easier to update report data and medicine prescribed through their phone and they can access anytime anywhere. Similarly users can find alternative medicine if prescribed one is not available or costly. Users will also get to know about legal status of drugs.
+ 
+ 
+Functions:
+ ✔ Tracking of medical reports whether it’s different types of data (BP, Glucose level, RBC count etc.) or medicine taken in past with their details.
+✔ Medicine alternatives (with pictures) for unavailable medicine or costly medicine with their details (Drug name, description, indication, synonyms, pharmacology, toxicity, dosage, brands, price, mechanism of action, affected organism, drug interaction, drug category, myths and realities,) and pharmacy details where we can get that medicine.
+✔ Users can get to know about legal issue of any medicine especially banned or most controversial medicine from the past and their history.
+✔ Medical calculator for Body Mass Index, Pregnancy wheel, body fluids etc.
+✔ Daily health tips.
+ 
+ 
+Targeted audience:
+ It is intended for the general public, Medical students/graduates, health care providers, pharmacists and the various stakeholders in the fields of health, social and correctional services, and government agency personnel.
+ 
+ 
+Main Benefits:
+
+
+Cloud based medical record management facility.
+
+
+Alternative drug recommendation with pharmacy detail(with (MRP) where they can buy that medicine and MRP.
+
+
+Users will get to know about banned drugs and their history detail.
+
+
+Medical calculator. 
+
+
+Daily health tips.
+
+
+ 
+ 
+Platform: Android  
+
+

@@ -1,0 +1,33 @@
+Exare
+
+Submitted on:  September 19, 2015 - 10:37pm 
+ 
+Idea:
+ Semantic organization of peoples' experiences or info in question answer form so that user can search for things search engine can't provide
+ 
+Problem Solved:
+There are many things people want to know but those informations won't be available to them through search engine. For eg. it can be "What are the process to receive passport?", "What should you do to take date for GRE exam?", "How should we prepare for Muktinath trek?" etc.
+There could also be trivial questions like "What is the cost of Budhisagar's latest novel Firfire?", "Is Narayanhiti Museum open on saturday?".
+These are the questions search engines can't provide to us easily and we may not find appropriate person around us to ask for these things.
+On the other hand, it is certain that there are some people out there who already had such experiences. So, it would be great if there is a platform where people can sell their experiences(however small it may be) in view that it may be valuable to some other people some day.
+Hence, we propose to develop a platform where we store peoples' experiences or trivial informations they know about almost anything and people use this platform to query the information they need. It's not the forum for people to ask questions and other people to answer that but it will be the ocean of experiences and informations in question answer form and user dive into it to dig out their need.
+In this way, we plan to develop a platform where you can search almost anything and instantly get an information you want. 
+ 
+ 
+Functions:
+ 1. Experience or information submission: Every day people are gaining some new experiences through the work they do or the place they travel. They can submit these experiences or informations in question answer form in view that some one might need it. And they get paid for their contribution.
+ 
+2.Experience or information search: People can search for the things they want to know through question and get the appropriate answer for that query.
+ 
+ 
+Targeted audience:
+ Anyone with a smart phone and wanting to find out some informations that they are finding difficult to dig out from a search engine.
+ 
+Main Benefits:
+1. Users can search for any information they want to know in local level(It can be gradually expanded to global scale.)
+2. Users can know about peoples experiences in any new area of their concern.
+3. Users can sell their experience.
+ 
+Platform: Android  
+
+

@@ -1,0 +1,22 @@
+Code4Change
+
+Submitted on:  September 19, 2015 - 5:11pm 
+ 
+Idea:
+ You can hire any two wheelers and four wheelers through app.
+ 
+Problem Solved:
+Tourists have very limited option to hire vehicles and no bargain option. They have very limited options to choose from. With this app they can hire vehicles with best options and prices. The vehicles include from bicycle to fourwheel drive.
+ 
+Functions:
+ - provide multiple options of vehicles with their dealers and prices 
+ 
+Targeted audience:
+ Tourists
+ 
+Main Benefits:
+- users get easy access to hire vehicles which they desire- don't have to go through tedious process of hiring vehicle 
+ 
+Platform: Android  
+
+

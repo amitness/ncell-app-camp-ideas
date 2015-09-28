@@ -1,0 +1,33 @@
+TheDestinationGuide
+
+Submitted on:  September 2, 2015 - 12:27pm 
+ 
+Idea:
+ This app is for travellers who are searching for the hotels ,travel agencies and money exchange counter in Nepal.
+ 
+Problem Solved:
+Most of the people don't know about the place where they are going to travel and long tour. So, this app helps to find the best hotel ,travel agency and money exchange counter in Nepal. And this app also provide the google map to search that place.
+ 
+Functions:
+ 1. It provides the google map facility to search for the place where you want to travel.
+2. It provides the information about the hotel, if you are willing  to stay and book.
+3. It provides the information about travel agencies, if you are having problem of ticket reserving.
+4. It provides the list of money exchange counter with location.
+5. It provides the top 5 destination place of the year.
+6. It provides the nature conditions of that place where you want to travels or stay.
+ 
+Targeted audience:
+ Any user or traveller can use this app who are having trouble for finding the hotels, travel agencies and money exchange counters in Nepal.
+ 
+Main Benefits:
+ 
+1. It helps to find the hotel ,travel agency and  money exchange counter.
+ 
+2. It gives total information about city or place of Nepal if you are looking for traveling.
+ 
+3. You can book the hotel room and reserve tickets in travel agency from any place of the world.
+ 
+ 
+Platform: Android  
+
+

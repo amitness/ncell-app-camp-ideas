@@ -1,0 +1,27 @@
+Medi-sure
+
+Submitted on:  September 8, 2015 - 12:42pm 
+ 
+Idea:
+ App to check whether the medicine you're about to use is really for your health problem & gives information about pricing & side-effects
+ 
+Problem Solved:
+There is always a chance that the medicine we are using might not be for our health problem. It happens mainly due to pharmacist not understanding hand written prescriptions of doctors and confusing for other medicine etc. This problem might also occur when a patient consumes medicine referred by their friends and relatives by just assuming it is for their health problem. This can also occur when the person gets sick while he is travelling falls sick and forced to use medicine found locally. And the patient may end up consuming wrong medicine which might have disastrous consequence. So this app allows the user to make sure that the medicine that he/she is using is for their health problem through the generic name of that medicine.
+                    Often patients are over charged while buying a medicine. This app also tells the tentative retail price of that medicine so that the user becomes aware.
+                   This app produces result which can be easily understood by general people unlike most web based search which uses complex medical terms to describe. If the user types a generic name of a medicine, this app tells the user ‘this medicine is related to kidney problem’ or ‘this medicine is for liver problem’.              It also provides the common known side effect for tat generic name of that medicine
+ 
+Functions:
+ This app lets the user to enter the generic name of a medicine that they are about to consume. Then this app tells that the particular medicine is associated with particular health problem. This app also provides information related to pricing and also lists known side-effects associated with that medicine.
+ 
+Targeted audience:
+ This app is particularly useful for young people of countries like India, Nepal, China & African countries where the people are aware of the health risks associated with consuming wrong medicine. This is also useful where the markets are not regulated properly and the pharmacist overcharges the medicine.
+ 
+Main Benefits:
+User can use this app to be sure that the medicine they are about to use is for their health problem and prevent the consequence of consuming wrong medicine.
+This app gives information about the entered generic medicine name in plain English unlike web search which use complex medical terms which is easily understood by general people. . If the user types a generic name of a medicine, this app tells the user ‘this medicine is related to kidney problem’ or ‘this medicine is for liver problem’.
+This app also provides information about the pricing of medicine so that the user becomes aware and prevents getting conned.
+This app also tells the user of possible side effects common with that medicine.
+ 
+Platform: Android  
+
+

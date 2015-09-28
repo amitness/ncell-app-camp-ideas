@@ -1,0 +1,27 @@
+TeleMedic
+
+Submitted on:  September 20, 2015 - 5:35am 
+ 
+Idea:
+ Bridging the distance barrier between doctor & patient
+ 
+Problem Solved:
+provides health services at different rural areas where expert doctor solution are not avaliable through central system where expert doctors are available
+ 
+Functions:
+ -collects the patient record and provide report to paitent form central region
+-provide notification to patient to provide report
+-list down patient record to doctor who are under theri observation
+ 
+Targeted audience:
+ Hospital (tele users assigned by the hospital)
+-doctors(related to hospital)
+-general people(after registration to hospital)
+ 
+Main Benefits:
+-Patients get their medical report through app (ie. easy to get medical report)-System user send report generate report through app(ie. medical data can be send from any location to the central department)-doctors can view their patients from app(ie. know the patient before checkup)
+ 
+ 
+Platform: Android, Others(PHP,Java)  
+
+

@@ -1,0 +1,32 @@
+NepTour
+
+Submitted on:  September 12, 2015 - 8:49am 
+ 
+Idea:
+ An app for tourists which can compare the prices of the nearby hotels,foods,transportation fee,locate nearby famous places and other tourism aspects.
+ 
+Problem Solved:
+Tourists would be able to get detailed information and even compare the prices for nearby hotels,foods,transportation fee,locate nearby famous places and other tourism aspects like trekking, bungee jumping, ultra flight aircraft, rafting, paragliding etc. along with securities.
+For Example
+Suppose a tourist is in Kathmandu. With this app, he would be able to compare the prices of the hotels, foods available in different hotels and restaurants, locate nearby cultural heritage sites. Similarly, he could check the transportation fee by air route or by bus or with reserved taxi to pokhara. He could compare the prices and services provided by different companies for Ultra flight Aircraft, Paragliding in pokhara. He could even return back to his native nation comparing cost for the flight schedules.
+ 
+ 
+ 
+Functions:
+ This app lists down the nearby hotels,foods,transportation fee,locate nearby famous places and other tourism aspects like trekking, bungee jumping, ultra flight aircraft, rafting, paragliding etc. along with detailed information and even compares the prices.
+ 
+Targeted audience:
+ Tourists in Nepal
+ 
+Main Benefits:
+“NepTour” would help the tourists to get detailed information on the following:-
+1)Nearby Hotels with price
+2)International flights & domestic flights schedules with local transportation fee with price
+3) costs of available foods in the hotels & restaurants including their location
+4)Locating the nearby cultural heritages sites and famous places in Nepal including their routes
+5)Prices and services provided by different companies for trekking, bungee jumping, ultra flight aircraft, rafting, paragliding etc. along with securities.
+ 
+ 
+Platform: Android  
+
+

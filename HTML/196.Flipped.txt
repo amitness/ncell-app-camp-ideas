@@ -1,0 +1,30 @@
+Flipped
+
+Submitted on:  September 15, 2015 - 12:03am 
+ 
+Idea:
+ A platform-adventure video game in a world of “mirrors” which when crossed leads to alternate realities with conflicting gravities.
+ 
+ 
+Problem Solved:
+Lack of decent game with new ideas
+Poor game industry in Nepal
+Boredom
+ 
+Functions:
+ Flipped is a platform-adventure video game with a 2d-sidescroller world. The player has to guide a boy through a world where the obstacles are ‘Mirrors’ such that when the protagonist encounters a mirror, he is ported to a world where everything gets flipped i.e, turns upside down. In this alternate world, the gravity works in the opposite direction. The protagonist now walks on ceilings, jumping takes him to a lower height rather than higher; just opposite to that in a real world scenario. Presence of hyperreal objects, that are not affected by change of reality and have constant direction of fall, make things more interesting. This way, a world with obstacles is presented and the player needs to make proper decisions in order to tackle the obstructions and march forward.
+ 
+The storyline starts with a scene of a boy and his pet dog playing around. Day turns into night, and it’s time for them to sleep. As they are dozing off in the boy’s bed, something odd happens: there’s lightning and shaking and a portal, or “Mirror” as we call it, appears in the room. The shaking causes the dog to fall through the mirror and disappear. Now the whole game is a mission undertaken by the boy in the search of his lost dog.
+ 
+Targeted audience:
+ Anyone who enjoys adventure games
+Anyone who enjoys thrills
+ 
+Main Benefits:
+Fun to play: helps kill boredom
+Increases problem-solving skills
+Good storyline
+ 
+Platform: Android  
+
+

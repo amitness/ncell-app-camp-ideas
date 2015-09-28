@@ -1,0 +1,53 @@
+snAPPs
+
+Submitted on:  August 23, 2015 - 10:14am 
+ 
+Idea:
+ App to provide public-vehicle routes and fares, suggest vehicle to take for trip and provide details for vehicle reservations and ticket transactions.
+ 
+Problem Solved:
+Although cheaper than taxis, travelling to an unknown location using public transport is challenging. Not only does one have to remember where to get off but also the vehicle to take, where the vehicle can be boarded and the route number. To add to the difficulty often more than one vehicle has to be switched to reach a particular destination. Other passengers in the bus/micro/tempo are not always cooperative and even locals are not aware of every nook and cranny in the city. Amidst so much confusion one can easily miss his/her stop or board the wrong vehicle altogether. Even if you do manage to reach from point A to B chances are you are overly charged for the journey. While, even locals struggle to move to new locations using public transport, domestic and international tourists are mostly affected by these problems. Not only within but it is also difficult to travel outside the valley on a budget. Night buses and coaches have limited seats and fill fast. To purchase ticket one has to go all the way to Sundhara, Gaushala etc. It is also difficult to reserve buses and microbuses and they too charge more for foreigners. All these problems are solved by the application.
+ 
+ 
+Functions:
+ The user has to select current location and destination from lookup bar. Users can also use GPS to select current location. Then the app displays the nearest public vehicle to take, where to take it and the cheapest route via map. The map also displays where to get off and the route of another vehicle to take if any. While travelling by public transport the app uses GPS to tell how close the user is from his/her destination and uses alarm to alert the user to get off. The app also displays the fare of the journey and the user can also look up fares for any other trip between two locations. The user can also select if he wants to travel only by bus or tempo or micro and the app will display results accordingly. If the user is a foreigner then he/she can play recorded audio of Nepali speech to the conductor telling him where he/she wants to get off. Using the app users can also book/reserve tickets of buses going outside Kathmandu valley. Furthermore, app provides contact details of vendors for reserving micros and buses and also provides information to contact Tourist Information Centres to clear any queries. The language of the app can be toggled between Nepali and English.  
+ 
+ 
+ 
+ 
+Targeted audience:
+ 1. Foreign budget tourists who cannot speak Nepali and domestic tourists from outside Kathmandu who board public transport, have access to and use smartphones.
+2. Locals who need to travel outside their daily commute for events like visiting a relative and have little idea of their destination.
+3. People from villages settling in Kathmandu who need to go to their villages and buy bus tickets often.4. Families wanting to go on long trips who need to reserve buses/micros. 
+ 
+Main Benefits:
+
+
+Easy to decide which public vehicle to board and where to board it based on current location and destination within Kathmandu Valley.
+
+
+Easy to travel on a budget by taking the cheapest route.  
+
+
+Easy to decide where to get off because of alarm based on GPS location and destination.
+
+
+Easy to pay justifiable vehicle fare calculated as per journey by app. 
+
+
+Easy to communicate with conductor using app sounds.
+
+
+Easy and convenient to purchase/book tickets of vehicles travelling outside the valley without having to go to the ticket seller. 
+
+
+Easy to reserve bus/microbus by referring to contact details of such vendors.
+
+
+Easy to contact Nepal Tourist Information Centres for queries.
+
+
+ 
+Platform: Android  
+
+

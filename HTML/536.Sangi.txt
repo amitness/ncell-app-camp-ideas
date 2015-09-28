@@ -1,0 +1,31 @@
+Sangi
+
+Submitted on:  September 18, 2015 - 11:07pm 
+ 
+Idea:
+ "Sangi" acts as a health assistance for women regarding their major health issues and concerns including pregnancy, maternity, nutrition etc
+ 
+Problem Solved:
+-Especially working women may not have time to visit her medical consultant frequently and also may not be able to remember her diet and medicines on a regular basis.Our app helps women to keep their health on track besides their busy schedule.
+-It provides guidance in solving health issues related to women of different age group.
+ 
+Functions:
+ -Artificial Intelligence:
+On the basis of user information like age,weight,height and test results, "Sangi" suggests adequate routine to be followed including varieties of food to be taken, exercise, checkups etc and gives feedback on her health data, baby, and pregnancy symptoms with insights from trusted resources..
+-Customization:
+Users can fully customize on the type of service they need, enable/disable notifications.
+-Notification and reminders:
+Instant notification on the topics they subscibed like diseases, medicines, fitness, diets etc.
+Reminders for their appointments and medication.
+ 
+Targeted audience:
+ All women.
+ 
+Main Benefits:
+-This app sends the alerts and notifications to the user about her necessary diet , fitness, medicines , tests.
+-User doesnot need to keep and track her schedule manually, instead the app will do these things for her.
+-User can get articles including tips and suggestions for healthy and safe pregnancy and maternity, breast cancer awareness,preventions and care for auto immuno diseases, diet and nutritions, fitness, sanitations,stress relief etc.
+ 
+Platform: Android  
+
+

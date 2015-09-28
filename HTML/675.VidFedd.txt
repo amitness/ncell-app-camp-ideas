@@ -1,0 +1,27 @@
+VidFedd
+
+Submitted on:  September 20, 2015 - 7:14am 
+ 
+Idea:
+ VidFedd is a common application for all of video sharing and streaming sites where you can comment and share each frame of
+ 
+Problem Solved:
+Searching a video that exactly solves the problem is so scattered that the entire time is wasted in actually finding the solution. VidFedd brings all the videos in one place so that the user can shuffle through what he wants regardless of the source i.e. Vimeo, youtube,etc.The user can also arrange the videos as he wants making a playlist of videos and can even sharing it.
+ 
+Functions:
+ -View all your favourite videos from all video sharing sites on a single place
+-Comment and share each frame of the video in all your social sharing sites
+-Recommended videos based on viewing history and preference of the user
+-Provide notifications on video updates from your favorite channels
+ 
+Targeted audience:
+ This app is targeted for all those people who prefer to watch/stream videos on mobile device. This is also for people who have to swithc through multiple applications/sites for watching videos.
+ 
+Main Benefits:
+-No need to browse through different applications/sites to view your favourite vids. This is a one stop solution.
+-Show your feels for each frame of the video by commenting and shraring on each frame of the video
+-Integrate with your social sharing sites
+ 
+Platform: Android  
+
+

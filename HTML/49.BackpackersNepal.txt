@@ -1,0 +1,39 @@
+BackpackersNepal
+
+Submitted on:  September 15, 2015 - 3:56pm 
+ 
+Idea:
+ Trekking guide and online backpaker forum with best best hotel lodge information.
+ 
+Problem Solved:
+1. Gives guide and tips to travel in Nepal.
+2.online fourm helps  to make group,discuss,ideas,problems, share various experiences, and many more.
+3.end the hessle of hiring right guides.
+4. Get information things to do and see around Nepal.
+ 
+ 
+Functions:
+ 1. Best Backpackers Destination in Nepal.
+2. Best Backpakers Accomodation in Nepal.
+3. Things to do and see around Nepal.
+4. Online Backpakers community (like social site).
+5. Get updated guides information to hire right person for right place.
+6. Nearby hotel,restaurants.
+7. Required fooding,trekking tools and equipment information while            travelling in Nepal.
+8. companies for trekking/climbing information Nepal.
+ 
+Targeted audience:
+ Domestic and international tourist.
+ 
+Main Benefits:
+1. Get best backpackers destination and accomodation information in Nepal.
+3. List of things to do and see around in Nepal.
+4. Online forum service for backpakers community.
+5. Get updated Guide's information to hire right person for right destination.
+6. Nearby hotel and restaurants.
+7. Required fooding and trekking tools & equipment information while         travelling in Nepal.
+ 
+ 
+Platform: Android  
+
+

@@ -1,0 +1,29 @@
+NepalExpress
+
+Submitted on:  September 20, 2015 - 9:22am 
+ 
+Idea:
+ App to find the information about the nearby transportation routes and vehicles and cost for the service.
+ 
+Problem Solved:
+Searching the nearby transportation route of the city as well as highway,
+finds the nearby local as well as a long route transportation facility nearby you if you don't know about the place you are in, for tourist who don't know about the transportation routes to roam around in city.
+ 
+Functions:
+ This app will search for all the nearby transportation facilities and show the direction to the bus stops or transportation facilities.
+This app will show all the information regarding the facility and cost for using it.
+This app will list down the avaliable long route transportation facilities.
+ 
+Targeted audience:
+ Tourist who don't know about the transportation route and system in Nepal,
+to everyone who don't know about the transportation routes, for travellers exploring new places but don't know the routes for travel.
+ 
+Main Benefits:
+1. Easy to find the local transportation route.
+2. New person in town won't get lost searching for transportation.
+3. Peoples won't get forged in cost of using service.
+4. Can schedule own time as per the transportation time and location.
+ 
+Platform: Android, iOS  
+
+

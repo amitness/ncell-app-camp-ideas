@@ -1,0 +1,22 @@
+BitsMantra
+
+Submitted on:  August 28, 2015 - 9:36pm 
+ 
+Idea:
+ An app to help navigate visually impaired people through obstacles in their daily environment.
+ 
+Problem Solved:
+Visually impaired people have problems in their daily life, they always can't get help from others in moving here and there, sticks are not always possible. Our app will help them be independent of anything, anybody.
+ 
+Functions:
+ Once the user turns on the app, and makes the camera face forward, the app will speak about the obstacles, the distance, number of steps to make.
+ 
+Targeted audience:
+ All the visuallly impaired people, having access to smart phone.
+ 
+Main Benefits:
+The user(visually impaired) can navigate their way listening to the audio from the app.
+ 
+Platform: Android  
+
+

@@ -1,0 +1,31 @@
+petrolo'schedule
+
+Submitted on:  September 8, 2015 - 10:59pm 
+ 
+Idea:
+ An application which give upto date information about fuels,gold,loadsheding,money exchange,share market in single touch.
+ 
+Problem Solved:
+Gives accurate updated information about market values of fuels,gold,share market in a single app.
+ 
+Functions:
+ 1. Gives accurate updated information about :
+a)Fuels
+b)Gold
+c)Money Exchange
+d)Loadsheding
+e)share market
+2. nepali and english language version.
+ 
+Targeted audience:
+  Every person who want to be updated with latest information.
+ 
+ 
+Main Benefits:
+1. All information in one app solves minimising installing numbers of application for different purpose .
+2. Gives updated information about fuels,gold,money exchange in convenient time.
+ 
+ 
+Platform: Android  
+
+

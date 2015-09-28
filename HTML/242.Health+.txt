@@ -1,0 +1,82 @@
+Health+
+
+Submitted on:  September 20, 2015 - 10:16am 
+ 
+Idea:
+ Giving the location of clinics and health institutes and appointment to doctors.
+ 
+Problem Solved:
+
+
+
+
+Hassle free location of the clinics, hospitals, medical colleges.
+
+
+Efficient at the time of emergency
+
+
+Patient can survey the doctor's record and also go to clinics with high posotive records.
+
+
+
+Appointment to the doctor.
+ 
+Functions:
+ 
+
+
+
+Improves the health sector.
+
+
+The processing of the patient to a hospital or clinic becomes faster.
+
+
+Integration of health sector with I.T.
+
+
+The ailing patients now should no longer be waiting in queues to get their check up done, they can use their app and then get appointment to a medical professional.
+
+
+
+ 
+ 
+Targeted audience:
+ Every age group can be benefitted.
+
+
+
+
+Specially patients.
+
+
+Medical professionals to gather more customers.
+
+
+Hospitals, Clinics, Medical Colleges.
+
+
+
+ 
+ 
+Main Benefits:
+
+
+
+
+Easy appointments with doctors.
+
+
+Easy to survey which faculty  such as gynaecologists, phsycologists etc. is located at which location.
+
+
+Helps identify a reputed health organization.
+
+
+
+ 
+ 
+Platform: Android  
+
+

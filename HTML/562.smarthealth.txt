@@ -1,0 +1,25 @@
+smarthealth
+
+Submitted on:  August 25, 2015 - 11:01pm 
+ 
+Idea:
+ Don't follow Myths, use local resources and be smart
+ 
+Problem Solved:
+1. There are MISCONCEPTIONS about health in our society which is deep rooted. people are still believing and follow such Myths which results may deadly. Some are exposed many are hidden. 2. We should not always look on darker side of every aspect; there are various benefits of old traditional health system. Just following our own grandma suggestion may solve the problem. look at the urban society of Nepal, who will give suggestion for people living there?3. Usually patient always have financial problem. Many fears to go hospital or in front of doctors due to less money in their pocket. we are not saying this app treat your problem in cheaper way, but to use local resources, use Ayurvedic medicine.4. There are rich amount of medicinal herb, but such effective knowledge of medicinal herb is limited to people. There is lack of importance for such herbs. Even such herbs are already in our backyards, but we don't know its importance.
+ 
+Functions:
+ 1. The app will help new generation can distinguish between which is Myths and which is real effective techniques.2. This app will give the knowledge of medicinal herbs in particular health problem.3. It will promote locally available health disease solutions
+ 
+Targeted audience:
+ rural Nepal:People living in this area are most prone for such Myths. They are not educated and will follow any suggestion without knowing its truth. There is also rich amount of medicinal herbs found in rural Nepal and less number of health facilities. They will best get benefited from the app. Not only people living there but also seasonal tourist may use this app. 
+sub-urban Nepal:People living in this area are also prone for Myths. They are active but tend to follow it. Since there are no effective health services. 
+Urban Nepal:There are less number of Myths found in this region. But old affective technique cannot be acted effectively. They need suggestion and guidance for home remedies. Likewise using local medicinal herb is beneficial for all.
+ 
+Main Benefits:
+1. They can know what Myths are for any particular health problem.2. They can know old traditional home remedies which is an effective effort for any particular health problem. For e.g.: why to take pain killer, if it can be solved by simple oil message3. User may read text for solution. But unless they see it, how it's done. They can't do it. So, there is graphical picture for ease of user to perform home remedies.4. User will see detail list of most used medicinal herbs, which will motivates them for farming of such herbs in their yards.5. User wouldn’t have to buy foreign expensive medicines if they can use local medicine. Believe us, there is no side effects.
+(user will search for a particular health problem)
+ 
+Platform: Android, Windows phone  
+
+

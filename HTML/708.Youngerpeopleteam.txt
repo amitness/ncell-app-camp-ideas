@@ -1,0 +1,22 @@
+Youngerpeopleteam
+
+Submitted on:  September 19, 2015 - 7:06am 
+ 
+Idea:
+ To calculate monthly finance of home and  to shop online with different savings and discount it should have all online shopping sites of Nepal
+ 
+Problem Solved:
+Automatically tells your saving and how much had you spent on shopping and all about your monthly income
+ 
+Functions:
+ The app automatically calculate the saving you had done within a month or a year or in a week or day
+ 
+Targeted audience:
+ All people who like shopping just sitting at home and who like saving on their saving
+ 
+Main Benefits:
+User can buy things of all Nepali online shopping in one place and it calculate their saving automatically.
+ 
+Platform: Android  
+
+

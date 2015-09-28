@@ -1,0 +1,33 @@
+OfficeHub
+
+Submitted on:  September 11, 2015 - 4:46pm 
+ 
+Idea:
+ An app that is going to mitigate all task & procedures related problems for people in government offices of Nepal.
+ 
+Problem Solved:
+After +2 exams I decided to get internet connection so I went to the ISP's office. Everybody said that I just need to pay Rs 500, to get the connection but when I reached I learned that first I should clear all my past bills relating to service line. After I paid the bill and filled the form on the next day they said that the port is not available and had to be on waiting list. I was left under high and dry and it was frustrating. If I already knew about those documents and procedures, it would not be that hard.  Similarly, after a couple of months our water meter was damaged so I paid a visit to water supply department to get a new meter but I didn’t knew that they only distributed the meter in selected time. Hence, my only option left was to pay for someones "lunch and cold drink."
+My point telling this whole story is that this is where Office Hub comes to use.  “Office Hub” is an android application which gives information about various works done in government offices to common Nepali citizens who don't have much knowledge of the details (costs, time duration, etc.) of such works but need to get their work done. The app aims to cut the culture of going to the so called “middle men” and also save people's time.
+In the application, the users may query for the details of a particular work. They may also get their questions answered in the forum section by fellow forum members or possibly by a dedicated forum operator. Apart from answering questions, the forum also features a rating system where the users may rate the individual offices so that other users can be given a heads up.
+ 
+Functions:
+ - Simple and complete information about the procedure included in the process of task completion.
+- Check box UI to assure that all the required documents are collected before submitting.
+- Customizable Push notification to remind the user of the unchecked documents.
+- Integrated forum for discussion with real users.
+- An interactive revisable rating system to grade the level of satisfaction from the service.
+- Provides users with location of the office using integrated map.
+ 
+Targeted audience:
+ The potential users we are aiming aren’t exclusively only Nepali citizens but we hope that if the need arises for any global citizen to get their job done in Nepali government offices; this app will guide everyone who uses it.
+ 
+Main Benefits:
+- The app aims to cut the culture of going to the so called “middle men” ultimately saving money.
+- Save people's time by making the procedures clear.
+- Pre informing the users about the potential delay that may occur.
+- Reduces the need for remembering the office contact numbers using pre assigned official numbers.
+- Provides user with pin pointed location of office using real time map.
+ 
+Platform: Android  
+
+

@@ -1,0 +1,36 @@
+LOOP
+
+Submitted on:  September 9, 2015 - 10:30pm 
+ 
+Idea:
+ An Elliptical Single Shot Pool game.
+ 
+Problem Solved:
+Many people love to play games quite often.There are millions of games available on stores but the problem with them are some of them are really huge games requires large storage and drains your battery, some of them aren't that huge but that takes lots of your time like play a football game you have to finish the whole match or even if you can pause if for while but afterall you need time to finish it,and some of them are quite addictive once you are into it you hardly can escape.These aren't the real life problems but these are the major problems with most of the games available today. 
+So the idea is to solve these common problems evey mobile users has with thier games by creating a game that's small in size that doesn't drains out your battery like hell, a game that doesn't take any time to complete just a single shot and that's not that addictive too.
+ 
+Functions:
+ >A single shot elliptical pool game with a number of different coloured balls and a cue ball.
+>The pool table is elliptical and only one pocket on it.
+>User have to pott the ball with only one shot. If the ball potts in the pocket into the next level else it's a LOOP.
+>Hints and clues are always available on each level*
+>Share your gaming experience with your friends on social media.
+ 
+ 
+ 
+Targeted audience:
+ >Being just a single shot game that needs no practice and knowledge of anything else everyone else can give it a try especially teenagers.
+>Pool enthusiasts would certainly love it atmost.
+>With it's simple UI and simplest gaming experience the game itself doesn't have the limitation. Users would define it's limitation themselves from the game and game interface portion it's pretty much made for everyone who loves it.
+ 
+Main Benefits:
+First benifit of this game is simple user can play this game.
+> Users can play game that's super efficient,with small size and super easy to play
+> Killing some small boring time like waiting for your order in a resturant or waiting for a bus on bus station this game is a very good alternative.
+>Never been to a pool before don't worry it isn't a pool game it's just a single shot pool that's super easy that with your first shot off the game you'll master on it.
+ 
+ 
+ 
+Platform: Android, iOS  
+
+

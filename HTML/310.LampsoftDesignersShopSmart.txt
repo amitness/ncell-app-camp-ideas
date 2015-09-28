@@ -1,0 +1,31 @@
+LampsoftDesignersShopSmart
+
+Submitted on:  September 18, 2015 - 5:53pm 
+ 
+Idea:
+ Try out virtual eyewear and find out the one that fits you.See the products in 3d at home before you buy..
+ 
+ 
+Problem Solved:
+Allows consumers to try on and see commercial products from the app without actually stepping out of their home.
+ 
+It enhances products previews, such as allowing customers to view the products in 3d space in real time, just from plain materials. 
+ 
+ 
+Functions:
+  
+Utilizing the front facing camera of the smart phone and its display, the app allows you to view 3d rendered models in real world environment by scanning the targets.
+  
+It also allows to render virtual eyewear by using eye tracking system to translate the user's eye movement into the screen.
+ 
+Targeted audience:
+ Everyone
+ 
+Main Benefits:
+Printed products can be triggered to create interactive content to engage the users. 
+ Enhances consumer experience by allowing them to try on virtual products before buying.
+ 
+ 
+Platform: Android  
+
+

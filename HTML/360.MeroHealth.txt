@@ -1,0 +1,29 @@
+MeroHealth
+
+Submitted on:  September 20, 2015 - 9:17am 
+ 
+Idea:
+ App to find the doctors and hospital details as per the nature of the health problem of the patient
+ 
+Problem Solved:
+The application will solve the problems of the people who are looking for the doctors and the hospital as per their specialties. This will help the people to find the doctors as per their speciality and also the place where he/she can go to meet the doctor. Beside this the user will also be able to see the price list of the hospitals and their services and the detailed description with the routes being shown to reach their as well. The nearest hospital and the emergency details for the ambulance and other emergency services will also be given.
+ 
+ 
+Functions:
+ Gives the information of the hospital's details including the price of the services given in the hospital and the quality of it.
+Shows the nearest hospital and the services given.
+Gives the information about the doctor with their details and their specialties.
+ 
+ 
+Targeted audience:
+ The main targeted audience are the people who don't know where to find the doctor of their specific need and for the prople who are in need of emergency needs.
+ 
+Main Benefits:
+User can know when and where the doctors will be available.
+The users can serarch for the doctors as per their specialties and category.
+The details of the hospitals will be given to the user before he/she has to go to the hospital itself.
+The emergency details will also be given to the user so it will be easy to call the services when needed.
+ 
+Platform: Android  
+
+

@@ -1,0 +1,29 @@
+BootSpace
+
+Submitted on:  August 21, 2015 - 11:05am 
+ 
+Idea:
+ Place to find your next work space. Need a place to work for a day/week/month or year? We find it for you.
+ 
+Problem Solved:
+Having been a one man team for quite long time, I had issues finding a place to go to and work. I needed an office space but sometimes for a day and sometimes for a week or so. Coffee shops were my only alternate back then because I did not have enough info. This app will help bridge the gap between offices or work space owners who have a desk free or a room or probably a meeting room they can rent for a few hours with the people specially startup guys, since they can't afford a full-stack office right from the start.
+BootSpace: Get your work space sorted.
+ 
+Functions:
+ Lists out places available to crash in and start working for a day/week/month or even years.
+Helps people with extra desk or room to list for rent.
+ 
+Targeted audience:
+ The target audience for this will be basically entrepreneurs, team or person looking to work in office environment, without commitment for the place. Head bangers and Idea creators and curators. 
+ 
+Main Benefits:
+There are two user levels.
+1. Person looking for a work desk or room or even flats
+2. Person looking to rent out spare room or desk or flat for work.
+ 
+The major issue this solves is to find a temporary work space for people who are travelling but need a place for a day or two to get some work done, or startup owners who can not afford to rent the whole thing as they need to do a minimum months contract.
+Also this opens up business oppurtunity for people with extra space. All they can do is get a few furnitures and internet. They can then go ahead and rent it out.
+ 
+Platform: Android  
+
+

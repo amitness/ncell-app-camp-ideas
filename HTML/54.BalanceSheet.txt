@@ -1,0 +1,24 @@
+BalanceSheet
+
+Submitted on:  September 20, 2015 - 7:42am 
+ 
+Idea:
+ An e-commerce app that help user to budget, review and plan their business.
+ 
+Problem Solved:
+An organised way to group the products in the shop with their price, vendors and constant updates to the changes in the market. The shop owners need not be alarmed at keeping up to date on the available information. The customers are provided full information of all the product in any shop depending on where they visit and are safe from being hustled.
+ 
+ 
+Functions:
+ The shop owners can keep up to date with the price specified by the vendors and provide these information to the user. By comparing the price specified by the vendor and actual market price that a shop provides, the shops can be listed as trusted or untrusted to the users visiting it. The pricing is one by the app and these can be printed via bluetooth. Use of daily, weekly and monthly graph for buy and sell activity helps the owner keep track of his sales and plan accordingly.
+ 
+Targeted audience:
+ Shop owners and the customers, not confined to a specific shop, are the main target audience
+Small to large scale business.
+ 
+Main Benefits:
+The shop owner can list all the product in his shop into the app with the number of products, their costs which is constantly updated. They can create a bill format for the customer which will give the full information about the product. The customer are provided the comparision with the cost that the product costs to avoid being hustled.
+ 
+Platform: Android  
+
+

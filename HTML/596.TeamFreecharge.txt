@@ -1,0 +1,27 @@
+TeamFreecharge
+
+Submitted on:  September 18, 2015 - 6:02pm 
+ 
+Idea:
+ App to provide free cash back coupon while recharging mobile phones along with one click button for various mobile service features. 
+ 
+Problem Solved:
+For non technical users, it is difficult to remember the technical code and process to execute mobile service like how to recharge, how to buy data pack, check balance, activate internet, activate new offers and promotion and so on. Here with this app users can easily excess this service with one click button along. 
+ 
+Functions:
+ App gives code-free recharge option, without entering service code (E.g.  *123#) users can recharge the mobile just by entering recharge card pin number only.  On successful recharge app provides cash back coupon equivalent to recharge amount instantly. 
+There will be one click button for balance enquiry, data pack, call center, recharge log, online shopping. 
+ 
+Targeted audience:
+ Our target audiences are smart phone mobile users. In first phase we are targeting to the audience of Kathmandu valley, after successful execution we will expand our market to other major cities of Nepal.   
+ 
+Main Benefits:
+Following are the main benefits: 
+1. Get free cash back coupon on every recharge, making recharge virtually free 
+2. cash back coupon can be redeemed to save money when they shop online, eat out, watch movies, book travel tickets, visit a salon, go gaming, pick up books, music, groceries, and live a rewarding life!
+3. No need to remember the code and process to execute mobile service
+4. Hassle free one click service features 
+ 
+Platform: Android  
+
+

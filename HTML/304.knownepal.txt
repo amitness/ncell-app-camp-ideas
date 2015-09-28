@@ -1,0 +1,22 @@
+knownepal
+
+Submitted on:  August 22, 2015 - 10:01pm 
+ 
+Idea:
+ Important telephone number of all sector of nepal.
+ 
+Problem Solved:
+Important telephone numbers can be within the reach of tourists.
+ 
+Functions:
+ To provide important telephone number .
+ 
+Targeted audience:
+ national and international tourists.
+ 
+Main Benefits:
+Tourist can be benefited by using the telephone number about their queries.
+ 
+Platform: Android  
+
+

@@ -1,0 +1,22 @@
+Paalo
+
+Submitted on:  August 30, 2015 - 8:21pm 
+ 
+Idea:
+ App to manage waiting time in queue so that both the waiting party and serving party can benefit.
+ 
+Problem Solved:
+Specially in context of Nepal we have long queue whether that be in petrol, billing in bank, telephone,  water. Sitting in such a long line waiting for your turn is hard time.  Our app will help organize the queue.
+ 
+Functions:
+ The app will have two sides. The server and the client. The server will generate a queue hotspot which will be joined by the clients. The client will get notified when their turn has come. The notification mechanism will be according the location how far the user is. The client can know the estimated time of his/her turn.  The server user will mark the served user as they complete their serve. Next client will be notified according to their setting or location based. (Time)
+ 
+Targeted audience:
+ People who have vechiles, who need to pay their utility bills, shopping. The audience in general can be all kind of people.
+ 
+Main Benefits:
+Easy for user to manage their time. Also easy for vendors to organize their customers. 
+ 
+Platform: Android  
+
+

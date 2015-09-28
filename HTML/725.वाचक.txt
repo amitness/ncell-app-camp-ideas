@@ -1,0 +1,31 @@
+वाचक
+
+Submitted on:  September 17, 2015 - 12:05pm 
+ 
+Idea:
+ App that reads aloud Nepali texts (Devanagari script) obtained from any source. 
+ 
+Problem Solved:
+As technology makes its way into the daily lives of the Nepali populace, more and more contents written in Nepali are being placed on the Internet. 
+However, whether due to inability (in case of the visually impaired) or lack of time, it's difficult for us to actually read everything being produced. 
+Our app solves the problem by reading the texts to us so that we can listen to them instead of having to actually read them.
+ 
+Functions:
+ Based on a similar app for English, वाचक provides the following features:
+- Read aloud text copied to the clipboard.
+- Save texts to reading lists and organize them. 
+- General speech controls (volume, the rate of speech, etc).
+ 
+ 
+Targeted audience:
+ As mentioned, our target audience consists of two main groups:
+1) People who don't want to read stuff due to lack of time or any other reason and would like to have the task automated such that they could get the information contained in the text faster and without having to actually read them.
+2) Visually impaired people who would like to read stuff (articles, books, etc).
+ 
+Main Benefits:
+Users don't have to read the texts, they can instead listen to them.
+It's especially useful for the visually impaired as it lets them read various texts (articles, news, books), etc by themselves instead of having to ask another person to read it to them. 
+ 
+Platform: Android  
+
+

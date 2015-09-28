@@ -1,0 +1,22 @@
+Code4Change
+
+Submitted on:  September 19, 2015 - 4:59pm 
+ 
+Idea:
+ Testing hearing capacity and surrounding noise level
+ 
+Problem Solved:
+Noise pollution has been given least concern but has more adverse effects on peoples health. Our app helps to find their hearing capacity and noise level of the daily exposed surroundings, so that user can take precautions.
+ 
+Functions:
+ - check hearing capacity of the user- notify user if the surrounding noise level is harmful
+ 
+Targeted audience:
+ everybody
+ 
+Main Benefits:
+- minimize the health effects due to noise pollution- users can know if their surrounding is noisy or not
+ 
+Platform: Android  
+
+

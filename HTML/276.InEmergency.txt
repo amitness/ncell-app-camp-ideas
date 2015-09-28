@@ -1,0 +1,28 @@
+InEmergency
+
+Submitted on:  September 19, 2015 - 9:46pm 
+ 
+Idea:
+ An application that helps to call ambulance/medical service if you are alone or not in the state you can dial call to friends/family/doctor  for help.
+ 
+Problem Solved:
+If is not necessary that we go through worst mediacal situation when we are always surrounded by people.
+Ex. What will X do, if he is alone in room and got heartattack. He won't be able to call his friends and family for help or if he manage to call, by the time they come to help, it may be late.
+Here heart attack is only and example. There are many such medical condition when one need immediate medical attention.
+So we are planing to make a system in which a patient can long press a hard button on his phone which sends sms to the nearest hospital along with his past medical record and geo location and the hospital can send mediacl team to help him.
+ 
+Functions:
+ This app connects patients to their nearest hospital in case of medical emergency.
+We will try our best to make the app run without internet enabled or when the outgoing calls are barred using toll free sms service.
+ 
+ 
+Targeted audience:
+ Everyone: As our lifestyle and environment is changing we never know when and where we will need immediate medical attention.
+ 
+Main Benefits:
+- to help the patients who need immediate medical attention or situation may go worst every passing second.
+-to help patients to help themselves when they are alone and not in the situation that they can call someone for help.
+ 
+Platform: Android, SMS  
+
+

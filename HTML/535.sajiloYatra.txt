@@ -1,0 +1,36 @@
+sajiloYatra
+
+Submitted on:  August 31, 2015 - 9:25pm 
+ 
+Idea:
+ This app provides all the information about available routes,schedules and prices for all means of transportation(airways,roadways,ropeways,rafting).
+ 
+Problem Solved:
+We have faced the problem of long queues and misguidance to get real information for travelling different places.If we could get all the information about schedules and prices of every available routes throughout the country, this app would solve the problem of misguidance, improper/incomplete information,fraud by bus,plane owner and reach our destination easily. This app will also provide focussed information about tourism fostering areas. This will save time and effort to both the parties: service provider(ministry of transportation and transportation owner) and service user(public.tourists). All available routes throughout the country will be displayed in this app with different means of transportation like airways,roadways and when user click on his/her destinied place(TO and FROM) every available routes will be shown with time schedules, price of tickets which would solve management problem of government,ticket counter and owner.And of course to the public for getting relaible information about transportation facilities.
+ 
+ 
+Functions:
+ -All available routes location for travelling through roadways,airways and ropeways(TO and FROM) throughout the country.
+-schedules and prices of tickets of available services (bus,plane,cablecar).
+-user can choose their means of transportation and facilities.
+- Friendly User Interface.
+ 
+Targeted audience:
+ -Everyone.
+-service provider(government, private company and owner).
+-service user(public).
+-tourists who always seeks of information for available routes and transportation to visit and travel their destinied places. 
+ 
+ 
+Main Benefits:
+1.Within the single app,people get information about the transportation services for the place they want to travel and visit throughout the country.
+2. For long route ,people will get necessary information within single app about the different routes (roadways,ropeways) time,price,route for the place they want to travel or visit throughout the country.
+2. Based on people costs bearing capacity, this app provides the varieties of bus services (deluxe,hiace and normal) available in different routes throughout the Country.
+3.By making collaboration with CAAN, this app provides schedules of boarding plane,delayed plane information,flight schedule and price throughout the whole world from Nepal.This ease for civilian without visiting airport and other travels agency.
+4.Saves effort and time.
+5. It prevents people from fraud and autocracy of  costs.
+ 
+ 
+Platform: Android, Others(web )  
+
+

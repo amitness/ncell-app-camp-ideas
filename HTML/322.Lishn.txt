@@ -1,0 +1,26 @@
+Lishn
+
+Submitted on:  September 7, 2015 - 1:10pm 
+ 
+Idea:
+ Lishn is a music streaming platform where users get acces to free legal music and artists get paid for every time their song is played.
+ 
+Problem Solved:
+Its the digital era of entertainment where physical distribution of music is an ever-receeding pocket reduced by online access. Till now, all of music content in our country is shared and distributed freely and illegally all over the internet. Moreover, the artists make nothing out of this consumption of their creation. Lishn plans to solve that by creating a platform where users can easily access music content meanwhile providing a royalty to the artists for every time their song is played through our platform.
+ 
+Functions:
+ - Mobile apps that will allow users to stream music from their smartphones over the internet.
+- Web application that will allow users to stream music from their desktops over the internet.
+- An admin portal provided to the artists where they can monitor the performance of each of their songs.
+ 
+Targeted audience:
+ As cheesy as it sounds, Music is a universal language, irrespective of age, gender, culture, location or race. So our target audience would be the large population of music lovers and music listeners. However, we would segmentize our audience according to the genre of music that we will offer. We might include strategies to explore one kind of audience segment according to the genre or taste of music they love and explore in it and then jump to another segment once we reach some level of saturation.
+Having said that, we believe that, in the context of our country and society, we would incline more to accomodating Folk and Dohori genre of music as they will have a larger audience base.
+ 
+Main Benefits:
+The users get an unlimited access to free and legal music to be streamed over the internet via web and mobile devices.
+The artists get a platform to earn money from the consumption of their creation.
+ 
+Platform: Android  
+
+

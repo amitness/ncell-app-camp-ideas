@@ -1,0 +1,41 @@
+BeFIT
+
+Submitted on:  September 16, 2015 - 11:35pm 
+ 
+Idea:
+ Achieving fitness goals, keeping track of it, sharing knowledge and experience with friends, finding fitness centres through a single app.
+ 
+Problem Solved:
+People nowadays pay less attention towards fitness unless they suffer from chronic diseases. So people's obsession with social media may be one of the effective way to encourage them towards fitness. Problem it solves are:
+-As indolence is the dragging factor so communication with other people, comparison of progress reports can provide user with motivation and enthusiasm to be fit.
+-Searching for good gym or workout places may be a bit of time consuming. So our app can save time as users can search nearby gyms having standard ratings.
+-Solves the overdose and under doze calorie consumption by keeping record of calorie consumed by user.
+-Helps to choose specific, effective and efficient exercises for users problems.
+-Helps people to remember their daily routine and important tasks during hectic days.
+ 
+Functions:
+ Our app is for the fitness of people (users). It is a social networking app having following functions/elements:-
+1. Personal Profile: You can create a profile of your own which includes your basic descriptions. You can as well mention your problems and Fitness goals.
+2. Home: Home is a general platform providing you with facility to share things. The things you see in the page are whatever shared by any of the users. In addition you can also ask questions and view frequent questions asked by others related to fitness issues.
+3. Friend Circle: You can create a group of your own a.k.a friend circle where you can add friends, remove them and interact with them. Also you can compete among the members in the friend circle and compare each other's progress.
+4. Calorie Chart: Based on your requirements, we provide you with Calorie chart description about foods, their calorie contents, fat contents and others. Also a calorie calculator to calculate total calorie of foods which would help to intake balanced diet.
+5. Exercises: We recommend you with appropriate exercises as per your specification on your problems, the fitness status you want to maintain and others. Also links of video tutorials about exercises.
+6. Reminders: This feature allows to put on reminder about anything. Say you've got to go swimming tomorrow, well you can remind yourself of that with our app inputting date and time. You can schedule a daily routine as well in a disciplined manner.
+7. Fitness Centres Location: If you need to know about Gym/ Fitness Centres, you can get information about various gyms/ fitness centres nearby your place. Also you can choose gym/Fitness centre as per rating given by other people/users.
+8. Calorie Track and Progress: According to your diet you can keep track of your daily calorie consumption and activities regarding fitness. Moreover, progress report will be created for you so that you can know your improvement, get encouraged and also can compete with other users.  
+ 
+Targeted audience:
+ People who are willing to live a healthy life and be fit are the target audience.
+ 
+Main Benefits:
+The main benefit for the user are:
+-Track your own activities, progress
+-Create friend circle and compete with each other’s
+-Reminder for daily routine and important tasks
+-Calorie tracker for balanced diet
+-Specific exercises for user's problems
+-Can get info about gyms/ fitness centres
+ 
+Platform: Android  
+
+

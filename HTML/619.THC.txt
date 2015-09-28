@@ -1,0 +1,36 @@
+THC
+
+Submitted on:  August 31, 2015 - 10:50pm 
+ 
+Idea:
+ App that lets you read reviews and create a wishlist of books as well as know about people who want to sell  those books present on your wishlist.
+ 
+Problem Solved:
+Our application is a platform based service that provides interaction between avid readers who are   keen not only to know more about the books in their   wishlist but also be able to sell the ones in someone's else's wishlist.
+ 
+ 
+Functions:
+ The app contains a login page where the users can log in to their account.
+The user's profile contains the list of books the users have read. And it also shows the reviews of different users on those books and the books on the wishlist.
+It contains a dropbox which contains the list of all the books the user wants to sell.
+It contains a wishlist which is a list of books the user want to read/buy.
+ 
+ 
+ 
+Targeted audience:
+ Pretty much everyone who likes reading books.
+ 
+College students who can save few bucks on buying   books as well as  can earn some money by selling   some of them.
+ 
+ 
+Main Benefits:
+Lets the users know about the reviews on different   books.
+ 
+It helps you find books present on your wishlist that  are availble for sale.
+ 
+Lets you sell the books that you always wanted to get   off the rack.
+ 
+ 
+Platform: Android  
+
+

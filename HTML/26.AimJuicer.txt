@@ -1,0 +1,30 @@
+AimJuicer
+
+Submitted on:  September 19, 2015 - 8:49am 
+ 
+Idea:
+ It is an Office Time Productivity enhacer application which could be used by an office to increase there productivity.
+ 
+Problem Solved:
+The traditional Office space involves men/women sitting idle in a desk for a long time.
+This app invisions to transform the Office environment and thus enchancing productivity. It will tackle following issue:
+1. motivates the staff to do some work by introducing "result reward system"
+2. establishes fix time for "work" and fix time for "break" at a regular interval (pomodoro technique) proven to enhance the productivity.
+3. makes office space flexible by providing any time work environment in office. (staff can come and work for specific hour of time at any time they see it flexible). using hour based attendance in office.
+4. establishes an environment to start sharing of new innovative ideas with other staff members.
+ 
+Functions:
+ 1. establishing of aim based or project based working environment
+2. enhancing productivity by using pomodoro technique i.e setting fix amount of uninteruptable time for work and them small amount for the break
+3. a method of signing for attendance with the app thus staff can work for fix amount of slotted hour within slotted time.
+4. a place of communciation for sharing idea and creating new srategies for the project/aim currently working on or Increasing productivity of the office.
+ 
+Targeted audience:
+ The targeted audience are Organization/Office but could also be used in schools and college if we enable and disable few features.
+ 
+Main Benefits:
+Office or an Organization using this app can enhance their productivity by providing better enivroment for the staff worker which makes them relatively stress free. This app also helps them to stay motivated on what they are working on promoting sharing and innvoation of new idea.
+ 
+Platform: Android, Others(Web app)  
+
+

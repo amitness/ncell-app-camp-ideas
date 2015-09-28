@@ -1,0 +1,22 @@
+Eclipse
+
+Submitted on:  September 7, 2015 - 8:35am 
+ 
+Idea:
+ App that creates visually appealing, distinct & artistic pictures by processing the sounds and words dear to you, using a unique formula.
+ 
+Problem Solved:
+We come across beautiful sounds in our life, ones dear to us - the initial voice of our child, a sound of our favourite speaker. All around we have vibrations and moment. The beauty of these moments are expressed as music, visual arts. With Eclipse we bring together the sounds and the picture. Eclipse gives an artistic picture for the sounds and words that we believe mean a lot to you.
+ 
+Functions:
+ -Sound clips or words can be processed into a visually appealing pictures. -Each sound is different, so is each Eclipse for a sound. It can be harnessed as a password or an identity. -An elite service(to be paid) that will further enhance the artistic value of the pictures. -An unprecedented formula that transforms sounds to pictures.
+ 
+Targeted audience:
+ -Visual artists(photographers, painters) -Music and sound enthusiasts. -Art enthusiasts who want digital art but, do not know the process of making an art happen. -People who want to gift a digital art.
+ 
+Main Benefits:
+-Create a visual art for the beautiful sounds. -Not lose the artistic value of sounds and words. -Get a different picture for a different moment(sound). -Share, buy or make private the pictures for your sounds. -Enjoy an elite service for an elite visual art on demand.
+ 
+Platform: Android  
+
+

@@ -1,0 +1,30 @@
+PsyclotronLocalMed
+
+Submitted on:  September 11, 2015 - 2:12pm 
+ 
+Idea:
+ Health app where users post, rate and review the local treatments for common health problems to reduce the dependency on synthetic medicines.
+ 
+Problem Solved:
+people rely on synthetic drugs even for minor health problems which has various side effects. The app helps to provide locally identified effective health solutions to minor problems which are side effect free and naturally effective.Also, reduces the medical cost.
+ 
+Functions:
+ - Category based searching and posting
+-  Reviews on effectiveness of local remedies
+-  Star rating feature based on the effectiveness of solution
+-  Best rated local solution for each problem
+-  Interactive videos, photos and procedure to make the local solutions
+ 
+Targeted audience:
+ General public with access to smartphone and internet
+ 
+Main Benefits:
+-  Best local solution based on user ratings and reviews.
+-  Cost effective
+-  Natural treatment with minimum side effects
+-  Interactive local health community
+-  Utilization of locally available resources
+ 
+Platform: Android  
+
+

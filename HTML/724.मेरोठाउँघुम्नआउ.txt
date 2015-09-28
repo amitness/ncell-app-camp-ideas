@@ -1,0 +1,34 @@
+मेरोठाउँघुम्नआउ
+
+Submitted on:  September 19, 2015 - 8:57am 
+ 
+Idea:
+ This app is basically the concept of letting other people visit your place and vice versa in a more interactive and visual way.
+ 
+Problem Solved:
+This app lets the user know about tourist available locally and globally. It provides the user a more interactive way of letting other users know about the place they have visited in various aspects like the condition of the place,availability of hotels or home stays in that place, weather of that place, ways to get to there, affordability of that place a by letting them post pictures and videos of the place they have visited in a single platform and making it easier for them to share it into any social media platforms so other people can know wheather the place is worth visiting or not. It also lets the user rate that place in the afforementioned ways. It lets share one another the locations of different places by posting pictures and videos. Users can also give description of about how the place was, what things can be done on going there. 
+Furthermore a person in a village wants others to know about his place and want others to visit his place so he simply goes to this app posts picture and videos of that place add a little desciption of overall things needed for a visitor and lets other know about his place. 
+ For example  I am a user who recently visited Poon Hill and I will give you details in the app like a diary like this. You will hike 2-3 days to Ghorepani. You will experience sunrise at Poon Hill, with breathtaking views of the Himalayan peaks of the Annapurna Sanctuary, including Gangapurna, Annapurna South, Annapurna I, Dhaulagiri, and Hiunchuli.  Along the trail you will hike through bamboo and rhododendron forest (in full bloom in the spring – March-April.
+Enjoy the energizing fresh mountain air while you are totally enthralled with the breathtaking view of the gigantic Annapurna range. Hiking in the serene mountains is truly a blessing and it is made even better with the presence of the Himalaya. The sense of joy that comes to you while you see the snow capped mountains is indescribable; you just feel it and enjoy it.
+ 200 km west of Kathmandu is the unbelievably beautiful city of Pokhara, a six hours bus ride or twenty five minutes flight from Kathmandu, it is the main-gate way to the Ghorepani Poon hill trek. From Pokhara there is another one and half hour drive to Nayapul where your trek of the life time starts. As you walk the rugged trails, you will enjoy the beauty of nature as you cross small beautiful mountain streams, green hills that overlook the white Himalayan peaks and eventually watch the sunrise over the Annapurna mountain range.
+This trek goes from Nayapul to Tikhedhunga to Ghorepani, Poon hill, then to Tadapani and Ghandruk or Jhinu then back to Nayapul where we drive back to Pokhara.  This short but spectacular trek will make you fall in love with the Nepal Himalayan Mountains, and make you want to see more.
+This is just a short example of a popular toursit destionation in this way a user can let other users know about many other places.
+ 
+Functions:
+ The application list down all the popular tourist destination places along with is affordability and each and every detail a users need to know. It gives detail about the place the users is going to visit.
+ 
+Targeted audience:
+ People who are searching for popular tourist destination places all the people and entrepreneur relating to the tourism industry and all the general public.
+ 
+Main Benefits:
+The user gets benifit from this app in the following ways :
+1. The user can know about the most trending and most popular tourist destination locally as well as globally.
+2. It helps the users to shoot videos and photos adding description of that place letting others know how the place is.
+3. It gives the user a sinlgle platform to know about the place they are visiting, the affordibility for the place, ways to get to that place, time needed for visting that place, the beauty of that place and each and every detail of that place that a user has to share to others.
+4. It is a more interactive app so that there wont be any problem using this app.
+5. It lets user share that place in their social media platforms making their family and friends easier to know where to go or where not go according to their convineincy.
+6. It makes people know about the knooks and corners of all the tourist destination place. 
+ 
+Platform: Android  
+
+

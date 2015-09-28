@@ -1,0 +1,25 @@
+Kitap
+
+Submitted on:  September 12, 2015 - 10:55am 
+ 
+Idea:
+ App that helps buy and sell pre-owned books in cheaper prices.
+ 
+Problem Solved:
+Textbooks for higher level study are pretty expensive and they may not be needed after one semester or year. This app helps to search buyers for your pre-owned books and sellers if you are looking to buy one. This app is not just limited to textbooks; any books relating to any field can be bought and sold through this app.
+ 
+Functions:
+ 1.     Make your profile to search the book you want to buy or put a book up for sale.
+2.     Price can be fixed by mutual consent of buyer and seller through short messages.
+3.     Recommend books on the basis of books user buys.
+ 
+Targeted audience:
+ Every student and avid readers.
+ 
+Main Benefits:
+1.     No need to buy new expensive books, same books can be bought at cheaper prices.
+2.     Sell the books you don’t need any more.
+ 
+Platform: Android, Others(Web Application)  
+
+

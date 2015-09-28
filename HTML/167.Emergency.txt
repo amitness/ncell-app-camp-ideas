@@ -1,0 +1,29 @@
+Emergency
+
+Submitted on:  September 19, 2015 - 6:52am 
+ 
+Idea:
+ A product that allows user to download emergency contacts for his/her location like ambulance, police and add important personal number and details.
+ 
+Problem Solved:
+Our application provides the user with all the important phone numbers in one place based on his/her location. Once the user selects the location, the application will automatically download all the relevant information from a database and will save the information on the smartphone locally.
+In addition to providing important phone numbers, the application will also let users add other important personal details like full name, blood group, medical conditions, other emergency contacts that will be shown as a 'today' widget in the notification center.
+ 
+Functions:
+ - Provide all the important and relevant information/phone numbers according to the location of the user.
+- Allow users to edit the details provided by the application.
+- Allow users to add other information like full name, blood group, medical conditions, etc.
+- Users will be able to add a widget in the notication center so that he, or anyone else, can view the information in case of emergency.
+ 
+Targeted audience:
+ The application can be used by people of any age group from anywhere in the world. 
+ 
+Main Benefits:
+- Users will have a list of all the important numbers in one place without having to search for it on the web.
+- In case some of the numbers are incorrect for his/her location (based on cities, towns, villages), s/he can change them manually.
+- User will also be able to add other information as s/he sees fit.
+- User can decide what to show in the 'today' widget.
+ 
+Platform: iOS  
+
+

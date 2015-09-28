@@ -1,0 +1,22 @@
+N-Music
+
+Submitted on:  September 10, 2015 - 9:46pm 
+ 
+Idea:
+ An Online Music Store.
+ 
+Problem Solved:
+-Play the music you want right now. we access different servers and make your wish come true at a blink -Faster access the music you want.-We have the trend to buy higher data storage (MicroSD CARD) to store musics, N-Musics is itself Online Music store which contains millions of collections of musics. 
+ 
+Functions:
+ -Find and stream your desired music.-Access our top playlist, according to your moods, New Releases, Gernes etc.-
+ 
+Targeted audience:
+ This App is mainly concerned with the yourth, Depending upon the moods we need to switch our mind. whenever we are alone we want to listen 'being alone' typed songs.Whenever we are in romantic moods we want romantic songs, Even a Remixes, dj songs.Even we want love songs being listened in front of someone special.We need not to be worry if we donot have the musics which we want to be played right now.
+ 
+Main Benefits:
+-Tired of searching the music player?? Try us-Find and play : Search your music you want to play and stream via 3G/EDGE.-Stream music in low cost: Stream your desired music in low cost (ie Rs 1.50 per 1 song). Comparatively downloading such songs from external site may charge you four times more than streamming via N-Music.  
+ 
+Platform: Android  
+
+

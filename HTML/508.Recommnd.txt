@@ -1,0 +1,31 @@
+Recommnd
+
+Submitted on:  August 27, 2015 - 12:12pm 
+ 
+Idea:
+ Social recommendation app.
+ 
+Problem Solved:
+People are often in confusion while buying or trying something they know less about. They are not sure which one is better and why. Examples:
+If this guitar is better for me as a beginner or too expensive?
+Which outfit looks nice on me this or that.
+Should i travel mustang or rara lake?
+This app tries to solve problem by taking reviews, recommendations or votes from people they choose. Like friends, community, hobbiest groups etc.
+ 
+Functions:
+ This app allows user to:
+1) See the recommendation queries made by people.
+2) Vote or comment the queries.
+3) Follow people or tags they are interested in
+4) Post their queries and ask for recommendation
+ 
+ 
+Targeted audience:
+ Young people who want to try something new, something different and have fun in life.
+ 
+Main Benefits:
+People can get honest and quick opinions on something that helps make their descision.
+ 
+Platform: Android  
+
+

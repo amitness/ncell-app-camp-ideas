@@ -1,0 +1,35 @@
+SajiloNepali
+
+Submitted on:  September 16, 2015 - 2:42pm 
+ 
+Idea:
+ An app that will convert any text to nepali text and its corresponding voice as well.
+ 
+Problem Solved:
+The problem that this application solve are:
+1. Help users to learn Nepali Language.
+2.Help foreigner to know the Nepali Pronounciation of words.
+3.Users who dont like to read newspapers and other long pdfs can use this app.
+4. Students who find difficulty in understanding english language can use this app.
+5.Also, this app can be used for the conversion of any text to nepali text and its corresponding audio as well.
+6.Even, uneducated and blind people can use this app to learn.
+ 
+Functions:
+ This app is very Simple. It contains a search option where you can search for any pdfs, text or any thing. Users can download that and select option to convert. The app will convert it in nepali language. There will be another additional option for listening. On clicking it, they can listen to the corresponding text.
+The main functions of this app is to convert any language to nepali language and its corresponding voice to help users to learn nepali.
+ 
+Targeted audience:
+ This app will be of great use to Nepalese people, Students, Foreigners. Also, Illiterate,Blind people can download the pdf and listen to it. More or less, any one can use this app to convert text, listen pdf.
+ 
+Main Benefits:
+It will help users in many ways. They are:
+1.Users can listen to the news instead of reading line by line.
+2. It can save valuable time of users. suppose, if reading a paragraph takes 5 minutes but listening to it can be end up to 3 minutes.
+3. Any people can learn nepali language. For eg: if a german people wants to know about the pronounciation of apple in nepali, then he can use this app.
+4.Users can download any pdf from this app and use it to listen the nepali version of that pdf.
+5. It will help illiterate, blind people in learning things.
+ 
+ 
+Platform: Android, iOS  
+
+

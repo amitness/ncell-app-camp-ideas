@@ -1,0 +1,22 @@
+HappyPregnancy
+
+Submitted on:  September 19, 2015 - 2:04am 
+ 
+Idea:
+ Provides with in-depth knowledge on pregnancy for both parents, precautions needed to be taken and steps to be followed during the peroid. 
+ 
+Problem Solved:
+It solves clear cut against the myths during pregnancy period for both parents, giving them possible notifications and updates on what's happening and what's to happen in the future. It helps the patient relax by giving symptoms that can be prominent during the period. One can know specifically about her problem by inputting or selecting the symptoms that she is facing and get ideas whether to solve it by herself or consult a doctor. Since it would be build totally on Nepali culture-driven environment, it would also help the patient with the local diets that need to taken at specific month during pregnancy and also in general during the whole period, believing or not in what people says would be another adding factor to the patients psychology as the application would make room for the positive thoughts eradicating the negative ones. The application would also help the patient during post-pregnancy period with ideas and diets, till her child is a year old. She would also be able to post questions and comments through the application to any possible pregnancy health related sites and get direct advice from the experts. Most importantly, it communicates important people with the patient and send SMSs to them, when the patient needs their help, the male counterpart would have a greater role to play in this part. 
+ 
+Functions:
+ 1. Descriptive information on problems of pregnancy with pictures and videos of experiences2. Routined planning on diets and exercises3. Interactive environment on inputting problems and getting solutions4. Recieving, and sending notifications to people who care5. Information on post-pregnancy period6. Direct contacts with doctors7. Access on sharing self experience8. Special attention against myths and false experiences9. Sections for every patient, whether a newbie or an expert
+ 
+Targeted audience:
+ Pregnant women, obviously, are the target audience for this application, regardless of the month of pregnancy or a post-pregnancy period. The application would be aimed on helping every women who is facing the issue, already faced it or about to face in the near future. 
+ 
+Main Benefits:
+The user would get access to a friendly joints of information and advices through the application in both general pregnancy issues or as specific as consulting a doctor if possible. She would be able to contact her relatives when in need. She would be able to make room for positive thoughts during the period as the application would help her in understanding the myths and not thinking about unneccesary gossips about pregnancy. She would also be able to devout time to her child during her post-pregnancy period and get advices what is better for her own as well as her child's health. If expanded, the patient can also help other patients if a social media environment would be created. 
+ 
+Platform: Android, iOS, Windows phone, SMS  
+
+

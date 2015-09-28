@@ -1,0 +1,43 @@
+ExperienceNepal-TravelGuide
+
+Submitted on:  September 14, 2015 - 11:38pm 
+ 
+Idea:
+ The ultimate travel guide/organizer for Nepal.
+ 
+Problem Solved:
+Travelling to a foreign land can be confusing and intimidating but it can also turn out to be a truly exicting life-altering and unforgettable experience. Not knowing where to go or what to do can be a huge hassle for tourists other than the obvious communication difficulties that they face while interacting with the locals.
+This app aims to solve all these problems and more. Think of it as your own personal guide and travel organizer that you can carry around in your pocket! Our app will help you to: 
+-  Discover the most popular and attractive destinations in Nepal. Detailed     information about the locations and how to get there w/ pictures, video,     history and wildlife
+- Never get lost. Complete offline maps w/ trekking trail routes, GPS            navigation system and built-in compass in maps. SOS distress signal          and last known location system to find missing persons. Phone numbers    of all important locations
+- Plan ahead and organize your trip. Choose your mode of travel. Select    from existing travel packages or travel independently and get info on         bus/air services. Book hotels, lodges in advance or find out which houses   are available for home stay for a more authentic experience
+- Use this app in hands-free mode. Plug in your earphones and let the        audio tour guide provide you with all the information you need about the    location for a more immersive experience. No need to read about it from    your phone and get distracted from the scenic beauties of your                  surroundings 
+- Access to all essential travel utilities such as translator, currency             converter, compass, torchlight, phrasebook, weather, porter hire service
+ 
+Functions:
+ Features of the app are:
+* Plan and organize your trip. Find travel packages that best suits your         needs or customize your own trip 
+* Detailed overview of the popular tourist destinations of Nepal w/                 pictures and videos, offline maps w/ GPS and off-road trekking maps
+* Information about history, culture, festivals, wildlife, popular food, dishes, drinks in each location and the best places to get them
+* Book hotels, lodges or find houses for home stay
+* Social section/forum where users share their experiences, moments, tips   & tricks and can connect with other users to travel together
+* Audio tour guide  
+* Travel utilities like currency converter, translator, weather, torchlight,  porter hire service, important phone numbers   
+* Adventure sports locations and details. Eg. rafting, paragliding, bungee     jumping etc.
+ 
+Targeted audience:
+ Anyone planning to travel in and around Nepal. Both domestic and international tourists are the target audiences. 
+ 
+Main Benefits:
+Out of the many benefits for the user, a few are listed below:
+1. All in one travel app. Feature essential travel utilities
+2. Complete travel organizer and guide. 
+3. Informative. People can learn about the culture and history of the               Nepalese, detailed descriptions of the locations w/ pictures & videos
+4. Offline maps w/ off-road hiking trail routes, wildlife
+5. Connect w/ tourists visiting or have already visited Nepal for advice,           recommendations, companionship
+6. Simplified and organized way of travelling
+ 
+ 
+Platform: Android  
+
+

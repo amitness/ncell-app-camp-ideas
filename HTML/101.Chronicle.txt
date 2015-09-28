@@ -1,0 +1,45 @@
+Chronicle
+
+Submitted on:  August 25, 2015 - 10:49pm 
+ 
+Idea:
+ Accounting for individual to keep track of daily and overall financial transactions and help maintain ones economy.
+ 
+Problem Solved:
+
+Every individual finds it difficult to keep track of income/expenses, to do the saving and planning of it.
+Different banks or financial institutions provide transaction details but keeping track of all and know ones economic status is difficult.
+Accounting system for individual is almost not available in the market.
+
+ 
+All these problems are intended to be solved by this application
+ 
+ 
+Functions:
+ 
+Accounting in easy interface and understandable without accounting knowledge.
+Offline usability as well as online synchronization based upon user subscription.
+Overview of different accounting groups and overall summary.
+Mutual transactions and verification between users.
+Notification about mutual transactions and reminder about transaction to be carried out.
+Multilingual and other setups for user preferences.
+News feeds update.
+
+ 
+Targeted audience:
+ Medium or low income source persons and small scale businesses.
+ 
+Main Benefits:
+
+Track of income/expenditure and current saving.
+Synchronized data kept safe even if  device data cleared.
+All different bank accounts, online accounts, income sources, expenditures, loan, lend money tracked and maintained at one place.
+Notification of mutual transactions and reminder for payment/collection to be done.
+Settings and preferences of own.
+Easy to use and understand.
+News feeds about best ideas to manage ones economy and success stories.
+
+ 
+Platform: Android, Others(Web)  
+
+

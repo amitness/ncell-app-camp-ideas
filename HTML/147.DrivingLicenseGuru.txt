@@ -1,0 +1,35 @@
+DrivingLicenseGuru
+
+Submitted on:  August 29, 2015 - 12:49am 
+ 
+Idea:
+ This app provides infos about training center,Documents,Rules,Q&A for getting Driving License.
+ 
+Problem Solved:
+1. Problem of being confused about  required documents.
+2. Finding Training centers all over Nepal
+3. Probable questions asked in written+ visual exam
+4. When and where does the intake season held.
+ 
+ 
+Functions:
+ 1. It helps to get infos about:
+      -Training centers
+      -Intake seasons
+     -Probable questions
+      -Rules and regulations
+       -Documents required
+ 
+ 
+Targeted audience:
+ To the people who wants to get Driving License of any kind of vehicles.
+ 
+Main Benefits:
+1. Helps to understand the basic procedure for getting License.
+2. Familarization towards frequently asked questions.
+3. Give information about training centers and intake seasons.
+ 
+ 
+Platform: Android  
+
+

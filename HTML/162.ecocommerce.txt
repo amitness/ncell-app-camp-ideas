@@ -1,0 +1,25 @@
+ecocommerce
+
+Submitted on:  September 18, 2015 - 10:44pm 
+ 
+Idea:
+ An e-commerce app which plant a tree after every certain successful purchase made by a customer.
+ 
+ 
+Problem Solved:
+This application will improve greenery to our environment for healthier and happier life. The main goal of this app is to act as a medium to combine commercial, social and environment goals equally. This kind of act brings positive impact in society and environment. This would also be the medium for successful business goals by keeping good relationship with customers and improve internet marketing.
+ 
+Functions:
+ When some e-commerce website or app holders buys trees package form our app. We ensure them to plant trees for every successful purchase they made with their customer. They can also navigate where to plant trees within certain location app has provides. They can also see other trees other people has planted. Another important function of our app is to show their customers a message that "Purchase they made will help an environment by planting trees" in their site. This could be the new techniques for running successful ecommerce business and new way of interacting with customer.
+ 
+Our app sells trees kits and help our customer(other e-commerce) to navigate where they want to plant trees and see where they have grown through map with their name on it. It also help to show custom label of tree plantation message to customers of our customers.
+ 
+Targeted audience:
+ The target audience is e-commerce website and app holders. Indirectly, It is targeted to public peoples through them.
+ 
+Main Benefits:
+The main user of this app are e-commerce website and apps holder who can be benefited by good relationship with their customer. This will also help them to  promote internet marketings in their business. On the other hand, We are saving our planet by planting trees for healthier environment, which is common benefits to all of us.
+ 
+Platform: Android  
+
+

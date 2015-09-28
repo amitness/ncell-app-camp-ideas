@@ -1,0 +1,34 @@
+NepalTourists'Hub
+
+Submitted on:  September 16, 2015 - 3:16pm 
+ 
+Idea:
+ A social network to interact on experiences collected during Nepal visits by tourists and receive information on tourism sector..
+ 
+Problem Solved:
+- Lack of opportunity to share experience on Nepal visit is a problem. The app will provide a forum to express their impressions.
+- Media is full of commercial information on interesting places to visit, safety measures, cultural practices in local communities etc., but there is no presence of a forum where tourists can share their first hand experiences on these issues. The app will provide an opportunity to share these types of information, based on their own experience, which will be more effective to guide people planning to visit Nepal.
+- Information provided by commercial web-sites could be motivated by business interests, but the app will serve as a medium to help probable tourists to Nepal in choosing best and dependable service providers for their vacations, based on the experience of tourists, who have already visited Nepal.
+- New visitors are frequently faced by unexpected day to day problems owing to lack of alerts. The app will be a tool to exchange tips on solving different types of problems tourists may face during their visits. 
+ 
+Functions:
+ 1. Lon-in feature, where tourists can create their free account.
+2. Message Board, where tourists can posts their experience based reviews of various places, as well as tourism related questions.
+3. Discussion Board, where tourists and people planning to visit Nepal can discuss live.
+4. Gallery, where people can post their pictures.
+5. Comment Box, where people can provide their feedback.
+6. Information Gallery, where tourism related updated information will be posted on a regular basis.
+7. Maps Corner, where maps on tourism destinations and service providers will be posted.
+8. Service Providers, where information on tourism related service providers will be listed. 
+ 
+Targeted audience:
+ The primary target audience will be equally tourists, who have visited Nepal and the people who are planning to visit Nepal. Secondary target audience will be tourism entrepreneurs. 
+ 
+Main Benefits:
+- The app will be equally beneficial to the people who have visited Nepal and the people who are planning to visit Nepal.
+- The tourists, who have visited Nepal, will have an opportunity to post their first hand experiencesand impressions on their Nepal visit, tips on interesting places to visit, safety measures, cultural practices in local communities, ideas on solving different types of problems tourists may face during their visits and recommendations on dependable service providers etc..
+- The people will have an opportunity to be benefited by experienced tourists as well as to put relevant questions. 
+ 
+Platform: Android  
+
+

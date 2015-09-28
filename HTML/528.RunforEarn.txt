@@ -1,0 +1,51 @@
+RunforEarn
+
+Submitted on:  September 18, 2015 - 5:37pm 
+ 
+Idea:
+ This is fitness app that will track how much user run, walk and jog in daily basis & calculate total calories burnt and globally rewards everyday.
+ 
+Problem Solved:
+As we know jogging,walking and running is best exercise to healthy life, this app will inspire every youth,teenager and elder to run,walk and jog because this app provide rewards for best runner of the day, week, month and year.This app motivate people to walk or run or jog so ultimately this can solve the health related issue.
+ 
+ 
+Functions:
+ This app will track how much a man walk or run or jog daily basis and calculate total walk ,run or  jog,lastly calculate overall average calories burnt. At the end of the day all data will be automatically uploaded to server via internet or can manually send sms from that sim card which is registered or subscribed this service.Everyday we will announce “Healthy man of the day” and “Best runner of the day” via social networking Site and give some reward in our case a recharge card of that Telecom which will sponsor us. That balance will directly come into subscribed sim card and can only use in that telecom network.Likewise we will announce “Healthy man of the week” and “Healthy man of Month ” with very good rewards.
+we can connect this app in facebook and challenge our friends for exercise which make more interesting and we will have global fitness rank calculating daily calories burn. 
+App will reminds people to drink water , diet etc at appropriate time and give some audio feedback.
+ 
+Subscription for Sim Card:
+For eg. If xyx company is sponsor for this app then to subscribe the any telephone number user will pay 5-10Rs for sim card to activate the service. Now If user is 1000 then revenue from activation will be 5000-10000. It won't be difficult to reward one user daily at beginning. Now if active user will increase for more than 5000 we can earn from google ADsense further we can provide reward to every user like 0.10-0.25 Rs per Km of run. If any telecom accept this as its service and motivate people then we will have large active user.This business plan will motivate to increase active user and ultimately we will have healthy society.
+ 
+ 
+Targeted audience:
+ Our target audience is all people who want to maintain their health and want to be healthy.
+ 
+Main Benefits:
+“ More you run more chance of earn”
+ 
+ 
+
+
+People can earn from their daily morning exercise.
+
+
+This app can be one of the service of Telecom.
+
+
+We will have healthy society.
+
+
+Helps people to reminds their daily routine of exercise, drinking water, diet etc
+
+
+Provide good knowledge of what food is best for health.
+
+
+Inspire people to do morning exercise like jogging, walking etc.
+
+
+ 
+Platform: Android  
+
+

@@ -1,0 +1,30 @@
+Wingman
+
+Submitted on:  September 19, 2015 - 12:33pm 
+ 
+Idea:
+ Wingman provides information and details of prominent individuals in any particular event by clicking their picture!
+ 
+Problem Solved:
+Any particular event might have many numbers of people who might be important, but knowing everyone’s name and relevant details is quite challenging. The app helps people to know relevant and public details of an individual by clicking a picture of them.
+ 
+Functions:
+ -        An event organizer can easily create and populate an event day with a database that holds information and photos of the key people of the event.
+-        The app lists the events that are hosted in that particular day: is available publicly if the status of the event is public, and is available exclusively if the status of the event is private.
+-        The app uses the standard smartphone camera to take the picture of the individual whose information the user wants to know.
+-        The app processes the image through a face recognition program and searches for a match.
+-        If the match is found, the app provides the related and shared information about the person. 
+ 
+Targeted audience:
+ -        Students: Seminars for students can be much more productive if a student has relevant information about professors, guidance counselors and school representatives around them.
+-        People in Marketing, Public Relations and Human Resources would greatly benefit from this app as they are the key people who need to approach relevant people in business conferences and seminars.
+-        Social Networking: This app would greatly benefit people who are keen to social network and grow their networking circle.
+ 
+Main Benefits:
+-        Easy to know who the person is; and learn about the person’s work
+-        Easy to get connected with the person via details like provided contact information and other relevant information.
+-        Relevant information is available to the user to start meaningful conversation with an individual.
+ 
+Platform: Android  
+
+

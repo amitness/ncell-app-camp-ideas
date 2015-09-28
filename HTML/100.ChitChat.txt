@@ -1,0 +1,24 @@
+ChitChat
+
+Submitted on:  September 20, 2015 - 9:35am 
+ 
+Idea:
+ It is basically an instant messaging app, where people can chat in secured and in a fun way.
+ 
+Problem Solved:
+It translates your message into different language and word patterns only the receiver and sender understands .
+ 
+Functions:
+ It translates your message into different language and word patterns only the receiver and sender understands. Like: yeh edud=hey dude
+And if u cant decode it, then by typing your secret code you can veiw the msg in your way.
+ 
+ 
+Targeted audience:
+ Our target audiences are basically youngsters who use instant messaging apps.
+ 
+Main Benefits:
+You get privacy along with fun in this app. This app will be totally free along with cool in-app purchases. 
+ 
+Platform: Android, iOS, Windows phone  
+
+

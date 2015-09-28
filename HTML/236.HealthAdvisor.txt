@@ -1,0 +1,26 @@
+HealthAdvisor
+
+Submitted on:  September 19, 2015 - 1:23am 
+ 
+Idea:
+ Health Advisor is an app which advise users what not to eat and which yogas they should do when they are ill. 
+ 
+Problem Solved:
+This app gives user the advises for his/her health issues and yogas that are useful for the users.It also promotes users to take natural treatment instead of deadliest medicines and pills.
+ 
+Functions:
+ This app lets users to figure out what kind of foods he/she shouldn't eat, what yogas are benificial for the treament of primary illness and keeps care of Health of the users. It focuses on
+ natural and herbal methods thereby decreasing the use of affecting Pills and deadliest medicines.
+ 
+ 
+Targeted audience:
+ The targeted Audience are all of us including childrens, adults and old peoples.
+ 
+ 
+Main Benefits:
+This app advises users what not to eat when they are ill. It also advise user what yogas are right for the illness thereby decreasing the illness. It promotes the user to maintain his/her health.
+ It gives primary health care to the user thereby decreasing the risk of illness. It promotes users to take natural treatment instead of deadliest medicines and pills.
+ 
+Platform: Android  
+
+

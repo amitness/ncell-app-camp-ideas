@@ -1,0 +1,27 @@
+BaalDevelopers
+
+Submitted on:  August 29, 2015 - 4:53pm 
+ 
+Idea:
+ The app helps you to navigate through chowks and gallis of Kathmandu, with the help of photos.
+ 
+Problem Solved:
+Places like Ason and Thamel are full of tourists, and these places are hard to navigate even for the local people. So, with the help of the app, user will be able to navigate easily through the chowks and gallis in these places.
+It also shows Hotels, antique shops, resturants, and major tourist destinations.
+People are also able to add their shops and landmarks(which will be verified by admin) to help the user navigate easily.
+ 
+Functions:
+ Maps with pictures when clicked on the chowks.
+Offline mode.
+Hotels, shops, information centres.
+Major Tourists Destination with Info.
+ 
+Targeted audience:
+ Every people who uses smartphone, and mainly tourists who visit Nepal without guides.
+ 
+Main Benefits:
+Users don't get lost easily.They don't have to worry about the information of shops, hotels, etc, as they will be verified by the admins before getting into the app. This app can be online as well as offline. Users can download maps, if they want to access offline. Tourists destinations can be viewed easily.
+ 
+Platform: Android  
+
+

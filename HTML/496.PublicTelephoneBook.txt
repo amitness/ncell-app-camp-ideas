@@ -1,0 +1,26 @@
+PublicTelephoneBook
+
+Submitted on:  September 20, 2015 - 11:58am 
+ 
+Idea:
+ This is the simplest way to get updated with usefull open contact that can be usefull anytime.
+ 
+Problem Solved:
+Whenever we go in new place or get new situration, we got got problem of having emergeny and usefull numbers. This application is to register apps and find the interested and usefull contact from open contact around and load into our mobile for future use.
+ 
+ 
+Functions:
+ Suggest public telephone to other.
+Load contact detial of interest to mobile phone.
+Rate public contact to filter spam in the contact daily.
+Use open philoshophy to collect / distribute the contact information.
+ 
+Targeted audience:
+ This application can be very usefull to everyone. Everyone needs contact on their phone udpdated and managed. Having pubilc telephone dairy with in mobile makes very usesull to work in daily life.
+ 
+Main Benefits:
+User need not go anywhere to search for contact, user does not need anytime internet for the contact number of emergeny or usefull. Use one time go to the internet load interested contact to mobile phone and update their contact list from the application. They can use these contact number without application and internet. This will make easy in the emergeny and diffecult situration and easy to be udated with userfull open data. Also it can save time to making contact list.
+ 
+Platform: Android  
+
+

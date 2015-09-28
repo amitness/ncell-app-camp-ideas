@@ -1,0 +1,27 @@
+StockArcade
+
+Submitted on:  September 19, 2015 - 7:15pm 
+ 
+Idea:
+ A stock market arcade game for simple fun.
+ 
+Problem Solved:
+- Provides entertainment
+- Social gaming
+ 
+Functions:
+ - Has virtual companies
+- User can buy and sell shares
+- Share prices will change according to situations pre-notified to the user
+ 
+Targeted audience:
+ - Any user with an android phone who wants to play.
+ 
+Main Benefits:
+- Fun to play
+- Pass time
+- Basic Understanding of how the stock market works
+ 
+Platform: Android  
+
+

@@ -1,0 +1,24 @@
+nDevelopersBest
+
+Submitted on:  September 18, 2015 - 2:12pm 
+ 
+Idea:
+ A simple app just to give about the places and resturants of any city.
+ 
+Problem Solved:
+An interactive way to provide the ratings of the places to visit and wander about in any city to the travellers. we only focus on giving ratings, and as a little twitter like miniblog detailing.
+ 
+Functions:
+ a complete database of the cool places in the city,a good rating system, computing the input ratings given by the users.
+and feedback systems, for efficient customer support.
+a link to the detail page of the cafe or resturant or any place. because we focus on keeping as much less detail as possible.
+ 
+Targeted audience:
+ The ones, who travel too often, can check our app to find the best and highly rated destination in the city.also the ones living within the city, can check the best places for concerts, foods, and hangouts and whatever other they desire to do.
+ 
+Main Benefits:
+the users of this application can check out the best places for any desired endeavour in the city without hassling through all the detail. our app specifically focus on the ratings provided by the user.four stars, for best, good, average, poor.in that way, the user can view the list more efficiently without any thing of distract them.
+ 
+Platform: Android, iOS  
+
+

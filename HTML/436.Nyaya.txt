@@ -1,0 +1,44 @@
+Nyaya
+
+Submitted on:  September 20, 2015 - 8:03am 
+ 
+Idea:
+ an app to help people solve legal issues by providing information about general Nepali court procedures, country codes and Q&A's about them
+ 
+Problem Solved:
+Corruption will be discouraged
+People will be aware of court procedures
+Ignorance of general public on the basic laws will be reduced
+ 
+Functions:
+ 
+
+The app contains informations on existing court procedures and paperworks. 
+
+
+The app will contain recent service fee structures of the authorities and payments for paperworks.
+
+
+Under the laws section, there will be categories like business, property, assaults, accidents, civil rights etc.
+
+
+Each category will contain the laws (codes) associated with it  in both Nepali and English script.
+
+
+There will be question and answers section  for all the codes to help users resolve their confusions.
+
+
+ 
+Targeted audience:
+ adults (currently with legal issues )
+ 
+Main Benefits:
+Users can solve their cases(less sensitive ones) without hiring a lawyer
+Users can learn about the country laws in Nepali script and resolve their confusions through Q&A’s
+Users can be prevented from being cheated 
+Users can save their time in court procedures and money in court officers
+Users will be prevented from being harassed by authorities
+ 
+Platform: Android  
+
+

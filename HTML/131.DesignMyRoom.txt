@@ -1,0 +1,29 @@
+DesignMyRoom
+
+Submitted on:  September 20, 2015 - 12:01pm 
+ 
+Idea:
+ Design my Room is a mobile app that will allow you to design your room virtually with 3D views of furnitures and also trading them.
+ 
+Problem Solved:
+Builds e-commerce app using android technology
+Use augmented reality to let user place the items wherever they like and decide to buy or not
+Allow business house to improve their customer experience.
+ 
+Functions:
+ Model the items to be sold in 3D.
+Create a server for data storage and push notification
+Usage of augmented reality code
+Usage of payment gateway for handling payment feature
+ 
+Targeted audience:
+ Everyone looking for buying furnitures with a realistic 3d view.
+ 
+Main Benefits:
+See a 3d view on how the furniture looks like in your room before buying it.
+Mobile shopping.
+ 
+ 
+Platform: Android, Windows phone  
+
+

@@ -1,0 +1,22 @@
+PeoplesVoice
+
+Submitted on:  September 20, 2015 - 11:09am 
+ 
+Idea:
+ Providing peoples views/opinions/feedback about the current scenario of the country and also  peoples problem.
+ 
+Problem Solved:
+The government can use peoples idea in different sectors if they are useful and also  consider peoples problem and try to solve it. For eg: the constitution of our country is in its peak and we can give our opinion regarding it.
+ 
+Functions:
+ The app will show the different sectors in which users want to provide their opinion/feedback .They can also include their society's problem. They can also look after others problem and feedback.
+ 
+Targeted audience:
+ teenager/man/woman
+ 
+Main Benefits:
+They can give feedback, share their opinions and also solve their own/society's problem.  It helps to know peoples ideas regarding different sectors like education,politics, social problems etc.
+ 
+Platform: Android  
+
+

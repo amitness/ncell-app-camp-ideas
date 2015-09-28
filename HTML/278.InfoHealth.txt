@@ -1,0 +1,115 @@
+InfoHealth
+
+Submitted on:  September 20, 2015 - 10:19am 
+ 
+Idea:
+ Our Health Our Wealth
+ 
+Problem Solved:
+
+
+
+
+Problems
+
+
+Solutions
+
+
+
+
+  Unknown about right health sectors       (especially medicals)
+
+
+  List of certified health sectors under       Nepal Government
+
+
+
+
+  Unknown about which services are      being provided by which health sectors
+
+
+ Information of services provided by  those health sectors (hospitals, health  post etc.)
+
+
+
+
+ Geographic location
+
+
+  Google maps (online features)
+  Hospital Profile (offline features)
+
+
+
+
+ Unfamiliar with medicine
+
+
+  Medicine dictionary
+
+
+
+
+ Forced to buy the medicine as per the  price said by the seller
+
+
+ Medicine prices list provided by the  Nepal Government
+
+
+
+
+ Untimed medicine
+
+
+ Medicine alert schedule
+
+
+
+
+ Don’t get proper place to share  problems, solutions and knowledge  related to health
+
+
+ Interaction through text, voice among  the people (may be health specialist,  doctor, nurse, patients or other health  related persons)
+
+
+
+
+ 
+ 
+Functions:
+ Medicine Dictionary provides the information about the different medicines with thier purpose for use.
+Medicine Alert remind the patients to take the medicine at time.
+Health Sector Profile infromed the people about their profile including the location features.
+Interaction tools for interaction.
+ 
+Targeted audience:
+ There is know specific people because every one may have the health releated problems one day. So, this app is benefitial for all the users.
+The users may be:
+·         Normal Person
+·         Patients
+·         Doctors
+·         Health Specialists
+·         Nurses
+·         NGOs/INGOs/Health Organization
+·         Other Health Related Person  etc.
+The above listed person/organization can participate in interaction        progam so that the victim  can share their health problems and the health specialists solve their problems
+Normal Person use this apps to become conscious about the health and to be familiar with the health services provided by different health organization and governmen
+Health Organization  use this app for informing the people about their present and future programes that are going to be launhed.
+Patients use this app to remind themselves to take the medicine at time.
+Everone use this app to be informed about the prices of medicine and certified health sectors especially medicals.
+Health Specialist can notify the country about their reseach and success in the field of medical sciene.
+ 
+ 
+ 
+Main Benefits:
+1. Users remember to take their medicine at time as well remind the               actual victim.
+2. Users can know which medicine is used for which purpose so that               they can reduce the risk while taking medicine.
+3. Users can get the information of hospital profile and location so that           they can be there at time in emergency.
+4. Users can’t be cheated by the medicine seller because they know               the prices of the medicine.
+5.Interaction through text, voice among the users (may be health                   specialist, doctor, nurse, patients or other health related persons)               so the users can easily share their problems and get the solutions             also.
+ 
+ 
+Platform: Android  
+
+

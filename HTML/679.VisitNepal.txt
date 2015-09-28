@@ -1,0 +1,36 @@
+VisitNepal
+
+Submitted on:  August 14, 2015 - 3:35pm 
+ 
+Idea:
+ Digital Platform to easily Connect Tourist & Agencies, local people. Motivate Tourist to visit and get affordable tour package at best price
+ 
+Problem Solved:
+
+Bridge the distance between traveler and host
+Make business opportunities for small travel agencies, local direct host
+Travel easily, get the cost of the tours by various agencies and people, and he can compare with him he can go by looking there past feedback. So it helps traveler for affordable tours.
+Increase the business of local and small village by getting connected directly with tourist
+By providing reverse bidding auction mechanism on the itinerary posted by Tourist, it make one digital platform for directly communication between tourist and host and provide best  affordable cost 
+
+ 
+Functions:
+ 
+Auction and bidding on various itinerary posted by visitors.
+Local travel agents and company make bid to those itinerary and offer there price
+Local travel agent should provide complete itinerary and should be star rated and with all positive feedback so tourist can believe on them
+
+ 
+Targeted audience:
+ The target Audience are those who are involved in Tourism, It includes all sectors of Tourism  Including, Travel Agent, Trekking Guide, Ticket office, Local People, and the Tourist itself. Because if a Tourist want to live in a hotel and he asked it price then various hotel can make bid on what price they can offer the hotel to tourist. Similarly it applied to other parties that I mention above. The Target Audiences are The New Tourist , Travel Agencies,  Trekking agencies, Hotel, restaurant, local villager and many mores.
+ 
+Main Benefits:
+
+Tourist Post the itinerary or Place where they want to visit and ask for the cost how much he have to spend for his visit. The agencies in Nepal will make bid and quotation on XX price they can do this services. So here not only big Travel Agencies offer the price, but other small travel agencies can offer other affordable price. So here will be more business opportunities and more chances of Tourist visit to Nepal because of affordable price in open competition by reverse bidding.
+There will be another features on the app it say who will visit Nepal. Where people can see Mr. Jon is going to visit Nepal on XX XX XX date.  Mr. Ram got ot know that Mr. Jon is going to visit Nepal and he can aks Mr. Jon if his luggage is not enough and he can take some  stuff of Mr. Ram to his place in Nepal.  Here second problem it solved is Mr. Ram can send the small stuff to his Family from USA to Nepal with help of Jon who don’t have big luggage on place so he help Mr. Ram. So in return Mr. Ram’s family can give dinner or Tea party to Mr. Jon if he visited Mr. Ram’s Home at Nepal.
+Easy for local people to get business over online even from village.
+
+ 
+Platform: Android  
+
+

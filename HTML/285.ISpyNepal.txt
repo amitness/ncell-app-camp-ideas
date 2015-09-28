@@ -1,0 +1,22 @@
+ISpyNepal
+
+Submitted on:  September 20, 2015 - 11:58am 
+ 
+Idea:
+ This application is a game where users are asked to take a picture of a certain object of a certain place in Nepal as a task to earn points.
+ 
+Problem Solved:
+This application mobilizes users to explore various places of Nepal and learn about the history and culture of the places and have an exploration experience as well as gaming experience along the way. This application will aware users about the history of various places of Nepal as well as help Tourist learn about various places of Nepal.
+ 
+Functions:
+ Show places for users to explore. Give them tasks like taking pictures. On completing their tasks give the users point and give them information about the places they are visiting.
+ 
+Targeted audience:
+ Explorers and Tourists 
+ 
+Main Benefits:
+The main benefit is that this app will want users to explore more of Nepal, learn about places and have fun as well.
+ 
+Platform: Android  
+
+

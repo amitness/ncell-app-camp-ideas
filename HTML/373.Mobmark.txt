@@ -1,0 +1,40 @@
+Mobmark
+
+Submitted on:  September 12, 2015 - 3:39am 
+ 
+Idea:
+ Mobmark is for those addicts addicted to movies or books (or both) who are in continual search of recommendation as per their interest and flavour. 
+ 
+Problem Solved:
+In this era of continuous rush and chaos, we've to walk miles to have leisure for ourselves. During the free time, the first thing that invades the mind of a person is to have some entertainment and rest hand in hand.
+Now, the person on his/her leisure may not want to do or may not have sufficient time for doing the task of exploring by him/herself. so, our app Mobmark  is there to do that task of searching and refining. 
+May the person be a movie addict, a bibliophile or just someone seeking the duo of rest and entertainment, our app will serve the best purpose by 
+- recommending movies/books as per users mood and history 
+- searching movies/books using keywords, phrases, songs etc.
+- viewing the activities of friends i.e, what they've watched/read 
+ 
+Functions:
+ Our app will be generally divided into 2 categories,
+1. Information fetch 
+2. Recommendation 
+Information fetch 
+The user will be asked to fill a form which will consist of list of some movies/books. The user has to tick the movies/books he/she has already watched/read and will be asked to rate the movies/books. 
+The user will also be provided with a questionnaire that will help the app to  read  the interest and current mood of the user. 
+Recommendation 
+The app will now recommend on the basis of its analysis and again ask the user the rate the movie/book after he/She has finished watching/reading. 
+Recommendation by friends within the circle
+User will be able to add and view friends interests/activities in his circle and can recommend or get recommended from friends. 
+ 
+Targeted audience:
+ May the person be a workaholic with some minimal time for leisure, or a student seeking for entertainemt, or a housewife looking to pass her time effectively, who wouldn't want to have a cup of coffee along with a temtating book or an inspring movie? Thus, our app is for all those movies and book lovers out there. From children to teenagers to adults, we'll have categorized references for every group and every genre the one is seeking for, making our app the most customized recommending app till date. 
+ 
+Main Benefits:
+Even though people don't seek for benefits while looking for entertainment, our app will still be benefical to the user in many aspects. The main benefits are listed below: 
+1. The user will get recommended with, after the analysis of his/her available time, best interests, favorite actors( in case of movies), favorite writer(in case of books) , etc. and his/her past history. 
+2. The most benefical component of our app will be that the user will be able to add friends in his/her circle and view their interest/activity and will be able to recommend or get recommended to and from the friends. 
+3. On the top of this, the user will also be able to search manually using  the keywords , phrases or charatcters. 
+4.  OR if the user prefers , he/she can use the combination of 1,2 and 3 to  make the most out our app. 
+ 
+Platform: Android, iOS, Windows phone  
+
+

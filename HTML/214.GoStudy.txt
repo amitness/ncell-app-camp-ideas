@@ -1,0 +1,40 @@
+GoStudy
+
+Submitted on:  September 20, 2015 - 11:54am 
+ 
+Idea:
+ Guides students,learners to their interested course,subject; helps them finding respective college/teaching/training institution with all comparison.
+ 
+Problem Solved:
+Finding School/college/training/teaching institute of our is not an easy task. It is even difficult to go all institution and get details about it. This App helps;
+1) Giving information of college in your hand so that you need not to spend your valuable time and effort in going all institution.
+2) Knowing the details of every colleges/training academy at distant place from the location of the institute.
+3) Information of Contact,location, process of enrollment and all other needy things are provided so that user can be sure where it is and how to get enrolled.
+4) Suggests the person which subject to study and where to study as comparison about cost,location and others are provided.
+5) Finding Entrance Preparation institutes for medical,para-medical,engineering,management,law,arts etc
+6)Finding teaching institutes IELTS,TOEFL,GRE,GMAT,MCAT etc
+ 
+Functions:
+ 1) Provide a friendly platform for students, learners seeking teaching institutions.
+2) Helps promoting teaching academy as it reach out to many service seekers.
+3) Provide correct information and details about the respective college, training centres, institutes.
+4) Helps in calculating and evaluating those teaching academy in all perspectives like tuition fees,admission fees and other changes. 
+ 
+Targeted audience:
+ 1) A passed +2 or A-level students seeking for undergraduate study in different colleges.
+2) SLC passed students searching for +2 or A-level colleges in different parts of country.
+3) Someone who wants to go abroad and wants to learn foreign language in desired place.
+4) Parents who wants their daughter to enroll in Nursing college and son in engineering college or scenario like this.
+5) A learner who wants to learn new skill of computer,hotel/restaurants,different other skills in choosen place.
+6) Common man searching for driving school for getting driving licence.
+7) Any enthusiast who wants to learn different course of vocational and non-vocational education.
+ 
+Main Benefits:
+1) Saves time and effort while searching for different colleges/teaching/training institution.
+2) Provide plenty of options for students(users) to select from numerous teaching institutes.
+3) Great opportunity for teaching institution founders and investors to promote with little virtual cost.
+4) Colleges are rated by users so that students are attracted to the respective college/institution.
+ 
+Platform: Android, Others(Web Application)  
+
+

@@ -1,0 +1,38 @@
+Techno-Cloude-kalakausal
+
+Submitted on:  September 19, 2015 - 12:15am 
+ 
+Idea:
+ The App; all about the creativity that globalize democratic designs(interior, fashion, jewellery) of the passionate designers.
+ 
+Problem Solved:
+1.Precious time : User simply post their creation & keep in touch for furthermore action. Thus, save time.
+2.Unemployment : After post; interested users may contact to the user(designer). For eg Mr. A got hired by XYZ Int'l Co. because of classic design posted by Mr.A.(external trade).
+3.Establishing of Smart World : User allow to emphasize their design & let the world know in a smart way. 'Think Global Act Local'.
+4.Clear Information : Information/education related to designing can be enlighten from basic-level so, no confusion.
+5.Unity in diversity : Big No to discrimination(either gender, education, place & so on). Respect desire to design.
+ 
+Functions:
+ Following are the working functions :
+1.User post their creation.(image/sketches/animation/according to preference).
+2.User access the app in offline/online mode.
+3.User's security regarding their design through the product code.
+4.Bookmark/rating to the design with feedback.
+5.Further functions can be enhance.
+ 
+Targeted audience:
+ 1.Designer(Platform to establish or un-establish designer to open up their creation & seize the opportunity).
+2.Youth.
+ 
+Main Benefits:
+Following are the fruitful benefits :
+1.Global knowledge of design : User get global knowledge on the category basis i.e : 
+a.)Cultural design.
+b.)Old design.
+c.)New design.
+2.Today's World : User get latest update regarding design(national & international).
+3.Self-earning : User may earn from their design(post in the app) which is bought by another user(general people/Celebrity).
+ 
+Platform: Android  
+
+

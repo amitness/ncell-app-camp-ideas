@@ -1,0 +1,24 @@
+Tenhaff
+
+Submitted on:  August 28, 2015 - 12:14am 
+ 
+Idea:
+ Contest is a mobile survey and data collection platform that lets user create their own survey and gather response using Android mobile devices.
+ 
+Problem Solved:
+Over the years, dealing with a variety of clients, we have found there are two major internal barriers that companies put in the way of gaining maximum value from customer feedback. The first is the lack of a link between the customer data and the overall business strategy. Without this link, management teams review business scorecards examining such items as profitability and market share, yet struggle to identify the direct impact of their customer feedback data on these KPIs. This frequently results in a shortage of resources to put in place against any corrective actions that have been developed. Also, any person can organize a contest and get views and judge skill in particular topic.
+ 
+Functions:
+ 
+p { margin-bottom: 0.1in; line-height: 120%; }
+The contest is a system which is specially intended for organizers of contest and participants for effective organization of contest for automated communication between organizers and participants of the contest.
+ 
+Targeted audience:
+ Target audience may be anyone who wants to organize a contest or participate in a contest to collect data and make strategy according to the result.
+ 
+Main Benefits:
+structured approach would need to have the following components in order for it to succeed. Clear purpose. What is the reason for the need for improvement? Set of clear objectives for the group established to tackle the identified problem, including a timetable. Standard, understandable set of tools for data analysis. Knowledge and skills to identify possible root causes, and develop appropriate countermeasures. Skills to rollout the agreed countermeasures. Tools to track and evaluate the impact of the countermeasures. Skills and authority to change / fully implement the countermeasures. But, above all, a communications framework to work within to ensure that all parties know of progress, issues, and successes.
+ 
+Platform: Android, iOS  
+
+

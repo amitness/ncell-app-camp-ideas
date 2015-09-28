@@ -1,0 +1,31 @@
+Welcome-Nepal
+
+Submitted on:  September 12, 2015 - 11:07am 
+ 
+Idea:
+ App provides all speciality of Nepal(places,festivals,food etc) and helps for planing according to user's choice informing every facilities.
+ 
+Problem Solved:
+Well, usually tourists face difficulty in getting every information and making correct judgement for their memorable visit. So, this app acts like e-book of nepal informing about every places, their speciality,reason of famous,festivals(jatras),music,food and so on. With these information  users can choose their places and set time. And according to their choice,this app provides available route, transportation facilities,hotels and other necessity information of planned places . Thus this app will help tourist from misguidance and helps tourist for making easy,comfortable and best plan for thei visit.It saves time,effort and money. This promotes Nepal's speciality too.
+ 
+ 
+Functions:
+ -Initially this app shows all Nepal's geographical places.
+-Highlighting tourists,historical,religious,beautiful places.
+-Clicking one places,it shows speciality of those places(beautiful scenario , festivals,foods and so on) with collection of photos.
+-In this way every places of Nepal can be viewed by tourists and thus helps tourists for making plan of their visit according to their choice.
+-Once places and time is set, this app guides tourist automatically by setting routes,available transportation information,hotels,guides and so on
+-User friendly app..
+ 
+Targeted audience:
+ -Tourists(international and domestic)
+-Government of Nepal to foster tourism.
+ 
+Main Benefits:
+-Tourists can get all information about every places of Nepal.This app provides specialty of places, local festivals and jatras, food,music and so on.
+-This app helps to make auto plan according to user's choosen places.Saves time,effort and money.
+-Promotes Nepalese culture,tradition.festival and speciality of Nepalese places and helps Nepal's government to foster tourism sector. 
+ 
+Platform: Android  
+
+

@@ -1,0 +1,26 @@
+IN-OUT
+
+Submitted on:  September 16, 2015 - 11:48am 
+ 
+Idea:
+ In-out is a multiplayer game, where a IN,OUT call requires you to stay inside, outside the cirlce respectively.
+ 
+Problem Solved:
+Provides a way to kill time with friends.
+ 
+ 
+Functions:
+ Atmost 4 palyers will be able to play this game. Each of them start outside a circle. Simple touch to their repective areas will toggle their position from outside to inside or vice versa. The screen will show a IN or OUT with totally random sequence. When an IN is called, the players need to stay inside the cirlce. And when an OUT is called, the players need to stay outside. When advancing in the game, the speed of calls will increase, creating confusion among the players. 
+Since this is a multiplayer game, it will be a lot of fun to play with friends.
+ 
+Targeted audience:
+ This game can be played by virtually any age-group. So this game is for everyone.
+ 
+Main Benefits:
+1.) Easy 
+2.) Addictive
+3.) Fun
+ 
+Platform: Android  
+
+

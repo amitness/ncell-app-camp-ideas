@@ -1,0 +1,24 @@
+Mitho
+
+Submitted on:  September 16, 2015 - 2:57pm 
+ 
+Idea:
+ The app lets the user rate the restaurant by service, food and also shows the near best restaurants as rated using GPS.
+ 
+Problem Solved:
+The users no longer have to regret visiting unsatisfactory restaurants as they know the better places around them through this app. Also they donot have to waste time searching restaurants as the app shows the restaurants around them using GPS prioritized by rating.
+ 
+Functions:
+ 1. The app list down the nearby restuarants
+2. It allows the user to rate the restaurants. 
+3. It prioritizes the restaurants according to ratings.
+ 
+Targeted audience:
+ The target audience of this app are the people who are fond of eating as well as general people who have no time for searching and visiting different restaurants.
+ 
+Main Benefits:
+The main benefits for the user are they can rate the restaurant as they are served and they can know the better restaurants before visiting through this app. The users will know the restaurants around them and their ratings.
+ 
+Platform: Android  
+
+

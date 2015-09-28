@@ -1,0 +1,24 @@
+B-Book
+
+Submitted on:  September 19, 2015 - 9:44pm 
+ 
+Idea:
+ This application helps the tourist to book the air-lines tickets ,bus/transportation tickets and hotels booking in a package.
+ 
+Problem Solved:
+International/ national tourists can book their tickets online from any places to travel so that we can push the travelling different places of country increasing the national economy.The app will help for immediate booking incase needed
+ 
+Functions:
+ The application has the functionality of booking the tickets.As the application manages the whole package of airlines tickets booking , and airport to hotel vehicles booking/ for travelling bus bookings and also the hotels to stay are booked. hence helps to manage all these together easier and smarter way
+ 
+Targeted audience:
+ The specific auience are : the national/ internationa tourists of age group (20- 60) age mostly who loves travelling for adventures, for works etc
+ 
+Main Benefits:
+Easy to access from any parts.
+UI/UX are more interactive and friendly.
+Saves time and efforts for ticketting.
+ 
+Platform: Android  
+
+

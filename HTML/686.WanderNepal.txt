@@ -1,0 +1,26 @@
+WanderNepal
+
+Submitted on:  August 20, 2015 - 10:08pm 
+ 
+Idea:
+ Offline based map and shows all pictured and written info upon click on tagged point of tourism place all over Nepal and include food, lodge so on.
+ 
+Problem Solved:
+It will help in navigation problem because while using maps it will provide you accurate navigation, directions to traveller. Where he/she want to go they can easily tap the location and navigate towards it with full directions.
+ 
+Functions:
+ This app can pinpoint the tourism places all over Nepal through offline map and can also give directions to the traveller for sight seeing, lodging, fooding with their details.
+ 
+Targeted audience:
+ This app doesnot require internet connection so it will be easy to all the people who have smartphones in their hands and it can be easily used by domestic tourists and international tourists.
+ 
+Main Benefits:
+1.Easy to navigate the traveller in desired location 
+2.Easy to get directions of those location
+3.Easy to find the tourism place let's say at one click 
+4.Easy to surf through provided information with detail
+5.Easy to locate nearby and all of the restaurants, lodges, parks available on that toursim place.
+ 
+Platform: Android  
+
+

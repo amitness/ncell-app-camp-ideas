@@ -1,0 +1,39 @@
+NepaliCodersDoctorAppointment
+
+Submitted on:  September 19, 2015 - 3:29pm 
+ 
+Idea:
+ A simple app where users (patients) can fix their appointment with any doctor of any hospital.
+ 
+Problem Solved:
+1. Many patients visit hospital for checkups without knowing time table of doctors. When they visit hospital they come to know that doctor will be available after some days only. Using this app patients can find a doctor according to their choice and requirements and know their time table in different hospitals.
+2. Fixing appointment with doctors is also one of tedious task for the patients. To fix their appointment patient has to either visit the hospital or make a call but using this app users (patients) can know available time of doctors and request for an appointment with doctors.
+ 
+Functions:
+ There will two apps, one for doctors and one for patients:
+=> Patients' App:
+1. Get list of doctors by choosing their problem
+2. Know the time table of specific doctor of their choice
+3. Request for appointment with selected doctor
+4. Can send query to a doctor
+5. Get notified on approval, disapproval or postpone of their requested appointment
+ 
+=> Doctors' App:
+1. Can go through all the requested appointments and approve, reject or postpone the appointment.
+2. Update their time table or any emergency leaves
+3. Get notified on any queries or request for an appointment
+4. Can reply to the queries from the patients
+ 
+Targeted audience:
+ 1. Patients
+2. Doctors
+3. Hospitals
+ 
+Main Benefits:
+1. Users can know time table of doctors from different hospitals.
+2. Users can request for appointment with doctor of their choice at available time.
+3. Doctors can update their time of availability as well as accpet, reject or postpone request for appointments from the patients.
+ 
+Platform: Android  
+
+

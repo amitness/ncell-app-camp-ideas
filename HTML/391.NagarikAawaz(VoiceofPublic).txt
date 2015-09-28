@@ -1,0 +1,24 @@
+NagarikAawaz(VoiceofPublic)
+
+Submitted on:  September 20, 2015 - 10:48am 
+ 
+Idea:
+ Politicians don't do what they promised,this app would provide interface between public and them for tracking the promises of winning politicians.
+ 
+Problem Solved:
+Development issue is a major issue made by politicians by not performing what they had promised to do. Nagarik Aawaz is designed to increase digital participation of public in development of nation by tracking the progress made by politicians. With the use of this application efficacy community members could pressure on local government to solve community level problems in a given set of time frames.
+ 
+Functions:
+  
+
+This application would provide the interactive interface between efficacy community users and the government responsible for the development. Using the interface, one could suggest the running developmental projects and could criticize about the project.   
+ 
+Targeted audience:
+  This application is targeted for efficacy community members of the nation.
+ 
+Main Benefits:
+Using this mobile based application, all the civilians can view daily progress of each region. Public would be aware of ongoing and upcoming developmental projects. Public would be able to pressure on responsible governments for the development also they could list out the problems faced in their locality.
+ 
+Platform: Android, iOS  
+
+

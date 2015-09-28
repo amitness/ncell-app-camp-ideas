@@ -1,0 +1,39 @@
+foodie
+
+Submitted on:  August 20, 2015 - 8:48pm 
+ 
+Idea:
+ foodie-
+an app for all food lovers..feel free to share your recipe and express ur foodie behaviour to entire world cause its all about food
+ 
+Problem Solved:
+1. problem of foodie in chosing a restaurant and regreting it later.
+2. problem or hesitation to upload foodie pics frequently in other social media
+3. problem of not knowing the actual grocery price
+4. problem of not knowing food specialities of places that one visits.
+ 
+Functions:
+ login and follow system
+two sections:
+1.global
+- post food pics you are having or share your recipe to entire world.
+-rate restaurants and recommend best taste foodie places.
+2. local
+-must taste it: list down food specialities of various places of Nepal
+-know the price: list down grocery price set by nepal food corporation
+ 
+ 
+Targeted audience:
+ all food lovers. esp. youth,housewives and travellers
+ 
+Main Benefits:
+1. now you can rate restaurants and choose the restaurant  according to ratings .so you face no regrets 
+2.you can now share your or your mom's recipe to entire world.
+3.you can recommend food specialities of places you visit.so that other foodie wud taste it next time they visit there.may it be a street food to high-fi.
+4.you can now know the actual grocery price given by nepal food corporation.
+5.you can now know the food specialities of the places you visit. eg. chitwan-taas, palpa-chukauni,bhaktapur-jujudhau,etc if you are a foodie and a traveller ,u won't miss the list.
+6. you can now post day to day food pics you are having without any hesitation cause its an app for food lovers.
+ 
+Platform: Android, Windows phone  
+
+

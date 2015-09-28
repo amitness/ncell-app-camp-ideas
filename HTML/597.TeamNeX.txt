@@ -1,0 +1,22 @@
+TeamNeX
+
+Submitted on:  September 12, 2015 - 11:29am 
+ 
+Idea:
+ To Create a DAW
+ 
+Problem Solved:
+It allows people to create music.
+ 
+Functions:
+ It let you use various drum sound ,pads,saws,pluck,etc
+ 
+Targeted audience:
+ Anyone with a good taste in music.
+ 
+Main Benefits:
+User can create his own loops,melodies for his song even a instrumental
+ 
+Platform: Android  
+
+

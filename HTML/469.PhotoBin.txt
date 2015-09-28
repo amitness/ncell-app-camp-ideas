@@ -1,0 +1,36 @@
+PhotoBin
+
+Submitted on:  September 17, 2015 - 11:46am 
+ 
+Idea:
+ Your photos, your memories, your creativity anywhere anytime.
+ 
+Problem Solved:
+An app for the photo utility, storing and sharing your pictures and creativity. Helps to store and share your photos, arts, graphics and animated GIFs. A back up tool for your images and creativity. A categorized app where photographer can upload their photography, an architect can upload their art, a designer can upload their design etc. A user can pin the categories they like on their dashboard and can go through the post related to the categories they have pinned and can also connect with other users.
+ 
+ 
+Functions:
+ 1. Auto backup, user can instantly upload and store the photos and GIFs
+2. Share your photo, arts and GIFS to other users
+3. If user allows the download function while uploading other users can download the particular image.
+4. User can login with there google account
+5. Different categories like photography, designs, arts, animation, etc can be selected to your dashboard and newsfeed displays the posts related to the those categories user have selected in their dashboard while registration
+6. A user can select 3 different categories while registrations
+7. Photos can be shared in social medias
+ 
+Targeted audience:
+ Targeted audience for the app are all the people who loves sharing their creativity to others.
+ 
+ 
+Main Benefits:
+The main benifits for the user are
+1. Storing and Sharing pictures, arts and animated GIFSs.
+2. Simple registration and login
+3. Access photo library anywhere, anytime.
+4. Upload photos directly from your phone
+5. Categorized selection for photos before uploading
+ 
+ 
+Platform: Android  
+
+

@@ -1,0 +1,28 @@
+SahiyogiHaat
+
+Submitted on:  September 20, 2015 - 11:56am 
+ 
+Idea:
+ an application to help people in need(Your loved ones, or those registered in our app) during time of emergency and also make yourself save.
+ 
+Problem Solved:
+1. Decrease the search area vicinity and those increase chances to save people in any calamity or problem.
+2. Easy search for blood of any group in time of emergency.
+ 
+Functions:
+ 1. Keep track of the user location so that it can be helpful to find/rescue your loved ones(Primary Contacts/ Secondary Contacts) at the time of natural calamities reducing the search vicinity.* Primary contacts: Those contacts whom automatic alert(SmS and push notifcation) would be sent giving them your location, and your safety state(Safe/Unsafe)
+*Secondary Contact: Those contacts whom only your safety state would be sent. 
+2.  Organize volunteering service in times needed and one can also join the volunteering program if the program is in certain radius of his current location.
+3. One could search for blood and send push notification to all those user of our app who are in certain vicinity when needed. 
+ 
+Targeted audience:
+ Nepal is a natural calamity porne country, so our  audience are are all those people who have a smart phone and are concerned about their own and their loved ones safety. 
+ 
+Main Benefits:
+1. Know your loved ones location and help them during the time of any natural calamities.
+2. Search for blood, if needed.
+3. an online platform to inform everyone about any volunteering program organised and join those too to help.
+ 
+Platform: Android, iOS  
+
+

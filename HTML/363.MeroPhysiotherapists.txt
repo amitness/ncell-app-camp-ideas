@@ -1,0 +1,31 @@
+MeroPhysiotherapists
+
+Submitted on:  September 11, 2015 - 3:56pm 
+ 
+Idea:
+ App that will help users seeking physiotherapy by assisting them in the exercises they need or they do.
+ 
+Problem Solved:
+Effectively completing the physio therapies at home for free
+People with injuries or other difficulties seek physio therapies which are taught by the physiotherapist and continue to do their exercises on their own when once taught by the physiotherapist. But study have shown that such exercises done on our own are not as effective as the one done with the help of physiotherapist. But hiring physiotherapist every time we do exercise is costly and even difficult to manage time. So our app will solve this problem by helping people to complete physiotherapies effectively at their home. 
+ 
+ 
+Functions:
+  
+1. It will have the required sets of physiotherapies exercises required and can be done easily looking at them.
+2. The physiotherapies will be presented in game formats making exercises enjoyable.
+3. The physiotherapies exercises will be tracked and monitored so that the user or his physiotherapist can see the progress the user has made,
+ 
+Targeted audience:
+ The targeted audience will be the people seeking physiotherapies or doing physiotherapies.
+ 
+Main Benefits:
+1. Users can do their set of physio therapies exercises effectively at their own home.
+2. Physiotherapies will be presented on game formats so users can enjoy while exercising.
+3. Users can save huge amount of money.
+4. Users with injuries and dislocation can heal faster due to effective physio therapies.
+ 
+ 
+Platform: Android  
+
+
